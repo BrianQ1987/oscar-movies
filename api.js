@@ -9,7 +9,7 @@ can = document.getElementById("can");
 sort_menu = document.getElementById("sort-menu");
 filter_menu = document.getElementById("filter-menu");
 
-services = ["Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV Plus", "Channel 4"];
+services = ["Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV Plus", "Channel 4", "Paramount Plus"];
 free_services = ["BBC iPlayer"];
 ad_services = ["My5", "Freevee"];
 
