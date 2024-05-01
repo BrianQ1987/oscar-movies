@@ -38,7 +38,7 @@ let movies = {
     "A Muppet Family Christmas": {
         id: 13247,
         plex: true,
-        watched: [2022],
+        watched: [2022, 2023],
         added: 2022
     },
     "A Muppets Christmas: Letters To Santa": {
@@ -152,13 +152,13 @@ let movies = {
     "Deck the Halls": {
         id: 9969,
         plex: false,
-        watched: [2021],
+        watched: [2021, 2023],
         added: 2021
     },
     "Die Hard": {
         id: 562,
         plex: false,
-        watched: [2020, 2021],
+        watched: [2020, 2021, 2023],
         added: 2020
     },
     "The Grinch (2018)": {
@@ -236,7 +236,7 @@ let movies = {
     "Home Alone 2: Lost in New York": {
         id: 772,
         plex: false,
-        watched: [2020, 2021, 2022],
+        watched: [2020, 2021, 2022, 2023],
         added: 2020
     },
     "Home for the Holidays": {
@@ -290,7 +290,7 @@ let movies = {
     "It's a Wonderful Life": {
         id: 1585,
         plex: true,
-        watched: [2020, 2021, 2022],
+        watched: [2020, 2021, 2022, 2023],
         added: 2020
     },
     "Jingle All The Way": {
@@ -356,7 +356,7 @@ let movies = {
     "Little Women (1949)": {
         id: 43436,
         plex: true,
-        watched: [2020],
+        watched: [2020, 2023],
         added: 2020
     },
     "Little Women (1994)": {
@@ -380,7 +380,7 @@ let movies = {
     "Meet Me in St Louis": {
         id: 909,
         plex: true,
-        watched: [2020, 2021, 2022],
+        watched: [2020, 2021, 2022, 2023],
         added: 2020
     },
     "Mickey's Christmas Carol": {
@@ -398,7 +398,7 @@ let movies = {
     "Miracle on 34th Street (1947)": {
         id: 11881,
         plex: true,
-        watched: [2020, 2021, 2022],
+        watched: [2020, 2021, 2022, 2023],
         added: 2020
     },
     "The Miracle on 34th Street (1955)": {
@@ -422,7 +422,7 @@ let movies = {
     "Miracle on 34th Street (1994)": {
         id: 10510,
         plex: true,
-        watched: [2020, 2021, 2022],
+        watched: [2020, 2021, 2022, 2023],
         added: 2020
     },
     "Mr Willowby's Christmas Tree": {
@@ -476,13 +476,13 @@ let movies = {
     "Rare Exports: A Christmas Tale": {
         id: 48395,
         plex: true,
-        watched: [],
+        watched: [2023],
         added: 2022
     },
     "Remember The Night": {
         id: 29617,
         plex: true,
-        watched: [2021],
+        watched: [2021, 2023],
         added: 2021
     },
     "Santa Claus The Movie ": {
@@ -530,7 +530,7 @@ let movies = {
     "Spirited": {
         id: 632856,
         plex: false,
-        watched: [2022],
+        watched: [2022, 2023],
         added: 2022
     },
     "Surviving Christmas": {
@@ -572,7 +572,7 @@ let movies = {
     "The Great Santa Claus Switch": {
         id: 210061,
         plex: true,
-        watched: [],
+        watched: [2023],
         added: 2021
     },
     "The Holiday": {
@@ -608,7 +608,7 @@ let movies = {
     "The Polar Express": {
         id: 5255,
         plex: true,
-        watched: [2020],
+        watched: [],
         added: 2020
     },
     "The Preacher's Wife": {
@@ -776,7 +776,7 @@ let movies = {
     "Bad Santa": {
         id: 10147,
         plex: true,
-        watched: [],
+        watched: [2023],
         added: 2023
     },
     "The Heist Before Christmas": {
