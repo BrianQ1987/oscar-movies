@@ -34,7 +34,6 @@ async function getMovies() {
         let movie = movies[Object.keys(movies)[i]];
     
         let id = movie.id;
-        let plex = movie.plex;
 
         let data = []
         try {
