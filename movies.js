@@ -784,5 +784,17 @@ let movies = {
         plex: false,
         watched: [],
         added: 2023
+    },
+    "Christmas in July": {
+        id: 34778,
+        plex: true,
+        watched: [],
+        added: 2024
+    },
+    "Meet Me Next Christmas": {
+        id: 1104171,
+        plex: false,
+        watched: [],
+        added: 2024
     }
 }
