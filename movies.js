@@ -781,7 +781,7 @@ let movies = {
     },
     "The Heist Before Christmas": {
         id: 656995,
-        plex: false,
+        plex: true,
         watched: [],
         added: 2023
     },
