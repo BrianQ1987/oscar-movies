@@ -796,5 +796,11 @@ let movies = {
         plex: false,
         watched: [],
         added: 2024
+    },
+    "Christmas Eve in Miller's Point": {
+        id: 1073650,
+        plex: false,
+        watched: [],
+        added: 2024
     }
 }
