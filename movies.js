@@ -807,6 +807,6 @@ let movies = {
         id: 24070,
         plex: true,
         watched: [2020, 2022],
-        watched: 2020
+        added: 2020
     }
 }
