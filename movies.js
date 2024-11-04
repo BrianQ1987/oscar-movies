@@ -802,5 +802,11 @@ let movies = {
         plex: false,
         watched: [],
         added: 2024
+    },
+    "Mixed Nuts": {
+        id: 24070,
+        plex: true,
+        watched: [2020, 2022],
+        watched: 2020
     }
 }
