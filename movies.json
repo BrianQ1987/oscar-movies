@@ -808,5 +808,11 @@
         "plex": true,
         "watched": [2020, 2022],
         "added": 2020
+    },
+    "Happy Christmas": {
+        "id": 244534,
+        "plex": false,
+        "watched": [],
+        "added": 2024
     }
 }
