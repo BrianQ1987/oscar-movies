@@ -814,5 +814,11 @@
         "plex": false,
         "watched": [],
         "added": 2024
+    },
+    "Rudolph the Red-Nosed Reindeer": {
+        "id": 13382,
+        "plex": true,
+        "watched": [],
+        "added": 2024
     }
 }
