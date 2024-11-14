@@ -27,7 +27,7 @@ jobs:
  
        - name: Commit results
          run: |
-           git config --local user.email "brianq1987@gmail.com"
+           git config --local user.email brianq1987@gmail.com
            git config --local user.name "BrianQ1987"
            git add movies_full.json
            git commit -m 'Data updated' || echo "No changes to commit"
