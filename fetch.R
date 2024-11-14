@@ -137,6 +137,10 @@ load_movies <- function() {
         }
       }
     }
+    if (movie$plex) {
+      platforms <- c(platforms, "Plex")
+      logo_paths <- c(logo_paths, "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg")
+    }
 
     movie$platforms <- platforms
     movie$logo_paths <- logo_paths

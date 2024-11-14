@@ -275,7 +275,7 @@ filter_release.onmouseover = function () {
 
                 movie = movies[Object.keys(movies)[j]];                
                 
-                if (movie.released.slice(0, 3) != i) {
+                if (movie.released[0].slice(0, 3) != i) {
                     document.getElementById(movie.id).style.display = "none";
                 } else {
                     document.getElementById(movie.id).style.display = "flex";

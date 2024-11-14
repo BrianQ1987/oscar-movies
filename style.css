@@ -65,7 +65,7 @@ h2 {
     margin-top: 10px;
 }
 
-.info-facts {
+#info-facts {
     display: flex;
     flex-direction: column;
     margin-bottom: 25px;
@@ -193,7 +193,7 @@ h2 {
     padding-bottom: 1px;
   }
 
-  .added-year {
+  #added-year {
     font-size: 16pt;
     margin-left: 5px;
   }

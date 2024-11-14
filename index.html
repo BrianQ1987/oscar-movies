@@ -53,8 +53,45 @@
             <img id = "can" src = "img/pepsi.png">
             <div><h3>Loading...</h3></div>
           </div>
-          <div id = "movie-info">
+          <div id = "movie-info" class = "info">
             <div id = "back-btn"><i class="fa-solid fa-sleigh"></i><a id = "back-link"> Back</a></div>
+            <div>
+              <h2 id = "info-title"></h2>
+              <div class = "row">
+                <div id = "info-poster" class = "col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5"></div>
+                <div id = "info-facts" class = "col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
+                  <div style="margin-bottom: 15px;">
+                    Duration: <span id = "duration" style="font-size: 16pt"></span>
+                  </div>
+                  <div>Ratings:</div>
+                  <div id = "info-ratings"></div>
+                  <div>Added: <span id = "added-year"></span></div>
+                  <div style = "margin-top: 15px;">
+                    <div>Watched:</div>
+                    <div id = "info-watched"></div>
+                  </div>
+                  <div style = "margin-top: 25px;">Watch it on:
+                    <div id = "info-platforms"></div>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <h2>Plot summary</h2>
+                <span id = "info-plot"></span>
+              </div>
+              <div>
+                <h2 id = "genre-heading">Genres</h2>
+                <span id = "info-genres"></span>
+              </div>
+              <div>
+                <h2 id = "director-heading"></h2>
+                <span id = "info-director"></span>
+              </div>
+              <div>
+                <h2>Starring</h2>
+                <div id = "info-cast"></div>
+              </div>
+            </div>
           </div>
       </div>
 

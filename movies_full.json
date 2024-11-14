@@ -15,6 +15,8 @@
     "imdb_score": ["6.7/10"],
     "rt_score": ["84%"],
     "meta_score": ["66/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Michael Dowse"],
     "cast": {
       "Neil Patrick Harris": {
@@ -390,8 +392,8 @@
     "genres": ["Family", "Drama", "Comedy"],
     "imdb_score": ["5.9/10"],
     "rt_score": ["7%"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Rob Lieberman"],
     "cast": {
       "Harley Jane Kozak": {
@@ -1142,6 +1144,8 @@
     "imdb_score": ["7.0/10"],
     "rt_score": ["78%"],
     "meta_score": ["70/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Terry Zwigoff"],
     "cast": {
       "Billy Bob Thornton": {
@@ -1366,6 +1370,8 @@
     "genres": ["Comedy", "Fantasy", "Romance"],
     "imdb_score": ["6.8/10"],
     "rt_score": ["76%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Richard Quine"],
     "cast": {
       "James Stewart": {
@@ -1511,6 +1517,8 @@
     "imdb_score": ["6.6/10"],
     "rt_score": ["71%"],
     "meta_score": ["59/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Malcolm D. Lee"],
     "cast": {
       "Terrence Howard": {
@@ -1909,6 +1917,8 @@
     "imdb_score": ["7.1/10"],
     "rt_score": ["68%"],
     "meta_score": ["65/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Bob Clark"],
     "cast": {
       "Olivia Hussey": {
@@ -2063,6 +2073,8 @@
     "genres": ["Horror", "Mystery"],
     "imdb_score": ["4.7/10"],
     "meta_score": ["22/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Glen Morgan"],
     "cast": {
       "Katie Cassidy": {
@@ -2263,6 +2275,8 @@
     "imdb_score": ["3.5/10"],
     "rt_score": ["40%"],
     "meta_score": ["49/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Sophia Takal"],
     "cast": {
       "Imogen Poots": {
@@ -2352,14 +2366,14 @@
     "released": ["2015-11-20"],
     "duration": [118],
     "imdb_id": ["tt2402927"],
-    "vote_average": [7.5],
+    "vote_average": [7.491],
     "overview": ["In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman."],
     "genres": ["Romance", "Drama"],
     "imdb_score": ["7.2/10"],
     "rt_score": ["94%"],
     "meta_score": ["94/100"],
-    "platforms": ["Netflix"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Todd Haynes"],
     "cast": {
       "Cate Blanchett": {
@@ -3045,6 +3059,8 @@
     "genres": ["Drama", "Romance", "Crime"],
     "imdb_score": ["6.5/10"],
     "rt_score": ["78%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Robert Siodmak"],
     "cast": {
       "Deanna Durbin": {
@@ -3230,6 +3246,8 @@
     "imdb_score": ["7.3/10"],
     "rt_score": ["89%"],
     "meta_score": ["64/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Peter Godfrey"],
     "cast": {
       "Barbara Stanwyck": {
@@ -3374,6 +3392,8 @@
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.4/10"],
     "rt_score": ["95%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Preston Sturges"],
     "cast": {
       "Dick Powell": {
@@ -3694,6 +3714,8 @@
     "imdb_score": ["7.9/10"],
     "rt_score": ["89%"],
     "meta_score": ["77/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Bob Clark"],
     "cast": {
       "Peter Billingsley": {
@@ -3908,12 +3930,14 @@
     "released": ["2022-12-08"],
     "duration": [102],
     "imdb_id": ["tt17220704"],
-    "vote_average": [6.522],
+    "vote_average": [6.5],
     "overview": ["Ralphie is now all grown up and must deal with Christmas and all that comes with it… as a dad."],
     "genres": ["Comedy", "Family", "Drama", "Fantasy"],
     "imdb_score": ["6.7/10"],
     "rt_score": ["79%"],
     "meta_score": ["55/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Clay Kaytis"],
     "cast": {
       "Peter Billingsley": {
@@ -4077,6 +4101,8 @@
     "overview": ["It's Christmas Eve and the playroom is alive with excitement for the new toys that will arrive the next day. Balthazar, the old and wise bear, explains to the other toys that they must welcome the newcomers even though each of them may be replaced as one of the children's new favorite toys."],
     "genres": ["Family", "Fantasy", "Music"],
     "imdb_score": ["7.7/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Eric Till"],
     "cast": {
       "Dave Goelz": {
@@ -4146,6 +4172,8 @@
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["5.3/10"],
     "meta_score": ["56/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Clare Niederpruem"],
     "cast": {
       "Brittany Snow": {
@@ -4872,6 +4900,8 @@
     "genres": ["Comedy"],
     "imdb_score": ["6.6/10"],
     "rt_score": ["100%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Bill Forsyth"],
     "cast": {
       "Bill Paterson": {
@@ -5696,6 +5726,8 @@
     "imdb_score": ["7.1/10"],
     "rt_score": ["86%"],
     "meta_score": ["64/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jon Favreau"],
     "cast": {
       "Will Ferrell": {
@@ -6040,6 +6072,8 @@
     "genres": ["Drama", "Comedy", "Family", "Music"],
     "imdb_score": ["8.2/10"],
     "rt_score": ["100%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jim Henson"],
     "cast": {
       "Jerry Nelson": {
@@ -6398,8 +6432,8 @@
     "genres": ["Comedy", "Fantasy", "Family"],
     "imdb_score": ["5.7/10"],
     "rt_score": ["43%"],
-    "platforms": ["Netflix"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["McG"],
     "cast": {
       "Jennifer Garner": {
@@ -6765,6 +6799,8 @@
     "imdb_score": ["8.1/10"],
     "rt_score": ["100%"],
     "meta_score": ["100/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Ingmar Bergman"],
     "cast": {
       "Pernilla Allwin": {
@@ -7395,6 +7431,8 @@
     "imdb_score": ["5.7/10"],
     "rt_score": ["21%"],
     "meta_score": ["42/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["David Dobkin"],
     "cast": {
       "Vince Vaughn": {
@@ -7440,7 +7478,7 @@
       "Elizabeth Banks": {
         "id": [9281],
         "character": ["Charlene"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/q0wvK0Nr6FCpvx9UCMTqTby6kNW.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"]
       },
       "Jeremy Swift": {
         "id": [3555],
@@ -8063,6 +8101,8 @@
     "overview": ["Home alone with his invalid grandfather on Christmas Eve, Thomas is forced to face a department store Santa Claus who is, in fact, a deranged escapee from a nearby asylum."],
     "genres": ["Thriller", "Horror", "Action", "Adventure"],
     "imdb_score": ["6.4/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["René Manzor"],
     "cast": {
       "Brigitte Fossey": {
@@ -8176,6 +8216,8 @@
     "overview": ["Santa Claus and his elves are ready to deliver presents to children everywhere but Cosmo Scam has hatched a plan to kidnap Santa and take his place! One by one, Cosmo abducts Santa's elves and replaces them with his evil henchmen. Can Fred the Elf save Christmas before Cosmo burglarizes the world?"],
     "genres": ["Adventure", "Comedy", "Family", "TV Movie"],
     "imdb_score": ["7.2/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["John Moffitt"],
     "cast": {
       "Art Carney": {
@@ -8265,12 +8307,14 @@
     "released": ["1984-06-08"],
     "duration": [106],
     "imdb_id": ["tt0087363"],
-    "vote_average": [7.118],
+    "vote_average": [7.1],
     "overview": ["When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, unleashing a horde of mischievous gremlins on a small town."],
     "genres": ["Fantasy", "Horror", "Comedy"],
     "imdb_score": ["7.3/10"],
     "rt_score": ["86%"],
     "meta_score": ["70/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Joe Dante"],
     "cast": {
       "Zach Galligan": {
@@ -8541,6 +8585,8 @@
     "imdb_score": ["6.4/10"],
     "rt_score": ["59%"],
     "meta_score": ["51/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -8967,6 +9013,8 @@
     "imdb_score": ["6.6/10"],
     "rt_score": ["82%"],
     "meta_score": ["69/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Clea DuVall"],
     "cast": {
       "Kristen Stewart": {
@@ -9352,6 +9400,8 @@
     "overview": ["After a bank robber dressed as Santa Claus holds up a bank, a child disillusioned with Christmas encounters a man in the woods who, also dressed as Santa, claims to have fallen out of his sleigh. The pair strike up a friendship and go on an adventure."],
     "genres": ["Family", "Adventure"],
     "imdb_score": ["5.2/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["David Kerr"],
     "cast": {
       "Timothy Spall": {
@@ -9411,6 +9461,8 @@
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.9/10"],
     "rt_score": ["97%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Alexander Payne"],
     "cast": {
       "Paul Giamatti": {
@@ -10480,6 +10532,8 @@
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": ["7.3/10"],
     "rt_score": ["100%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Mark Sandrich"],
     "cast": {
       "Bing Crosby": {
@@ -11389,6 +11443,8 @@
     "imdb_score": ["6.6/10"],
     "rt_score": ["64%"],
     "meta_score": ["56/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jodie Foster"],
     "cast": {
       "Holly Hunter": {
@@ -11774,6 +11830,8 @@
     "overview": ["Bitter and hateful, the Grinch is irritated at the thought of a nearby village having a happy time celebrating Christmas. Disguised as Santa Claus, with his dog made to look like a reindeer, he decides to raid the village to steal all the Christmas things."],
     "genres": ["Animation", "Family", "Comedy"],
     "imdb_score": ["8.3/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Chuck Jones"],
     "cast": {
       "Boris Karloff": {
@@ -11804,8 +11862,8 @@
     "imdb_score": ["6.3/10"],
     "rt_score": ["49%"],
     "meta_score": ["46/100"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Ron Howard"],
     "cast": {
       "Jim Carrey": {
@@ -12135,6 +12193,8 @@
     "genres": ["Comedy", "Music", "Romance"],
     "imdb_score": ["7.1/10"],
     "rt_score": ["62%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Robert Z. Leonard"],
     "cast": {
       "Judy Garland": {
@@ -12364,290 +12424,6 @@
       }
     }
   },
-  "It Happened on 5th Avenue": {
-    "id": [52844],
-    "plex": [true],
-    "watched": [2022],
-    "added": [2022],
-    "poster_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"],
-    "title": ["It Happened on Fifth Avenue"],
-    "released": ["1947-04-17"],
-    "duration": [116],
-    "imdb_id": ["tt0039502"],
-    "vote_average": [7.1],
-    "overview": ["A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners."],
-    "genres": ["Comedy", "Romance", "Music"],
-    "imdb_score": ["7.6/10"],
-    "meta_score": ["66/100"],
-    "director": ["Roy Del Ruth"],
-    "cast": {
-      "Don DeFore": {
-        "id": [96850],
-        "character": ["Jim Bullock"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/cJQYFdi3ZZoT1HLxNTFvh7oRGBy.jpg"]
-      },
-      "Ann Harding": {
-        "id": [103441],
-        "character": ["Mary O'Connor"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/dofROitTbPxHnvyswXt6nl1gChV.jpg"]
-      },
-      "Charles Ruggles": {
-        "id": [2436],
-        "character": ["Michael J. 'Mike' O'Connor"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/auirQUnJ5kKBTl2p6kHtkJBNeo1.jpg"]
-      },
-      "Victor Moore": {
-        "id": [125364],
-        "character": ["Aloysius T. McKeever"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/dvy5d3rno0sjnW9zMdDS9dimuPw.jpg"]
-      },
-      "Gale Storm": {
-        "id": [109721],
-        "character": ["Trudy O'Connor"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/blNLkw0c3DwQNSkSVLkVrrj5h0s.jpg"]
-      },
-      "Grant Mitchell": {
-        "id": [30215],
-        "character": ["Al Farrow"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/1jSSSQNl8sSYGWOPx0yJIBKpUrQ.jpg"]
-      },
-      "Edward Brophy": {
-        "id": [32437],
-        "character": ["Gates Patrolman Cecil Felton"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"]
-      },
-      "Alan Hale Jr.": {
-        "id": [35322],
-        "character": ["Whitey Temple"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/yFNVT1bv90pDemhcrBBvDFINAh5.jpg"]
-      },
-      "Dorothea Kent": {
-        "id": [148520],
-        "character": ["Margie Temple"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/y5utXdRZ8MAjrDDgVJS5nyJp6uq.jpg"]
-      },
-      "Edward Ryan": {
-        "id": [144549],
-        "character": ["Hank"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/aegY9sw6rS1iMv25Ukc9W2xnME6.jpg"]
-      },
-      "Cathy Carter": {
-        "id": [138380],
-        "character": ["Alice"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Charles Lane": {
-        "id": [29579],
-        "character": ["Landlord (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"]
-      },
-      "Arthur Hohl": {
-        "id": [25176],
-        "character": ["Brady (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/bkLPbxdjy5aRL8KkG0HY6H5sFo5.jpg"]
-      },
-      "Edward Gargan": {
-        "id": [34294],
-        "character": ["Policeman in Park (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/gxufkPI5QRcZsMCWGaToCpcbNp0.jpg"]
-      },
-      "James Flavin": {
-        "id": [3262],
-        "character": ["First Policeman (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/zF6D2GWaLx2TyRm4qDTqwCk6JWg.jpg"]
-      },
-      "John Hamilton": {
-        "id": [14455],
-        "character": ["Harper (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/9VZWWtnDccfRvT3mtXMNMg53uqp.jpg"]
-      },
-      "Chester Clute": {
-        "id": [30280],
-        "character": ["Phillips (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/e7gTZGvxMoZ4P3947oW8mAmLamK.jpg"]
-      },
-      "Anthony Sydes": {
-        "id": [117724],
-        "character": ["Jackie Temple (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Eddie Marr": {
-        "id": [81284],
-        "character": ["Tour Bus Spieler (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/7MuYDWDmqnCU9oTV0SrBM5fudQQ.jpg"]
-      },
-      "George Lloyd": {
-        "id": [83397],
-        "character": ["Foreman of Movers (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/8p5UR9ltSSadwBdxOOSrVpbFvJD.jpg"]
-      },
-      "Johnny Arthur": {
-        "id": [34086],
-        "character": ["Apartment Manager (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/f8mltNpEviyIDYnKFBbwRtFAm7o.jpg"]
-      },
-      "Jean Andren": {
-        "id": [1045645],
-        "character": ["Secretary (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Florence Auer": {
-        "id": [98504],
-        "character": ["Miss Parker (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/82nUuX7cDdfFxfZ2bIC063Hmt2Z.jpg"]
-      },
-      "Leon Belasco": {
-        "id": [95054],
-        "character": ["Musician (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/AuimSqbQ7lmRNIUmuMEkGguamJ9.jpg"]
-      },
-      "George Blagoi": {
-        "id": [1623341],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/i15N1y5rrQiVlmpMwJ16KKrCAm8.jpg"]
-      },
-      "Chet Brandenburg": {
-        "id": [1208018],
-        "character": ["Man Tossing Pudding (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/eqfca5056LyAPwYwRGdUow9cH3o.jpg"]
-      },
-      "John Breen": {
-        "id": [1598134],
-        "character": ["Man Tossing Pudding (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "James Cardwell": {
-        "id": [104996],
-        "character": ["Young Man (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/5RFtgrAXB2FRA9F5v3BgLvTkOHI.jpg"]
-      },
-      "Corky": {
-        "id": [2114027],
-        "character": ["Sammy (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Dudley Dickerson": {
-        "id": [120793],
-        "character": ["Joe (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/calMGoobwaujM3y8Fc5FpmdJxmm.jpg"]
-      },
-      "Adolph Faylauer": {
-        "id": [121322],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/UsFTfNPUh2raMPRxUk9t3E7drc.jpg"]
-      },
-      "Al Fenney": {
-        "id": [3365440],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Jack George": {
-        "id": [1287807],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Pat Goldin": {
-        "id": [119508],
-        "character": ["Waiter (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Bert Howard": {
-        "id": [1422459],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Major Kieffer": {
-        "id": [2387842],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "William Kline": {
-        "id": [3365441],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Carl M. Leviness": {
-        "id": [1353645],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/8SJQSmHZESdalItwsoarlnaohmK.jpg"]
-      },
-      "Vera Lewis": {
-        "id": [29953],
-        "character": ["Woman in Chauffeured Car (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/2mKt5b7EAPEjvRFbUHzTD8oGoxV.jpg"]
-      },
-      "David Martell": {
-        "id": [2592033],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Rowland McCracken": {
-        "id": [3365445],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "George Meader": {
-        "id": [217757],
-        "character": ["Music Store Manager (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/hZPgATyWNSGpJQYVkOOM56CYGLC.jpg"]
-      },
-      "Howard M. Mitchell": {
-        "id": [1005425],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/sEDA3uTnHHeWq1jxh2JEJRBQJfS.jpg"]
-      },
-      "Sol Murgi": {
-        "id": [1550447],
-        "character": ["Man Tossing Pudding (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/Wy1HgMEv8BRaJDQkXTVLJjaub1.jpg"]
-      },
-      "William H. O'Brien": {
-        "id": [1176510],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/dHqtM4SNmq6W2WBnxyXgRdlgSfk.jpg"]
-      },
-      "Garry Owen": {
-        "id": [117772],
-        "character": ["Detective (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4lXrRqVoopFMS8hPEaR7BwEtLmD.jpg"]
-      },
-      "Abe Reynolds": {
-        "id": [3365447],
-        "character": ["Finkelhoff (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Linda Lee Solomon": {
-        "id": [3365448],
-        "character": ["Young Girl (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Bert Stevens": {
-        "id": [1208035],
-        "character": ["Farrow's Associate (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"]
-      },
-      "Jack Stoney": {
-        "id": [1120620],
-        "character": ["Man wearing Second Hand Clothing Advertising Sign (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/nQLhqyWxmXYpZgExyOmZd2lVadB.jpg"]
-      },
-      "Victor Travis": {
-        "id": [1290486],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/2SCZdeRYcMlfkGGNYZmKSLwygbc.jpg"]
-      },
-      "Max Willenz": {
-        "id": [999131],
-        "character": ["Musician (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      },
-      "Al Winters": {
-        "id": [2215048],
-        "character": ["Executive (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
-      }
-    }
-  },
   "It's a Very Merry Muppet Christmas Movie": {
     "id": [13352],
     "plex": [true],
@@ -12663,6 +12439,8 @@
     "genres": ["Comedy", "Family"],
     "imdb_score": ["6.3/10"],
     "rt_score": ["83%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Kirk R. Thatcher"],
     "cast": {
       "Steve Whitmire": {
@@ -12917,6 +12695,8 @@
     "genres": ["Horror", "Comedy"],
     "imdb_score": ["5.2/10"],
     "rt_score": ["55%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Tyler MacIntyre"],
     "cast": {
       "Jane Widdop": {
@@ -13052,8 +12832,8 @@
     "imdb_score": ["8.6/10"],
     "rt_score": ["94%"],
     "meta_score": ["89/100"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Frank Capra"],
     "cast": {
       "James Stewart": {
@@ -13640,6 +13420,292 @@
         "id": [4513940],
         "character": ["Bar Patron (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg"]
+      }
+    }
+  },
+  "It Happened on 5th Avenue": {
+    "id": [52844],
+    "plex": [true],
+    "watched": [2022],
+    "added": [2022],
+    "poster_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"],
+    "title": ["It Happened on Fifth Avenue"],
+    "released": ["1947-04-17"],
+    "duration": [116],
+    "imdb_id": ["tt0039502"],
+    "vote_average": [7.1],
+    "overview": ["A New Yorker hobo moves into a mansion and along the way he gathers friends to live in the house with him. Before he knows it, he is living with the actual home owners."],
+    "genres": ["Comedy", "Romance", "Music"],
+    "imdb_score": ["7.6/10"],
+    "meta_score": ["66/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "director": ["Roy Del Ruth"],
+    "cast": {
+      "Don DeFore": {
+        "id": [96850],
+        "character": ["Jim Bullock"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/cJQYFdi3ZZoT1HLxNTFvh7oRGBy.jpg"]
+      },
+      "Ann Harding": {
+        "id": [103441],
+        "character": ["Mary O'Connor"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dofROitTbPxHnvyswXt6nl1gChV.jpg"]
+      },
+      "Charles Ruggles": {
+        "id": [2436],
+        "character": ["Michael J. 'Mike' O'Connor"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/auirQUnJ5kKBTl2p6kHtkJBNeo1.jpg"]
+      },
+      "Victor Moore": {
+        "id": [125364],
+        "character": ["Aloysius T. McKeever"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dvy5d3rno0sjnW9zMdDS9dimuPw.jpg"]
+      },
+      "Gale Storm": {
+        "id": [109721],
+        "character": ["Trudy O'Connor"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/blNLkw0c3DwQNSkSVLkVrrj5h0s.jpg"]
+      },
+      "Grant Mitchell": {
+        "id": [30215],
+        "character": ["Al Farrow"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/1jSSSQNl8sSYGWOPx0yJIBKpUrQ.jpg"]
+      },
+      "Edward Brophy": {
+        "id": [32437],
+        "character": ["Gates Patrolman Cecil Felton"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/gxAnTjS7tnVOFdhUjkWYcsdXhWm.jpg"]
+      },
+      "Alan Hale Jr.": {
+        "id": [35322],
+        "character": ["Whitey Temple"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/yFNVT1bv90pDemhcrBBvDFINAh5.jpg"]
+      },
+      "Dorothea Kent": {
+        "id": [148520],
+        "character": ["Margie Temple"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/y5utXdRZ8MAjrDDgVJS5nyJp6uq.jpg"]
+      },
+      "Edward Ryan": {
+        "id": [144549],
+        "character": ["Hank"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/aegY9sw6rS1iMv25Ukc9W2xnME6.jpg"]
+      },
+      "Cathy Carter": {
+        "id": [138380],
+        "character": ["Alice"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Charles Lane": {
+        "id": [29579],
+        "character": ["Landlord (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/ghyuQ8HoIY1ozRzbLGJNl2d1dz6.jpg"]
+      },
+      "Arthur Hohl": {
+        "id": [25176],
+        "character": ["Brady (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/bkLPbxdjy5aRL8KkG0HY6H5sFo5.jpg"]
+      },
+      "Edward Gargan": {
+        "id": [34294],
+        "character": ["Policeman in Park (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/gxufkPI5QRcZsMCWGaToCpcbNp0.jpg"]
+      },
+      "James Flavin": {
+        "id": [3262],
+        "character": ["First Policeman (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/zF6D2GWaLx2TyRm4qDTqwCk6JWg.jpg"]
+      },
+      "John Hamilton": {
+        "id": [14455],
+        "character": ["Harper (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/9VZWWtnDccfRvT3mtXMNMg53uqp.jpg"]
+      },
+      "Chester Clute": {
+        "id": [30280],
+        "character": ["Phillips (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/e7gTZGvxMoZ4P3947oW8mAmLamK.jpg"]
+      },
+      "Anthony Sydes": {
+        "id": [117724],
+        "character": ["Jackie Temple (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Eddie Marr": {
+        "id": [81284],
+        "character": ["Tour Bus Spieler (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/7MuYDWDmqnCU9oTV0SrBM5fudQQ.jpg"]
+      },
+      "George Lloyd": {
+        "id": [83397],
+        "character": ["Foreman of Movers (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/8p5UR9ltSSadwBdxOOSrVpbFvJD.jpg"]
+      },
+      "Johnny Arthur": {
+        "id": [34086],
+        "character": ["Apartment Manager (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/f8mltNpEviyIDYnKFBbwRtFAm7o.jpg"]
+      },
+      "Jean Andren": {
+        "id": [1045645],
+        "character": ["Secretary (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Florence Auer": {
+        "id": [98504],
+        "character": ["Miss Parker (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/82nUuX7cDdfFxfZ2bIC063Hmt2Z.jpg"]
+      },
+      "Leon Belasco": {
+        "id": [95054],
+        "character": ["Musician (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/AuimSqbQ7lmRNIUmuMEkGguamJ9.jpg"]
+      },
+      "George Blagoi": {
+        "id": [1623341],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/i15N1y5rrQiVlmpMwJ16KKrCAm8.jpg"]
+      },
+      "Chet Brandenburg": {
+        "id": [1208018],
+        "character": ["Man Tossing Pudding (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/eqfca5056LyAPwYwRGdUow9cH3o.jpg"]
+      },
+      "John Breen": {
+        "id": [1598134],
+        "character": ["Man Tossing Pudding (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "James Cardwell": {
+        "id": [104996],
+        "character": ["Young Man (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/5RFtgrAXB2FRA9F5v3BgLvTkOHI.jpg"]
+      },
+      "Corky": {
+        "id": [2114027],
+        "character": ["Sammy (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Dudley Dickerson": {
+        "id": [120793],
+        "character": ["Joe (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/calMGoobwaujM3y8Fc5FpmdJxmm.jpg"]
+      },
+      "Adolph Faylauer": {
+        "id": [121322],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/UsFTfNPUh2raMPRxUk9t3E7drc.jpg"]
+      },
+      "Al Fenney": {
+        "id": [3365440],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Jack George": {
+        "id": [1287807],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Pat Goldin": {
+        "id": [119508],
+        "character": ["Waiter (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Bert Howard": {
+        "id": [1422459],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Major Kieffer": {
+        "id": [2387842],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "William Kline": {
+        "id": [3365441],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Carl M. Leviness": {
+        "id": [1353645],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/8SJQSmHZESdalItwsoarlnaohmK.jpg"]
+      },
+      "Vera Lewis": {
+        "id": [29953],
+        "character": ["Woman in Chauffeured Car (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2mKt5b7EAPEjvRFbUHzTD8oGoxV.jpg"]
+      },
+      "David Martell": {
+        "id": [2592033],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Rowland McCracken": {
+        "id": [3365445],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "George Meader": {
+        "id": [217757],
+        "character": ["Music Store Manager (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/hZPgATyWNSGpJQYVkOOM56CYGLC.jpg"]
+      },
+      "Howard M. Mitchell": {
+        "id": [1005425],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/sEDA3uTnHHeWq1jxh2JEJRBQJfS.jpg"]
+      },
+      "Sol Murgi": {
+        "id": [1550447],
+        "character": ["Man Tossing Pudding (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/Wy1HgMEv8BRaJDQkXTVLJjaub1.jpg"]
+      },
+      "William H. O'Brien": {
+        "id": [1176510],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dHqtM4SNmq6W2WBnxyXgRdlgSfk.jpg"]
+      },
+      "Garry Owen": {
+        "id": [117772],
+        "character": ["Detective (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4lXrRqVoopFMS8hPEaR7BwEtLmD.jpg"]
+      },
+      "Abe Reynolds": {
+        "id": [3365447],
+        "character": ["Finkelhoff (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Linda Lee Solomon": {
+        "id": [3365448],
+        "character": ["Young Girl (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Bert Stevens": {
+        "id": [1208035],
+        "character": ["Farrow's Associate (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nEIxsXjWCtGDKcECuKL8qsqwGcb.jpg"]
+      },
+      "Jack Stoney": {
+        "id": [1120620],
+        "character": ["Man wearing Second Hand Clothing Advertising Sign (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nQLhqyWxmXYpZgExyOmZd2lVadB.jpg"]
+      },
+      "Victor Travis": {
+        "id": [1290486],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2SCZdeRYcMlfkGGNYZmKSLwygbc.jpg"]
+      },
+      "Max Willenz": {
+        "id": [999131],
+        "character": ["Musician (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
+      },
+      "Al Winters": {
+        "id": [2215048],
+        "character": ["Executive (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/4iYAKgBIh8fKY7fdzSKee2t2VIa.jpg"]
       }
     }
   },
@@ -14351,6 +14417,8 @@
     "overview": ["In this beloved holiday classic, Kermit the Frog, Miss Piggy and all the Muppets join the singer for a heart-warming Christmas celebration, with traditional carols as well as lesser-known holiday songs."],
     "genres": ["Family", "Music", "Comedy"],
     "imdb_score": ["7.7/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Tony Charmoli"],
     "cast": {
       "John Denver": {
@@ -14426,6 +14494,8 @@
     "imdb_score": ["7.5/10"],
     "rt_score": ["86%"],
     "meta_score": ["72/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Shane Black"],
     "cast": {
       "Robert Downey Jr.": {
@@ -14821,6 +14891,8 @@
     "overview": ["Thanksgiving special starring Lady Gaga performing songs from ARTPOP and Muppet sketches."],
     "genres": ["Music", "Comedy"],
     "imdb_score": ["5.2/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Gregg Gelfand"],
     "cast": {
       "Lady Gaga": {
@@ -14926,8 +14998,8 @@
     "imdb_score": ["6.5/10"],
     "rt_score": ["46%"],
     "meta_score": ["50/100"],
-    "platforms": ["Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Paul Feig"],
     "cast": {
       "Emilia Clarke": {
@@ -15152,6 +15224,8 @@
     "genres": ["Fantasy"],
     "imdb_score": ["6.0/10"],
     "rt_score": ["80%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Julian Kemp"],
     "cast": {
       "Michael Sheen": {
@@ -15397,6 +15471,8 @@
     "imdb_score": ["7.2/10"],
     "rt_score": ["89%"],
     "meta_score": ["92/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["George Cukor"],
     "cast": {
       "Katharine Hepburn": {
@@ -15512,6 +15588,8 @@
     "imdb_score": ["7.2/10"],
     "rt_score": ["75%"],
     "meta_score": ["61/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Mervyn LeRoy"],
     "cast": {
       "June Allyson": {
@@ -15616,8 +15694,8 @@
     "genres": ["Drama", "Romance"],
     "imdb_score": ["7.3/10"],
     "meta_score": ["87/100"],
-    "platforms": ["Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Gillian Armstrong"],
     "cast": {
       "Winona Ryder": {
@@ -15938,6 +16016,8 @@
     "imdb_score": ["7.8/10"],
     "rt_score": ["95%"],
     "meta_score": ["91/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Greta Gerwig"],
     "cast": {
       "Saoirse Ronan": {
@@ -16338,6 +16418,8 @@
     "imdb_score": ["7.6/10"],
     "rt_score": ["64%"],
     "meta_score": ["55/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Richard Curtis"],
     "cast": {
       "Hugh Grant": {
@@ -17160,6 +17242,8 @@
     "imdb_score": ["7.5/10"],
     "rt_score": ["100%"],
     "meta_score": ["94/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Vincente Minnelli"],
     "cast": {
       "Judy Garland": {
@@ -17532,7 +17616,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -17652,8 +17736,8 @@
     "imdb_score": ["7.9/10"],
     "rt_score": ["96%"],
     "meta_score": ["88/100"],
-    "platforms": ["Disney Plus"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["George Seaton"],
     "cast": {
       "Maureen O'Hara": {
@@ -18007,6 +18091,8 @@
     "overview": ["One Kris Kringle, a department-store Santa Claus, causes quite a commotion by suggesting customers go to a rival store for their purchases. But this is nothing to the stir he causes by announcing that he is not merely a make-believe St. Nick, but the real thing."],
     "genres": ["TV Movie", "Drama"],
     "imdb_score": ["6.0/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Robert Stevenson"],
     "cast": {
       "Macdonald Carey": {
@@ -18065,6 +18151,8 @@
     "overview": ["In this charming TV adaptation of the 1947 film classic, a kindly old gentleman (Ed Wynn) working as a Macy's department store Santa causes a commotion when he claims to be the real St. Nick. Forced to prove his sanity, he is taken to court where he must convince the judge and his friends that he actually is Santa Claus. The faith of one skeptical little girl (Susan Gordon) and a Christmas miracle are the keys to his true identity."],
     "genres": ["Family", "Drama"],
     "imdb_score": ["7.0/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["William Corrigan"],
     "cast": {
       "Ed Wynn": {
@@ -18158,6 +18246,8 @@
     "overview": ["A department store Santa tries to convince a little girl who doesn't believe in Santa Claus that he is Santa Claus, and winds up going on trial to prove who he is."],
     "genres": ["Drama", "Family", "Fantasy", "TV Movie", "Comedy"],
     "imdb_score": ["5.8/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Fielder Cook"],
     "cast": {
       "Sebastian Cabot": {
@@ -18257,8 +18347,8 @@
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": ["6.6/10"],
     "rt_score": ["60%"],
-    "platforms": ["Disney Plus"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Les Mayfield"],
     "cast": {
       "Mara Wilson": {
@@ -18527,6 +18617,8 @@
     "imdb_score": ["5.4/10"],
     "rt_score": ["13%"],
     "meta_score": ["14/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Nora Ephron"],
     "cast": {
       "Steve Martin": {
@@ -18700,6 +18792,8 @@
     "overview": ["A single Christmas tree becomes the source of cheer for the people and animals living around Mr. Willowby's estate. Based on the children's book of the same name."],
     "genres": ["Comedy", "TV Movie", "Family"],
     "imdb_score": ["6.1/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jon Stone"],
     "cast": {
       "Robert Downey Jr.": {
@@ -19135,6 +19229,8 @@
     "overview": ["Fozzie Bear surprises his mother on Christmas Eve by bringing the entire Muppet gang to her farm to celebrate the holidays. Doc and his dog Sprocket, who had planned a quiet Christmas, end up joining the Muppets in their holiday activities and preparations. The Sesame Street and Fraggle Rock regulars join the festivities, but to Kermit's dismay, the only one missing is Miss Piggy, who has been caught in a snowstorm."],
     "genres": ["Family", "Comedy", "Music"],
     "imdb_score": ["8.1/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Peter Harris", "Eric Till"],
     "cast": {
       "Jim Henson": {
@@ -20662,6 +20758,8 @@
     "genres": ["Family", "Comedy"],
     "imdb_score": ["4.2/10"],
     "rt_score": ["0%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Debbie Isitt"],
     "cast": {
       "Simon Lipkin": {
@@ -21694,6 +21792,8 @@
     "imdb_score": ["6.6/10"],
     "rt_score": ["56%"],
     "meta_score": ["61/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Robert Zemeckis"],
     "cast": {
       "Tom Hanks": {
@@ -22190,8 +22290,8 @@
     "imdb_score": ["6.6/10"],
     "rt_score": ["89%"],
     "meta_score": ["71/100"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jalmari Helander"],
     "cast": {
       "Onni Tommila": {
@@ -22633,12 +22733,14 @@
     "released": ["1940-01-19"],
     "duration": [94],
     "imdb_id": ["tt0032981"],
-    "vote_average": [7.4],
+    "vote_average": [7.389],
     "overview": ["Unexpected love blossoms when an assistant district attorney agrees to take a recidivist shoplifter home so she doesn't have to spend Christmas alone in jail."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.6/10"],
     "rt_score": ["100%"],
     "meta_score": ["78/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Mitchell Leisen"],
     "cast": {
       "Barbara Stanwyck": {
@@ -22933,6 +23035,8 @@
     "genres": ["Animation", "Family", "TV Movie"],
     "imdb_score": ["8.0/10"],
     "rt_score": ["95%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Larry Roemer"],
     "cast": {
       "Burl Ives": {
@@ -23007,8 +23111,8 @@
     "genres": ["Family", "Fantasy", "Adventure"],
     "imdb_score": ["6.3/10"],
     "rt_score": ["22%"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jeannot Szwarc"],
     "cast": {
       "Dudley Moore": {
@@ -24119,6 +24223,8 @@
     "genres": ["Fantasy", "Drama"],
     "imdb_score": ["8.1/10"],
     "rt_score": ["86%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Brian Desmond Hurst"],
     "cast": {
       "Alastair Sim": {
@@ -24598,8 +24704,8 @@
     "imdb_score": ["6.9/10"],
     "rt_score": ["71%"],
     "meta_score": ["38/100"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Richard Donner"],
     "cast": {
       "Bill Murray": {
@@ -25085,6 +25191,8 @@
     "imdb_score": ["8.0/10"],
     "rt_score": ["99%"],
     "meta_score": ["96/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Ernst Lubitsch"],
     "cast": {
       "James Stewart": {
@@ -25225,8 +25333,8 @@
     "imdb_score": ["5.8/10"],
     "rt_score": ["66%"],
     "meta_score": ["52/100"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Camille Griffin"],
     "cast": {
       "Keira Knightley": {
@@ -25341,6 +25449,8 @@
     "genres": ["Action", "Thriller"],
     "imdb_score": ["5.3/10"],
     "rt_score": ["59%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["John Woo"],
     "cast": {
       "Joel Kinnaman": {
@@ -26105,8 +26215,8 @@
     "imdb_score": ["5.5/10"],
     "rt_score": ["8%"],
     "meta_score": ["19/100"],
-    "platforms": ["Amazon Prime Video", "Paramount Plus"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg"],
+    "platforms": ["Amazon Prime Video", "Paramount Plus", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Mike Mitchell"],
     "cast": {
       "Ben Affleck": {
@@ -26371,14 +26481,14 @@
     "released": ["2015-07-10"],
     "duration": [87],
     "imdb_id": ["tt3824458"],
-    "vote_average": [6.911],
+    "vote_average": [6.9],
     "overview": ["It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.1/10"],
     "rt_score": ["96%"],
     "meta_score": ["86/100"],
-    "platforms": ["Amazon Prime Video", "Freevee"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg"],
+    "platforms": ["Amazon Prime Video", "Freevee", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Sean Baker"],
     "cast": {
       "Kitana Kiki Rodriguez": {
@@ -26759,6 +26869,8 @@
     "imdb_score": ["7.8/10"],
     "rt_score": ["92%"],
     "meta_score": ["74/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Satoshi Kon"],
     "cast": {
       "Aya Okamoto": {
@@ -26864,6 +26976,8 @@
     "imdb_score": ["7.5/10"],
     "rt_score": ["89%"],
     "meta_score": ["69/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["John Landis"],
     "cast": {
       "Dan Aykroyd": {
@@ -27374,6 +27488,8 @@
     "imdb_score": ["7.0/10"],
     "rt_score": ["86%"],
     "meta_score": ["84/100"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Arnaud Desplechin"],
     "cast": {
       "Catherine Deneuve": {
@@ -27529,8 +27645,8 @@
     "imdb_score": ["6.7/10"],
     "rt_score": ["73%"],
     "meta_score": ["55/100"],
-    "platforms": ["Netflix"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Tommy Wirkola"],
     "cast": {
       "David Harbour": {
@@ -27785,6 +27901,8 @@
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["4.8/10"],
     "rt_score": ["51%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Meg Ryan"],
     "cast": {
       "Meg Ryan": {
@@ -28022,8 +28140,8 @@
     "imdb_score": ["7.6/10"],
     "rt_score": ["77%"],
     "meta_score": ["56/100"],
-    "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Michael Curtiz"],
     "cast": {
       "Bing Crosby": {
@@ -28203,6 +28321,8 @@
     "genres": ["Animation", "Family"],
     "imdb_score": ["7.7/10"],
     "rt_score": ["90%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
@@ -28503,6 +28623,8 @@
     "overview": ["On her first holiday without her father, Zoey attempts to create a magical Christmas for her family just like the ones Mitch used to do."],
     "genres": ["TV Movie", "Comedy", "Music", "Drama"],
     "imdb_score": ["7.2/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Richard Shepard"],
     "cast": {
       "Jane Levy": {
