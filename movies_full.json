@@ -2352,7 +2352,7 @@
     "released": ["2015-11-20"],
     "duration": [118],
     "imdb_id": ["tt2402927"],
-    "vote_average": [7.5],
+    "vote_average": [7.491],
     "overview": ["In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman."],
     "genres": ["Romance", "Drama"],
     "imdb_score": ["7.2/10"],
@@ -3908,7 +3908,7 @@
     "released": ["2022-12-08"],
     "duration": [102],
     "imdb_id": ["tt17220704"],
-    "vote_average": [6.522],
+    "vote_average": [6.5],
     "overview": ["Ralphie is now all grown up and must deal with Christmas and all that comes with it… as a dad."],
     "genres": ["Comedy", "Family", "Drama", "Fantasy"],
     "imdb_score": ["6.7/10"],
@@ -7440,7 +7440,7 @@
       "Elizabeth Banks": {
         "id": [9281],
         "character": ["Charlene"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/q0wvK0Nr6FCpvx9UCMTqTby6kNW.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"]
       },
       "Jeremy Swift": {
         "id": [3555],
@@ -8265,7 +8265,7 @@
     "released": ["1984-06-08"],
     "duration": [106],
     "imdb_id": ["tt0087363"],
-    "vote_average": [7.118],
+    "vote_average": [7.1],
     "overview": ["When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, unleashing a horde of mischievous gremlins on a small town."],
     "genres": ["Fantasy", "Horror", "Comedy"],
     "imdb_score": ["7.3/10"],
@@ -17532,7 +17532,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -22633,7 +22633,7 @@
     "released": ["1940-01-19"],
     "duration": [94],
     "imdb_id": ["tt0032981"],
-    "vote_average": [7.4],
+    "vote_average": [7.389],
     "overview": ["Unexpected love blossoms when an assistant district attorney agrees to take a recidivist shoplifter home so she doesn't have to spend Christmas alone in jail."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.6/10"],
@@ -26371,7 +26371,7 @@
     "released": ["2015-07-10"],
     "duration": [87],
     "imdb_id": ["tt3824458"],
-    "vote_average": [6.911],
+    "vote_average": [6.9],
     "overview": ["It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.1/10"],
