@@ -14,7 +14,7 @@ free_services = ["BBC iPlayer"];
 ad_services = ["My5", "Freevee"];
 
 let year_added = [];
-    let current_year = 2020;
+let current_year = 2020;
 for (let i = 0; i < Object.keys(movies).length; i ++) {
 
     let movie = movies[Object.keys(movies)[i]];

@@ -245,7 +245,7 @@ filter_release.onmouseover = function () {
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
         if (movies[Object.keys(movies)[i]].released != "") {
-            decades.push(movies[Object.keys(movies)[i]].released.slice(0, 3));
+            decades.push(movies[Object.keys(movies)[i]].released[0].slice(0, 3));
         }
     }
 
@@ -608,7 +608,9 @@ filter_platform.onmouseover = function () {
     years_div = document.createElement("div");
     years_div.id = "platform-filters";
 
-    platforms = ["Plex"].concat(services, free_services, ad_services);
+    platforms = ["Plex", "Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV Plus", 
+        "Channel 4", "Paramount Plus", "BBC iPlayer", "My5", "Freevee"];
+
     platforms.push("Not available")
 
     for (let i = 0; i < platforms.length; i ++) {
@@ -633,7 +635,7 @@ filter_platform.onmouseover = function () {
 
                 movie = movies[Object.keys(movies)[j]];
 
-                if (movie.platforms.length == 0) {
+                if (!movie.hasOwnProperty("platforms")) {
                     movie.platforms = "Not available";
                 }
                 
