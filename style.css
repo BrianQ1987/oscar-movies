@@ -301,6 +301,7 @@ h2 {
   }
 
   #back-to-start {
+    font-size: 16pt;
     opacity: 1;
     transition: opacity 0.5s, visibility 0.5s;
     position: fixed;
@@ -312,8 +313,8 @@ h2 {
     background-color: #333333;
     width: 100%;
     text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     font-weight: 700;
     cursor: pointer;
     overflow: auto;
