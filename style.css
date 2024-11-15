@@ -200,8 +200,8 @@ h2 {
   }
 
   #filter-btn, #sort-btn, #random-btn {
-    width: 120px;
-    padding: 10px;
+    width: 110px;
+    padding: 5px;
     border-radius: 10px;
     cursor: pointer;
     margin-left: 15px;
