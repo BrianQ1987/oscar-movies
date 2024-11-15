@@ -709,7 +709,7 @@ sort_duration.onclick = function() {
     let durations = [];
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
-        durations.push(movies[Object.keys(movies)[i]].duration);
+        durations.push(movies[Object.keys(movies)[i]].duration[0]);
     }    
 
     durations = [...new Set(durations)];
@@ -869,7 +869,11 @@ sort_imdb.onclick = function() {
     let scores = [];
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
-        scores.push(movies[Object.keys(movies)[i]].imdb);
+        if (movies[Object.keys(movies)[i]].hasOwnProperty("imdb_score")) {
+            scores.push(movies[Object.keys(movies)[i]].imdb_score[0]);
+        } else {
+            scores.push("0/10")
+        }
     }    
 
     scores = [...new Set(scores)];
@@ -883,7 +887,7 @@ sort_imdb.onclick = function() {
         
             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.imdb == scores[j]) {
+            if (movie.imdb_score == scores[j]) {
                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
                 first = movie.id;
             }
@@ -896,7 +900,7 @@ sort_imdb.onclick = function() {
 
 }
 
-//Sort by IMDb score
+//Sort by Rotten Tomatoes score
 sort_rt = document.getElementById("sort-rt");
 
 sort_rt.onclick = function() {
@@ -914,8 +918,18 @@ sort_rt.onclick = function() {
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
 
-        let rt_value = movies[Object.keys(movies)[i]].rt;
-        rt_value = rt_value.slice(0, rt_value.indexOf("%"));
+        let rt_value = "";
+
+        if (movies[Object.keys(movies)[i]].hasOwnProperty("rt_score")) {
+
+            rt_value = movies[Object.keys(movies)[i]].rt_score[0];
+            rt_value = rt_value.slice(0, rt_value.indexOf("%"));
+
+        } else {
+            rt_value = "0";
+        }
+
+        
 
         scores.push(rt_value);
     }    
@@ -931,7 +945,7 @@ sort_rt.onclick = function() {
         
             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.rt == scores[j] + "%") {
+            if (movie.rt_score == scores[j] + "%") {
                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
                 first = movie.id;
             }

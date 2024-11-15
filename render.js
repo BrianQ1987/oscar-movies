@@ -8,20 +8,20 @@ sorting = document.getElementById("sorting");
 can = document.getElementById("can");
 sort_menu = document.getElementById("sort-menu");
 filter_menu = document.getElementById("filter-menu");
+back_to_start = document.getElementById("back-to-start");
 
 let movies = [];
 let current_year = 2020;
 
-// function loading_can() {
-    let load_pct = 0;
 
-    for (let i = 0; i < 100; i++) {
-        setTimeout(() => {
-            load_pct += 1;
-            can.style.clipPath = `polygon(0% 0%, ${load_pct}% 0%, ${load_pct}% 100%, 0% 100%)`;
-        }, i * 10);
-    }
-// }
+let load_pct = 0;
+
+for (let i = 0; i < 100; i++) {
+    setTimeout(() => {
+        load_pct += 1;
+        can.style.clipPath = `polygon(0% 0%, ${load_pct}% 0%, ${load_pct}% 100%, 0% 100%)`;
+    }, i * 10);
+}
 
 async function renderMovies() {
 
@@ -426,3 +426,25 @@ function castLinks () {
     }
 
 }
+
+// Scroll to top ribbon
+let buttonVisibleOnPX = 200;
+
+goStart = function () {
+    document.getElementById("top").scrollIntoView({ behavior: "smooth" });
+}
+
+const scrollElement = () => {
+    return document.documentElement || document.body;
+}
+const handleOnScroll = () => {
+    if (scrollElement().scrollTop > buttonVisibleOnPX) {
+        back_to_start.classList.remove("hidden");
+    } else {
+        back_to_start.classList.add("hidden");
+    }
+}
+
+back_to_start.onclick = goStart;
+
+window.onscroll = handleOnScroll;
