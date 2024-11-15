@@ -337,4 +337,5 @@ h2 {
   line-height: 60px;
   text-align: center;
   font-size: 2.5rem;
+  border-bottom: solid 1px white;
 }
