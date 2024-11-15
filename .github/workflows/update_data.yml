@@ -2,7 +2,7 @@ on:
     push:
       branches: master
     schedule:
-      - cron: "0 9,16 * * 1-5"
+      - cron: "0 9,16 * * 0-6"
 
 jobs:
    import-data:
