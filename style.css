@@ -326,3 +326,15 @@ h2 {
     opacity: 0;
     visibility: hidden;
 }
+
+#logo {
+  height: 60px;
+  margin-right: 5px;
+}
+
+#title-row {
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  font-size: 2.5rem;
+}
