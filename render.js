@@ -12,7 +12,7 @@ filter_menu = document.getElementById("filter-menu");
 let movies = [];
 let current_year = 2020;
 
-function loading_can() {
+// function loading_can() {
     let load_pct = 0;
 
     for (let i = 0; i < 100; i++) {
@@ -21,7 +21,7 @@ function loading_can() {
             can.style.clipPath = `polygon(0% 0%, ${load_pct}% 0%, ${load_pct}% 100%, 0% 100%)`;
         }, i * 10);
     }
-}
+// }
 
 async function renderMovies() {
 
@@ -58,7 +58,7 @@ async function renderMovies() {
         poster_div.classList.add("p-1");
         poster_div.classList.add("poster")
         poster_div.id = id;
-        poster_div.innerHTML = `<a href = "#top"><img src="${movie.poster_path}" class="img-fluid" ></img></a>`;
+        poster_div.innerHTML = `<img src="${movie.poster_path}" class="img-fluid" ></img>`;
 
         moviesDiv.appendChild(poster_div);
 
@@ -86,16 +86,41 @@ async function renderMovies() {
         }
 
         poster_div.onclick = function() {
+
+            document.getElementById("top").scrollIntoView({ behavior: "smooth" });
+
             moviesDiv.style.display = "none";
             back_btn.style.display = "block";
+
+
+            back_btn.onclick = function() {
+                moviesDiv.style.display = "flex";
+                
+                infos = document.getElementsByClassName("info");
+            
+                for (let i = 0; i < infos.length; i ++) {
+                    infos[i].style.display = "none";
+                }
+            
+                back_btn.style.display = "none";
+                buttons.style.display = "flex";
+                showing.removeAttribute("style");
+                sorting.removeAttribute("style");
+            
+                if ([...filter_show_all.classList].includes("clicked")) {
+                    filter_show_all.click();
+                }
+            
+                document.getElementById(movie.id).scrollIntoView({ behavior: "smooth"});
+            
+            }
+
             buttons.style.display = "none";
             showing.style.display = "none";
             sorting.style.display = "none";
             sort_menu.style.display = "none";
             filter_menu.style.display = "none";
             document.getElementById("movie-info").style.display = "flex";
-
-            back_link.href = "#" + movie.id;
 
             document.getElementById("info-title").textContent = movie.title;
             document.getElementById("info-poster").innerHTML = '<img src="' + movie.poster_path + '" class = "img-fluid">'
@@ -339,30 +364,7 @@ async function renderMovies() {
 
 }
 
-window.onload = function() {
-    loading_can();
-    renderMovies();
-}
-
-back_btn.onclick = function() {
-    moviesDiv.style.display = "flex";
-    
-    infos = document.getElementsByClassName("info");
-
-    for (let i = 0; i < infos.length; i ++) {
-        infos[i].style.display = "none";
-    }
-
-    back_btn.style.display = "none";
-    buttons.style.display = "flex";
-    showing.removeAttribute("style");
-    sorting.removeAttribute("style");
-
-    if ([...filter_show_all.classList].includes("clicked")) {
-        filter_show_all.click();
-    }
-
-}
+window.onload = renderMovies();
 
 function castLinks () {
 
