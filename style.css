@@ -201,7 +201,10 @@ h2 {
 
   #filter-btn, #sort-btn, #random-btn {
     width: 110px;
-    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 10px;
     cursor: pointer;
     margin-left: 10px;
@@ -232,7 +235,7 @@ h2 {
   }
 
   #sort-menu {
-    margin-left: 135px;
+    margin-left: 120px;
   }
 
   #sorting:before {
