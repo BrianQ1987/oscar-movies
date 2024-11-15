@@ -12,6 +12,17 @@ filter_menu = document.getElementById("filter-menu");
 let movies = [];
 let current_year = 2020;
 
+function loading_can() {
+    let load_pct = 0;
+
+    for (let i = 0; i < 100; i++) {
+        setTimeout(() => {
+            load_pct += 1;
+            can.style.clipPath = `polygon(0% 0%, ${load_pct}% 0%, ${load_pct}% 100%, 0% 100%)`;
+        }, i * 10);
+    }
+}
+
 async function renderMovies() {
 
     try {
@@ -32,12 +43,10 @@ async function renderMovies() {
 
     }
 
-    current_year = Math.max(...year_added);    
+    current_year = Math.max(...year_added);
+    
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
-
-        load_pct = (i + 1) / Object.keys(movies).length * 100;
-        can.style.clipPath = "polygon(0% 0%, " + load_pct + "% 0%, " + load_pct + "% 100%, 0% 100%)"
 
         let movie = movies[Object.keys(movies)[i]];
         let id = movie.id;
@@ -313,14 +322,16 @@ async function renderMovies() {
         }
 
         if (i == Object.keys(movies).length - 1) {
-            showing.innerHTML = "Displaying <strong>" + Object.keys(movies).length + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies";
-            moviesDiv.style.display = "flex";
-            document.getElementById("loading").style.display = "none";
-            button_load.style.display = "flex";
 
-            buttons.style.display = "flex";
-            button_load.style.display = "none";
+            setTimeout(() => {
+                showing.innerHTML = "Displaying <strong>" + Object.keys(movies).length + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies";
+                moviesDiv.style.display = "flex";
+                document.getElementById("loading").style.display = "none";
+                button_load.style.display = "flex";
 
+                buttons.style.display = "flex";
+                button_load.style.display = "none";
+            }, 1000)
             
         }
 
@@ -328,7 +339,10 @@ async function renderMovies() {
 
 }
 
-window.onload = renderMovies;
+window.onload = function() {
+    loading_can();
+    renderMovies();
+}
 
 back_btn.onclick = function() {
     moviesDiv.style.display = "flex";
