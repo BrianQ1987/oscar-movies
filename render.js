@@ -20,7 +20,7 @@ for (let i = 0; i < 100; i++) {
     setTimeout(() => {
         load_pct += 1;
         can.style.clipPath = `polygon(0% 0%, ${load_pct}% 0%, ${load_pct}% 100%, 0% 100%)`;
-    }, i * 10);
+    }, i * 40);
 }
 
 async function renderMovies() {
@@ -356,7 +356,7 @@ async function renderMovies() {
 
                 buttons.style.display = "flex";
                 button_load.style.display = "none";
-            }, 1000)
+            }, 4000)
             
         }
 
