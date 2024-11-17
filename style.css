@@ -230,8 +230,8 @@ h2 {
     padding: 5px;
   }
 
-#filter-menu.menu-item {
-    width: 180px;
+#filter-menu .menu-item {
+    width: 160px;
 }
 
   .menu-item:hover {
@@ -248,33 +248,33 @@ h2 {
   }
 
   #added-filters {
-    margin-left: 1800px;
+    margin-left: 160px;
     margin-top: -200px;
   }
 
   #watched-filters {
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: -160px;
   }
 
 
   #last-filters {
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: -120px;
   }
 
   #duration-filters {
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: -280px;
   }
 
   #release-filters {
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: -240px;
   }
 
   #platform-filters {
-    margin-left: 180px;
+    margin-left: 160px;
     margin-top: -40px;
   }
 
