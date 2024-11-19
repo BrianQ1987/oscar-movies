@@ -349,23 +349,25 @@ async function renderMovies() {
                 for (let j = 0; j < 6; j ++) {
                     actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
                 }
-                actors.innerHTML += "<div id = 'see-more'>See more cast <i class='fa-solid fa-user-plus'></i></div>"
+                actors.innerHTML += "<div id = 'see-more'>See more cast <i class='fa-solid fa-user-plus'></i></div>";
+
+                document.getElementById("see-more").onclick = function() {
+
+                    document.getElementById("see-more").style.display = "none";
+                    
+                    for (let j = 6; j < Object.keys(movie.cast).length; j ++) {
+                        actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
+                    }
+    
+                    castLinks();
+                }  
                 
             }
 
 
             castLinks();
 
-            document.getElementById("see-more").onclick = function() {
-
-                document.getElementById("see-more").style.display = "none";
-                
-                for (let j = 6; j < Object.keys(movie.cast).length; j ++) {
-                    actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
-                }
-
-                castLinks();
-            }            
+                      
             
             if (i == Object.keys(movies).length - 1) {
                 next_btn.style.display = "none";
