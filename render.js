@@ -3,6 +3,8 @@ buttons = document.getElementById("buttons");
 button_load = document.getElementById("button-load");
 showing = document.getElementById("showing");
 back_btn = document.getElementById("back-btn");
+next_btn = document.getElementById("next-btn");
+prev_btn = document.getElementById("prev-btn");
 back_link = document.getElementById("back-link");
 sorting = document.getElementById("sorting");
 can = document.getElementById("can");
@@ -91,7 +93,8 @@ async function renderMovies() {
 
             moviesDiv.style.display = "none";
             back_btn.style.display = "block";
-
+            next_btn.style.display = "block";
+            prev_btn.style.display = "block";
 
             back_btn.onclick = function() {
                 moviesDiv.style.display = "flex";
@@ -130,6 +133,8 @@ async function renderMovies() {
             document.getElementById("duration").textContent = duration;
 
             let ratings_div = document.getElementById("info-ratings");
+
+            ratings_div.style.paddingLeft = (ratings_div.clientWidth - 280) / 2 + "px";
 
             while (ratings_div.firstChild) {
                 ratings_div.removeChild(ratings_div.firstChild)
@@ -286,6 +291,11 @@ async function renderMovies() {
                     logo = "https://image.tmdb.org/t/p/original" + movie.logo_paths[j];
                     platform_div.innerHTML += "<div><img class = 'tv-logo' src = '" + logo + "'>" + movie.platforms[j] + "</div>"
                 }
+                document.getElementById("watch-it-on").innerHTML = "📺 Watch it on:";
+                document.getElementById("watch-it-on").removeAttribute("style");
+            } else {
+                document.getElementById("watch-it-on").innerHTML = "Not available to watch 📵";
+                document.getElementById("watch-it-on").style.paddingLeft = "12px";
             }
 
             document.getElementById("info-plot").textContent = movie.overview;
@@ -293,15 +303,15 @@ async function renderMovies() {
             
                 
             if (movie.genres.length > 1) {
-                document.getElementById("genre-heading").innerHTML = "Genres";
+                document.getElementById("genre-heading").innerHTML = "🎭 Genres";
             } else {
-                document.getElementById("genre-heading").innerHTML = "Genre";
+                document.getElementById("genre-heading").innerHTML = "🎭 Genre";
             }
 
             let genre_text = "";
 
             for (let j = 0; j < movie.genres.length; j ++) {
-                genre_text += movie.genres[j] + ", ";
+                genre_text += movie.genres[j] + "; ";
                 
                 if (j == movie.genres.length - 1) {
                     genre_text = genre_text.slice(0, -2);
@@ -313,10 +323,10 @@ async function renderMovies() {
             director = movie.director;
                 
             if (director.length == 1) {
-                document.getElementById("director-heading").textContent = "Director";
+                document.getElementById("director-heading").textContent = "🎬 Director";
                 document.getElementById("info-director").textContent = director[0];
             } else if (director.length > 1) {
-                document.getElementById("director-heading").textContent = "Directors";
+                document.getElementById("director-heading").textContent = "🎬 Directors";
                 let director_text = "";
                 for (let j = 0; j < director.length; j ++) {
                     director_text += director[j] + ", ";
@@ -355,6 +365,26 @@ async function renderMovies() {
                 }
 
                 castLinks();
+            }            
+            
+            if (i == Object.keys(movies).length - 1) {
+                next_btn.style.display = "none";
+            } else {
+                let next_id  = movies[Object.keys(movies)[i + 1]].id;
+
+                next_btn.onclick = function() {
+                    document.getElementById(next_id).click()
+                }
+            }
+
+            if (i == 0) {
+                prev_btn.style.display = "none";
+            } else {
+                let prev_id  = movies[Object.keys(movies)[i - 1]].id;
+
+                prev_btn.onclick = function() {
+                    document.getElementById(prev_id).click()
+                }
             }
 
         }
@@ -398,6 +428,8 @@ function castLinks () {
             }
     
             back_btn.style.display = "none";
+            next_btn.style.display = "none";
+            prev_btn.style.display = "none";
             buttons.style.display = "flex";
             showing.removeAttribute("style");
             sorting.removeAttribute("style");

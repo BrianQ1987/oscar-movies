@@ -54,46 +54,50 @@
           <div><span id = "showing"></span><span id = "sorting"></span></div>
           <div id="movies" class="row no-gutters"></div>
           <div id = "loading">
-            <img src = "img/home-alone-pepsi.gif">
+            <img src = "img/home-alone-fuller.gif">
             <img id = "can" src = "img/pepsi.png">
             <div><h3>Loading...</h3></div>
           </div>
           <div id = "movie-info" class = "info">
-            <div id = "back-btn"><i class="fa-solid fa-sleigh"></i> Back</div>
-            <div>
+
+            <div class = "row" style = "margin-left: 0px">
+              <div id = "back-btn"><i class="fa-solid fa-sleigh"></i> Home</div>
+              <div id = "prev-btn"><i class="fa-solid fa-backward"></i> Previous</div>
+              <div id = "next-btn">Next <i class="fa-solid fa-forward"></i></div>
+            </div>
+
               <h2 id = "info-title"></h2>
               <div class = "row">
-                <div id = "info-poster" class = "col-12 col-sm-12 col-md-5 col-lg-5 col-xl-5"></div>
-                <div id = "info-facts" class = "col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
+                <div id = "info-poster" class = "col-7 col-sm-7 col-md-5 col-lg-5 col-xl-5"></div>
+                <div id = "info-facts" class = "col-5 col-sm-5 col-md-7 col-lg-7 col-xl-7">
                   <div style="margin-bottom: 15px;">
-                    Duration: <span id = "duration" style="font-size: 16pt"></span>
+                    🕒 Duration: <br><span id = "duration" style="font-size: 16pt"></span>
                   </div>
-                  <div>Ratings:</div>
-                  <div id = "info-ratings"></div>
-                  <div>Added: <span id = "added-year"></span></div>
+                  <div>📲 Added: <span id = "added-year"></span></div>
                   <div style = "margin-top: 15px;">
-                    <div>Watched:</div>
+                    <div>🍿 Watched:</div>
                     <div id = "info-watched"></div>
-                  </div>
-                  <div style = "margin-top: 25px;">Watch it on:
-                    <div id = "info-platforms"></div>
                   </div>
                 </div>
               </div>
-              <div>
-                <h2>Plot summary</h2>
-                <span id = "info-plot"></span>
+              <h4 id = "watch-it-on">📺 Watch it on:</h4>
+              <div id = "info-platforms" style = "padding-left: 12px;"></div>
+              <div style = "margin-top: 10px;"><h4>⭐ Ratings</h4></div>
+              <div id = "info-ratings"></div>
+              <div style = "margin-top: 10px;">                
+                <h4>📝 Plot summary</h4>
+                <div style = "padding-left: 12px;" id = "info-plot"></div>
               </div>
-              <div>
-                <h2 id = "genre-heading">Genres</h2>
-                <span id = "info-genres"></span>
+              <div style = "margin-top: 10px;">
+                <h4 id = "genre-heading">🎭 Genres</h4>
+                <div style = "padding-left: 12px;" id = "info-genres"></div>
               </div>
-              <div>
-                <h2 id = "director-heading"></h2>
-                <span id = "info-director"></span>
+              <div style = "margin-top: 10px;">
+                <h4 id = "director-heading"></h4>
+                <div style = "margin-left: 15px;" id = "info-director"></div>
               </div>
-              <div>
-                <h2>Starring</h2>
+              <div style = "margin-top: 10px;">
+                <h4>🎥 Starring</h4>
                 <div id = "info-cast" class = "row"></div>
               </div>
             </div>

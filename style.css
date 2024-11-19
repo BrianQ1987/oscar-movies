@@ -29,9 +29,8 @@ h2 {
 }
 
 
-#back-btn {
-    color: #343a40;
-    background-color: #ffffff !important;
+#back-btn, #next-btn, #prev-btn {
+    border: solid 1px #ffffff;
     width: 120px;
     font-size: 14pt;
     text-align: center;
@@ -366,4 +365,8 @@ h2 {
   font-size: 16pt;
   border-radius: 25px;
   cursor: pointer;
+}
+
+#watch-it-on {
+  margin-top: 25px;
 }
