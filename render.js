@@ -67,7 +67,7 @@ async function renderMovies() {
         title_div = document.createElement("div");
         title_div.classList.add("poster-title");
         title_div.id = id + "-title";
-        title_div.innerHTML = movie.title;
+        title_div.innerHTML = `${movie.title} (${movie.released[0].slice(0, 4)})`;
         title_div.style.display = "none";
         poster_div.appendChild(title_div);
 
@@ -125,7 +125,7 @@ async function renderMovies() {
             filter_menu.style.display = "none";
             document.getElementById("movie-info").style.display = "flex";
 
-            document.getElementById("info-title").textContent = movie.title;
+            document.getElementById("info-title").innerHTML = `${movie.title} <span style = "font-size: 12pt;">(${movie.released[0].slice(0, 4)})</span>`;
             document.getElementById("info-poster").innerHTML = '<img src="' + movie.poster_path + '" class = "img-fluid">'
 
             duration = Math.floor(movie.duration / 60) + "h " + movie.duration % 60 + "m";
