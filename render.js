@@ -509,7 +509,7 @@ document.addEventListener('touchend', function (event) {
     // Determine the swipe direction
     let diffX = endX - startX;
 
-    if (Math.abs(diffX) > 50) { // Minimum swipe distance threshold
+    if (Math.abs(diffX) > 200) { // Minimum swipe distance threshold
         if (diffX > 0) {
             // Swiped right
             if (prev_btn.style.display !== "none") {
