@@ -326,23 +326,36 @@ async function renderMovies() {
             }
 
             actors = document.getElementById("info-cast");
-
-            actors.style.display = "flex";
-            actors.classList.add("row");
         
             while (actors.firstChild) {
                 actors.removeChild(actors.firstChild)
             }
 
-
-            for (let j = 0; j < Object.keys(movie.cast).length; j ++) {
-
-                actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
-            
-            }   
+            if (Object.keys(movie.cast).length < 6) {
+                for (let j = 0; j < Object.keys(movie.cast).length; j ++) {
+                    actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
+                }   
+            } else {
+                for (let j = 0; j < 6; j ++) {
+                    actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
+                }
+                actors.innerHTML += "<div id = 'see-more'>See more cast <i class='fa-solid fa-user-plus'></i></div>"
+                
+            }
 
 
             castLinks();
+
+            document.getElementById("see-more").onclick = function() {
+
+                document.getElementById("see-more").style.display = "none";
+                
+                for (let j = 6; j < Object.keys(movie.cast).length; j ++) {
+                    actors.innerHTML += "<div id = '" + movie.cast[Object.keys(movie.cast)[j]].id + "' class = 'col-4 col-lg-3 col-xl-2 cast'><img src = '" + movie.cast[Object.keys(movie.cast)[j]].profile_path + "' class = 'img-fluid'><div style = 'font-size: 14pt; font-weight: bold;'>" + Object.keys(movie.cast)[j] + "</div><div>" + movie.cast[Object.keys(movie.cast)[j]].character + "</div></div>";
+                }
+
+                castLinks();
+            }
 
         }
 

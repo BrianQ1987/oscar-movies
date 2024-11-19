@@ -6,7 +6,9 @@ sort_btn = document.getElementById("sort-btn");
 sort_menu = document.getElementById("sort-menu");
 
 // Filter button
-filter_btn.onclick = function() {
+filter_btn.onclick = function(event) {
+
+    event.stopPropagation();
 
     sort_menu.style.display = "none";
 
@@ -42,11 +44,27 @@ filter_btn.onclick = function() {
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
+
+    // Add a click listener to the document to close the menu
+    document.addEventListener("click", closeFilterMenu);
     
 }
 
+function closeFilterMenu(event) {
+    // Check if the click occurred outside the filter_menu
+    if (!filter_menu.contains(event.target) && event.target !== filter_btn) {
+        filter_menu.style.display = "none";
+        filter_btn.classList.remove("clicked");
+
+        // Remove the event listener to avoid multiple bindings
+        document.removeEventListener("click", closeFilterMenu);
+    }
+}
+
 // Sort button
-sort_btn.onclick = function() {
+sort_btn.onclick = function(event) {
+
+    event.stopPropagation();
 
     filter_menu.style.display = "none";
 
@@ -57,7 +75,21 @@ sort_btn.onclick = function() {
         sort_menu.style.display = "none";
     } else {
         sort_menu.style.display = "block";
-    }    
+    }
+    
+    // Add a click listener to the document to close the menu
+    document.addEventListener("click", closeSortMenu);
+}
+
+function closeSortMenu(event) {
+    // Check if the click occurred outside the filter_menu
+    if (!sort_menu.contains(event.target) && event.target !== sort_btn) {
+        sort_menu.style.display = "none";
+        sort_btn.classList.remove("clicked");
+
+        // Remove the event listener to avoid multiple bindings
+        document.removeEventListener("click", closeSortMenu);
+    }
 }
 
 // Show all films
