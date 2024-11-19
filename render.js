@@ -364,7 +364,6 @@ async function renderMovies() {
                 
             }
 
-
             castLinks();
 
                       
@@ -495,33 +494,3 @@ const handleOnScroll = () => {
 back_to_start.onclick = goStart;
 
 window.onscroll = handleOnScroll;
-
-
-// Adding swipe functionality
-let startX = 0; // X-coordinate when the touch starts
-let endX = 0; // X-coordinate when the touch ends
-
-document.addEventListener('touchstart', function (event) {
-    startX = event.touches[0].clientX; // Record the starting touch point
-}, false);
-
-document.addEventListener('touchend', function (event) {
-    endX = event.changedTouches[0].clientX; // Record the ending touch point
-
-    // Determine the swipe direction
-    let diffX = endX - startX;
-
-    if (Math.abs(diffX) > 200) { // Minimum swipe distance threshold
-        if (diffX > 0) {
-            // Swiped right
-            if (prev_btn.style.display !== "none") {
-                prev_btn.click();
-            }
-        } else {
-            // Swiped left
-            if (next_btn.style.display !== "none") {
-                next_btn.click();
-            }
-        }
-    }
-}, false);
