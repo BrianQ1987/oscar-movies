@@ -509,6 +509,7 @@ filter_last.onmouseover = function () {
     for (let i = 2020; i <= current_year; i ++) {
         year_div = document.createElement("div");
         year_div.classList.add("menu-item");
+        year_div.style.width = "220px";
         year_div.textContent = "Last watched in " + i;
         years_div.appendChild(year_div);
 
@@ -648,6 +649,7 @@ filter_platform.onmouseover = function () {
     for (let i = 0; i < platforms.length; i ++) {
         year_div = document.createElement("div");
         year_div.classList.add("menu-item");
+        year_div.style.width = "220px";
         year_div.textContent = platforms[i];
         years_div.appendChild(year_div);
 
