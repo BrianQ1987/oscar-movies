@@ -494,3 +494,9 @@ const handleOnScroll = () => {
 back_to_start.onclick = goStart;
 
 window.onscroll = handleOnScroll;
+
+let snowflakes = document.getElementById("snowflakes");
+
+for (let i = 0; i < 12; i ++) {
+    snowflakes.innerHTML += '<div class="snowflake"><div class="inner">❅</div></div>'
+}
