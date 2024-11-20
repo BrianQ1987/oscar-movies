@@ -277,7 +277,7 @@ async function renderMovies() {
                 } else {
                     emoji = "❌"
                 }
-                watched_div.innerHTML += "<div class = 'row' style = 'margin-left: 15px; font-size: 16pt'><div style = 'width: 52px; margin-left: 5px'>" + j + ":</div><div style = 'width: 30px; text-align: center;'>" + emoji + "</div></div>"
+                watched_div.innerHTML += "<div class = 'row' style = 'margin-left: 15px; font-size: 16pt'><div style = 'width: 52px; margin-left: 5px'>" + j + ": </div><div style = 'width: 30px; text-align: center;'>" + emoji + "</div></div>"
             }
             
             platform_div = document.getElementById("info-platforms");
