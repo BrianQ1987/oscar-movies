@@ -392,15 +392,13 @@ async function renderMovies() {
 
         if (i == Object.keys(movies).length - 1) {
 
-            setTimeout(() => {
-                showing.innerHTML = "Displaying <strong>" + Object.keys(movies).length + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies";
-                moviesDiv.style.display = "flex";
-                document.getElementById("loading").style.display = "none";
-                button_load.style.display = "flex";
+            showing.innerHTML = "Displaying <strong>" + Object.keys(movies).length + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies";
+            moviesDiv.style.display = "flex";
+            document.getElementById("loading").style.display = "none";
+            button_load.style.display = "flex";
 
-                buttons.style.display = "flex";
-                button_load.style.display = "none";
-            }, 1000)
+            buttons.style.display = "flex";
+            button_load.style.display = "none";
             
         }
 
