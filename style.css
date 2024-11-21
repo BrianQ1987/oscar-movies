@@ -10,6 +10,20 @@
     
 }
 
+.poster img, #info-poster img, .cast img {
+  border-radius: 5px;
+  border: solid 1px white;
+}
+
+#info-poster {
+  padding-left: 20px;
+  padding-right: 10px;
+}
+
+#info-title-container {
+  margin-left: 5px;
+}
+
 .poster-title {
     position: absolute;
     text-align: center;
