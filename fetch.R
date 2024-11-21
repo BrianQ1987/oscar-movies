@@ -71,7 +71,7 @@ load_movies <- function() {
     movie$released <- data$release_date
     movie$duration <- data$runtime
     movie$imdb_id <- data$imdb_id
-    movie$vote_average <- data$vote_average
+    movie$vote_average <- as.character(data$vote_average)
     movie$overview <- data$overview
     
     movie$genres <- c()
