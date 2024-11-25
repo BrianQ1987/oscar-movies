@@ -33,9 +33,9 @@ filter_btn.onclick = function(event) {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    // if (document.getElementById("duration-filters")) {
+    //     filter_menu.removeChild(document.getElementById("duration-filters"))
+    // }
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -131,9 +131,7 @@ filter_show_all.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -148,6 +146,7 @@ filter_show_all.onmouseover = function () {
 filter_duration = document.getElementById("filter-duration");
 
 filter_duration.onmouseover = function () {
+
     if (document.getElementById("added-filters")) {
         filter_menu.removeChild(document.getElementById("added-filters"))
     }
@@ -160,10 +159,6 @@ filter_duration.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
-
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
     }
@@ -172,8 +167,9 @@ filter_duration.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
 
-    dur_div = document.createElement("div");
-    dur_div.id = "duration-filters";
+    dur_div = document.getElementById("duration-filters");
+    dur_div.style.display = "block";
+    //dur_div.id = "duration-filters";
 
     durations = [];
 
@@ -181,64 +177,48 @@ filter_duration.onmouseover = function () {
         durations.push(movies[Object.keys(movies)[i]].duration);
     }
 
-    max_length = Math.ceil(Math.max(...durations) / 30) * 30;
+    max_length = Math.max(...durations);    
+    min_length = Math.min(...durations);    
 
-    for (let i = 30; i <= max_length; i ++) {
+    let slider = document.getElementById("myRange");
+    slider.min = min_length;
+    slider.max = max_length;
+    slider.value = max_length;
 
-        if (i % 30 == 0) {
+    let output = document.getElementById("demo");
+    output.innerHTML = slider.value + " minutes"; // Display the default slider value
 
-            d_div = document.createElement("div");
-            d_div.classList.add("menu-item");
+    // Update the current slider value (each time you drag the slider handle)
+    slider.oninput = function() {
+        output.innerHTML = this.value + " minutes";
 
-            if (i == 30) {
-                d_div.textContent = "Under 30 mins";
-            } else if (i == 60) {
-                d_div.textContent = "Under 1 hour";
-            } else if (i == 90) {
-                d_div.textContent = "Under 1 hour 30 mins";
-            } else if (i % 60 == 0) {
-                d_div.textContent = "Under " + (i / 60) + " hours";
-            } else {
-                d_div.textContent = "Under " + ((i - 30) / 60) + " hours 30 mins"
-            }
-
-            dur_div.appendChild(d_div);
-
-            d_div.onclick = function () {
-
-                filter_menu.removeChild(dur_div);
-
-                for (let i = 0; i < filter_items.length; i ++) {
-                    filter_items[i].classList.remove("clicked")
-                }
-            
-                filter_duration.classList.add("clicked");
-
-                let count = 0;
-
-                for (let j = 0; j < Object.keys(movies).length; j ++) {
-
-                    movie = movies[Object.keys(movies)[j]];                
-                    
-                    if (movie.duration > i) {
-                        document.getElementById(movie.id).style.display = "none";
-                    } else {
-                        document.getElementById(movie.id).style.display = "flex";
-                        count += 1;
-                    }
-            
-                }
-
-                showing.innerHTML = "Displaying movies with a duration of <strong>"+ i + "</strong> minutes or shorter (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
-
-                filter_menu.style.display = "none";
-                filter_btn.classList.remove("clicked");
-            }
-
+        for (let i = 0; i < filter_items.length; i ++) {
+            filter_items[i].classList.remove("clicked")
         }
+
+        filter_duration.classList.add("clicked");
+
+        let count = 0;
+
+        for (let i = 0; i < Object.keys(movies).length; i ++) {
+
+            movie = movies[Object.keys(movies)[i]];
+            
+            if (movie.duration[0] > this.value) {
+                document.getElementById(movie.id).style.display = "none";
+            } else {
+                document.getElementById(movie.id).style.display = "flex";
+                count += 1;
+            }
+    
+        }
+
+        showing.innerHTML = "Displaying movies with a duration of <strong>"+ this.value + "</strong> minutes or shorter (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
     }
 
-    filter_menu.appendChild(dur_div);
+    document.getElementById("ok").onclick = function () {
+        filter_menu.style.display = "none";
+    }
 
 }
 
@@ -258,9 +238,7 @@ filter_release.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -345,9 +323,7 @@ filter_added.onmouseover = function() {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -418,9 +394,7 @@ filter_watched.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -491,9 +465,7 @@ filter_last.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -597,9 +569,7 @@ filter_no_watch.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
@@ -626,9 +596,7 @@ filter_platform.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("last-filters"))
     }
 
-    if (document.getElementById("duration-filters")) {
-        filter_menu.removeChild(document.getElementById("duration-filters"))
-    }
+    document.getElementById("duration-filters").style.display = "none";
 
     if (document.getElementById("release-filters")) {
         filter_menu.removeChild(document.getElementById("release-filters"))
