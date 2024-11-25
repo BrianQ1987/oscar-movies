@@ -268,35 +268,35 @@ h2 {
 
   #added-filters {
     margin-left: 160px;
-    margin-top: -200px;
+    margin-top: -320px;
   }
 
   #watched-filters {
     margin-left: 160px;
-    margin-top: -160px;
+    margin-top: -320px;
   }
 
 
   #last-filters {
     margin-left: 160px;
-    margin-top: -120px;
+    margin-top: -320px;
   }
 
   #duration-filters {
     margin-left: 160px;
-    margin-top: -280px;
+    margin-top: -320px;
     padding-bottom: 40px;
     background-color: #343a40;
   }
 
   #release-filters {
     margin-left: 160px;
-    margin-top: -240px;
+    margin-top: -320px;
   }
 
   #platform-filters {
     margin-left: 160px;
-    margin-top: -40px;
+    margin-top: -320px;
   }
 
   #movies {
