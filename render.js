@@ -146,8 +146,6 @@ async function renderMovies() {
 
                 let score = movie[site_score][0];
 
-                console.log(score);
-
                 let pie = document.createElement("div");
                 pie.classList.add("pie");
                 pie.classList.add("pie1");
