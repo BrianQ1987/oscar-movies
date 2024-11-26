@@ -435,7 +435,7 @@ const handleOnScroll = () => {
         back_to_start.classList.add("hidden");
     }
     
-    if (scrollElement().scrollTop > 20) {
+    if (scrollElement().scrollTop > 0) {
         filter_menu.style.display = "none";
         sort_menu.style.display = "none";
     }
