@@ -434,6 +434,11 @@ const handleOnScroll = () => {
     } else {
         back_to_start.classList.add("hidden");
     }
+    
+    if (scrollElement().scrollTop > 20) {
+        filter_menu.style.display = "none";
+        sort_menu.style.display = "none";
+    }
 }
 
 back_to_start.onclick = goStart;
