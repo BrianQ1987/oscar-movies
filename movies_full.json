@@ -883,7 +883,7 @@
     "released": ["2011-11-10"],
     "duration": [97],
     "imdb_id": ["tt1430607"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.763"],
     "overview": ["Each Christmas, Santa and his vast army of highly trained elves produce gifts and distribute them around the world in one night. However, when one of 600 million children to receive a gift from Santa on Christmas Eve is missed, it is deemed ‘acceptable’ to all but one—Arthur. Arthur Claus is Santa’s misfit son who executes an unauthorised rookie mission to get the last present half way around the globe before dawn on Christmas morning."],
     "genres": ["Drama", "Animation", "Family", "Comedy"],
     "imdb_score": ["7.1/10"],
@@ -3406,7 +3406,7 @@
     "vote_average": ["7"],
     "overview": ["An office clerk loves entering contests in the hopes of someday winning a fortune and marrying the girl he loves. His latest attempt is the Maxford House Coffee Slogan Contest. As a joke, some of his co-workers put together a fake telegram which says that he won the $25,000 grand prize."],
     "genres": ["Comedy", "Romance"],
-    "imdb_score": ["7.4/10"],
+    "imdb_score": ["7.3/10"],
     "rt_score": ["95%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
@@ -3424,7 +3424,7 @@
       },
       "Raymond Walburn": {
         "id": [89673],
-        "character": ["Mr Maxford"],
+        "character": ["Dr. Maxford"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/16ZJm2BU4vrv1Q5OBJLkTfwTDhb.jpg"]
       },
       "Alexander Carr": {
@@ -3444,13 +3444,8 @@
       },
       "Franklin Pangborn": {
         "id": [13966],
-        "character": ["Radio Announcer"],
+        "character": ["Don Hartman - Radio Announcer"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/dwVc1uGVVIhg7aplx7HLBmyObky.jpg"]
-      },
-      "Harry Hayden": {
-        "id": [103068],
-        "character": ["Mr. Waterbury"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/vI8i4TS6egKqXOqQrUQaBmP0mUq.jpg"]
       },
       "Rod Cameron": {
         "id": [58217],
@@ -3509,7 +3504,7 @@
       },
       "Sam Ash": {
         "id": [590519],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/idVDeyVnvJsbdzzPw0VQU0KcjZy.jpg"]
       },
       "Jan Buckingham": {
@@ -3534,8 +3529,13 @@
       },
       "Norah Gale": {
         "id": [1422178],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
+      },
+      "Harry Hayden": {
+        "id": [103068],
+        "character": ["Mr. Waterbury (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/vI8i4TS6egKqXOqQrUQaBmP0mUq.jpg"]
       },
       "Harry Hollingsworth": {
         "id": [1439914],
@@ -3552,6 +3552,11 @@
         "character": ["Cashier (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/99QX4bAx0A0glLTNmD7iG1u6Lma.jpg"]
       },
+      "Tiny Jones": {
+        "id": [1271204],
+        "character": ["Neighborhood Woman (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
+      },
       "Stanley Mack": {
         "id": [148542],
         "character": ["Juror (uncredited)"],
@@ -3559,17 +3564,17 @@
       },
       "Hazel Marshall": {
         "id": [1667337],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
       },
       "Bob Mayo": {
         "id": [1667338],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
       },
       "Eileen McAvoy": {
         "id": [1667339],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
       },
       "Esther Michelson": {
@@ -3591,6 +3596,11 @@
         "id": [103932],
         "character": ["Patrolman Murphy (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/9pPXH8SpCPMwuj63rnbsTsRTEMn.jpg"]
+      },
+      "Barry Norton": {
+        "id": [148852],
+        "character": ["Co-Worker in Office (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nguhCb1NDANgok4uFmv4gjw1X0c.jpg"]
       },
       "Ned Norton": {
         "id": [227462],
@@ -3669,7 +3679,7 @@
       },
       "Alice Thomas": {
         "id": [1667359],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
       },
       "Fred 'Snowflake' Toones": {
@@ -3677,14 +3687,19 @@
         "character": ["Sam (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/ln1te8Hh26rrbP8chktKEFLT6ol.jpg"]
       },
+      "Dale Van Sickel": {
+        "id": [34094],
+        "character": ["Co-Worker in Office (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/diCCqzyD7RcMWgCnQYjtwE5ORcs.jpg"]
+      },
       "Cheryl Walker": {
         "id": [1029006],
-        "character": ["(uncredited)"],
+        "character": ["Secretary (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/iVSKNr0rv71OiIjV9JC2FcpvpHe.jpg"]
       },
       "Dorothy Ward": {
         "id": [1205499],
-        "character": ["(uncredited)"],
+        "character": ["Minor Role (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/40TdSlUSytEPwZULC8zQvoMMIBB.jpg"]
       },
       "Robert Warwick": {
@@ -3701,16 +3716,6 @@
         "id": [112357],
         "character": ["Chinese Man Listening to Radio (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
-      },
-      "Barry Norton": {
-        "id": [148852],
-        "character": ["Co-Worker in Office (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/nguhCb1NDANgok4uFmv4gjw1X0c.jpg"]
-      },
-      "Dale Van Sickel": {
-        "id": [34094],
-        "character": ["Co-Worker in Office (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/diCCqzyD7RcMWgCnQYjtwE5ORcs.jpg"]
       }
     }
   },
@@ -4480,7 +4485,7 @@
       "M. Emmet Walsh": {
         "id": [588],
         "character": ["Walt Scheel"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/d9XViKO9AELfSvUZAwzaXMkrGxl.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/7qhQ8VZ8cFHV5c5y1GQ9ISTxwQZ.jpg"]
       },
       "Elizabeth Franz": {
         "id": [138242],
@@ -5394,7 +5399,7 @@
     "released": ["1988-07-15"],
     "duration": [132],
     "imdb_id": ["tt0095016"],
-    "vote_average": ["7.793"],
+    "vote_average": ["7.8"],
     "overview": ["NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down."],
     "genres": ["Action", "Thriller"],
     "imdb_score": ["8.2/10"],
@@ -6443,7 +6448,7 @@
     "released": ["2023-11-30"],
     "duration": [106],
     "imdb_id": ["tt14227048"],
-    "vote_average": ["6.398"],
+    "vote_average": ["6.4"],
     "overview": ["When the Walker family members switch bodies with each other during a rare planetary alignment, their hilarious journey to find their way back to normal will bring them closer together than they ever thought possible."],
     "genres": ["Comedy", "Fantasy", "Family"],
     "imdb_score": ["5.7/10"],
@@ -9708,7 +9713,7 @@
     "released": ["2020-10-27"],
     "duration": [104],
     "imdb_id": ["tt9866072"],
-    "vote_average": ["7.023"],
+    "vote_average": ["7.022"],
     "overview": ["Fed up with being single on holidays, two strangers agree to be each other's platonic plus-ones all year long, only to catch real feelings along the way."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.2/10"],
@@ -9915,7 +9920,7 @@
     "released": ["2006-12-08"],
     "duration": [136],
     "imdb_id": ["tt0457939"],
-    "vote_average": ["7.092"],
+    "vote_average": ["7.1"],
     "overview": ["Two women, one from the United States and one from the United Kingdom, swap homes at Christmas time after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.0/10"],
@@ -11835,9 +11840,9 @@
     "poster_path": ["https://image.tmdb.org/t/p/w1280/uxn8xD43cHrTxiS9qXjAkezRyGt.jpg"],
     "title": ["Hot Frosty"],
     "released": ["2024-11-12"],
-    "duration": [92],
+    "duration": [90],
     "imdb_id": ["tt32359447"],
-    "vote_average": ["6.402"],
+    "vote_average": ["6.398"],
     "overview": ["When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?"],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.6/10"],
@@ -11988,7 +11993,7 @@
     "released": ["2000-11-17"],
     "duration": [104],
     "imdb_id": ["tt0170016"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.762"],
     "overview": ["The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.3/10"],
@@ -15129,7 +15134,7 @@
     "released": ["2019-11-07"],
     "duration": [102],
     "imdb_id": ["tt8623904"],
-    "vote_average": ["7.2"],
+    "vote_average": ["7.241"],
     "overview": ["Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.5/10"],
@@ -15607,7 +15612,7 @@
     "released": ["1933-11-24"],
     "duration": [115],
     "imdb_id": ["tt0024264"],
-    "vote_average": ["6.729"],
+    "vote_average": ["6.7"],
     "overview": ["Little Women is a coming-of-age drama tracing the lives of four sisters: Meg, Jo, Beth and Amy. During the American Civil War, the girls father is away serving as a minister to the troops. The family, headed by their beloved Marmee, must struggle to make ends meet, with the help of their kind and wealthy neighbor, Mr. Laurence, and his high spirited grandson Laurie."],
     "genres": ["Drama", "Family"],
     "imdb_score": ["7.2/10"],
@@ -16554,7 +16559,7 @@
     "released": ["2003-09-07"],
     "duration": [135],
     "imdb_id": ["tt0314331"],
-    "vote_average": ["7.116"],
+    "vote_average": ["7.1"],
     "overview": ["Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be."],
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": ["7.6/10"],
@@ -17196,7 +17201,7 @@
     "released": ["2021-11-05"],
     "duration": [105],
     "imdb_id": ["tt10752004"],
-    "vote_average": ["7"],
+    "vote_average": ["6.959"],
     "overview": ["An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she's been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.3/10"],
@@ -17620,7 +17625,7 @@
     "released": ["2024-11-05"],
     "duration": [105],
     "imdb_id": ["tt20502488"],
-    "vote_average": ["6.398"],
+    "vote_average": ["6.4"],
     "overview": ["On a quest to meet the man of her dreams, a hopeless romantic races across New York City to find a ticket to a sold-out Pentatonix Christmas concert."],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.5/10"],
@@ -17814,7 +17819,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
+    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -21984,7 +21989,7 @@
     "released": ["2004-11-10"],
     "duration": [100],
     "imdb_id": ["tt0338348"],
-    "vote_average": ["6.719"],
+    "vote_average": ["6.7"],
     "overview": ["When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."],
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
     "imdb_score": ["6.6/10"],
@@ -26680,7 +26685,7 @@
     "released": ["2015-07-10"],
     "duration": [87],
     "imdb_id": ["tt3824458"],
-    "vote_average": ["6.9"],
+    "vote_average": ["6.912"],
     "overview": ["It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.1/10"],
@@ -28522,7 +28527,7 @@
     "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": [113284],
