@@ -214,6 +214,9 @@ filter_duration.onmouseover = function () {
         }
 
         showing.innerHTML = "Displaying movies with a duration of <strong>"+ this.value + "</strong> minutes or shorter (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
+
+        const value = (this.value - this.min) / (this.max - this.min) * 100; // Normalize value to 0-100%
+        this.style.setProperty('--value', `${value}%`);
     }
 
     document.getElementById("ok").onclick = function () {

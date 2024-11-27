@@ -287,6 +287,7 @@ h2 {
     margin-top: -320px;
     padding-bottom: 40px;
     background-color: #343a40;
+    border: solid 1px #333333;
   }
 
   #release-filters {
@@ -415,7 +416,8 @@ h2 {
   appearance: none;
   width: 100%; /* Full-width */
   height: 25px; /* Specified height */
-  background: #d3d3d3; /* Grey background */
+  /* background: #d3d3d3; /* Grey background */
+  background: linear-gradient(to right, #008000 0%, #008000 var(--value, 100%), #d3d3d3 var(--value, 100%), #d3d3d3 100%);
   outline: none; /* Remove outline */
   opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
   -webkit-transition: .2s; /* 0.2 seconds transition on hover */
