@@ -5741,7 +5741,7 @@
     "released": ["2003-10-09"],
     "duration": [97],
     "imdb_id": ["tt0319343"],
-    "vote_average": ["6.655"],
+    "vote_average": ["6.7"],
     "overview": ["When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."],
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": ["7.1/10"],
@@ -7439,7 +7439,7 @@
   "Fred Claus": {
     "id": [5375],
     "plex": [true],
-    "watched": [2020],
+    "watched": [2020, 2024],
     "added": [2020],
     "poster_path": ["https://image.tmdb.org/t/p/w1280/9gATbvoRMxVeoHInwS8nR0KZMVc.jpg"],
     "title": ["Fred Claus"],
@@ -8600,7 +8600,7 @@
     "released": ["2018-11-08"],
     "duration": [85],
     "imdb_id": ["tt2709692"],
-    "vote_average": ["6.86"],
+    "vote_average": ["6.9"],
     "overview": ["The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration."],
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.4/10"],
@@ -9472,7 +9472,7 @@
     "released": ["2023-10-27"],
     "duration": [133],
     "imdb_id": ["tt14849194"],
-    "vote_average": ["7.7"],
+    "vote_average": ["7.719"],
     "overview": ["A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.9/10"],
@@ -10729,7 +10729,7 @@
     "released": ["1990-11-16"],
     "duration": [103],
     "imdb_id": ["tt0099785"],
-    "vote_average": ["7.4"],
+    "vote_average": ["7.436"],
     "overview": ["Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin's house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before Christmas Day."],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["7.7/10"],
@@ -11476,7 +11476,7 @@
       "Anne Bancroft": {
         "id": [10774],
         "character": ["Adele Larson"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/ydabiabIsMBe2HsNmx43gBpqzxx.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/6Y27YC9CLtY97OaSXadAdIiAyt1.jpg"]
       },
       "Charles Durning": {
         "id": [1466],
@@ -11842,7 +11842,7 @@
     "released": ["2024-11-12"],
     "duration": [90],
     "imdb_id": ["tt32359447"],
-    "vote_average": ["6.5"],
+    "vote_average": ["6.48"],
     "overview": ["When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?"],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.6/10"],
@@ -14348,7 +14348,7 @@
     "released": ["2020-11-06"],
     "duration": [122],
     "imdb_id": ["tt7736496"],
-    "vote_average": ["6.596"],
+    "vote_average": ["6.6"],
     "overview": ["An imaginary world comes to life in a holiday tale of an eccentric toymaker, his adventurous granddaughter, and a magical invention that has the power to change their lives forever."],
     "genres": ["Family", "Fantasy", "Music"],
     "imdb_score": ["6.4/10"],
@@ -15144,7 +15144,7 @@
     "released": ["2019-11-07"],
     "duration": [102],
     "imdb_id": ["tt8623904"],
-    "vote_average": ["7.24"],
+    "vote_average": ["7.241"],
     "overview": ["Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.5/10"],
@@ -15167,7 +15167,7 @@
       "Michelle Yeoh": {
         "id": [1620],
         "character": ["Santa"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/klATAW2KEfV2Glm5uhWAhJWt2ip.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/v74Mkt4dml2LhUv7IfPvBfZFTrV.jpg"]
       },
       "Emma Thompson": {
         "id": [7056],
@@ -16569,7 +16569,7 @@
     "released": ["2003-09-07"],
     "duration": [135],
     "imdb_id": ["tt0314331"],
-    "vote_average": ["7.1"],
+    "vote_average": ["7.116"],
     "overview": ["Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be."],
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": ["7.6/10"],
@@ -21999,7 +21999,7 @@
     "released": ["2004-11-10"],
     "duration": [100],
     "imdb_id": ["tt0338348"],
-    "vote_average": ["6.721"],
+    "vote_average": ["6.7"],
     "overview": ["When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."],
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
     "imdb_score": ["6.6/10"],
@@ -22298,7 +22298,7 @@
       "Denzel Washington": {
         "id": [5292],
         "character": ["Dudley"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/47nwbyEq5KWOhrP8zkHTwXv7Vd1.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"]
       },
       "Whitney Houston": {
         "id": [8851],
@@ -24132,18 +24132,13 @@
     "cast": {
       "Tim Allen": {
         "id": [12898],
-        "character": ["Scott Calvin"],
+        "character": ["Santa / Scott Calvin"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/woWhZzFILVhYMAvsPL171HjMY0y.jpg"]
       },
       "Elizabeth Mitchell": {
         "id": [31167],
-        "character": ["Carol"],
+        "character": ["Mrs. Claus / Carol"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/pc6ppASeLM9UU6FKXcKbG629ptX.jpg"]
-      },
-      "Eric Lloyd": {
-        "id": [27564],
-        "character": ["Charlie Calvin"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/nr2lneir9Hgk6wxhKLhW2dEx9QS.jpg"]
       },
       "Judge Reinhold": {
         "id": [777],
@@ -24155,6 +24150,16 @@
         "character": ["Laura Miller"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/hj4mm0TCtXoA66Ed3G78qWVBg7l.jpg"]
       },
+      "Ann-Margret": {
+        "id": [13567],
+        "character": ["Sylvia Newman"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/7cq76gMW4Mal5cctMLCK8wilJ6.jpg"]
+      },
+      "Eric Lloyd": {
+        "id": [27564],
+        "character": ["Charlie"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nr2lneir9Hgk6wxhKLhW2dEx9QS.jpg"]
+      },
       "Spencer Breslin": {
         "id": [35654],
         "character": ["Curtis"],
@@ -24165,20 +24170,15 @@
         "character": ["Lucy Miller"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/rjwfUdZYb1P7y2DR8pekZ5tusHZ.jpg"]
       },
-      "Martin Short": {
-        "id": [519],
-        "character": ["Jack Frost"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"]
-      },
-      "Ann-Margret": {
-        "id": [13567],
-        "character": ["Sylvia Newman"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/7cq76gMW4Mal5cctMLCK8wilJ6.jpg"]
-      },
       "Alan Arkin": {
         "id": [1903],
         "character": ["Bud Newman"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"]
+      },
+      "Martin Short": {
+        "id": [519],
+        "character": ["Jack Frost"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/vWoZIOk7K8TSKu1IN90akswsWjZ.jpg"]
       },
       "Abigail Breslin": {
         "id": [17140],
