@@ -9,7 +9,7 @@
     "released": ["2021-11-24"],
     "duration": [98],
     "imdb_id": ["tt11540284"],
-    "vote_average": ["6.4"],
+    "vote_average": ["6.387"],
     "overview": ["In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.7/10"],
@@ -6144,7 +6144,7 @@
     "released": ["2022-11-10"],
     "duration": [95],
     "imdb_id": ["tt14715170"],
-    "vote_average": ["6.2"],
+    "vote_average": ["6.239"],
     "overview": ["An engaged, spoiled hotel heiress finds herself in the care of a handsome, blue-collar lodge owner and his precocious daughter after getting amnesia in a skiing accident."],
     "genres": ["Romance", "Comedy", "Family"],
     "imdb_score": ["5.2/10"],
@@ -9713,7 +9713,7 @@
     "released": ["2020-10-27"],
     "duration": [104],
     "imdb_id": ["tt9866072"],
-    "vote_average": ["7.018"],
+    "vote_average": ["7.017"],
     "overview": ["Fed up with being single on holidays, two strangers agree to be each other's platonic plus-ones all year long, only to catch real feelings along the way."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.2/10"],
@@ -9920,7 +9920,7 @@
     "released": ["2006-12-08"],
     "duration": [136],
     "imdb_id": ["tt0457939"],
-    "vote_average": ["7.1"],
+    "vote_average": ["7.092"],
     "overview": ["Two women, one from the United States and one from the United Kingdom, swap homes at Christmas time after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.0/10"],
@@ -12003,7 +12003,7 @@
     "released": ["2000-11-17"],
     "duration": [104],
     "imdb_id": ["tt0170016"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.762"],
     "overview": ["The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.3/10"],
@@ -13866,7 +13866,7 @@
     "released": ["1996-11-21"],
     "duration": [89],
     "imdb_id": ["tt0116705"],
-    "vote_average": ["6"],
+    "vote_average": ["6.04"],
     "overview": ["Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure."],
     "genres": ["Family", "Comedy", "Adventure"],
     "imdb_score": ["5.7/10"],
@@ -17635,7 +17635,7 @@
     "released": ["2024-11-05"],
     "duration": [105],
     "imdb_id": ["tt20502488"],
-    "vote_average": ["6.413"],
+    "vote_average": ["6.41"],
     "overview": ["On a quest to meet the man of her dreams, a hopeless romantic races across New York City to find a ticket to a sold-out Pentatonix Christmas concert."],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.5/10"],
@@ -17829,7 +17829,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -18555,7 +18555,7 @@
     "released": ["1994-11-18"],
     "duration": [114],
     "imdb_id": ["tt0110527"],
-    "vote_average": ["6.744"],
+    "vote_average": ["6.7"],
     "overview": ["Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in."],
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": ["6.6/10"],
@@ -22286,7 +22286,7 @@
     "released": ["1996-12-13"],
     "duration": [123],
     "imdb_id": ["tt0117372"],
-    "vote_average": ["5.762"],
+    "vote_average": ["5.764"],
     "overview": ["Good-natured Reverend Henry Biggs finds that his marriage to choir mistress Julia is flagging, due to his constant absence caring for the deprived neighborhood they live in. On top of all this, his church is coming under threat from property developer Joe Hamilton. In desperation, Biggs prays to God for help – which arrives in the form of an angel named Dudley."],
     "genres": ["Family", "Fantasy", "Drama", "Comedy", "Romance"],
     "imdb_score": ["5.7/10"],
@@ -22497,7 +22497,7 @@
     "released": ["2010-12-03"],
     "duration": [83],
     "imdb_id": ["tt1401143"],
-    "vote_average": ["6.233"],
+    "vote_average": ["6.2"],
     "overview": ["Young Pietari lives with his reindeer-herding father in arctic Finland. On the eve of Christmas, a nearby excavation makes a frightening discovery and an evil Santa Claus is unleashed…"],
     "genres": ["Fantasy", "Horror"],
     "imdb_score": ["6.6/10"],
@@ -22674,7 +22674,7 @@
     "released": ["2024-10-31"],
     "duration": [124],
     "imdb_id": ["tt14948432"],
-    "vote_average": ["6.6"],
+    "vote_average": ["6.646"],
     "overview": ["After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas."],
     "genres": ["Action", "Comedy", "Fantasy"],
     "rt_score": ["32%"],
@@ -23835,12 +23835,22 @@
     "cast": {
       "Tim Allen": {
         "id": [12898],
-        "character": ["Scott Calvin"],
+        "character": ["Scott Calvin / Santa / Toy Santa"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/woWhZzFILVhYMAvsPL171HjMY0y.jpg"]
+      },
+      "Judge Reinhold": {
+        "id": [777],
+        "character": ["Neil Miller"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/32vDeWirlvVtvIM2nTvUZCVNtXW.jpg"]
+      },
+      "Wendy Crewson": {
+        "id": [19957],
+        "character": ["Laura Miller"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/hj4mm0TCtXoA66Ed3G78qWVBg7l.jpg"]
       },
       "Elizabeth Mitchell": {
         "id": [31167],
-        "character": ["Carol Newman"],
+        "character": ["Carol"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/pc6ppASeLM9UU6FKXcKbG629ptX.jpg"]
       },
       "David Krumholtz": {
@@ -23852,16 +23862,6 @@
         "id": [27564],
         "character": ["Charlie Calvin"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/nr2lneir9Hgk6wxhKLhW2dEx9QS.jpg"]
-      },
-      "Judge Reinhold": {
-        "id": [777],
-        "character": ["Neil Miller"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/32vDeWirlvVtvIM2nTvUZCVNtXW.jpg"]
-      },
-      "Wendy Crewson": {
-        "id": [19957],
-        "character": ["Laura Miller"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/hj4mm0TCtXoA66Ed3G78qWVBg7l.jpg"]
       },
       "Spencer Breslin": {
         "id": [35654],
@@ -24018,6 +24018,11 @@
         "character": ["Teacher"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/5mL9qQsj0FJYI8BtskOsjC8l1qd.jpg"]
       },
+      "Beatrice Zeilinger": {
+        "id": [87737],
+        "character": ["Teacher"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/uXASYYMczrmktpe3sVlHeDT6Qdd.jpg"]
+      },
       "Michael P. Northey": {
         "id": [1368537],
         "character": ["Teacher"],
@@ -24058,55 +24063,50 @@
         "character": ["Comet (voice)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"]
       },
-      "Nicola Anderson": {
-        "id": [87738],
-        "character": ["Blind Date (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/vf6PJiaiGQ6bEXStRW8FQgNopRe.jpg"]
-      },
-      "Anysha Berthot": {
-        "id": [1414751],
-        "character": ["Molly Elf (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg"]
-      },
       "Peter Boyle": {
         "id": [1039],
         "character": ["Father Time (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/6TapQmC46mPDYrwm67tyJaEM97I.jpg"]
+      },
+      "Nicola Anderson": {
+        "id": [87738],
+        "character": ["Blind Date (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/vf6PJiaiGQ6bEXStRW8FQgNopRe.jpg"]
       },
       "Caroline Chan": {
         "id": [86763],
         "character": ["Elf (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/xifbkuBF7I0ZdvVRBPjSBhcQiCC.jpg"]
       },
+      "Connor Matheus": {
+        "id": [1213527],
+        "character": ["Elf (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/5Vt8Bx0Av0D2G3Gq55CoyY1VqO9.jpg"]
+      },
       "Myles Jeffrey": {
         "id": [11157],
         "character": ["Elf (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/3D8ezh66uMbJBuKbXKZmQibsrnX.jpg"]
       },
-      "Connor Matheus": {
-        "id": [1213527],
+      "Patrick Dorn": {
+        "id": [3870879],
         "character": ["Elf (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/5Vt8Bx0Av0D2G3Gq55CoyY1VqO9.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg"]
       },
       "Valerie Tian": {
         "id": [82791],
         "character": ["Elf (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/znUa1enmheF0mvHPIw8upy54ay.jpg"]
       },
-      "Beatrice Zeilinger": {
-        "id": [87737],
-        "character": ["Teacher"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/uXASYYMczrmktpe3sVlHeDT6Qdd.jpg"]
+      "Anysha Berthot": {
+        "id": [1414751],
+        "character": ["Molly Elf (uncredited)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg"]
       },
       "Vinicius Zorin-Machado": {
         "id": [1221119],
         "character": ["Restaurant Patron (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tBNRr4wV9UgVxQKoeqztJimg9gN.jpg"]
-      },
-      "Patrick Dorn": {
-        "id": [3870879],
-        "character": ["Elf (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/2EAMkz0z1pbr9weOY1Y7buy2AxV.jpg"]
       }
     }
   },
@@ -24942,7 +24942,7 @@
     "released": ["1988-11-22"],
     "duration": [101],
     "imdb_id": ["tt0096061"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.801"],
     "overview": ["Frank Cross is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing a staff member on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past."],
     "genres": ["Fantasy", "Comedy", "Drama"],
     "imdb_score": ["6.9/10"],
@@ -28567,7 +28567,7 @@
     "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": [113284],
