@@ -277,7 +277,7 @@
     "imdb_score": ["6.4/10"],
     "rt_score": ["63%"],
     "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Marius Weisberg"],
     "cast": {
       "Emma Roberts": {
@@ -393,7 +393,7 @@
     "imdb_score": ["5.9/10"],
     "rt_score": ["7%"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Rob Lieberman"],
     "cast": {
       "Harley Jane Kozak": {
@@ -883,7 +883,7 @@
     "released": ["2011-11-10"],
     "duration": [97],
     "imdb_id": ["tt1430607"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.764"],
     "overview": ["Each Christmas, Santa and his vast army of highly trained elves produce gifts and distribute them around the world in one night. However, when one of 600 million children to receive a gift from Santa on Christmas Eve is missed, it is deemed ‘acceptable’ to all but one—Arthur. Arthur Claus is Santa’s misfit son who executes an unauthorised rookie mission to get the last present half way around the globe before dawn on Christmas morning."],
     "genres": ["Drama", "Animation", "Family", "Comedy"],
     "imdb_score": ["7.1/10"],
@@ -1138,7 +1138,7 @@
     "released": ["2003-11-26"],
     "duration": [92],
     "imdb_id": ["tt0307987"],
-    "vote_average": ["6.536"],
+    "vote_average": ["6.5"],
     "overview": ["A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid."],
     "genres": ["Drama", "Comedy", "Crime"],
     "imdb_score": ["7.0/10"],
@@ -1716,7 +1716,7 @@
     "rt_score": ["85%"],
     "meta_score": ["73/100"],
     "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Henry Koster"],
     "cast": {
       "Cary Grant": {
@@ -3460,7 +3460,7 @@
       "Harry Rosenthal": {
         "id": [986013],
         "character": ["Harry"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/kbu3N6dIRO6UjKFrPJsx0KQU9QR.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/75cALt2tLH34s6E4Coqbpjc4TiZ.jpg"]
       },
       "Georgia Caine": {
         "id": [1176930],
@@ -3729,14 +3729,14 @@
     "released": ["1983-11-18"],
     "duration": [93],
     "imdb_id": ["tt0085334"],
-    "vote_average": ["7.247"],
+    "vote_average": ["7.245"],
     "overview": ["The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s."],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["7.9/10"],
     "rt_score": ["89%"],
     "meta_score": ["77/100"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Bob Clark"],
     "cast": {
       "Peter Billingsley": {
@@ -4831,7 +4831,7 @@
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": ["6.8/10"],
     "platforms": ["BBC iPlayer", "Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Ben Palmer"],
     "cast": {
       "Asim Chaudhry": {
@@ -5129,7 +5129,7 @@
     "rt_score": ["6%"],
     "meta_score": ["28/100"],
     "platforms": ["Disney Plus", "Amazon Prime Video"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["John Whitesell"],
     "cast": {
       "Danny DeVito": {
@@ -5157,6 +5157,16 @@
         "character": ["Madison Finch"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg"]
       },
+      "Fred Armisen": {
+        "id": [61110],
+        "character": ["Gustave"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nLMCRlt0MV2uu4KPbDPDNsPWfBG.jpg"]
+      },
+      "Jorge Garcia": {
+        "id": [1215525],
+        "character": ["Wallace"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg"]
+      },
       "Dylan Blue": {
         "id": [61179],
         "character": ["Carter Finch"],
@@ -5172,15 +5182,10 @@
         "character": ["Emily Hall"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/9U8xf7w6rG7d6lzyOl2IpC35BQW.jpg"]
       },
-      "Jorge Garcia": {
-        "id": [1215525],
-        "character": ["Wallace"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/fcAzP3fCI2sOV8APKe0KFmG66uB.jpg"]
-      },
-      "Fred Armisen": {
-        "id": [61110],
-        "character": ["Gustave"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/nLMCRlt0MV2uu4KPbDPDNsPWfBG.jpg"]
+      "Sean O'Bryan": {
+        "id": [33836],
+        "character": ["Mayor Young"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"]
       },
       "Gillian Vigman": {
         "id": [61182],
@@ -5192,12 +5197,7 @@
         "character": ["Bob Murray"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/r3RgxhKxMl2HlDcA9n0nEWU0znO.jpg"]
       },
-      "Sean O'Bryan": {
-        "id": [33836],
-        "character": ["Mayor Young"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/nS6ZEJvn6O7FCNcDSeIFfbwpW03.jpg"]
-      },
-      "Su-chin Pak": {
+      "SuChin Pak": {
         "id": [61184],
         "character": ["Self"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/fuJqhE5VWrCAGlLBpQRgQ8VmVlc.jpg"]
@@ -5399,7 +5399,7 @@
     "released": ["1988-07-15"],
     "duration": [132],
     "imdb_id": ["tt0095016"],
-    "vote_average": ["7.793"],
+    "vote_average": ["7.8"],
     "overview": ["NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down."],
     "genres": ["Action", "Thriller"],
     "imdb_score": ["8.2/10"],
@@ -6144,7 +6144,7 @@
     "released": ["2022-11-10"],
     "duration": [95],
     "imdb_id": ["tt14715170"],
-    "vote_average": ["6.239"],
+    "vote_average": ["6.2"],
     "overview": ["An engaged, spoiled hotel heiress finds herself in the care of a handsome, blue-collar lodge owner and his precocious daughter after getting amnesia in a skiing accident."],
     "genres": ["Romance", "Comedy", "Family"],
     "imdb_score": ["5.2/10"],
@@ -8600,14 +8600,14 @@
     "released": ["2018-11-08"],
     "duration": [85],
     "imdb_id": ["tt2709692"],
-    "vote_average": ["6.862"],
+    "vote_average": ["6.861"],
     "overview": ["The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration."],
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.4/10"],
     "rt_score": ["60%"],
     "meta_score": ["51/100"],
-    "platforms": ["Plex"],
-    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Yarrow Cheney", "Scott Mosier"],
     "cast": {
       "Benedict Cumberbatch": {
@@ -9242,7 +9242,7 @@
     "rt_score": ["76%"],
     "meta_score": ["70/100"],
     "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Joe Swanberg"],
     "cast": {
       "Anna Kendrick": {
@@ -9405,7 +9405,7 @@
   "The Heist Before Christmas": {
     "id": [656995],
     "plex": [true],
-    "watched": [],
+    "watched": [2024],
     "added": [2023],
     "poster_path": ["https://image.tmdb.org/t/p/w1280/qQFl8UBxGhLrPZDgFpPUKEWBsbP.jpg"],
     "title": ["The Heist Before Christmas"],
@@ -9920,14 +9920,14 @@
     "released": ["2006-12-08"],
     "duration": [136],
     "imdb_id": ["tt0457939"],
-    "vote_average": ["7.091"],
+    "vote_average": ["7.09"],
     "overview": ["Two women, one from the United States and one from the United Kingdom, swap homes at Christmas time after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.0/10"],
     "rt_score": ["51%"],
     "meta_score": ["52/100"],
     "platforms": ["Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Nancy Meyers"],
     "cast": {
       "Cameron Diaz": {
@@ -10729,7 +10729,7 @@
     "released": ["1990-11-16"],
     "duration": [103],
     "imdb_id": ["tt0099785"],
-    "vote_average": ["7.437"],
+    "vote_average": ["7.4"],
     "overview": ["Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin's house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before Christmas Day."],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["7.7/10"],
@@ -11051,7 +11051,7 @@
     "released": ["1992-11-15"],
     "duration": [120],
     "imdb_id": ["tt0104431"],
-    "vote_average": ["6.746"],
+    "vote_average": ["6.7"],
     "overview": ["Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve."],
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": ["6.9/10"],
@@ -12003,7 +12003,7 @@
     "released": ["2000-11-17"],
     "duration": [104],
     "imdb_id": ["tt0170016"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.762"],
     "overview": ["The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.3/10"],
@@ -13259,14 +13259,14 @@
     "released": ["1946-12-20"],
     "duration": [130],
     "imdb_id": ["tt0038650"],
-    "vote_average": ["8.271"],
+    "vote_average": ["8.3"],
     "overview": ["A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."],
     "genres": ["Drama", "Family", "Fantasy"],
     "imdb_score": ["8.6/10"],
     "rt_score": ["94%"],
     "meta_score": ["89/100"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Frank Capra"],
     "cast": {
       "James Stewart": {
@@ -13866,7 +13866,7 @@
     "released": ["1996-11-21"],
     "duration": [89],
     "imdb_id": ["tt0116705"],
-    "vote_average": ["6.04"],
+    "vote_average": ["6"],
     "overview": ["Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure."],
     "genres": ["Family", "Comedy", "Adventure"],
     "imdb_score": ["5.7/10"],
@@ -15151,7 +15151,7 @@
     "rt_score": ["46%"],
     "meta_score": ["50/100"],
     "platforms": ["BBC iPlayer", "Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Paul Feig"],
     "cast": {
       "Emilia Clarke": {
@@ -15857,7 +15857,7 @@
     "imdb_score": ["7.3/10"],
     "meta_score": ["87/100"],
     "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Gillian Armstrong"],
     "cast": {
       "Winona Ryder": {
@@ -17216,7 +17216,7 @@
     "released": ["2021-11-05"],
     "duration": [105],
     "imdb_id": ["tt10752004"],
-    "vote_average": ["6.956"],
+    "vote_average": ["6.958"],
     "overview": ["An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she's been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.3/10"],
@@ -17766,7 +17766,7 @@
     "released": ["1983-10-19"],
     "duration": [25],
     "imdb_id": ["tt0085936"],
-    "vote_average": ["7.6"],
+    "vote_average": ["7.633"],
     "overview": ["Ebenezer Scrooge is far too greedy to understand that Christmas is a time for kindness and generosity. But with the guidance of some new found friends, Scrooge learns to embrace the spirit of the season. A retelling of the classic Dickens tale with Disney's classic characters."],
     "genres": ["Family", "Animation"],
     "imdb_score": ["8.0/10"],
@@ -17834,7 +17834,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -18560,7 +18560,7 @@
     "released": ["1994-11-18"],
     "duration": [114],
     "imdb_id": ["tt0110527"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.743"],
     "overview": ["Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in."],
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": ["6.6/10"],
@@ -22516,7 +22516,7 @@
     "rt_score": ["89%"],
     "meta_score": ["71/100"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jalmari Helander"],
     "cast": {
       "Onni Tommila": {
@@ -22686,9 +22686,10 @@
     "released": ["2024-10-31"],
     "duration": [124],
     "imdb_id": ["tt14948432"],
-    "vote_average": ["6.611"],
+    "vote_average": ["6.606"],
     "overview": ["After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas."],
     "genres": ["Action", "Comedy", "Fantasy"],
+    "imdb_score": ["6.9/10"],
     "rt_score": ["32%"],
     "director": ["Jake Kasdan"],
     "cast": {
@@ -23249,7 +23250,7 @@
   "Rudolph the Red-Nosed Reindeer": {
     "id": [13382],
     "plex": [true],
-    "watched": [],
+    "watched": [2024],
     "added": [2024],
     "poster_path": ["https://image.tmdb.org/t/p/w1280/xjAElUhXuc7zFJPj3qUHjcySNsE.jpg"],
     "title": ["Rudolph the Red-Nosed Reindeer"],
@@ -23338,7 +23339,7 @@
     "imdb_score": ["6.3/10"],
     "rt_score": ["22%"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jeannot Szwarc"],
     "cast": {
       "Dudley Moore": {
@@ -24132,7 +24133,7 @@
     "released": ["2006-11-02"],
     "duration": [97],
     "imdb_id": ["tt0452681"],
-    "vote_average": ["5.517"],
+    "vote_average": ["5.521"],
     "overview": ["Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa."],
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": ["4.8/10"],
@@ -24682,7 +24683,7 @@
     "rt_score": ["74%"],
     "meta_score": ["58/100"],
     "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Ronald Neame"],
     "cast": {
       "Albert Finney": {
@@ -24961,7 +24962,7 @@
     "rt_score": ["71%"],
     "meta_score": ["38/100"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Richard Donner"],
     "cast": {
       "Bill Murray": {
@@ -26472,7 +26473,7 @@
     "rt_score": ["8%"],
     "meta_score": ["19/100"],
     "platforms": ["Amazon Prime Video", "Paramount Plus", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Mike Mitchell"],
     "cast": {
       "Ben Affleck": {
@@ -26744,7 +26745,7 @@
     "rt_score": ["96%"],
     "meta_score": ["86/100"],
     "platforms": ["Amazon Prime Video", "Freevee", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Sean Baker"],
     "cast": {
       "Kitana Kiki Rodriguez": {
@@ -27119,7 +27120,7 @@
     "released": ["2003-12-05"],
     "duration": [92],
     "imdb_id": ["tt0388473"],
-    "vote_average": ["7.904"],
+    "vote_average": ["7.9"],
     "overview": ["On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."],
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": ["7.8/10"],
@@ -27895,7 +27896,7 @@
     "released": ["2022-11-30"],
     "duration": [111],
     "imdb_id": ["tt12003946"],
-    "vote_average": ["7.313"],
+    "vote_average": ["7.312"],
     "overview": ["When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint."],
     "genres": ["Comedy", "Action"],
     "imdb_score": ["6.7/10"],
@@ -28397,7 +28398,7 @@
     "rt_score": ["76%"],
     "meta_score": ["56/100"],
     "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Michael Curtiz"],
     "cast": {
       "Bing Crosby": {
@@ -28579,7 +28580,7 @@
     "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": [113284],
@@ -28649,7 +28650,7 @@
     "imdb_score": ["6.4/10"],
     "rt_score": ["67%"],
     "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Jim O'Hanlon"],
     "cast": {
       "Asa Butterfield": {
@@ -28775,7 +28776,7 @@
     "imdb_score": ["5.8/10"],
     "rt_score": ["50%"],
     "platforms": ["Amazon Prime Video"],
-    "logo_paths": ["/dQeAar5H991VYporEjUspolDarG.jpg"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Jim O'Hanlon"],
     "cast": {
       "Asa Butterfield": {
