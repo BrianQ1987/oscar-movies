@@ -734,7 +734,7 @@
     "Gremlins": {
         "id": 927,
         "plex": true,
-        "watched": [2022],
+        "watched": [2022, 2024],
         "added": 2022
     },
     "I Believe in Santa": {
@@ -812,7 +812,7 @@
     "Happy Christmas": {
         "id": 244534,
         "plex": false,
-        "watched": [],
+        "watched": [2024],
         "added": 2024
     },
     "Rudolph the Red-Nosed Reindeer": {
