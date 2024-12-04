@@ -799,8 +799,8 @@
     },
     "Christmas Eve in Miller's Point": {
         "id": 1073650,
-        "plex": false,
-        "watched": [],
+        "plex": true,
+        "watched": [2024],
         "added": 2024
     },
     "Mixed Nuts": {
