@@ -883,7 +883,7 @@
     "released": ["2011-11-10"],
     "duration": [97],
     "imdb_id": ["tt1430607"],
-    "vote_average": ["6.764"],
+    "vote_average": ["6.8"],
     "overview": ["Each Christmas, Santa and his vast army of highly trained elves produce gifts and distribute them around the world in one night. However, when one of 600 million children to receive a gift from Santa on Christmas Eve is missed, it is deemed ‘acceptable’ to all but one—Arthur. Arthur Claus is Santa’s misfit son who executes an unauthorised rookie mission to get the last present half way around the globe before dawn on Christmas morning."],
     "genres": ["Drama", "Animation", "Family", "Comedy"],
     "imdb_score": ["7.1/10"],
@@ -1141,9 +1141,9 @@
     "vote_average": ["6.5"],
     "overview": ["A miserable conman and his partner pose as Santa and his Little Helper to rob department stores on Christmas Eve. But they run into problems when the conman befriends a troubled kid."],
     "genres": ["Drama", "Comedy", "Crime"],
-    "imdb_score": ["7.1/10"],
-    "rt_score": ["92%"],
-    "meta_score": ["69/100"],
+    "imdb_score": ["7.0/10"],
+    "rt_score": ["78%"],
+    "meta_score": ["70/100"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Terry Zwigoff"],
@@ -2366,7 +2366,7 @@
     "released": ["2015-11-20"],
     "duration": [118],
     "imdb_id": ["tt2402927"],
-    "vote_average": ["7.5"],
+    "vote_average": ["7.491"],
     "overview": ["In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman."],
     "genres": ["Romance", "Drama"],
     "imdb_score": ["7.2/10"],
@@ -2753,19 +2753,21 @@
   },
   "Christmas Eve in Miller's Point": {
     "id": [1073650],
-    "plex": [false],
-    "watched": [],
+    "plex": [true],
+    "watched": [2024],
     "added": [2024],
     "poster_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"],
     "title": ["Christmas Eve in Miller’s Point"],
     "released": ["2024-11-08"],
     "duration": [107],
     "imdb_id": ["tt25052668"],
-    "vote_average": ["8"],
+    "vote_average": ["6.333"],
     "overview": ["A rambunctious extended family descends upon their small Long Island hometown for the holidays where hijinks, generational squabbles, and family traditions ensue."],
     "genres": ["Drama", "Comedy"],
     "imdb_score": ["5.6/10"],
     "rt_score": ["85%"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Tyler Taormina"],
     "cast": {
       "Matilda Fleming": {
@@ -3251,7 +3253,7 @@
     "plex": [true],
     "watched": [2021],
     "added": [2021],
-    "poster_path": ["https://image.tmdb.org/t/p/w1280/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"],
+    "poster_path": ["https://image.tmdb.org/t/p/w1280/1rIJ5UHenGFUnRrFAASRuPPjrOq.jpg"],
     "title": ["Christmas in Connecticut"],
     "released": ["1945-07-27"],
     "duration": [102],
@@ -3319,7 +3321,7 @@
       "Jody Gilbert": {
         "id": [34472],
         "character": ["Mrs. Gerseg"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/1rIJ5UHenGFUnRrFAASRuPPjrOq.jpg"]
       },
       "Lillian Bronson": {
         "id": [94114],
@@ -3344,7 +3346,7 @@
       "George Boyce": {
         "id": [1731646],
         "character": ["Party Guest"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/1rIJ5UHenGFUnRrFAASRuPPjrOq.jpg"]
       },
       "Charles Arnt": {
         "id": [34416],
@@ -3384,12 +3386,12 @@
       "Sam Harris": {
         "id": [1216356],
         "character": ["Man at Dance (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/1rIJ5UHenGFUnRrFAASRuPPjrOq.jpg"]
       },
       "Oliver Cross": {
         "id": [1581070],
         "character": ["Restaurant Patron (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/oH1hM9wOZZflPZ5smKqWXvLXcyX.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/1rIJ5UHenGFUnRrFAASRuPPjrOq.jpg"]
       }
     }
   },
@@ -4829,9 +4831,7 @@
     "vote_average": ["6.6"],
     "overview": ["To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess."],
     "genres": ["Comedy", "TV Movie"],
-    "imdb_score": ["5.6/10"],
-    "rt_score": ["65%"],
-    "meta_score": ["39/100"],
+    "imdb_score": ["6.8/10"],
     "platforms": ["BBC iPlayer", "Netflix", "Amazon Prime Video"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg"],
     "director": ["Ben Palmer"],
@@ -5207,7 +5207,7 @@
       "Jackie Burroughs": {
         "id": [61185],
         "character": ["Mrs. Ryor"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/AuEkYo1FF4nbrljKTISqj6bi5cN.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/qKRtBWQOknpXiHOnvL2nl6AqUFy.jpg"]
       },
       "Garry Chalk": {
         "id": [26089],
@@ -6028,7 +6028,7 @@
         "character": ["Passerby (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"]
       },
-      "Craig 'Radioman' Castaldo": {
+      "Craig \"Radioman\" Castaldo": {
         "id": [1116907],
         "character": ["Radioman (uncredited)"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"]
@@ -6159,7 +6159,7 @@
       "Lindsay Lohan": {
         "id": [49265],
         "character": ["Sierra Belmont"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dYVRmNrgD07Pq4Fg26PvxdwPYBQ.jpg"]
       },
       "Chord Overstreet": {
         "id": [232501],
@@ -8330,7 +8330,7 @@
     "released": ["1984-06-08"],
     "duration": [106],
     "imdb_id": ["tt0087363"],
-    "vote_average": ["7.1"],
+    "vote_average": ["7.118"],
     "overview": ["When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, unleashing a horde of mischievous gremlins on a small town."],
     "genres": ["Fantasy", "Horror", "Comedy"],
     "imdb_score": ["7.3/10"],
@@ -8602,7 +8602,7 @@
     "released": ["2018-11-08"],
     "duration": [85],
     "imdb_id": ["tt2709692"],
-    "vote_average": ["6.862"],
+    "vote_average": ["6.861"],
     "overview": ["The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration."],
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.4/10"],
@@ -9138,7 +9138,7 @@
       "BenDeLaCreme": {
         "id": [2338274],
         "character": ["Miss L'Teau"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/A62INQ8Ednhk6qrDlSf1VaWL41J.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/25d0Ia3zTQUk9KNb4M1Kues0uj7.jpg"]
       },
       "Anis N'Dobe": {
         "id": [2869447],
@@ -9474,7 +9474,7 @@
     "released": ["2023-10-27"],
     "duration": [133],
     "imdb_id": ["tt14849194"],
-    "vote_average": ["7.7"],
+    "vote_average": ["7.714"],
     "overview": ["A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.9/10"],
@@ -9715,7 +9715,7 @@
     "released": ["2020-10-27"],
     "duration": [104],
     "imdb_id": ["tt9866072"],
-    "vote_average": ["7.017"],
+    "vote_average": ["7"],
     "overview": ["Fed up with being single on holidays, two strangers agree to be each other's platonic plus-ones all year long, only to catch real feelings along the way."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.2/10"],
@@ -10140,7 +10140,7 @@
       "Lindsay Lohan": {
         "id": [49265],
         "character": ["Lindsay Lohan (uncredited)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/8TdcVkiHgPp2gIKBPQ42OVa6l0B.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dYVRmNrgD07Pq4Fg26PvxdwPYBQ.jpg"]
       },
       "Dustin Hoffman": {
         "id": [4483],
@@ -10545,7 +10545,7 @@
     "released": ["1942-01-01"],
     "duration": [101],
     "imdb_id": ["tt0034862"],
-    "vote_average": ["7.026"],
+    "vote_average": ["7"],
     "overview": ["Lovely Linda Mason has crooner Jim Hardy head over heels, but suave stepper Ted Hanover wants her for his new dance partner after fickle Lila Dixon gives him the brush. Jim's supper club, Holiday Inn, is the setting for the chase by Hanover and his manager."],
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": ["7.3/10"],
@@ -10789,7 +10789,7 @@
       "Hillary Wolf": {
         "id": [11518],
         "character": ["Megan McCallister"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/80kzfDHcFnolZaX08MTkdxVGrm9.jpg"]
       },
       "Gerry Bamman": {
         "id": [11517],
@@ -10809,7 +10809,7 @@
       "Kieran Culkin": {
         "id": [18793],
         "character": ["Fuller McCallister"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"]
       },
       "Diana Rein": {
         "id": [1721099],
@@ -11056,9 +11056,9 @@
     "vote_average": ["6.746"],
     "overview": ["Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve."],
     "genres": ["Comedy", "Family", "Adventure"],
-    "imdb_score": ["7.7/10"],
-    "rt_score": ["66%"],
-    "meta_score": ["63/100"],
+    "imdb_score": ["6.9/10"],
+    "rt_score": ["35%"],
+    "meta_score": ["46/100"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": ["Chris Columbus"],
@@ -11126,7 +11126,7 @@
       "Hillary Wolf": {
         "id": [11518],
         "character": ["Megan McCallister"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/80kzfDHcFnolZaX08MTkdxVGrm9.jpg"]
       },
       "Maureen Elisabeth Shay": {
         "id": [2441307],
@@ -11146,7 +11146,7 @@
       "Kieran Culkin": {
         "id": [18793],
         "character": ["Fuller McCallister"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"]
       },
       "Jedidiah Cohen": {
         "id": [11522],
@@ -11844,7 +11844,7 @@
     "released": ["2024-11-12"],
     "duration": [90],
     "imdb_id": ["tt32359447"],
-    "vote_average": ["6.21"],
+    "vote_average": ["6.2"],
     "overview": ["When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?"],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.6/10"],
@@ -12005,7 +12005,7 @@
     "released": ["2000-11-17"],
     "duration": [104],
     "imdb_id": ["tt0170016"],
-    "vote_average": ["6.764"],
+    "vote_average": ["6.8"],
     "overview": ["The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.3/10"],
@@ -15550,7 +15550,7 @@
       "Kelly Marie Tran": {
         "id": [1663195],
         "character": ["Rose Tico (voice)"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/7VisaPZicrZJyBa3AUQRDm9Yh0P.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/csNOnMTV2JICe3J7dwmeQJo9VYH.jpg"]
       },
       "Trevor Devall": {
         "id": [82816],
@@ -16174,7 +16174,7 @@
     "released": ["2019-12-25"],
     "duration": [135],
     "imdb_id": ["tt3281548"],
-    "vote_average": ["7.878"],
+    "vote_average": ["7.9"],
     "overview": ["Four sisters come of age in America in the aftermath of the Civil War."],
     "genres": ["Drama", "Romance", "History"],
     "imdb_score": ["7.8/10"],
@@ -16576,7 +16576,7 @@
     "released": ["2003-09-07"],
     "duration": [135],
     "imdb_id": ["tt0314331"],
-    "vote_average": ["7.1"],
+    "vote_average": ["7.115"],
     "overview": ["Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be."],
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": ["7.6/10"],
@@ -17642,12 +17642,11 @@
     "released": ["2024-11-05"],
     "duration": [105],
     "imdb_id": ["tt20502488"],
-    "vote_average": ["6.4"],
+    "vote_average": ["6.357"],
     "overview": ["On a quest to meet the man of her dreams, a hopeless romantic races across New York City to find a ticket to a sold-out Pentatonix Christmas concert."],
     "genres": ["Romance", "Comedy"],
-    "imdb_score": ["7.5/10"],
-    "rt_score": ["100%"],
-    "meta_score": ["94/100"],
+    "imdb_score": ["5.5/10"],
+    "rt_score": ["67%"],
     "platforms": ["Netflix"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": ["Rusty Cundieff"],
@@ -17837,7 +17836,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -18563,7 +18562,7 @@
     "released": ["1994-11-18"],
     "duration": [114],
     "imdb_id": ["tt0110527"],
-    "vote_average": ["6.745"],
+    "vote_average": ["6.7"],
     "overview": ["Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in."],
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": ["6.6/10"],
@@ -21642,7 +21641,7 @@
       "William DeMeritt": {
         "id": [1620958],
         "character": ["Dion"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/wQAOAhi4GkujJJAIqMlKgK9FT5n.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/8IvK8UoR7FOwqhAfBTupMtE8oE3.jpg"]
       }
     }
   },
@@ -22014,7 +22013,7 @@
     "released": ["2004-11-10"],
     "duration": [100],
     "imdb_id": ["tt0338348"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.721"],
     "overview": ["When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."],
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
     "imdb_score": ["6.6/10"],
@@ -23842,9 +23841,9 @@
     "vote_average": ["6"],
     "overview": ["Better watch out! The big guy in red is coming to town once again. This time, Scott Calvin -- also known as Santa Claus -- finds out there's an obscure clause in his contract requiring him to take on a wife. He has to leave the North Pole to fulfill his obligations, or else he'll be forced to give up his Yuletide gig."],
     "genres": ["Fantasy", "Comedy", "Family"],
-    "imdb_score": ["6.6/10"],
-    "rt_score": ["73%"],
-    "meta_score": ["57/100"],
+    "imdb_score": ["5.7/10"],
+    "rt_score": ["55%"],
+    "meta_score": ["48/100"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
     "director": ["Michael Lembeck"],
@@ -24136,7 +24135,7 @@
     "released": ["2006-11-02"],
     "duration": [97],
     "imdb_id": ["tt0452681"],
-    "vote_average": ["5.5"],
+    "vote_average": ["5.522"],
     "overview": ["Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa."],
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": ["4.8/10"],
@@ -25451,8 +25450,8 @@
     "imdb_score": ["8.0/10"],
     "rt_score": ["99%"],
     "meta_score": ["96/100"],
-    "platforms": ["Plex"],
-    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Ernst Lubitsch"],
     "cast": {
       "James Stewart": {
@@ -25587,7 +25586,7 @@
     "released": ["2021-12-03"],
     "duration": [92],
     "imdb_id": ["tt11628854"],
-    "vote_average": ["6.013"],
+    "vote_average": ["6"],
     "overview": ["Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die."],
     "genres": ["Comedy", "Science Fiction", "Horror"],
     "imdb_score": ["5.8/10"],
@@ -26469,7 +26468,7 @@
     "released": ["2004-09-21"],
     "duration": [91],
     "imdb_id": ["tt0252028"],
-    "vote_average": ["5.698"],
+    "vote_average": ["5.7"],
     "overview": ["Drew Latham is an executive leading an empty, shallow life with only wealth on his side. Facing another lonely Christmas ahead, he revisits his old childhood home in the hope of reliving some old holiday memories – but he finds that the house in which he was raised is no longer the home in which he grew up."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["5.5/10"],
@@ -27123,7 +27122,7 @@
     "released": ["2003-12-05"],
     "duration": [92],
     "imdb_id": ["tt0388473"],
-    "vote_average": ["7.9"],
+    "vote_average": ["7.905"],
     "overview": ["On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."],
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": ["7.8/10"],
@@ -27483,7 +27482,7 @@
       "Giancarlo Esposito": {
         "id": [4808],
         "character": ["Cellmate #2"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/lBvDQZjxhIGMbH61iHnqerpbqHc.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"]
       },
       "Steve Hofvendahl": {
         "id": [156999],
@@ -27927,7 +27926,7 @@
       "Alex Hassell": {
         "id": [178634],
         "character": ["Jason"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/1VvnpDdLJ8WBBceDayjnAG9efNC.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/ssL09IDQBkw1BtRcvvZnm6OJMSm.jpg"]
       },
       "Alexis Louder": {
         "id": [2273501],
@@ -28156,7 +28155,7 @@
     "released": ["2023-11-02"],
     "duration": [104],
     "imdb_id": ["tt19890316"],
-    "vote_average": ["4.9"],
+    "vote_average": ["4.925"],
     "overview": ["Two ex-lovers get snowed in at a regional airport overnight. Indefinitely delayed, Willa, a magical thinker, and Bill, a catastrophic one, find themselves just as attracted to and annoyed by one another as they did decades earlier. But as they unpack the riddle of their mutual past and compare their lives to the dreams they once shared, they begin to wonder if their reunion is mere coincidence, or something more enchanted."],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["4.8/10"],
@@ -28579,9 +28578,8 @@
     "vote_average": ["7.247"],
     "overview": ["Feeling forgotten by the children of the world, old St. Nick decides to skip his gift-giving journey and take a vacation. Mrs. Claus and two spunky little elves, Jingle and Jangle, set out to see to where all the season's cheer has disappeared. Aided by a magical snowfall, they reawaken the spirit of Christmas in children's hearts and put Santa back in action."],
     "genres": ["Animation", "Family", "TV Movie"],
-    "imdb_score": ["7.6/10"],
-    "rt_score": ["76%"],
-    "meta_score": ["56/100"],
+    "imdb_score": ["7.7/10"],
+    "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Arthur Rankin, Jr.", "Jules Bass"],
