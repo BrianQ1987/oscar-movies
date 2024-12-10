@@ -4463,7 +4463,7 @@
     "released": ["2004-11-24"],
     "duration": [99],
     "imdb_id": ["tt0388419"],
-    "vote_average": ["6.1"],
+    "vote_average": ["6.133"],
     "overview": ["When their only daughter Blair leaves the family nest, Luther and Nora Krank decide to book an island cruise to beat the yuletide blues and just skip the holidays. But their decision to boycott tradition has the whole neighborhood in an uproar, and when Blair calls on Christmas Eve to announce a surprise visit with her new fiancée, the Kranks have just twelve hours to perform a miracle and pull themselves and their neighbors together to throw the best celebration ever!"],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["5.5/10"],
@@ -5745,7 +5745,7 @@
     "released": ["2003-10-09"],
     "duration": [97],
     "imdb_id": ["tt0319343"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.655"],
     "overview": ["When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."],
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": ["7.1/10"],
@@ -6452,7 +6452,7 @@
     "released": ["2023-11-30"],
     "duration": [106],
     "imdb_id": ["tt14227048"],
-    "vote_average": ["6.398"],
+    "vote_average": ["6.4"],
     "overview": ["When the Walker family members switch bodies with each other during a rare planetary alignment, their hilarious journey to find their way back to normal will bring them closer together than they ever thought possible."],
     "genres": ["Comedy", "Fantasy", "Family"],
     "imdb_score": ["5.7/10"],
@@ -8112,6 +8112,36 @@
       }
     }
   },
+  "From All of Us to All of You": {
+    "id": [150067],
+    "plex": [true],
+    "watched": [],
+    "added": [2024],
+    "poster_path": ["https://image.tmdb.org/t/p/w1280/664zGUmaPp8vskmfh3XZvDIG4IO.jpg"],
+    "title": ["From All of Us to All of You"],
+    "released": ["1958-12-19"],
+    "duration": [60],
+    "imdb_id": ["tt0908282"],
+    "vote_average": ["7.8"],
+    "overview": ["Hosted by Jiminy Cricket along with Mickey Mouse and Tinker Bell, this special combines newly produced animation with clips from vintage animated Disney shorts and feature films, presented to the viewer as Christmas cards from the various characters starring in each one."],
+    "genres": ["Animation", "Comedy", "Family", "TV Movie"],
+    "imdb_score": ["8.1/10"],
+    "platforms": ["Plex"],
+    "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "director": ["Jack Hannah"],
+    "cast": {
+      "Cliff Edwards": {
+        "id": [30236],
+        "character": ["Jiminy Cricket (voice)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/cplAl2NjSDuoHvSJ87kf8Yh2cdK.jpg"]
+      },
+      "Walt Disney": {
+        "id": [2106],
+        "character": ["Mickey Mouse (voice)"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg"]
+      }
+    }
+  },
   "Game Over": {
     "id": [46959],
     "plex": [true],
@@ -8831,7 +8861,7 @@
     "released": ["2022-11-24"],
     "duration": [45],
     "imdb_id": ["tt13623136"],
-    "vote_average": ["7.1"],
+    "vote_average": ["7.14"],
     "overview": ["On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present."],
     "genres": ["Comedy", "Science Fiction", "Adventure"],
     "imdb_score": ["6.9/10"],
@@ -10746,7 +10776,7 @@
       "Macaulay Culkin": {
         "id": [11510],
         "character": ["Kevin McCallister"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/5lSoFnWb4HmxEREqcFvBGgXu5H.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg"]
       },
       "Joe Pesci": {
         "id": [4517],
@@ -10771,7 +10801,7 @@
       "Roberts Blossom": {
         "id": [66288],
         "character": ["Marley"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/v6R8dyBzQww8fbr9QRMuGF1B5BM.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/CP19Dvjvx2xSrkyJQEdmAC4wug.jpg"]
       },
       "Devin Ratray": {
         "id": [11516],
@@ -11068,7 +11098,7 @@
       "Macaulay Culkin": {
         "id": [11510],
         "character": ["Kevin McCallister"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/5lSoFnWb4HmxEREqcFvBGgXu5H.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/hVagDqi5o8lZ21b1kXAl45Sj9wt.jpg"]
       },
       "Daniel Stern": {
         "id": [11511],
@@ -13258,7 +13288,7 @@
     "released": ["1946-12-20"],
     "duration": [130],
     "imdb_id": ["tt0038650"],
-    "vote_average": ["8.3"],
+    "vote_average": ["8.27"],
     "overview": ["A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."],
     "genres": ["Drama", "Family", "Fantasy"],
     "imdb_score": ["8.6/10"],
@@ -13878,7 +13908,7 @@
       "Arnold Schwarzenegger": {
         "id": [1100],
         "character": ["Howard Langston"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/z6IbTtI2FWAVZE6b1V4mqEHjwO6.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"]
       },
       "Sinbad": {
         "id": [57119],
@@ -19953,7 +19983,7 @@
     "released": ["2009-11-27"],
     "duration": [105],
     "imdb_id": ["tt1242447"],
-    "vote_average": ["6.3"],
+    "vote_average": ["6.276"],
     "overview": ["Paul, charged with directing his school's Nativity play, falsely boasts that his ex-girlfriend plans to turn the production into a film."],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["6.4/10"],
@@ -22005,7 +22035,7 @@
     "released": ["2004-11-10"],
     "duration": [100],
     "imdb_id": ["tt0338348"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.722"],
     "overview": ["When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."],
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
     "imdb_score": ["6.6/10"],
@@ -25436,7 +25466,7 @@
     "released": ["1940-01-12"],
     "duration": [99],
     "imdb_id": ["tt0033045"],
-    "vote_average": ["8.1"],
+    "vote_average": ["8.15"],
     "overview": ["Two employees at a gift shop can barely stand one another, without realising that they are falling in love through the post as each other's anonymous pen pal."],
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": ["8.0/10"],
@@ -25831,7 +25861,7 @@
     "released": ["2021-12-02"],
     "duration": [99],
     "imdb_id": ["tt14315756"],
-    "vote_average": ["6.4"],
+    "vote_average": ["6.441"],
     "overview": ["Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry."],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["6.2/10"],
@@ -25983,7 +26013,7 @@
     "released": ["2022-11-10"],
     "duration": [127],
     "imdb_id": ["tt10999120"],
-    "vote_average": ["6.958"],
+    "vote_average": ["6.959"],
     "overview": ["Each Christmas Eve, the Ghost of Christmas Present selects one dark soul to be reformed by a visit from three spirits. But this season, he picked the wrong Scrooge. Clint Briggs turns the tables on his ghostly host until Present finds himself reexamining his own past, present and future."],
     "genres": ["Comedy"],
     "imdb_score": ["6.6/10"],
@@ -27221,7 +27251,7 @@
     "released": ["1983-06-07"],
     "duration": [116],
     "imdb_id": ["tt0086465"],
-    "vote_average": ["7.215"],
+    "vote_average": ["7.214"],
     "overview": ["A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires."],
     "genres": ["Comedy"],
     "imdb_score": ["7.5/10"],
@@ -28567,14 +28597,14 @@
     "released": ["1974-12-10"],
     "duration": [51],
     "imdb_id": ["tt0072424"],
-    "vote_average": ["7.2"],
+    "vote_average": ["7.251"],
     "overview": ["Feeling forgotten by the children of the world, old St. Nick decides to skip his gift-giving journey and take a vacation. Mrs. Claus and two spunky little elves, Jingle and Jangle, set out to see to where all the season's cheer has disappeared. Aided by a magical snowfall, they reawaken the spirit of Christmas in children's hearts and put Santa back in action."],
     "genres": ["Animation", "Family", "TV Movie"],
     "imdb_score": ["7.7/10"],
     "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": [113284],
