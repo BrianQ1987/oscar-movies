@@ -2763,7 +2763,7 @@
     "released": ["2024-11-08"],
     "duration": [107],
     "imdb_id": ["tt25052668"],
-    "vote_average": ["4.8"],
+    "vote_average": ["4.5"],
     "overview": ["A rambunctious extended family descends upon their small Long Island hometown for the holidays where hijinks, generational squabbles, and family traditions ensue."],
     "genres": ["Drama", "Comedy"],
     "imdb_score": ["5.6/10"],
@@ -4278,7 +4278,7 @@
     "released": ["2015-11-12"],
     "duration": [107],
     "imdb_id": ["tt2279339"],
-    "vote_average": ["5.984"],
+    "vote_average": ["6"],
     "overview": ["When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday."],
     "genres": ["Drama", "Comedy", "Family"],
     "imdb_score": ["5.8/10"],
@@ -4463,7 +4463,7 @@
     "released": ["2004-11-24"],
     "duration": [99],
     "imdb_id": ["tt0388419"],
-    "vote_average": ["6.133"],
+    "vote_average": ["6.137"],
     "overview": ["When their only daughter Blair leaves the family nest, Luther and Nora Krank decide to book an island cruise to beat the yuletide blues and just skip the holidays. But their decision to boycott tradition has the whole neighborhood in an uproar, and when Blair calls on Christmas Eve to announce a surprise visit with her new fiancée, the Kranks have just twelve hours to perform a miracle and pull themselves and their neighbors together to throw the best celebration ever!"],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["5.5/10"],
@@ -5403,7 +5403,7 @@
     "released": ["1988-07-15"],
     "duration": [132],
     "imdb_id": ["tt0095016"],
-    "vote_average": ["7.8"],
+    "vote_average": ["7.794"],
     "overview": ["NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down."],
     "genres": ["Action", "Thriller"],
     "imdb_score": ["8.2/10"],
@@ -6148,7 +6148,7 @@
     "released": ["2022-11-10"],
     "duration": [95],
     "imdb_id": ["tt14715170"],
-    "vote_average": ["6.242"],
+    "vote_average": ["6.247"],
     "overview": ["An engaged, spoiled hotel heiress finds herself in the care of a handsome, blue-collar lodge owner and his precocious daughter after getting amnesia in a skiing accident."],
     "genres": ["Romance", "Comedy", "Family"],
     "imdb_score": ["5.2/10"],
@@ -8115,7 +8115,7 @@
   "From All of Us to All of You": {
     "id": [150067],
     "plex": [true],
-    "watched": [],
+    "watched": [2024],
     "added": [2024],
     "poster_path": ["https://image.tmdb.org/t/p/w1280/664zGUmaPp8vskmfh3XZvDIG4IO.jpg"],
     "title": ["From All of Us to All of You"],
@@ -8634,7 +8634,7 @@
     "released": ["2018-11-08"],
     "duration": [85],
     "imdb_id": ["tt2709692"],
-    "vote_average": ["6.865"],
+    "vote_average": ["6.9"],
     "overview": ["The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration."],
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.4/10"],
@@ -9493,6 +9493,11 @@
         "id": [83278],
         "character": ["Headmaster"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/AjN7LR3EdLgY6xotcR4nbRXt7Oz.jpg"]
+      },
+      "Conor O'Donnell": {
+        "id": [3874278],
+        "character": ["Butcher"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/lEEpzQFgdSNGN0Qg2KN3i5fMR8D.jpg"]
       }
     }
   },
@@ -11085,7 +11090,7 @@
     "released": ["1992-11-15"],
     "duration": [120],
     "imdb_id": ["tt0104431"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.748"],
     "overview": ["Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve."],
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": ["6.9/10"],
@@ -11540,7 +11545,7 @@
       "Claire Danes": {
         "id": [6194],
         "character": ["Kitt Larson"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/ustSV3r790QyskweHVC2XqDWs7U.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/6YvMc6RViFSornxmZjRgEKWQMzI.jpg"]
       },
       "Emily Ann Lloyd": {
         "id": [8185],
@@ -11876,7 +11881,7 @@
     "released": ["2024-11-12"],
     "duration": [90],
     "imdb_id": ["tt32359447"],
-    "vote_average": ["6.032"],
+    "vote_average": ["6.044"],
     "overview": ["When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?"],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.6/10"],
@@ -13288,7 +13293,7 @@
     "released": ["1946-12-20"],
     "duration": [130],
     "imdb_id": ["tt0038650"],
-    "vote_average": ["8.269"],
+    "vote_average": ["8.3"],
     "overview": ["A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."],
     "genres": ["Drama", "Family", "Fantasy"],
     "imdb_score": ["8.6/10"],
@@ -13895,7 +13900,7 @@
     "released": ["1996-11-21"],
     "duration": [89],
     "imdb_id": ["tt0116705"],
-    "vote_average": ["6"],
+    "vote_average": ["6.042"],
     "overview": ["Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure."],
     "genres": ["Family", "Comedy", "Adventure"],
     "imdb_score": ["5.7/10"],
@@ -14896,7 +14901,7 @@
     "released": ["2019-11-08"],
     "duration": [96],
     "imdb_id": ["tt4729430"],
-    "vote_average": ["8.241"],
+    "vote_average": ["8.24"],
     "overview": ["When Jesper distinguishes himself as the Postal Academy's worst student, he is sent to Smeerensburg, a small village located on an icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys."],
     "genres": ["Animation", "Family", "Adventure", "Comedy", "Fantasy"],
     "imdb_score": ["8.2/10"],
@@ -17795,7 +17800,7 @@
     "released": ["1983-10-19"],
     "duration": [25],
     "imdb_id": ["tt0085936"],
-    "vote_average": ["7.633"],
+    "vote_average": ["7.6"],
     "overview": ["Ebenezer Scrooge is far too greedy to understand that Christmas is a time for kindness and generosity. But with the guidance of some new found friends, Scrooge learns to embrace the spirit of the season. A retelling of the classic Dickens tale with Disney's classic characters."],
     "genres": ["Family", "Animation"],
     "imdb_score": ["8.0/10"],
@@ -17863,7 +17868,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -18584,7 +18589,7 @@
     "released": ["1994-11-18"],
     "duration": [114],
     "imdb_id": ["tt0110527"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.746"],
     "overview": ["Six-year-old Susan Walker has doubts about childhood's most enduring miracle—Santa Claus. Her mother told her the secret about Santa a long time ago, but, after meeting a special department store Santa who's convinced he's the real thing, Susan is given the most precious gift of all—something to believe in."],
     "genres": ["Fantasy", "Drama", "Family"],
     "imdb_score": ["6.6/10"],
@@ -21804,6 +21809,170 @@
       }
     }
   },
+  "A Nonsense Christmas with Sabrina Carpenter": {
+    "id": [1358820],
+    "plex": [true],
+    "watched": [2024],
+    "added": [2024],
+    "poster_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"],
+    "title": ["A Nonsense Christmas with Sabrina Carpenter"],
+    "released": ["2024-12-06"],
+    "duration": [50],
+    "imdb_id": ["tt33427273"],
+    "vote_average": ["7.7"],
+    "overview": ["Pop star Sabrina Carpenter jingles all the bells in this old-school variety music special full of holiday hits, unexpected duets and comedic cameos."],
+    "genres": ["Music"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "director": ["Sam Wrench"],
+    "cast": {
+      "Sabrina Carpenter": {
+        "id": [1152083],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/o0anvGEg34MzoNh6hbJHthB3paF.jpg"]
+      },
+      "Shania Twain": {
+        "id": [108558],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/3owuqJmMriymwz05fzJ7z9mRSrA.jpg"]
+      },
+      "Chappell Roan": {
+        "id": [4528424],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/lz1F4ptUaHlcqkqVM3kUl5gdajR.jpg"]
+      },
+      "Cara Delevingne": {
+        "id": [1289968],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/aFXKZfBv6E0BeEFgkDDpsZIFpIv.jpg"]
+      },
+      "Jillian Bell": {
+        "id": [1226302],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/v3oJlWGjdV3aHNXtGjWea3X1Tov.jpg"]
+      },
+      "Kali Uchis": {
+        "id": [1931803],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/3l784m4LQb5YVSFGy3bffc63mQi.jpg"]
+      },
+      "Kyle Mooney": {
+        "id": [1180698],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/xywmFOt1OkUGa2Ex2YnmjI6gyd7.jpg"]
+      },
+      "Megan Stalter": {
+        "id": [3104487],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/ohGvsy7IlJgKs33x3TTQIEL168v.jpg"]
+      },
+      "Nico Hiraga": {
+        "id": [2027704],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/oUPk168qsN60hMse5qGooOyb9Y4.jpg"]
+      },
+      "Owen Thiele": {
+        "id": [2023314],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/8P4jI9M3ZG0oMipyUui2ePSoe9S.jpg"]
+      },
+      "Quinta Brunson": {
+        "id": [1745988],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/1oEdBc88XAN3Z9n2pdNvH1XIT71.jpg"]
+      },
+      "Sean Astin": {
+        "id": [1328],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/ywH1VvdwqlcnuwUVr0pV0HUZJQA.jpg"]
+      },
+      "Tyla": {
+        "id": [4535189],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/amToz9TDdqCEQoGuRg3hvcXXlQH.jpg"]
+      },
+      "Oriane Serveille": {
+        "id": [4353886],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Gaynor Hicks": {
+        "id": [5104811],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Jamal Moore": {
+        "id": [2291192],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Kirsten Edkins": {
+        "id": [5104818],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Denise Carite": {
+        "id": [3985966],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Treylyn Inay": {
+        "id": [5104821],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Solomon Dorsey": {
+        "id": [5104823],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Jazz Smith": {
+        "id": [2995902],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Natsuki Miya": {
+        "id": [2291256],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Peter Dyer": {
+        "id": [5104836],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Tim Stewart": {
+        "id": [3841647],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Mikey B. Martinez III": {
+        "id": [5104839],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "RJ Kelly": {
+        "id": [5104840],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Nycole Altchiler": {
+        "id": [5104842],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Cherry Davis": {
+        "id": [5104843],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      },
+      "Jay Tellis": {
+        "id": [5104846],
+        "character": ["Self"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/w6gBjvivsWwTbvz0bBAIxszOnWL.jpg"]
+      }
+    }
+  },
   "One Magic Christmas": {
     "id": [13380],
     "plex": [false],
@@ -22035,7 +22204,7 @@
     "released": ["2004-11-10"],
     "duration": [100],
     "imdb_id": ["tt0338348"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.722"],
     "overview": ["When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."],
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
     "imdb_score": ["6.6/10"],
@@ -23543,7 +23712,7 @@
     "released": ["1994-11-11"],
     "duration": [97],
     "imdb_id": ["tt0111070"],
-    "vote_average": ["6.5"],
+    "vote_average": ["6.492"],
     "overview": ["On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself."],
     "genres": ["Fantasy", "Drama", "Comedy", "Family"],
     "imdb_score": ["6.6/10"],
@@ -24157,7 +24326,7 @@
     "released": ["2006-11-02"],
     "duration": [97],
     "imdb_id": ["tt0452681"],
-    "vote_average": ["5.5"],
+    "vote_average": ["5.53"],
     "overview": ["Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa."],
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": ["4.8/10"],
@@ -24912,7 +25081,7 @@
     "released": ["2022-11-18"],
     "duration": [97],
     "imdb_id": ["tt20917338"],
-    "vote_average": ["6.763"],
+    "vote_average": ["6.77"],
     "overview": ["On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out."],
     "genres": ["Animation", "Family", "Fantasy"],
     "imdb_score": ["6.2/10"],
@@ -24979,7 +25148,7 @@
     "released": ["1988-11-22"],
     "duration": [101],
     "imdb_id": ["tt0096061"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.797"],
     "overview": ["Frank Cross is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing a staff member on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past."],
     "genres": ["Fantasy", "Comedy", "Drama"],
     "imdb_score": ["6.9/10"],
@@ -25737,7 +25906,7 @@
       "Joel Kinnaman": {
         "id": [92404],
         "character": ["Brian Godlock"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/kymJrfLvDF6hXRkNWVUUr0sb5va.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/iVTh89rxgPhZSuijVo467WNsvUw.jpg"]
       },
       "Kid Cudi": {
         "id": [484359],
@@ -25928,7 +26097,7 @@
       },
       "Melanie Leishman": {
         "id": [108887],
-        "character": ["Ashleig"],
+        "character": ["Ashleigh"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/bNGX1NxfyAOnnbRFibBQkgonSoe.jpg"]
       },
       "Gryffin Hanvelt": {
@@ -27910,6 +28079,227 @@
       }
     }
   },
+  "A Very Murray Christmas": {
+    "id": [364067],
+    "plex": [false],
+    "watched": [2024],
+    "added": [2024],
+    "poster_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"],
+    "title": ["A Very Murray Christmas"],
+    "released": ["2015-12-04"],
+    "duration": [56],
+    "imdb_id": ["tt4537842"],
+    "vote_average": ["5.3"],
+    "overview": ["Bill Murray worries no one will show up to his TV show due to a massive snowstorm in New York City. Through luck and perseverance, guests arrive at Gotham’s Carlyle Hotel to help him — dancing and singing in holiday spirit."],
+    "genres": ["Comedy", "Music", "TV Movie"],
+    "imdb_score": ["5.5/10"],
+    "rt_score": ["68%"],
+    "platforms": ["Netflix"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "director": ["Sofia Coppola"],
+    "cast": {
+      "Bill Murray": {
+        "id": [1532],
+        "character": ["Bill Murray"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/nnCsJc9x3ZiG3AFyiyc3FPehppy.jpg"]
+      },
+      "Paul Shaffer": {
+        "id": [69921],
+        "character": ["Paul Schaffer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/j6SqQZDOAXUFPyFNNEYwzuAoZCz.jpg"]
+      },
+      "Michael Cera": {
+        "id": [39995],
+        "character": ["Jackie the Talent Agent"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"]
+      },
+      "George Clooney": {
+        "id": [1461],
+        "character": ["George Clooney"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dt0a7DT0SQeHb7NpURD6ifyEzsN.jpg"]
+      },
+      "Miley Cyrus": {
+        "id": [76594],
+        "character": ["Miley Cyrus"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/7slnMlDLR1O65U3Hr8gcOmxDlZz.jpg"]
+      },
+      "Dimitri Dimitrov": {
+        "id": [1545098],
+        "character": ["Dimitri Dimitrov"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "David Johansen": {
+        "id": [57116],
+        "character": ["The Bartender"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/efK1QHpUbRqiMZNT5Is0m86qjE.jpg"]
+      },
+      "Rashida Jones": {
+        "id": [80591],
+        "character": ["The Bride"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"]
+      },
+      "Jenny Lewis": {
+        "id": [91415],
+        "character": ["The Waitress"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/dwE0XBFKBvu85bSR4xjQpefkWhP.jpg"]
+      },
+      "Amy Poehler": {
+        "id": [56322],
+        "character": ["Liz"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/rwmvRonpluV6dCPiQissYrchvSD.jpg"]
+      },
+      "Chris Rock": {
+        "id": [2632],
+        "character": ["Chris Rock"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"]
+      },
+      "Maya Rudolph": {
+        "id": [52792],
+        "character": ["The Lounge Singer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"]
+      },
+      "Jason Schwartzman": {
+        "id": [17881],
+        "character": ["Elliott the Groom"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"]
+      },
+      "Julie White": {
+        "id": [24305],
+        "character": ["Bev"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/siiNmtZZldFSc2DwnfUJf0Teouh.jpg"]
+      },
+      "Thomas Mars": {
+        "id": [2747838],
+        "character": ["Chef"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/3FX7yRkhqFhb1A38qFwq6p0HgI4.jpg"]
+      },
+      "Deck d'Arcy": {
+        "id": [2747839],
+        "character": ["Chef"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/6KSmklbu1VDh5g6xHUH9ecPbYcB.jpg"]
+      },
+      "Laurent Brancowitz": {
+        "id": [2747840],
+        "character": ["Chef"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/o7qkDhKB7d2FwHXWWXgLPQ1UJsl.jpg"]
+      },
+      "Christian Mazzalai": {
+        "id": [2747841],
+        "character": ["Chef"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/bHS6uVT24ywSHd4NKeFRlL3Kpzr.jpg"]
+      },
+      "Cindy Mizelle": {
+        "id": [3562549],
+        "character": ["Waitress / Backup Singer 1"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Tawatha Agee": {
+        "id": [3844749],
+        "character": ["Waitress / Backup Singer 2"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Rachele Cappelli": {
+        "id": [3844750],
+        "character": ["Waitress / Backup Singer 3"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Shane Lynch": {
+        "id": [1099326],
+        "character": ["Coat Check Girl"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/cc36zbgj1W95VDx3o2i1YVhfKzv.jpg"]
+      },
+      "Amanda Kloats": {
+        "id": [3844751],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Naomi Kakuk": {
+        "id": [3844752],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Krista Saab": {
+        "id": [3844753],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Purdie Baumann": {
+        "id": [3318172],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Brittany Marcin": {
+        "id": [3844754],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Jenny Laroche": {
+        "id": [2430116],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Sara Michelle Hoenes": {
+        "id": [3844755],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Sarah Braddock": {
+        "id": [3844756],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Erin Monteleone": {
+        "id": [3318173],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Erin Moore": {
+        "id": [1757695],
+        "character": ["Dancer"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Steve Jordan": {
+        "id": [90388],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/xjWB75oHjqFQfWMKBQqhNALfyfd.jpg"]
+      },
+      "David Spinozza": {
+        "id": [1773956],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Dan Fetter": {
+        "id": [3844757],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Frank Basile": {
+        "id": [1827163],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Frank Greene": {
+        "id": [3844758],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Aaron Heick": {
+        "id": [2647016],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      },
+      "Tom Malone": {
+        "id": [76150],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/c8MT4CiaxbBw2qm0jCTYZx7uzMa.jpg"]
+      },
+      "Valerie Ghent": {
+        "id": [3844759],
+        "character": ["Band"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/2ir2DjNNXmMePsyc4inFa8oI23r.jpg"]
+      }
+    }
+  },
   "Violent Night": {
     "id": [899112],
     "plex": [true],
@@ -28604,7 +28994,7 @@
     "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": [113284],
