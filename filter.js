@@ -45,6 +45,10 @@ filter_btn.onclick = function(event) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
 
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
     // Add a click listener to the document to close the menu
     document.addEventListener("click", closeFilterMenu);
     
@@ -167,6 +171,10 @@ filter_duration.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
 
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
     dur_div = document.getElementById("duration-filters");
     dur_div.style.display = "block";
     //dur_div.id = "duration-filters";
@@ -249,6 +257,10 @@ filter_release.onmouseover = function () {
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
+    }
+
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
     }
 
     rel_div = document.createElement("div");
@@ -336,6 +348,10 @@ filter_added.onmouseover = function() {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
 
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
     years_div = document.createElement("div");
     years_div.id = "added-filters";
 
@@ -407,6 +423,10 @@ filter_watched.onmouseover = function () {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
 
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
     years_div = document.createElement("div");
     years_div.id = "watched-filters";
 
@@ -476,6 +496,10 @@ filter_last.onmouseover = function () {
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
+    }
+
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
     }
 
     years_div = document.createElement("div");
@@ -581,6 +605,10 @@ filter_no_watch.onmouseover = function () {
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
     }
+
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
 }
 
 // Filter on platform
@@ -607,6 +635,10 @@ filter_platform.onmouseover = function () {
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
+    }
+
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
     }
 
     years_div = document.createElement("div");
@@ -667,6 +699,96 @@ filter_platform.onmouseover = function () {
     filter_menu.appendChild(years_div);
 }
 
+// Filter on genre
+filter_genre = document.getElementById("filter-genre");
+
+filter_genre.onmouseover = function () {
+    if (document.getElementById("added-filters")) {
+        filter_menu.removeChild(document.getElementById("added-filters"))
+    }
+
+    if (document.getElementById("watched-filters")) {
+        filter_menu.removeChild(document.getElementById("watched-filters"))
+    }
+
+    if (document.getElementById("last-filters")) {
+        filter_menu.removeChild(document.getElementById("last-filters"))
+    }
+
+    document.getElementById("duration-filters").style.display = "none";
+
+    if (document.getElementById("release-filters")) {
+        filter_menu.removeChild(document.getElementById("release-filters"))
+    }
+
+    if (document.getElementById("platform-filters")) {
+        filter_menu.removeChild(document.getElementById("platform-filters"))
+    }
+
+    if (document.getElementById("genre-filters")) {
+        filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
+    years_div = document.createElement("div");
+    years_div.id = "genre-filters";
+
+    genres = [];
+
+    for (let i = 0; i < Object.keys(movies).length; i ++) {
+
+        let movie_genres = movies[Object.keys(movies)[i]].genres;
+
+        for (let j = 0; j < movie_genres.length; j ++) {
+            if (!genres.includes(movie_genres[j])) {
+                genres.push(movie_genres[j])
+            }
+        }        
+
+    }
+
+    genres.sort()
+
+    for (let i = 0; i < genres.length; i ++) {
+        year_div = document.createElement("div");
+        year_div.classList.add("menu-item");
+        year_div.style.width = "220px";
+        year_div.textContent = genres[i];
+        years_div.appendChild(year_div);
+
+        year_div.onclick = function() {
+
+            filter_menu.removeChild(years_div);
+
+            for (let i = 0; i < filter_items.length; i ++) {
+                filter_items[i].classList.remove("clicked")
+            }
+        
+            filter_genre.classList.add("clicked");
+
+            let count = 0;
+
+            for (let j = 0; j < Object.keys(movies).length; j ++) {
+
+                movie = movies[Object.keys(movies)[j]];
+                
+                if (!movie.genres.includes(genres[i])) {
+                    document.getElementById(movie.id).style.display = "none";
+                } else {
+                    document.getElementById(movie.id).style.display = "flex";
+                    count += 1;
+                }
+        
+            }
+
+            showing.innerHTML = "Displaying <strong>"+ genres[i] + "</strong> movies (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";       
+
+            filter_menu.style.display = "none";
+            filter_btn.classList.remove("clicked");
+        }
+    }
+
+    filter_menu.appendChild(years_div);
+}
 
 // Sorting
 sort_az = document.getElementById("sort-az");

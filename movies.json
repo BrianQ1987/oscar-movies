@@ -830,7 +830,19 @@
     "From All of Us to All of You": {
         "id": 150067,
         "plex": true,
-        "watched": [],
+        "watched": [2024],
+        "added": 2024
+    },
+    "A Very Murray Christmas": {
+        "id": 364067,
+        "plex": false,
+        "watched": [2024],
+        "added": 2024
+    },
+    "A Nonsense Christmas with Sabrina Carpenter": {
+        "id": 1358820,
+        "plex": true,
+        "watched": [2024],
         "added": 2024
     }
 }

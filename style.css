@@ -268,23 +268,28 @@ h2 {
 
   #added-filters {
     margin-left: 160px;
-    margin-top: -320px;
+    margin-top: -360px;
   }
 
   #watched-filters {
     margin-left: 160px;
-    margin-top: -320px;
+    margin-top: -360px;
   }
 
 
   #last-filters {
     margin-left: 160px;
-    margin-top: -320px;
+    margin-top: -360px;
+  }
+
+  #genre-filters {
+    margin-left: 160px;
+    margin-top: -360px;
   }
 
   #duration-filters {
     margin-left: 160px;
-    margin-top: -320px;
+    margin-top: -360px;
     padding-bottom: 40px;
     background-color: #343a40;
     border: solid 1px #333333;
@@ -292,12 +297,12 @@ h2 {
 
   #release-filters {
     margin-left: 160px;
-    margin-top: -320px;
+    margin-top: -360px;
   }
 
   #platform-filters {
     margin-left: 160px;
-    margin-top: -320px;
+    margin-top: -360px;
   }
 
   #movies {
