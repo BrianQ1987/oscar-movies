@@ -698,8 +698,8 @@
     "Red One": {
         "id": 845781,
         "plex": false,
-        "watched": [],
-        "added": 2023
+        "watched": [2024],
+        "added": 2024
     },
     "The Holdovers": {
         "id": 840430,
@@ -710,7 +710,7 @@
     "Tokyo Godfathers": {
         "id": 13398,
         "plex": true,
-        "watched": [2022],
+        "watched": [2022, 2024],
         "added": 2022
     },
     "Holiday Affair": {
