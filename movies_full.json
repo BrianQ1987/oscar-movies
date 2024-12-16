@@ -9,7 +9,7 @@
     "released": ["2021-11-24"],
     "duration": [98],
     "imdb_id": ["tt11540284"],
-    "vote_average": ["6.37"],
+    "vote_average": ["6.374"],
     "overview": ["In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.7/10"],
@@ -271,7 +271,7 @@
     "released": ["2022-09-08"],
     "duration": [100],
     "imdb_id": ["tt14456350"],
-    "vote_average": ["7.39"],
+    "vote_average": ["7.4"],
     "overview": ["Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve."],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["6.4/10"],
@@ -1610,7 +1610,7 @@
     "released": ["2023-11-16"],
     "duration": [82],
     "imdb_id": ["tt7038762"],
-    "vote_average": ["5.4"],
+    "vote_average": ["5.443"],
     "overview": ["After a twist of fate brings their families together for Christmas, Charlotte sets out to prove her old friend Jackie's life is too good to be true."],
     "genres": ["Comedy"],
     "imdb_score": ["4.4/10"],
@@ -2702,8 +2702,8 @@
     "genres": ["Animation", "Family", "Comedy", "TV Movie"],
     "imdb_score": ["8.3/10"],
     "rt_score": ["94%"],
-    "platforms": ["Apple TV Plus"],
-    "logo_paths": ["/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg"],
+    "platforms": ["Amazon Prime Video", "Apple TV Plus"],
+    "logo_paths": ["/qGXUKTheetVXYsSs9ehYLm7rzp8.jpg", "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg"],
     "director": ["Bill Melendez"],
     "cast": {
       "Peter Robbins": {
@@ -2782,31 +2782,6 @@
         "character": ["Emily"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/evmXxdRQpIh5W4vRCjUPOSftgLG.jpg"]
       },
-      "Michael Cera": {
-        "id": [39995],
-        "character": ["Officer Gibson"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"]
-      },
-      "Francesca Scorsese": {
-        "id": [1674603],
-        "character": ["Michelle"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/iK4h8LzxQ1r43W4rEFJwGHuO0Ro.jpg"]
-      },
-      "Gregg Turkington": {
-        "id": [1224999],
-        "character": ["Sergeant Brooks"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/bjOZYkDXbVGSw8B6NHamYlDSBPB.jpg"]
-      },
-      "Elsie Fisher": {
-        "id": [122851],
-        "character": ["Lynn"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg"]
-      },
-      "Sawyer Spielberg": {
-        "id": [1782152],
-        "character": ["Splint"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/lntpmCf2ePFwSYC1qdfI31IFUob.jpg"]
-      },
       "Maria Dizzia": {
         "id": [205797],
         "character": ["Kathleen"],
@@ -2816,6 +2791,41 @@
         "id": [6437],
         "character": ["Lenny"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/AcIhNToOtxVc44GOP8IhcuOPqb3.jpg"]
+      },
+      "Francesca Scorsese": {
+        "id": [1674603],
+        "character": ["Michelle"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/iK4h8LzxQ1r43W4rEFJwGHuO0Ro.jpg"]
+      },
+      "Elsie Fisher": {
+        "id": [122851],
+        "character": ["Lynn"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg"]
+      },
+      "Michael Cera": {
+        "id": [39995],
+        "character": ["Officer Gibson"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"]
+      },
+      "Gregg Turkington": {
+        "id": [1224999],
+        "character": ["Sergeant Brooks"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/bjOZYkDXbVGSw8B6NHamYlDSBPB.jpg"]
+      },
+      "Sawyer Spielberg": {
+        "id": [1782152],
+        "character": ["Splint"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/lntpmCf2ePFwSYC1qdfI31IFUob.jpg"]
+      },
+      "Chris Lazzaro": {
+        "id": [1358082],
+        "character": ["Cousin Bruce"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/bcrlCIaju9iptO4PbFwbPazDAnT.jpg"]
+      },
+      "Leo Chan": {
+        "id": [4673485],
+        "character": ["Ty"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/sYL6AdbPZy5MCstheOxJcuOWuAv.jpg"]
       },
       "JoJo Cincinnati": {
         "id": [4660557],
@@ -2831,11 +2841,6 @@
         "id": [71660],
         "character": ["Burl"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/h94VgAxlsD4CeI7Us4MQLQMHGgK.jpg"]
-      },
-      "Chris Lazzaro": {
-        "id": [1358082],
-        "character": ["Cousin Bruce"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/bcrlCIaju9iptO4PbFwbPazDAnT.jpg"]
       },
       "Courtney Warner": {
         "id": [1540944],
@@ -2927,11 +2932,6 @@
         "character": ["Joanne"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/fPs8WRlXxxBGfmZBDWQQ1U0Mwfc.jpg"]
       },
-      "Jax Terry": {
-        "id": [3384781],
-        "character": ["Siskel"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
-      },
       "Lee Hervey": {
         "id": [4385088],
         "character": ["Craig Salwen"],
@@ -2945,6 +2945,11 @@
       "Anthony Martinelli-Maggio": {
         "id": [4660548],
         "character": ["Timmy"],
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
+      },
+      "Jax Terry": {
+        "id": [3384781],
+        "character": ["Siskel"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
       },
       "Billy Mcshane": {
@@ -2982,9 +2987,9 @@
         "character": ["Andrew"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
       },
-      "Jackson Mijares": {
-        "id": [4660562],
-        "character": ["Joe"],
+      "John J. Trischetti Jr.": {
+        "id": [4038238],
+        "character": ["Uncle Matthew"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
       },
       "Simone Mijares": {
@@ -2997,9 +3002,9 @@
         "character": ["Fitzy"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
       },
-      "John J. Trischetti Jr.": {
-        "id": [4038238],
-        "character": ["Uncle Matthew"],
+      "Jackson Mijares": {
+        "id": [4660562],
+        "character": ["Joe"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
       },
       "Mary Reistetter": {
@@ -3046,11 +3051,6 @@
         "id": [4660589],
         "character": ["Balthazar"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/tJ5q6TbdRtoXDqXdkbg4aGGLLkC.jpg"]
-      },
-      "Leo Chan": {
-        "id": [4673485],
-        "character": ["Ty"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/sYL6AdbPZy5MCstheOxJcuOWuAv.jpg"]
       },
       "Steve Plati": {
         "id": [3406729],
@@ -4468,7 +4468,7 @@
     "released": ["2004-11-24"],
     "duration": [99],
     "imdb_id": ["tt0388419"],
-    "vote_average": ["6.137"],
+    "vote_average": ["6.138"],
     "overview": ["When their only daughter Blair leaves the family nest, Luther and Nora Krank decide to book an island cruise to beat the yuletide blues and just skip the holidays. But their decision to boycott tradition has the whole neighborhood in an uproar, and when Blair calls on Christmas Eve to announce a surprise visit with her new fiancée, the Kranks have just twelve hours to perform a miracle and pull themselves and their neighbors together to throw the best celebration ever!"],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["5.5/10"],
@@ -5750,7 +5750,7 @@
     "released": ["2003-10-09"],
     "duration": [97],
     "imdb_id": ["tt0319343"],
-    "vote_average": ["6.655"],
+    "vote_average": ["6.7"],
     "overview": ["When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic."],
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": ["7.1/10"],
@@ -8367,7 +8367,7 @@
     "released": ["1984-06-08"],
     "duration": [106],
     "imdb_id": ["tt0087363"],
-    "vote_average": ["7.119"],
+    "vote_average": ["7.12"],
     "overview": ["When Billy Peltzer is given a strange but adorable pet named Gizmo for Christmas, he inadvertently breaks the three important rules of caring for a Mogwai, unleashing a horde of mischievous gremlins on a small town."],
     "genres": ["Fantasy", "Horror", "Comedy"],
     "imdb_score": ["7.3/10"],
@@ -8639,7 +8639,7 @@
     "released": ["2018-11-08"],
     "duration": [85],
     "imdb_id": ["tt2709692"],
-    "vote_average": ["6.863"],
+    "vote_average": ["6.9"],
     "overview": ["The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration."],
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.4/10"],
@@ -9516,7 +9516,7 @@
     "released": ["2023-10-27"],
     "duration": [133],
     "imdb_id": ["tt14849194"],
-    "vote_average": ["7.716"],
+    "vote_average": ["7.713"],
     "overview": ["A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.9/10"],
@@ -10773,7 +10773,7 @@
     "released": ["1990-11-16"],
     "duration": [103],
     "imdb_id": ["tt0099785"],
-    "vote_average": ["7.4"],
+    "vote_average": ["7.438"],
     "overview": ["Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. But when a pair of bungling burglars set their sights on Kevin's house, the plucky kid stands ready to defend his territory. By planting booby traps galore, adorably mischievous Kevin stands his ground as his frantic mother attempts to race home before Christmas Day."],
     "genres": ["Comedy", "Family"],
     "imdb_score": ["7.7/10"],
@@ -11095,7 +11095,7 @@
     "released": ["1992-11-15"],
     "duration": [120],
     "imdb_id": ["tt0104431"],
-    "vote_average": ["6.7"],
+    "vote_average": ["6.8"],
     "overview": ["Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve."],
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": ["6.9/10"],
@@ -11497,7 +11497,7 @@
     "released": ["1995-11-02"],
     "duration": [103],
     "imdb_id": ["tt0113321"],
-    "vote_average": ["6.3"],
+    "vote_average": ["6.275"],
     "overview": ["After losing her job, making out with her soon-to-be former boss, and finding out that her daughter plans to spend Thanksgiving with her boyfriend, Claudia Larson faces spending the holiday with her unhinged family."],
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": ["6.6/10"],
@@ -11674,7 +11674,7 @@
     "released": ["2021-11-11"],
     "duration": [93],
     "imdb_id": ["tt11012066"],
-    "vote_average": ["4.923"],
+    "vote_average": ["4.9"],
     "overview": ["After being left at home by himself for the holidays, 10-year-old Max Mercer must work to defend his home from a married couple who tries to steal back a valuable heirloom."],
     "genres": ["Comedy", "Crime", "Family"],
     "imdb_score": ["3.6/10"],
@@ -11886,7 +11886,7 @@
     "released": ["2024-11-12"],
     "duration": [90],
     "imdb_id": ["tt32359447"],
-    "vote_average": ["6"],
+    "vote_average": ["6.03"],
     "overview": ["When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?"],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.6/10"],
@@ -12047,7 +12047,7 @@
     "released": ["2000-11-17"],
     "duration": [104],
     "imdb_id": ["tt0170016"],
-    "vote_average": ["6.8"],
+    "vote_average": ["6.766"],
     "overview": ["The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart..."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.3/10"],
@@ -13298,7 +13298,7 @@
     "released": ["1946-12-20"],
     "duration": [130],
     "imdb_id": ["tt0038650"],
-    "vote_average": ["8.272"],
+    "vote_average": ["8.3"],
     "overview": ["A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin."],
     "genres": ["Drama", "Family", "Fantasy"],
     "imdb_score": ["8.6/10"],
@@ -13905,7 +13905,7 @@
     "released": ["1996-11-21"],
     "duration": [89],
     "imdb_id": ["tt0116705"],
-    "vote_average": ["6.041"],
+    "vote_average": ["6.045"],
     "overview": ["Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure."],
     "genres": ["Family", "Comedy", "Adventure"],
     "imdb_score": ["5.7/10"],
@@ -14679,7 +14679,7 @@
     "released": ["2005-09-14"],
     "duration": [103],
     "imdb_id": ["tt0373469"],
-    "vote_average": ["7.2"],
+    "vote_average": ["7.171"],
     "overview": ["A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role..."],
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": ["7.5/10"],
@@ -14906,7 +14906,7 @@
     "released": ["2019-11-08"],
     "duration": [96],
     "imdb_id": ["tt4729430"],
-    "vote_average": ["8.24"],
+    "vote_average": ["8.241"],
     "overview": ["When Jesper distinguishes himself as the Postal Academy's worst student, he is sent to Smeerensburg, a small village located on an icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys."],
     "genres": ["Animation", "Family", "Adventure", "Comedy", "Fantasy"],
     "imdb_score": ["8.2/10"],
@@ -15890,7 +15890,7 @@
     "released": ["1994-12-21"],
     "duration": [119],
     "imdb_id": ["tt0110367"],
-    "vote_average": ["7.291"],
+    "vote_average": ["7.292"],
     "overview": ["With their father away as a chaplain in the Civil War, Jo, Meg, Beth and Amy grow up with their mother in somewhat reduced circumstances. They are a close family who inevitably have their squabbles and tragedies. But the bond holds even when, later, male friends start to become a part of the household."],
     "genres": ["Drama", "Romance"],
     "imdb_score": ["7.3/10"],
@@ -17255,7 +17255,7 @@
     "released": ["2021-11-05"],
     "duration": [105],
     "imdb_id": ["tt10752004"],
-    "vote_average": ["6.957"],
+    "vote_average": ["6.958"],
     "overview": ["An LA girl, unlucky in love, falls for an East Coast guy on a dating app and decides to surprise him for Christmas, only to discover that she's been catfished. But the object of her affection actually lives in the same town, and the guy who duped her offers to set them up if she pretends to be his own girlfriend for the holidays."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["6.3/10"],
@@ -17679,11 +17679,11 @@
     "released": ["2024-11-05"],
     "duration": [105],
     "imdb_id": ["tt20502488"],
-    "vote_average": ["6.3"],
+    "vote_average": ["6.339"],
     "overview": ["On a quest to meet the man of her dreams, a hopeless romantic races across New York City to find a ticket to a sold-out Pentatonix Christmas concert."],
     "genres": ["Romance", "Comedy"],
     "imdb_score": ["5.5/10"],
-    "rt_score": ["67%"],
+    "rt_score": ["69%"],
     "platforms": ["Netflix"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": ["Rusty Cundieff"],
@@ -17805,7 +17805,7 @@
     "released": ["1983-10-19"],
     "duration": [25],
     "imdb_id": ["tt0085936"],
-    "vote_average": ["7.634"],
+    "vote_average": ["7.633"],
     "overview": ["Ebenezer Scrooge is far too greedy to understand that Christmas is a time for kindness and generosity. But with the guidance of some new found friends, Scrooge learns to embrace the spirit of the season. A retelling of the classic Dickens tale with Disney's classic characters."],
     "genres": ["Family", "Animation"],
     "imdb_score": ["8.0/10"],
@@ -17873,7 +17873,7 @@
     "rt_score": ["40%"],
     "platforms": ["Disney Plus"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg"],
-    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
+    "director": ["Bill Speers", "Toby Shelton", "Bradley Raymond", "Jun Falkenstein", "Alex Mann"],
     "cast": {
       "Kelsey Grammer": {
         "id": [7090],
@@ -19120,7 +19120,7 @@
     "released": ["1992-12-10"],
     "duration": [86],
     "imdb_id": ["tt0104940"],
-    "vote_average": ["7.415"],
+    "vote_average": ["7.4"],
     "overview": ["A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future."],
     "genres": ["Music", "Comedy", "Family", "Fantasy", "Drama"],
     "imdb_score": ["7.8/10"],
@@ -21687,7 +21687,7 @@
     "released": ["2019-11-12"],
     "duration": [100],
     "imdb_id": ["tt5097410"],
-    "vote_average": ["6.594"],
+    "vote_average": ["6.587"],
     "overview": ["Kris Kringle's daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it's his turn to take over as Santa."],
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": ["6.3/10"],
@@ -21824,7 +21824,7 @@
     "released": ["2024-12-06"],
     "duration": [50],
     "imdb_id": ["tt33427273"],
-    "vote_average": ["7.4"],
+    "vote_average": ["7.379"],
     "overview": ["Pop star Sabrina Carpenter jingles all the bells in this old-school variety music special full of holiday hits, unexpected duets and comedic cameos."],
     "genres": ["Music"],
     "platforms": ["Netflix", "Plex"],
@@ -22163,7 +22163,7 @@
     "released": ["2024-11-27"],
     "duration": [101],
     "imdb_id": ["tt31022050"],
-    "vote_average": ["6.333"],
+    "vote_average": ["6.325"],
     "overview": ["After discovering their significant others are siblings, two resentful exes must spend Christmas under one roof — while hiding their romantic history."],
     "genres": ["Romance", "Comedy", "Drama"],
     "platforms": ["Netflix"],
@@ -22407,7 +22407,7 @@
     "released": ["2004-11-10"],
     "duration": [100],
     "imdb_id": ["tt0338348"],
-    "vote_average": ["6.722"],
+    "vote_average": ["6.7"],
     "overview": ["When a doubting young boy takes an extraordinary train ride to the North Pole, he embarks on a journey of self-discovery that shows him that the wonder of life never fades for those who believe."],
     "genres": ["Animation", "Adventure", "Family", "Fantasy"],
     "imdb_score": ["6.6/10"],
@@ -22694,7 +22694,7 @@
     "released": ["1996-12-13"],
     "duration": [123],
     "imdb_id": ["tt0117372"],
-    "vote_average": ["5.8"],
+    "vote_average": ["5.765"],
     "overview": ["Good-natured Reverend Henry Biggs finds that his marriage to choir mistress Julia is flagging, due to his constant absence caring for the deprived neighborhood they live in. On top of all this, his church is coming under threat from property developer Joe Hamilton. In desperation, Biggs prays to God for help – which arrives in the form of an angel named Dudley."],
     "genres": ["Family", "Fantasy", "Drama", "Comedy", "Romance"],
     "imdb_score": ["5.7/10"],
@@ -23082,7 +23082,7 @@
     "released": ["2024-10-31"],
     "duration": [124],
     "imdb_id": ["tt14948432"],
-    "vote_average": ["6.994"],
+    "vote_average": ["6.954"],
     "overview": ["After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas."],
     "genres": ["Action", "Fantasy", "Comedy"],
     "imdb_score": ["6.9/10"],
@@ -25353,7 +25353,7 @@
     "released": ["1988-11-22"],
     "duration": [101],
     "imdb_id": ["tt0096061"],
-    "vote_average": ["6.797"],
+    "vote_average": ["6.8"],
     "overview": ["Frank Cross is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing a staff member on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past."],
     "genres": ["Fantasy", "Comedy", "Drama"],
     "imdb_score": ["6.9/10"],
@@ -25982,7 +25982,7 @@
     "released": ["2021-12-03"],
     "duration": [92],
     "imdb_id": ["tt11628854"],
-    "vote_average": ["6"],
+    "vote_average": ["6.013"],
     "overview": ["Nell, Simon, and their boy Art are ready to welcome friends and family for what promises to be a perfect Christmas gathering. Perfect except for one thing: everyone is going to die."],
     "genres": ["Comedy", "Science Fiction", "Horror"],
     "imdb_score": ["5.8/10"],
@@ -26099,7 +26099,7 @@
     "released": ["2023-11-30"],
     "duration": [104],
     "imdb_id": ["tt15799866"],
-    "vote_average": ["6.248"],
+    "vote_average": ["6.245"],
     "overview": ["A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death."],
     "genres": ["Action", "Thriller"],
     "imdb_score": ["5.3/10"],
@@ -27136,7 +27136,7 @@
     "released": ["2015-07-10"],
     "duration": [87],
     "imdb_id": ["tt3824458"],
-    "vote_average": ["6.913"],
+    "vote_average": ["6.9"],
     "overview": ["It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the working girl and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles, including an Armenian family dealing with their own repercussions of infidelity."],
     "genres": ["Comedy", "Drama"],
     "imdb_score": ["7.1/10"],
@@ -27518,7 +27518,7 @@
     "released": ["2003-12-05"],
     "duration": [92],
     "imdb_id": ["tt0388473"],
-    "vote_average": ["7.913"],
+    "vote_average": ["7.9"],
     "overview": ["On Christmas Eve, three homeless people living on the streets of Tokyo discover a newborn baby among the trash and set out to find its parents."],
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": ["7.8/10"],
@@ -27625,7 +27625,7 @@
     "released": ["1983-06-07"],
     "duration": [116],
     "imdb_id": ["tt0086465"],
-    "vote_average": ["7.215"],
+    "vote_average": ["7.2"],
     "overview": ["A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires."],
     "genres": ["Comedy"],
     "imdb_score": ["7.5/10"],
@@ -28294,7 +28294,7 @@
     "released": ["2015-12-04"],
     "duration": [56],
     "imdb_id": ["tt4537842"],
-    "vote_average": ["5.261"],
+    "vote_average": ["5.251"],
     "overview": ["Bill Murray worries no one will show up to his TV show due to a massive snowstorm in New York City. Through luck and perseverance, guests arrive at Gotham’s Carlyle Hotel to help him — dancing and singing in holiday spirit."],
     "genres": ["Comedy", "Music", "TV Movie"],
     "imdb_score": ["5.5/10"],
@@ -28515,7 +28515,7 @@
     "released": ["2022-11-30"],
     "duration": [111],
     "imdb_id": ["tt12003946"],
-    "vote_average": ["7.307"],
+    "vote_average": ["7.3"],
     "overview": ["When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint."],
     "genres": ["Comedy", "Action"],
     "imdb_score": ["6.7/10"],
@@ -29199,7 +29199,7 @@
     "rt_score": ["90%"],
     "platforms": ["Plex"],
     "logo_paths": ["https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": [113284],
