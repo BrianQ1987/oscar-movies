@@ -74,7 +74,7 @@
     "Bell, Book and Candle": {
         "id": 2006,
         "plex": true,
-        "watched": [2022, 2023],
+        "watched": [2022, 2023, 2024],
         "added": 2022
     },
     "Best. Christmas. Ever!": {
@@ -794,7 +794,7 @@
     "Meet Me Next Christmas": {
         "id": 1104171,
         "plex": false,
-        "watched": [],
+        "watched": [2024],
         "added": 2024
     },
     "Christmas Eve in Miller's Point": {
