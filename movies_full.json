@@ -1610,7 +1610,7 @@
     "released": ["2023-11-16"],
     "duration": [82],
     "imdb_id": ["tt7038762"],
-    "vote_average": ["5.443"],
+    "vote_average": ["5.426"],
     "overview": ["After a twist of fate brings their families together for Christmas, Charlotte sets out to prove her old friend Jackie's life is too good to be true."],
     "genres": ["Comedy"],
     "imdb_score": ["4.4/10"],
@@ -3412,7 +3412,7 @@
     "released": ["1940-10-25"],
     "duration": [67],
     "imdb_id": ["tt0032338"],
-    "vote_average": ["7"],
+    "vote_average": ["6.961"],
     "overview": ["An office clerk loves entering contests in the hopes of someday winning a fortune and marrying the girl he loves. His latest attempt is the Maxford House Coffee Slogan Contest. As a joke, some of his co-workers put together a fake telegram which says that he won the $25,000 grand prize."],
     "genres": ["Comedy", "Romance"],
     "imdb_score": ["7.3/10"],
@@ -3960,7 +3960,7 @@
     "released": ["2022-12-08"],
     "duration": [102],
     "imdb_id": ["tt17220704"],
-    "vote_average": ["6.458"],
+    "vote_average": ["6.5"],
     "overview": ["Ralphie is now all grown up and must deal with Christmas and all that comes with it… as a dad."],
     "genres": ["Comedy", "Family", "Drama", "Fantasy"],
     "imdb_score": ["6.7/10"],
@@ -13870,7 +13870,7 @@
       },
       "Carl Switzer": {
         "id": [941239],
-        "character": ["Freddie Othello (uncredited)"],
+        "character": ["Freddie Othello"],
         "profile_path": ["https://image.tmdb.org/t/p/w1280/vCkSMW92oos0CtHGXJiMk8fl8c0.jpg"]
       },
       "Max Wagner": {
@@ -15432,7 +15432,7 @@
       "Michael Sheen": {
         "id": [3968],
         "character": ["Tony Towers"],
-        "profile_path": ["https://image.tmdb.org/t/p/w1280/iKHKWahPQYuxJSjXf8ZEmEZD9wZ.jpg"]
+        "profile_path": ["https://image.tmdb.org/t/p/w1280/bm0g83Q7F9w84G9PRLXp2ojSwiI.jpg"]
       },
       "Cary Elwes": {
         "id": [2130],
@@ -28515,7 +28515,7 @@
     "released": ["2022-11-30"],
     "duration": [111],
     "imdb_id": ["tt12003946"],
-    "vote_average": ["7.306"],
+    "vote_average": ["7.304"],
     "overview": ["When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint."],
     "genres": ["Comedy", "Action"],
     "imdb_score": ["6.7/10"],
