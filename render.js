@@ -67,7 +67,7 @@ async function renderMovies() {
         title_div = document.createElement("div");
         title_div.classList.add("poster-title");
         title_div.id = id + "-title";
-        title_div.innerHTML = `${movie.title} (${movie.released[0].slice(0, 4)})`;
+        title_div.innerHTML = `${movie.title} (${movie.released.slice(0, 4)})`;
         title_div.style.display = "none";
         poster_div.appendChild(title_div);
 
@@ -125,7 +125,7 @@ async function renderMovies() {
             filter_menu.style.display = "none";
             document.getElementById("movie-info").style.display = "flex";
 
-            document.getElementById("info-title").innerHTML = `${movie.title} <span style = "font-size: 12pt;">(${movie.released[0].slice(0, 4)})</span>`;
+            document.getElementById("info-title").innerHTML = `${movie.title} <span style = "font-size: 12pt;">(${movie.released.slice(0, 4)})</span>`;
             document.getElementById("info-poster").innerHTML = '<img src="' + movie.poster_path + '" class = "img-fluid">'
 
             duration = Math.floor(movie.duration / 60) + "h " + movie.duration % 60 + "m";
@@ -144,7 +144,7 @@ async function renderMovies() {
             
             function draw_pie (site_score, title) {
 
-                let score = movie[site_score][0];
+                let score = movie[site_score];
 
                 let pie = document.createElement("div");
                 pie.classList.add("pie");
@@ -218,7 +218,11 @@ async function renderMovies() {
                 watched_div.removeChild(watched_div.firstChild)
             }
 
-            for (let j = movie.added[0]; j <= current_year; j ++) {
+            if (!Array.isArray(movie.watched)) {
+                movie.watched = [movie.watched]
+            }
+
+            for (let j = movie.added; j <= current_year; j ++) {
                 if (movie.watched.includes(j)) {
                     emoji = "🎄"
                 } else {
@@ -234,9 +238,14 @@ async function renderMovies() {
             }
 
             if (movie.hasOwnProperty("platforms")) {
-                for (let j = 0; j < movie.platforms.length; j ++) {
-                    logo = "https://image.tmdb.org/t/p/original" + movie.logo_paths[j];
-                    platform_div.innerHTML += "<div><img class = 'tv-logo' src = '" + logo + "'>" + movie.platforms[j] + "</div>"
+                if (Array.isArray(movie.platforms)) {
+                    for (let j = 0; j < movie.platforms.length; j ++) {
+                        logo = "https://image.tmdb.org/t/p/original" + movie.logo_paths[j];
+                        platform_div.innerHTML += "<div><img class = 'tv-logo' src = '" + logo + "'>" + movie.platforms[j] + "</div>"
+                    }
+                } else {
+                    logo = "https://image.tmdb.org/t/p/original" + movie.logo_paths;
+                    platform_div.innerHTML += "<div><img class = 'tv-logo' src = '" + logo + "'>" + movie.platforms + "</div>"
                 }
                 document.getElementById("watch-it-on").innerHTML = "📺 Watch it on:";
                 document.getElementById("watch-it-on").removeAttribute("style");
@@ -267,11 +276,15 @@ async function renderMovies() {
 
             document.getElementById("info-genres").textContent = genre_text;
 
-            director = movie.director;
+            if (Array.isArray(movie.director)) {
+                director = movie.director
+            } else {
+                director = [movie.director]
+            }
                 
             if (director.length == 1) {
                 document.getElementById("director-heading").textContent = "🎬 Director";
-                document.getElementById("info-director").textContent = director[0];
+                document.getElementById("info-director").textContent = director;
             } else if (director.length > 1) {
                 document.getElementById("director-heading").textContent = "🎬 Directors";
                 let director_text = "";

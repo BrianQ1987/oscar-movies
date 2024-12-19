@@ -212,7 +212,7 @@ filter_duration.onmouseover = function () {
 
             movie = movies[Object.keys(movies)[i]];
             
-            if (movie.duration[0] > this.value) {
+            if (movie.duration > this.value) {
                 document.getElementById(movie.id).style.display = "none";
             } else {
                 document.getElementById(movie.id).style.display = "flex";
@@ -270,7 +270,7 @@ filter_release.onmouseover = function () {
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
         if (movies[Object.keys(movies)[i]].released != "") {
-            decades.push(movies[Object.keys(movies)[i]].released[0].slice(0, 3));
+            decades.push(movies[Object.keys(movies)[i]].released.slice(0, 3));
         }
     }
 
@@ -300,7 +300,7 @@ filter_release.onmouseover = function () {
 
                 movie = movies[Object.keys(movies)[j]];                
                 
-                if (movie.released[0].slice(0, 3) != i) {
+                if (movie.released.slice(0, 3) != i) {
                     document.getElementById(movie.id).style.display = "none";
                 } else {
                     document.getElementById(movie.id).style.display = "flex";
@@ -451,6 +451,10 @@ filter_watched.onmouseover = function () {
             for (let j = 0; j < Object.keys(movies).length; j ++) {
 
                 movie = movies[Object.keys(movies)[j]];
+
+                if (!Array.isArray(movie.watched)) {
+                    movie.watched = [movie.watched]
+                }
                 
                 if (!movie.watched.includes(i) || movie.watched.length == 0) {
                     document.getElementById(movie.id).style.display = "none";
@@ -738,6 +742,10 @@ filter_genre.onmouseover = function () {
 
         let movie_genres = movies[Object.keys(movies)[i]].genres;
 
+        if (!Array.isArray(movie_genres)) {
+            movie_genres = [movie_genres];
+        }
+
         for (let j = 0; j < movie_genres.length; j ++) {
             if (!genres.includes(movie_genres[j])) {
                 genres.push(movie_genres[j])
@@ -836,7 +844,7 @@ sort_duration.onclick = function() {
     let durations = [];
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
-        durations.push(movies[Object.keys(movies)[i]].duration[0]);
+        durations.push(movies[Object.keys(movies)[i]].duration);
     }    
 
     durations = [...new Set(durations)];
@@ -997,7 +1005,7 @@ sort_imdb.onclick = function() {
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
         if (movies[Object.keys(movies)[i]].hasOwnProperty("imdb_score")) {
-            scores.push(movies[Object.keys(movies)[i]].imdb_score[0]);
+            scores.push(movies[Object.keys(movies)[i]].imdb_score);
         } else {
             scores.push("0/10")
         }
@@ -1049,7 +1057,7 @@ sort_rt.onclick = function() {
 
         if (movies[Object.keys(movies)[i]].hasOwnProperty("rt_score")) {
 
-            rt_value = movies[Object.keys(movies)[i]].rt_score[0];
+            rt_value = movies[Object.keys(movies)[i]].rt_score;
             rt_value = rt_value.slice(0, rt_value.indexOf("%"));
 
         } else {

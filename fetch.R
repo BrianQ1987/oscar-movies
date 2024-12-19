@@ -180,7 +180,7 @@ load_movies <- function() {
   }
 
   # Write the processed movies to a new JSON file
-  write_json(movies, "movies_full.json", pretty = TRUE)
+  write_json(movies, "movies_full.json", auto_unbox = TRUE, pretty = TRUE)
 
   cat("Movies have been successfully written to movies_full.json\n")
 }
