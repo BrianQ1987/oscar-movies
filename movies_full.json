@@ -9,7 +9,7 @@
     "released": "2021-11-24",
     "duration": 98,
     "imdb_id": "tt11540284",
-    "vote_average": "6.4",
+    "vote_average": "6.372",
     "overview": "In suburban Chicago during the late 1980s, ten-year-old Jake Doyle embarks on a herculean quest to get the latest and greatest video game system for Christmas.",
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": "6.7/10",
@@ -22,7 +22,7 @@
       "Neil Patrick Harris": {
         "id": 41686,
         "character": "Adult Jake Doyle / Narrator",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rpdnM30mpwVapsQhwV2dLNEmFEL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lZpyUk4savnwZylvrCPM0MvMXiY.jpg"
       },
       "Winslow Fegley": {
         "id": 2115854,
@@ -37,7 +37,7 @@
       "June Diane Raphael": {
         "id": 83873,
         "character": "Kathy Doyle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2tFnHjud57d7qv2Bqo7irVA2rsn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lAwKmADejWaxNCwraNJO6tbfItb.jpg"
       },
       "Bellaluna Resnick": {
         "id": 3346812,
@@ -333,7 +333,7 @@
       "Wendie Malick": {
         "id": 61980,
         "character": "Nancy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/o9ispb4DR7zjAr0nlxFoPrdaS4x.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jm5UpTxgFZVTbWbDxsYUZafPoY4.jpg"
       },
       "Dennis Staroselsky": {
         "id": 1150232,
@@ -429,7 +429,7 @@
       "Lauren Bacall": {
         "id": 7570,
         "character": "Lillian Brooks",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oULHv4oWUijpB1lV96poM2cSXgy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iCOzbSzCSUC6D9EcyXtVb2FRNu0.jpg"
       },
       "Renée Taylor": {
         "id": 56105,
@@ -981,7 +981,7 @@
       "Andy Serkis": {
         "id": 1333,
         "character": "Lead Elf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AbGDUqPkroBsALxdFga1IRGxG9i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
       },
       "Dominic West": {
         "id": 17287,
@@ -1188,12 +1188,12 @@
       "John Ritter": {
         "id": 27772,
         "character": "Bob Chipeska",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qtDUmYHdT6RCs8wp5FmIZMKNelM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/opfNiumC8LjFoUwaOKrDGuNbIPM.jpg"
       },
       "Bernie Mac": {
         "id": 1897,
         "character": "Gin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bwMmpeu3whjhhaxt1UTCk7S5jmv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o1LQ83S4ZYvj84HYeWAzEV7Cg95.jpg"
       },
       "Lorna Scott": {
         "id": 73456,
@@ -1379,7 +1379,7 @@
       "Elsa Lanchester": {
         "id": 2926,
         "character": "Aunt Queenie Holroyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sG1otCRGe2gHrMzkv5HE68a9KJH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
       },
       "Janice Rule": {
         "id": 20604,
@@ -1729,7 +1729,7 @@
       "Elsa Lanchester": {
         "id": 2926,
         "character": "Matilda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sG1otCRGe2gHrMzkv5HE68a9KJH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jek9jcqODZGWnmcMm7ynkSaLSWb.jpg"
       },
       "Sara Haden": {
         "id": 85956,
@@ -1888,7 +1888,7 @@
     "released": "1974-10-11",
     "duration": 98,
     "imdb_id": "tt0071222",
-    "vote_average": "6.931",
+    "vote_average": "6.9",
     "overview": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
     "genres": ["Horror", "Mystery", "Thriller"],
     "imdb_score": "7.1/10",
@@ -1903,35 +1903,30 @@
         "character": "Jess",
         "profile_path": "https://image.tmdb.org/t/p/w1280/y0maQyz8Cuy3rd2ZwMrd51Y84ox.jpg"
       },
+      "Keir Dullea": {
+        "id": 245,
+        "character": "Peter",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg"
+      },
+      "Margot Kidder": {
+        "id": 20011,
+        "character": "Barb",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bqFP3Tnd40ff9GzaBzqfNxWZkFq.jpg"
+      },
       "John Saxon": {
         "id": 11163,
         "character": "Lt. Fuller",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rQh2ddJYtP3x2g1mnlFBQz547FO.jpg"
-      },
-      "Andrea Martin": {
-        "id": 8263,
-        "character": "Phyl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
-      },
-      "Bob Clark": {
-        "id": 12698,
-        "character": "Billy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9T202dlMtzl1cA143aW3y6jTVXB.jpg"
       },
       "Marian Waldman": {
         "id": 81055,
         "character": "Mrs. Mac",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3INBxMRr5McLRhuf8DBT8gnL5Es.jpg"
       },
-      "Margot Kidder": {
-        "id": 20011,
-        "character": "Barb",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/75NRXHPZOqUdYUcg1hcFKIPP7YQ.jpg"
-      },
-      "Keir Dullea": {
-        "id": 245,
-        "character": "Peter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5QyrGWxujX8XA3Ny3M8D18TWupi.jpg"
+      "Andrea Martin": {
+        "id": 8263,
+        "character": "Phyl",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lOP6nvTOvqpdHtEMfLCvNqUaRnp.jpg"
       },
       "James Edmond": {
         "id": 81056,
@@ -1943,15 +1938,15 @@
         "character": "Sargeant Nash",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fvKJ31NYpv5a5U9uNveIf3lCWjU.jpg"
       },
-      "Lynne Griffin": {
-        "id": 34917,
-        "character": "Clare",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l7qCksQ9W59XCYEACiPmCeCU4hw.jpg"
-      },
       "Art Hindle": {
         "id": 41256,
         "character": "Chris",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lhoh2KGtDfSjiIJSKT9ymTypPCf.jpg"
+      },
+      "Lynne Griffin": {
+        "id": 34917,
+        "character": "Clare",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l7qCksQ9W59XCYEACiPmCeCU4hw.jpg"
       },
       "Michael Rapport": {
         "id": 1803238,
@@ -2032,6 +2027,16 @@
         "id": 1228171,
         "character": "Cop",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5K8GhYPPt7LlKJv4BYBxSyqq9FD.jpg"
+      },
+      "Bob Clark": {
+        "id": 12698,
+        "character": "Prowler Shadow / Phone Voice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9T202dlMtzl1cA143aW3y6jTVXB.jpg"
+      },
+      "Nick Mancuso": {
+        "id": 49877,
+        "character": "The Prowler / Phone Voice (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sGOtCUJed5lyx4eUOFcKbIKVRDI.jpg"
       }
     }
   },
@@ -2662,12 +2667,12 @@
     "plex": false,
     "watched": [2020, 2022, 2023],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/6fDmxNVFGSYlVR01zbYSZ4M0lU0.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vtaufTzJBMJAeziQA1eP4BLU24C.jpg",
     "title": "A Charlie Brown Christmas",
     "released": "1965-12-09",
     "duration": 25,
     "imdb_id": "tt0059026",
-    "vote_average": "7.703",
+    "vote_average": "7.7",
     "overview": "When Charlie Brown complains about the overwhelming materialism that he sees amongst everyone during the Christmas season, Lucy suggests that he become director of the school Christmas pageant. Charlie Brown accepts, but it is a frustrating struggle. When an attempt to restore the proper spirit with a forlorn little fir Christmas tree fails, he needs Linus' help to learn the meaning of Christmas.",
     "genres": ["Animation", "Family", "Comedy", "TV Movie"],
     "imdb_score": "8.3/10",
@@ -2689,7 +2694,7 @@
       "Tracy Stratford": {
         "id": 148107,
         "character": "Lucy Van Pelt (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6fDmxNVFGSYlVR01zbYSZ4M0lU0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vtaufTzJBMJAeziQA1eP4BLU24C.jpg"
       },
       "Cathy Steinberg": {
         "id": 124653,
@@ -2699,7 +2704,7 @@
       "Chris Doran": {
         "id": 148104,
         "character": "Schroeder / Shermy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6fDmxNVFGSYlVR01zbYSZ4M0lU0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vtaufTzJBMJAeziQA1eP4BLU24C.jpg"
       },
       "Sally Dryer": {
         "id": 124652,
@@ -2714,12 +2719,12 @@
       "Geoffrey Ornstein": {
         "id": 148106,
         "character": "Pig-Pen (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6fDmxNVFGSYlVR01zbYSZ4M0lU0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vtaufTzJBMJAeziQA1eP4BLU24C.jpg"
       },
       "Karen Mendelson": {
         "id": 148105,
         "character": "Patty (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6fDmxNVFGSYlVR01zbYSZ4M0lU0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vtaufTzJBMJAeziQA1eP4BLU24C.jpg"
       },
       "Bill Melendez": {
         "id": 94011,
@@ -3049,7 +3054,7 @@
     "released": "1944-07-31",
     "duration": 93,
     "imdb_id": "tt0036711",
-    "vote_average": "6.4",
+    "vote_average": "6.383",
     "overview": "Don't be fooled by the title. Christmas Holiday is a far, far cry from It's a Wonderful Life. Told in flashback, the story begins as Abigail Martin marries Southern aristocrat Robert Monette. Unfortunately, Robert has inherited his family's streak of violence and instability, and soon drags Abigail into a life of misery.",
     "genres": ["Drama", "Romance", "Crime"],
     "imdb_score": "6.5/10",
@@ -3066,7 +3071,7 @@
       "Gene Kelly": {
         "id": 13294,
         "character": "Robert Manette",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hiyOUoYWGOth6evR0QjGeagSVUo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/g98yyY7oGrkocUxxJgOt82I7z6A.jpg"
       },
       "Richard Whorf": {
         "id": 30270,
@@ -3248,7 +3253,7 @@
       "Barbara Stanwyck": {
         "id": 14974,
         "character": "Elizabeth Lane",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xBfikc66lCnShogMZX1k9cV7H26.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fSLs301bTCx6ukaRuErorjRlqf7.jpg"
       },
       "Dennis Morgan": {
         "id": 33022,
@@ -3708,7 +3713,7 @@
     "released": "1983-11-18",
     "duration": 93,
     "imdb_id": "tt0085334",
-    "vote_average": "7.246",
+    "vote_average": "7.2",
     "overview": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
     "genres": ["Comedy", "Family"],
     "imdb_score": "7.9/10",
@@ -4201,7 +4206,7 @@
         "character": "Robert",
         "profile_path": "https://image.tmdb.org/t/p/w1280/noQKS06TbuPJQ9o91CzKbEvTwZR.jpg"
       },
-      "JoAnna García Swisher": {
+      "JoAnna Garcia Swisher": {
         "id": 99206,
         "character": "Becky",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rlaDa8MgZbuLCn1So6H7Ff8Pa0c.jpg"
@@ -4248,12 +4253,12 @@
     "plex": false,
     "watched": 2021,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg",
     "title": "Love the Coopers",
     "released": "2015-11-12",
     "duration": 107,
     "imdb_id": "tt2279339",
-    "vote_average": "5.974",
+    "vote_average": "6",
     "overview": "When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday.",
     "genres": ["Drama", "Comedy", "Family"],
     "imdb_score": "5.8/10",
@@ -4279,7 +4284,7 @@
       "Amanda Seyfried": {
         "id": 71070,
         "character": "Ruby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fQ4JaWimkid15Eqq4E6XP2We68b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
       },
       "Alan Arkin": {
         "id": 1903,
@@ -4294,7 +4299,7 @@
       "Olivia Wilde": {
         "id": 59315,
         "character": "Eleanor Cooper",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n05O8kTFzcYhb46oz3rcF7YPfCr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jYopRE6nhYGqpb64fVUKrbJVMy1.jpg"
       },
       "Marisa Tomei": {
         "id": 3141,
@@ -4359,7 +4364,7 @@
       "Larry McKay": {
         "id": 1931916,
         "character": "Bob",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       },
       "Sylvia Kauders": {
         "id": 122239,
@@ -4384,12 +4389,12 @@
       "Michael R. Wilson": {
         "id": 1088591,
         "character": "Young Sam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       },
       "Elisabeth Evans": {
         "id": 1931917,
         "character": "Young Charlotte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       },
       "Quinn McColgan": {
         "id": 1009160,
@@ -4399,12 +4404,12 @@
       "Sean McGee": {
         "id": 1931918,
         "character": "Young Bucky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       },
       "Rory Wilson": {
         "id": 1931919,
         "character": "Young Emma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       },
       "Michelle Veintimilla": {
         "id": 1367075,
@@ -4419,12 +4424,12 @@
       "Richard C. Fishel": {
         "id": 1927488,
         "character": "Dog",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       },
       "Lev Pakman": {
         "id": 2887846,
         "character": "Schnozzle Whitehead",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aHJhk1aWviX9RAbbljFyPO04yrt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg"
       }
     }
   },
@@ -4809,8 +4814,8 @@
     "overview": "To save his daughter's Christmas, Andrew goes on a road trip with Dev, his neighbour from hell, to buy an elusive Sparklehoof the Unicorn Princess.",
     "genres": ["Comedy", "TV Movie"],
     "imdb_score": "6.8/10",
-    "platforms": ["BBC iPlayer", "Netflix", "Amazon Prime Video"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": ["Netflix", "Amazon Prime Video"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "Ben Palmer",
     "cast": {
       "Asim Chaudhry": {
@@ -5096,7 +5101,7 @@
     "plex": false,
     "watched": [2021, 2023],
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg",
     "title": "Deck the Halls",
     "released": "2006-11-22",
     "duration": 93,
@@ -5279,27 +5284,27 @@
       "Aurora Faulkner-Killam": {
         "id": 2753454,
         "character": "Caroler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Melissa Howell": {
         "id": 2753457,
         "character": "Caroler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Lori Johnson": {
         "id": 2753460,
         "character": "Caroler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "David Shaw": {
         "id": 2753461,
         "character": "Caroler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Myles Wolfe": {
         "id": 2753462,
         "character": "Caroler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Ty Olsson": {
         "id": 42711,
@@ -5309,7 +5314,7 @@
       "Stephen Holmes": {
         "id": 1224546,
         "character": "UPS Guy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Andrew Hedge": {
         "id": 189030,
@@ -5324,7 +5329,7 @@
       "Cassidy Bot-Devire": {
         "id": 3825575,
         "character": "Little Girl (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Aaron Craven": {
         "id": 1176581,
@@ -5334,12 +5339,12 @@
       "Blair Gorrell": {
         "id": 2753486,
         "character": "Carnival Fan (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Rachel Lana Li": {
         "id": 2753487,
         "character": "Spectator (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Lochlyn Munro": {
         "id": 58058,
@@ -5359,7 +5364,7 @@
       "Arden Rhine": {
         "id": 1460538,
         "character": "Woman (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/muRplVEe8xU1jVlq9WpQSOamb6s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/smJDzhYGhl6j9OrucsB7IkMNy82.jpg"
       },
       "Calum Worthy": {
         "id": 82626,
@@ -5378,7 +5383,7 @@
     "released": "1988-07-15",
     "duration": 132,
     "imdb_id": "tt0095016",
-    "vote_average": "7.794",
+    "vote_average": "7.8",
     "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
     "genres": ["Action", "Thriller"],
     "imdb_score": "8.2/10",
@@ -5596,7 +5601,7 @@
       "Kym Malin": {
         "id": 548663,
         "character": "Hostage",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8SwDz9qTVscYoA5IvpRrjyJU3eE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t0ONLUlmn4TzfFC8heZiz7dG73M.jpg"
       },
       "Taylor Fry": {
         "id": 1232407,
@@ -5715,12 +5720,12 @@
     "plex": true,
     "watched": [2020, 2021, 2022, 2023],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg",
     "title": "Elf",
     "released": "2003-10-09",
     "duration": 97,
     "imdb_id": "tt0319343",
-    "vote_average": "6.654",
+    "vote_average": "6.7",
     "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": "7.1/10",
@@ -5848,12 +5853,12 @@
       "Annie Brebner": {
         "id": 62251,
         "character": "Elf Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Luke Pohl": {
         "id": 2073499,
         "character": "Elf Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Meghan Black": {
         "id": 52510,
@@ -5863,7 +5868,7 @@
       "Patrick Baynham": {
         "id": 85503,
         "character": "Elf",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Michael Roberds": {
         "id": 1234355,
@@ -5878,7 +5883,7 @@
       "Patrick Hulne": {
         "id": 2828887,
         "character": "Elf Twin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Richard Side": {
         "id": 199863,
@@ -5898,22 +5903,22 @@
       "Lorin Heath": {
         "id": 1498692,
         "character": "Perfume Clerk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Dillard Brinson": {
         "id": 1296181,
         "character": "Printer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Brad Turner": {
         "id": 1397843,
         "character": "Office Co-Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "David Berenbaum": {
         "id": 54051,
         "character": "Office Co-Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Brenda Crichlow": {
         "id": 60613,
@@ -5948,7 +5953,7 @@
       "Paul Schofield": {
         "id": 2828890,
         "character": "Kid with Santa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Matt Walsh": {
         "id": 59841,
@@ -5963,17 +5968,17 @@
       "Gus Michael": {
         "id": 2828891,
         "character": "Witness",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Alexandra Michael": {
         "id": 1160251,
         "character": "Child",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Terry J. Scarlatos": {
         "id": 2828892,
         "character": "Police Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Jonathan Bruce": {
         "id": 2828893,
@@ -5988,12 +5993,12 @@
       "Michael Christopher Fischetti": {
         "id": 2828895,
         "character": "School Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Jane Bradbury": {
         "id": 2828896,
         "character": "Susan Welles",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Peter Billingsley": {
         "id": 12708,
@@ -6003,7 +6008,7 @@
       "Jay Finocchiaro": {
         "id": 2042471,
         "character": "Passerby (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Craig \"Radioman\" Castaldo": {
         "id": 1116907,
@@ -6023,7 +6028,7 @@
       "Rachel Lana Li": {
         "id": 2753487,
         "character": "Child (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Natasha Denis": {
         "id": 2030417,
@@ -6033,12 +6038,12 @@
       "Nance Nickels": {
         "id": 1718241,
         "character": "Extra in crowd (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Albert Precourt": {
         "id": 2729769,
         "character": "Passerby (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xmk6DZxRdDsJBQkfNFN3R9Lu594.jpg"
       },
       "Joe Ranft": {
         "id": 7911,
@@ -6123,7 +6128,7 @@
     "released": "2022-11-10",
     "duration": 95,
     "imdb_id": "tt14715170",
-    "vote_average": "6.235",
+    "vote_average": "6.237",
     "overview": "An engaged, spoiled hotel heiress finds herself in the care of a handsome, blue-collar lodge owner and his precocious daughter after getting amnesia in a skiing accident.",
     "genres": ["Romance", "Comedy", "Family"],
     "imdb_score": "5.2/10",
@@ -6270,7 +6275,7 @@
     "plex": false,
     "watched": 2021,
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg",
     "title": "The Family Stone",
     "released": "2005-12-15",
     "duration": 103,
@@ -6353,7 +6358,7 @@
       "Robert Dioguardi": {
         "id": 2892219,
         "character": "David Silver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Carol Locatell": {
         "id": 1238682,
@@ -6363,12 +6368,12 @@
       "Ginna Carter": {
         "id": 2792686,
         "character": "Jittery Cashier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Gus Buktenica": {
         "id": 1519200,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Michael Pemberton": {
         "id": 1320502,
@@ -6378,17 +6383,17 @@
       "Ron Wall": {
         "id": 1647721,
         "character": "Bus Driver Two",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Christopher Parker": {
         "id": 2892222,
         "character": "Inn Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Steve Alterman": {
         "id": 217777,
         "character": "Voice Actor (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Johnny Gidcomb": {
         "id": 1684502,
@@ -6408,7 +6413,7 @@
       "Randall Montgomery": {
         "id": 1423229,
         "character": "Voice Actor (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bvs6TxyPQ1ZK5yySFpKlCHGvGty.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3QPSWIx14H7sfaLqY5bh1qDNQhZ.jpg"
       },
       "Jill Remez": {
         "id": 1211945,
@@ -6494,7 +6499,7 @@
       "Paul Scheer": {
         "id": 59843,
         "character": "Steven",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/76c6ieidSECRslxVX4ZA5WBdz40.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yGOxrFSrmIZQ4hVnB3HHJm2NCPN.jpg"
       },
       "Helen Hong": {
         "id": 1552816,
@@ -6788,7 +6793,7 @@
     "plex": true,
     "watched": 2023,
     "added": 2023,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
     "title": "Fanny and Alexander",
     "released": "1982-12-17",
     "duration": 188,
@@ -6866,7 +6871,7 @@
       "Harriet Andersson": {
         "id": 7569,
         "character": "Justina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2zosqv6mIJh0WhDxwokjtmVTiOc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6uUPqEM4vs9mOylNZ9j5ewpi7kt.jpg"
       },
       "Gunnar Björnstrand": {
         "id": 6649,
@@ -6911,7 +6916,7 @@
       "Kristian Almgren": {
         "id": 564463,
         "character": "Putte Ekdahl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Carl Billquist": {
         "id": 139088,
@@ -6931,22 +6936,22 @@
       "Patricia Gélin": {
         "id": 928141,
         "character": "Statue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Majlis Granlund": {
         "id": 233217,
         "character": "Miss Vega",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Maria Granlund": {
         "id": 1874251,
         "character": "Petra Ekdahl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Eva von Hanno": {
         "id": 1269951,
         "character": "Berta",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Sonya Hedenbratt": {
         "id": 1558861,
@@ -6966,7 +6971,7 @@
       "Käbi Laretei": {
         "id": 1316759,
         "character": "Aunt Anna von Bohlen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Lena Olin": {
         "id": 5313,
@@ -6986,7 +6991,7 @@
       "Emelie Werkö": {
         "id": 2201575,
         "character": "Jenny Ekdahl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Marianne Aminoff": {
         "id": 73596,
@@ -7001,7 +7006,7 @@
       "Hans Henrik Lerfeldt": {
         "id": 2201576,
         "character": "Elsa Bergius",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Marrit Ohlsson": {
         "id": 547824,
@@ -7016,7 +7021,7 @@
       "Lars-Owe Carlberg": {
         "id": 11909,
         "character": "Glee Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Gus Dahlström": {
         "id": 213530,
@@ -7046,17 +7051,17 @@
       "Maud Hyttenberg": {
         "id": 1187094,
         "character": "Miss Sinclair",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Sven-Erik Jacobsson": {
         "id": 3368805,
         "character": "Glee Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       },
       "Marianne Nielsen": {
         "id": 109915,
         "character": "Selma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg"
       }
     }
   },
@@ -7070,7 +7075,7 @@
     "released": "2008-11-26",
     "duration": 88,
     "imdb_id": "tt0369436",
-    "vote_average": "5.8",
+    "vote_average": "5.798",
     "overview": "Brad and Kate have made something of an art form out of avoiding their families during the holidays, but this year their foolproof plan is about go bust -- big time. Stuck at the city airport after all departing flights are canceled, the couple is embarrassed to see their ruse exposed to the world by an overzealous television reporter. Now, Brad and Kate are left with precious little choice other than to swallow their pride and suffer the rounds.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "5.7/10",
@@ -7141,7 +7146,7 @@
       "Colleen Camp": {
         "id": 13023,
         "character": "Aunt Donna",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t1IbM9x1vJOzg02tQr68x9F4gI3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hNAIkUVtsQfpC95BDkXr1lmoI2F.jpg"
       },
       "Jack Donner": {
         "id": 16052,
@@ -7425,7 +7430,7 @@
     "released": "2007-11-09",
     "duration": 115,
     "imdb_id": "tt0486583",
-    "vote_average": "5.8",
+    "vote_average": "5.81",
     "overview": "Fred Claus and Santa Claus have been estranged brothers for many years. Now Fred must reconcile his differences with his brother whom he believes overshadows him. When an efficiency expert assesses the workings at the North Pole and threatens to shut Santa down, Fred must help his brother to save Christmas.",
     "genres": ["Action", "Comedy", "Drama"],
     "imdb_score": "5.7/10",
@@ -8122,7 +8127,7 @@
     "plex": true,
     "watched": 2022,
     "added": 2022,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg",
     "title": "Dial Code Santa Claus",
     "released": "1990-01-17",
     "duration": 88,
@@ -8153,7 +8158,7 @@
       "Alain Lalanne": {
         "id": 1204668,
         "character": "Thomas de Frémont",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "François-Eric Gendron": {
         "id": 554142,
@@ -8163,42 +8168,42 @@
       "Stéphane Legros": {
         "id": 548702,
         "character": "Pilou",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Franck Capillery": {
         "id": 239864,
         "character": "Le policier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Nicole Raucher": {
         "id": 3100147,
         "character": "La cuisinière",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Gédéon": {
         "id": 3847166,
         "character": "Le jardinier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Charles de Feral": {
         "id": 2279308,
         "character": "Cadre du Printemps",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Marion Bureau": {
         "id": 3847167,
         "character": "La petite fille",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Mousse": {
         "id": 3847168,
         "character": "Le clown",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Edmond Thanel": {
         "id": 3847169,
         "character": "Chauffeur-livreur",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "René Manzor": {
         "id": 24547,
@@ -8208,27 +8213,27 @@
       "Laurent Barboux": {
         "id": 3847170,
         "character": "Le jongleur",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Michel Barboux": {
         "id": 3847171,
         "character": "L'avaleur de sabre",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Claude Reboul": {
         "id": 3847174,
         "character": "Cracheur de feu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Gerard Duges": {
         "id": 3847176,
         "character": "Doublure",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       },
       "Ngoc Lan Truong Thi": {
         "id": 3847180,
         "character": "Doublure",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFbHQyEmrJeSEFDOCdSybeDYWGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XcvA3QElu0oqEO9xTVGsrKQQIe.jpg"
       }
     }
   },
@@ -8609,7 +8614,7 @@
     "released": "2018-11-08",
     "duration": 85,
     "imdb_id": "tt2709692",
-    "vote_average": "6.863",
+    "vote_average": "6.9",
     "overview": "The Grinch hatches a scheme to ruin Christmas when the residents of Whoville plan their annual holiday celebration.",
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": "6.4/10",
@@ -8812,7 +8817,7 @@
       "Tara Strong": {
         "id": 15762,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uBNSgUYSPmj7gpWd5rwQGrOu6B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Z86FfWbnUJnyFTcLa9MpVVFhMh.jpg"
       },
       "Regina Taufen": {
         "id": 1728454,
@@ -8836,7 +8841,7 @@
     "released": "2022-11-24",
     "duration": 45,
     "imdb_id": "tt13623136",
-    "vote_average": "7.1",
+    "vote_average": "7.141",
     "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
     "genres": ["Comedy", "Science Fiction", "Adventure"],
     "imdb_score": "6.9/10",
@@ -9085,7 +9090,7 @@
       "Aubrey Plaza": {
         "id": 119592,
         "character": "Riley Johnson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/780BVfLoEv5jY4kuLH5vHEZj3oz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lTrH9Ye8S0cu1kDYZQebytdMZAr.jpg"
       },
       "Sarayu Blue": {
         "id": 1224130,
@@ -9486,7 +9491,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.709",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.9/10",
@@ -9727,7 +9732,7 @@
     "released": "2020-10-27",
     "duration": 104,
     "imdb_id": "tt9866072",
-    "vote_average": "7.013",
+    "vote_average": "7",
     "overview": "Fed up with being single on holidays, two strangers agree to be each other's platonic plus-ones all year long, only to catch real feelings along the way.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "6.2/10",
@@ -9952,7 +9957,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Iris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5QKFvhIqKbI7adpG5TZBVZDv0hF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
       },
       "Jude Law": {
         "id": 9642,
@@ -9962,7 +9967,7 @@
       "Jack Black": {
         "id": 70851,
         "character": "Miles",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rtCx0fiYxJVhzXXdwZE2XRTfIKE.jpg"
       },
       "Eli Wallach": {
         "id": 3265,
@@ -10333,7 +10338,7 @@
       "Harry Morgan": {
         "id": 4073,
         "character": "Police Lieutenant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wOcBYXYJsvGziclaLTkv0TEXDxe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fD3YDU0P6W02Ee8frvgFx8tUa0B.jpg"
       },
       "Larry J. Blake": {
         "id": 82750,
@@ -10743,7 +10748,7 @@
     "released": "1990-11-16",
     "duration": 103,
     "imdb_id": "tt0099785",
-    "vote_average": "7.439",
+    "vote_average": "7.4",
     "overview": "Eight-year-old Kevin McCallister makes the most of the situation after his family unwittingly leaves him behind when they go on Christmas vacation. When thieves try to break into his home, he puts up a fight like no other.",
     "genres": ["Comedy", "Family"],
     "imdb_score": "7.7/10",
@@ -10771,7 +10776,7 @@
       "John Heard": {
         "id": 11512,
         "character": "Peter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xx5d57r0ZMRHuyvgP8XMKJZj0DT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
       },
       "Roberts Blossom": {
         "id": 66288,
@@ -10836,7 +10841,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Fuller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zfnZ41oxeWnXHlpFU62IR64h8w7.jpg"
       },
       "Senta Moses": {
         "id": 141434,
@@ -11065,7 +11070,7 @@
     "released": "1992-11-15",
     "duration": 120,
     "imdb_id": "tt0104431",
-    "vote_average": "6.751",
+    "vote_average": "6.8",
     "overview": "Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card—despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.",
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": "6.9/10",
@@ -11098,7 +11103,7 @@
       "John Heard": {
         "id": 11512,
         "character": "Peter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xx5d57r0ZMRHuyvgP8XMKJZj0DT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
       },
       "Brenda Fricker": {
         "id": 18345,
@@ -12012,12 +12017,12 @@
     "plex": true,
     "watched": [2020, 2021, 2023],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg",
     "title": "How the Grinch Stole Christmas",
     "released": "2000-11-17",
     "duration": 104,
     "imdb_id": "tt0170016",
-    "vote_average": "6.767",
+    "vote_average": "6.8",
     "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
@@ -12115,7 +12120,7 @@
       "Michael Dahlen": {
         "id": 2156088,
         "character": "Customer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "David Costabile": {
         "id": 82167,
@@ -12220,7 +12225,7 @@
       "Clayton Martinez": {
         "id": 1015053,
         "character": "Cook",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "Q'orianka Kilcher": {
         "id": 69225,
@@ -12235,17 +12240,17 @@
       "John Short": {
         "id": 61410,
         "character": "Tiny Who Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "Grainger Esch": {
         "id": 2827735,
         "character": "Near Miss Who",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "Eva Burkley": {
         "id": 2084679,
         "character": "Pudding Chef",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "Rick Baker": {
         "id": 16178,
@@ -12255,7 +12260,7 @@
       "Bill Sturgeon": {
         "id": 1286358,
         "character": "Puppeteer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "Mark Setrakian": {
         "id": 2360767,
@@ -12265,7 +12270,7 @@
       "Jurgen Heimann": {
         "id": 2468874,
         "character": "Puppeteer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmUs3hximCKa90sHuIRr5Bz8ci5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1WZbbPApEivA421gCOluuzMMKCk.jpg"
       },
       "Tim Blaney": {
         "id": 1036563,
@@ -13875,7 +13880,7 @@
     "released": "1996-11-21",
     "duration": 89,
     "imdb_id": "tt0116705",
-    "vote_average": "6",
+    "vote_average": "6.047",
     "overview": "Howard Langston, a salesman for a mattress company, is constantly kept busy at his job, disappointing his son. After he misses his son's karate exposition, Howard vows to make it up to him by buying an action figure of his son's favorite television hero for Christmas. Unfortunately for Howard, it is Christmas Eve, and every store is sold out of Turbo Man. Now, Howard must travel all over town and compete with everybody else to find a Turbo Man action figure.",
     "genres": ["Family", "Comedy", "Adventure"],
     "imdb_score": "5.7/10",
@@ -14662,7 +14667,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Harry Lockhart",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pJoC25zxFmG4kP8uoMYb8LhRbNP.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
@@ -14712,7 +14717,7 @@
       "Ariel Winter": {
         "id": 42160,
         "character": "Harmony Age 7",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sJHJxZSWqVS7PhfMvg1PA0hj3ul.jpg"
       },
       "Duane Carnahan": {
         "id": 42163,
@@ -14876,7 +14881,7 @@
     "released": "2019-11-08",
     "duration": 96,
     "imdb_id": "tt4729430",
-    "vote_average": "8.242",
+    "vote_average": "8.241",
     "overview": "When Jesper distinguishes himself as the Postal Academy's worst student, he is sent to Smeerensburg, a small village located on an icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys.",
     "genres": ["Animation", "Family", "Adventure", "Comedy", "Fantasy"],
     "imdb_score": "8.2/10",
@@ -14889,7 +14894,7 @@
       "Jason Schwartzman": {
         "id": 17881,
         "character": "Jesper (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3WDQYEqcqZDp5mOhDN8XSo0NVUK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -15176,7 +15181,7 @@
       "Michelle Yeoh": {
         "id": 1620,
         "character": "Santa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/klATAW2KEfV2Glm5uhWAhJWt2ip.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
       },
       "Emma Thompson": {
         "id": 7056,
@@ -15531,7 +15536,7 @@
     "released": "2020-11-17",
     "duration": 44,
     "imdb_id": "tt12885438",
-    "vote_average": "6.5",
+    "vote_average": "6.532",
     "overview": "As her friends prep for a Life Day holiday celebration, Rey journeys with BB-8 on a quest to gain a deeper knowledge of the Force at a mysterious Jedi Temple. There, she embarks on a cross-timeline adventure through beloved moments in Star Wars history, coming into contact with iconic heroes and villains from all eras of the saga. But will she make it back in time for the Life Day feast?",
     "genres": ["Animation", "Family", "Science Fiction", "Adventure", "Comedy"],
     "imdb_score": "6.4/10",
@@ -15902,7 +15907,7 @@
       "Susan Sarandon": {
         "id": 4038,
         "character": "Mrs. March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qEZE1tODidtoN6ZNu1iX637MTYN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHYYL8bNakAREaLUBtMul5uMG0A.jpg"
       },
       "Gabriel Byrne": {
         "id": 5168,
@@ -16181,7 +16186,7 @@
     "released": "2019-12-25",
     "duration": 135,
     "imdb_id": "tt3281548",
-    "vote_average": "7.877",
+    "vote_average": "7.9",
     "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
     "genres": ["Drama", "Romance", "History"],
     "imdb_score": "7.8/10",
@@ -16194,7 +16199,7 @@
       "Saoirse Ronan": {
         "id": 36592,
         "character": "Jo March",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xcFNTQj2ShECqUe7pG6YiVMUw2g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9buDPdqKN9vbnQLLkHEinDtMrCG.jpg"
       },
       "Emma Watson": {
         "id": 10990,
@@ -16583,7 +16588,7 @@
     "released": "2003-09-07",
     "duration": 135,
     "imdb_id": "tt0314331",
-    "vote_average": "7.112",
+    "vote_average": "7.1",
     "overview": "Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "7.6/10",
@@ -16596,7 +16601,7 @@
       "Hugh Grant": {
         "id": 3291,
         "character": "The Prime Minister",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hsSfxSHzkKJ6ZKq1Ofngcp7aAnT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/piTC1mCFr6ZCS3SdaN5qF9Vnqu7.jpg"
       },
       "Alan Rickman": {
         "id": 4566,
@@ -16611,7 +16616,7 @@
       "Liam Neeson": {
         "id": 3896,
         "character": "Daniel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bboldwqSC6tdw2iL6631c98l2Mn.jpg"
       },
       "Martine McCutcheon": {
         "id": 47714,
@@ -16706,7 +16711,7 @@
       "Sienna Guillory": {
         "id": 7055,
         "character": "Jamie's Girlfriend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rpnWJT1d61GwnG9bQoGSxWbIaL4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nO190bAQxXvZH3DG9rZto0eocLe.jpg"
       },
       "Billy Bob Thornton": {
         "id": 879,
@@ -17263,7 +17268,7 @@
       "Harry Shum Jr.": {
         "id": 232499,
         "character": "Owen Lin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vtKeIKJHQAnGsjbFuXrBQI3RxeQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xFQsThmdyuOk9jt3zgZL08ixf2b.jpg"
       },
       "Mikaela Hoover": {
         "id": 1363394,
@@ -17770,7 +17775,7 @@
     "plex": false,
     "watched": [2020, 2022],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/rj1mqDjP8fyWoKgmvuMJi6KJWyg.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/6QH10DqZ0feBW2phvrtoLqT1s0k.jpg",
     "title": "Mickey's Christmas Carol",
     "released": "1983-10-19",
     "duration": 25,
@@ -17812,7 +17817,7 @@
       "Patricia Parris": {
         "id": 1212741,
         "character": "Daisy - Belle (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rj1mqDjP8fyWoKgmvuMJi6KJWyg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6QH10DqZ0feBW2phvrtoLqT1s0k.jpg"
       },
       "Dick Billingsley": {
         "id": 1043068,
@@ -17836,14 +17841,14 @@
     "released": "1999-10-31",
     "duration": 66,
     "imdb_id": "tt0238414",
-    "vote_average": "7.118",
+    "vote_average": "7.1",
     "overview": "Mickey, Minnie, and their famous friends Goofy, Donald, Daisy and Pluto gather together to reminisce about the love, magic and surprises in three wonder-filled stories of Christmas past.",
     "genres": ["Animation", "Family", "Comedy"],
     "imdb_score": "7.1/10",
     "rt_score": "40%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -17898,7 +17903,7 @@
       "Jim Cummings": {
         "id": 12077,
         "character": "Pete / Postman / Santa / Police / Fire Chief / Dad / Man (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g9zq4EmpRNBZEL8xFp4DcLizkBU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
       },
       "Jeff Bennett": {
         "id": 34982,
@@ -18833,7 +18838,7 @@
     "released": "1994-12-21",
     "duration": 97,
     "imdb_id": "tt0110538",
-    "vote_average": "5.4",
+    "vote_average": "5.421",
     "overview": "The events of a crisis hotline business on one crazy night during the Christmas holidays.",
     "genres": ["Comedy", "Drama", "Romance"],
     "imdb_score": "5.4/10",
@@ -18876,7 +18881,7 @@
       "Liev Schreiber": {
         "id": 23626,
         "character": "Chris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gTHvDnTN52iTdnQPVPu6LhirUHc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
       },
       "Parker Posey": {
         "id": 7489,
@@ -18906,7 +18911,7 @@
       "Rob Reiner": {
         "id": 3026,
         "character": "Dr. Kinsky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cLLx6p428nyLM5wAoxGgAImiNkK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
       },
       "Steven Randazzo": {
         "id": 59281,
@@ -18971,7 +18976,7 @@
       "Haley Joel Osment": {
         "id": 9640,
         "character": "Little Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jft0dGgR5bJ6mR7QRYriMVBC6QH.jpg"
       },
       "Diane Sokolow": {
         "id": 1052202,
@@ -20614,7 +20619,7 @@
       "David Tennant": {
         "id": 20049,
         "character": "Donald / Roderick Peterson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9RcgfUz2nwaIwvdXjaJcr3VtB7g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zM76EBPZkdkSHyESyIUa47aP87R.jpg"
       },
       "Marc Wootton": {
         "id": 92574,
@@ -21078,12 +21083,12 @@
     "plex": false,
     "watched": 2021,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg",
     "title": "The Night Before",
     "released": "2015-11-20",
     "duration": 101,
     "imdb_id": "tt3530002",
-    "vote_average": "6.113",
+    "vote_average": "6.1",
     "overview": "In New York City for their annual tradition of Christmas Eve debauchery, three lifelong best friends set out to find the Holy Grail of Christmas parties since their yearly reunion might be coming to an end.",
     "genres": ["Comedy", "Adventure", "Fantasy"],
     "imdb_score": "6.4/10",
@@ -21164,7 +21169,7 @@
       "Darrie Lawrence": {
         "id": 1781821,
         "character": "Nana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "James Franco": {
         "id": 17051,
@@ -21189,12 +21194,12 @@
       "Chuck Muckle": {
         "id": 3349122,
         "character": "Piano Playing Uncle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Curt Bouril": {
         "id": 1473135,
         "character": "Cindy's Husband",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Brooke Liddell": {
         "id": 1474117,
@@ -21224,7 +21229,7 @@
       "Harolyn Blackwell": {
         "id": 1551779,
         "character": "Opera Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Natalie Knepp": {
         "id": 212044,
@@ -21234,17 +21239,17 @@
       "Cameron Earl Thrift": {
         "id": 3349127,
         "character": "Singing Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Jeremy Vimes": {
         "id": 3349128,
         "character": "Hunan Waiter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Gabriel Long": {
         "id": 2678182,
         "character": "Karaoke Singer #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Michaela Sprague": {
         "id": 2111959,
@@ -21259,12 +21264,12 @@
       "Marilyn O'Connell": {
         "id": 3349129,
         "character": "Old Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Richard Hughes": {
         "id": 18477,
         "character": "Train Conductor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfeNBaiMBg0UQsBQFv1qsjTjZWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v5Sx3nkLuIoul2hCae2Ejb3O9xH.jpg"
       },
       "Theodora Miranne": {
         "id": 1377050,
@@ -21308,7 +21313,7 @@
     "released": "1993-10-09",
     "duration": 76,
     "imdb_id": "tt0107688",
-    "vote_average": "7.841",
+    "vote_average": "7.84",
     "overview": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
     "genres": ["Fantasy", "Animation", "Family"],
     "imdb_score": "7.9/10",
@@ -21657,7 +21662,7 @@
     "released": "2019-11-12",
     "duration": 100,
     "imdb_id": "tt5097410",
-    "vote_average": "6.593",
+    "vote_average": "6.595",
     "overview": "Kris Kringle's daughter, Noelle, sets off on a mission to find and bring back her brother, after he gets cold feet when it's his turn to take over as Santa.",
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
@@ -21794,7 +21799,7 @@
     "released": "2024-12-06",
     "duration": 50,
     "imdb_id": "tt33427273",
-    "vote_average": "7.4",
+    "vote_average": "7.467",
     "overview": "Pop star Sabrina Carpenter jingles all the bells in this old-school variety music special full of holiday hits, unexpected duets and comedic cameos.",
     "genres": "Music",
     "platforms": ["Netflix", "Plex"],
@@ -21849,7 +21854,7 @@
       "Quinta Brunson": {
         "id": 1745988,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1oEdBc88XAN3Z9n2pdNvH1XIT71.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4x2ltnaGHF9rhaDRlkyNs7HOUI8.jpg"
       },
       "Sean Astin": {
         "id": 1328,
@@ -22134,7 +22139,7 @@
     "released": "2024-11-27",
     "duration": 101,
     "imdb_id": "tt31022050",
-    "vote_average": "6.327",
+    "vote_average": "6.3",
     "overview": "After discovering their significant others are siblings, two resentful exes must spend Christmas under one roof — while hiding their romantic history.",
     "genres": ["Romance", "Comedy", "Drama"],
     "platforms": "Netflix",
@@ -22411,7 +22416,7 @@
       "Peter Scolari": {
         "id": 42363,
         "character": "Billy - Lonely Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g9rYglYR7YmXWpAqs65OqRTuklh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r9sBCkb6hSinCpgWC7lu5XTJEfc.jpg"
       },
       "Michael Jeter": {
         "id": 2169,
@@ -22677,7 +22682,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Dudley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nB9vstAVqp9wlx1ZcwHxzIn5oGD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"
       },
       "Whitney Houston": {
         "id": 8851,
@@ -22876,7 +22881,7 @@
     "released": "2010-12-03",
     "duration": 83,
     "imdb_id": "tt1401143",
-    "vote_average": "6.211",
+    "vote_average": "6.2",
     "overview": "Young Pietari lives with his reindeer-herding father in arctic Finland. On the eve of Christmas, a nearby excavation makes a frightening discovery and an evil Santa Claus is unleashed…",
     "genres": ["Fantasy", "Horror"],
     "imdb_score": "6.6/10",
@@ -23053,7 +23058,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Fantasy", "Comedy"],
     "imdb_score": "6.9/10",
@@ -23734,7 +23739,7 @@
       "Burgess Meredith": {
         "id": 16523,
         "character": "Ancient Elf",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fa9ep5lEVfZjUPIbTP5zjYMPF58.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2ozNyIbHChcqIBANwvCDpUZGA9b.jpg"
       },
       "Judy Cornwell": {
         "id": 45455,
@@ -23888,12 +23893,12 @@
     "plex": false,
     "watched": [2020, 2021],
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg",
     "title": "The Santa Clause",
     "released": "1994-11-11",
     "duration": 97,
     "imdb_id": "tt0111070",
-    "vote_average": "6.494",
+    "vote_average": "6.5",
     "overview": "On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
     "genres": ["Fantasy", "Drama", "Comedy", "Family"],
     "imdb_score": "6.6/10",
@@ -23921,7 +23926,7 @@
       "Eric Lloyd": {
         "id": 27564,
         "character": "Charlie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nr2lneir9Hgk6wxhKLhW2dEx9QS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/huFLxPMJIPpOFDzdQR7JeQ4Nnr.jpg"
       },
       "David Krumholtz": {
         "id": 38582,
@@ -23961,27 +23966,27 @@
       "Melissa King": {
         "id": 2441648,
         "character": "Little Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Bradley Wentworth": {
         "id": 2441649,
         "character": "Elf at North Pole",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Azura Bates": {
         "id": 2332261,
         "character": "Elf in Hangar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Joshua Satok": {
         "id": 2441650,
         "character": "Elf-Larry",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Zachary McLemore": {
         "id": 33152,
         "character": "Bobby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Joyce Guy": {
         "id": 1213599,
@@ -23991,12 +23996,12 @@
       "Lindsay Lupien": {
         "id": 2441652,
         "character": "Kid Two",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Alexandra Petrocci": {
         "id": 2441653,
         "character": "Kid Three",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Jesse Collins": {
         "id": 1219181,
@@ -24016,7 +24021,7 @@
       "Aimee McIntyre": {
         "id": 2441654,
         "character": "Ruth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Tabitha Lupien": {
         "id": 71167,
@@ -24036,12 +24041,12 @@
       "Ron Hartmann": {
         "id": 199828,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Nic Knight": {
         "id": 138560,
         "character": "Quintin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Scott Wickware": {
         "id": 166510,
@@ -24051,22 +24056,22 @@
       "Gene Mack": {
         "id": 174954,
         "character": "Newman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Brett Moon": {
         "id": 2441657,
         "character": "Elf One",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Ryan Moon": {
         "id": 2441658,
         "character": "Elf Two",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Jack Newman": {
         "id": 1239427,
         "character": "Santa in Street",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Michael Caruana": {
         "id": 180934,
@@ -24076,7 +24081,7 @@
       "Micha Jackson": {
         "id": 2747360,
         "character": "Child One",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Cody Jones": {
         "id": 59197,
@@ -24086,17 +24091,17 @@
       "Kenny Vadas": {
         "id": 1239446,
         "character": "E.L.F.S. Leader",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Brian Reilly": {
         "id": 56644,
         "character": "Tinsel Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Gordon Masten": {
         "id": 179421,
         "character": "Desk Sergeant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Philip Williams": {
         "id": 134076,
@@ -24106,7 +24111,7 @@
       "Chris Benson": {
         "id": 76105,
         "character": "Fireman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Laura Catalano": {
         "id": 185178,
@@ -24116,22 +24121,22 @@
       "Peter Kosaka": {
         "id": 1003550,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Ivanka Kotalto": {
         "id": 2747364,
         "character": "E.L.F.S. #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Todd Davis": {
         "id": 2744852,
         "character": "E.L.F.S. #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Marc Pichette": {
         "id": 2747365,
         "character": "E.L.F.S. #4",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "John Pasquin": {
         "id": 58072,
@@ -24141,37 +24146,37 @@
       "Tony Krolo": {
         "id": 2747366,
         "character": "Coffee Cop",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Alec Bachlow": {
         "id": 1239348,
         "character": "Neighbour",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Jimmy Labriola": {
         "id": 2747367,
         "character": "Truck Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Steve Kosaka": {
         "id": 2747368,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Lawrence Nakamura": {
         "id": 2720133,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Hun Sun Tran": {
         "id": 2747369,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Steve Tsukamoto": {
         "id": 2747370,
         "character": "Japanese Businessman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Frank Welker": {
         "id": 15831,
@@ -24186,7 +24191,7 @@
       "Bob Dermer": {
         "id": 68731,
         "character": "Puppet Punch (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       },
       "Nina Keogh": {
         "id": 1233053,
@@ -24196,7 +24201,7 @@
       "Dennis O'Connor": {
         "id": 134069,
         "character": "Mailman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2yqaR8HJUQowx8agxEjWVmyBIqo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBHDVtEcMl06FbCURRLGVg3TpXp.jpg"
       }
     }
   },
@@ -24248,7 +24253,7 @@
       "Eric Lloyd": {
         "id": 27564,
         "character": "Charlie Calvin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nr2lneir9Hgk6wxhKLhW2dEx9QS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/huFLxPMJIPpOFDzdQR7JeQ4Nnr.jpg"
       },
       "Spencer Breslin": {
         "id": 35654,
@@ -24278,7 +24283,7 @@
       "Kevin Pollak": {
         "id": 7166,
         "character": "Cupid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2S5eVHJvGWWtjp6oUZXngQ7MKoD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nAM4DErA2fXnwfq5lkIHPxjkwoS.jpg"
       },
       "Jay Thomas": {
         "id": 21105,
@@ -24502,12 +24507,12 @@
     "plex": false,
     "watched": 2023,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg",
     "title": "The Santa Clause 3: The Escape Clause",
     "released": "2006-11-02",
     "duration": 97,
     "imdb_id": "tt0452681",
-    "vote_average": "5.534",
+    "vote_average": "5.5",
     "overview": "Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.",
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": "4.8/10",
@@ -24545,7 +24550,7 @@
       "Eric Lloyd": {
         "id": 27564,
         "character": "Charlie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nr2lneir9Hgk6wxhKLhW2dEx9QS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/huFLxPMJIPpOFDzdQR7JeQ4Nnr.jpg"
       },
       "Spencer Breslin": {
         "id": 35654,
@@ -24585,7 +24590,7 @@
       "Kevin Pollak": {
         "id": 7166,
         "character": "Cupid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2S5eVHJvGWWtjp6oUZXngQ7MKoD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nAM4DErA2fXnwfq5lkIHPxjkwoS.jpg"
       },
       "Jay Thomas": {
         "id": 21105,
@@ -24630,7 +24635,7 @@
       "Alec Plotkin": {
         "id": 2065584,
         "character": "Engineer Elf #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Chantel Valdivieso": {
         "id": 1934093,
@@ -24645,12 +24650,12 @@
       "Eric Plotkin": {
         "id": 2441692,
         "character": "Engineer Elf #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Tom Hornof": {
         "id": 2065967,
         "character": "Security Guard",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "John Ross Bowie": {
         "id": 55425,
@@ -24665,7 +24670,7 @@
       "Darian Bryant": {
         "id": 2441699,
         "character": "Worker Elf #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Cameron Monaghan": {
         "id": 37089,
@@ -24690,67 +24695,67 @@
       "Tony Bustamante": {
         "id": 2441700,
         "character": "Fireman Elf",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Brittany Bhagia": {
         "id": 2441701,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Emily Blair": {
         "id": 2441702,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Alana Brady": {
         "id": 2441703,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Jordan Felix": {
         "id": 2441704,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Kristen Fukuto": {
         "id": 2441705,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Eshe Imani Gibbs": {
         "id": 2441706,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Alexis House-Gonsalves": {
         "id": 2441707,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Alexandria Kessinger": {
         "id": 2441708,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Caitlin Moravek": {
         "id": 2441709,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Kindra Reyling": {
         "id": 2441710,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Brittney Rippeon": {
         "id": 2441711,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Courtney Soren": {
         "id": 2441712,
         "character": "Elfette Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Andrea Sweeney-Blanco": {
         "id": 2075873,
@@ -24760,12 +24765,12 @@
       "Olivia Eve Everhard": {
         "id": 2690002,
         "character": "Classroom Elf (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Andrew John Ferguson": {
         "id": 2748591,
         "character": "Baker Elf (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Tabitha Grayston": {
         "id": 2748593,
@@ -24780,7 +24785,7 @@
       "Julio Leal": {
         "id": 1205137,
         "character": "Young Father (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Enn Reitel": {
         "id": 34904,
@@ -24800,7 +24805,7 @@
       "Chase Wilmot": {
         "id": 2748597,
         "character": "Classroom Elf (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jCO6WF3ANf2emniv9fLF7ZrGdzO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2aGtjBH3birXp5KvZgwr1fLZXsi.jpg"
       },
       "Arika Gluck": {
         "id": 75042,
@@ -25262,7 +25267,7 @@
     "released": "2022-11-18",
     "duration": 97,
     "imdb_id": "tt20917338",
-    "vote_average": "6.773",
+    "vote_average": "6.774",
     "overview": "On a cold Christmas Eve, selfish miser Ebenezer Scrooge has one night left to face his past — and change the future — before time runs out.",
     "genres": ["Animation", "Family", "Fantasy"],
     "imdb_score": "6.2/10",
@@ -25324,7 +25329,7 @@
     "plex": true,
     "watched": 2020,
     "added": 2020,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
     "title": "Scrooged",
     "released": "1988-11-22",
     "duration": 101,
@@ -25382,7 +25387,7 @@
       "Nicholas Phillips": {
         "id": 1445671,
         "character": "Calvin Cooley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Michael J. Pollard": {
         "id": 6451,
@@ -25427,7 +25432,7 @@
       "Lee Majors": {
         "id": 18589,
         "character": "Self",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ylu6EnPkQM2Q9xzBzjUCPrfeh1M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gYOeg8J0mujO6oI64x29Ldn9Kej.jpg"
       },
       "Pat McCormick": {
         "id": 45611,
@@ -25447,7 +25452,7 @@
       "Al 'Red Dog' Weber": {
         "id": 1445668,
         "character": "Santa Claus",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Jean Speegle Howard": {
         "id": 8188,
@@ -25457,12 +25462,12 @@
       "June Chandler": {
         "id": 106285,
         "character": "June Cleaver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Michael Eidam": {
         "id": 3827399,
         "character": "Wally Cleaver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Mary Ellen Trainor": {
         "id": 23967,
@@ -25477,7 +25482,7 @@
       "Sanford Jensen": {
         "id": 1788528,
         "character": "Executive",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Jeffrey Joseph": {
         "id": 79989,
@@ -25492,7 +25497,7 @@
       "Bill Marcus": {
         "id": 1191434,
         "character": "IBC Guard",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Cal Gibson": {
         "id": 1213889,
@@ -25507,17 +25512,17 @@
       "Tamika McCollum": {
         "id": 3827404,
         "character": "Shasta Cooley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Koren McCollum": {
         "id": 3827405,
         "character": "Randee Cooley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Reina King": {
         "id": 1212644,
         "character": "Lanell Cooley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Paul Tuerpe": {
         "id": 159013,
@@ -25527,12 +25532,12 @@
       "Lester Wilson": {
         "id": 1213894,
         "character": "Choreographer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Ron Strang": {
         "id": 3827406,
         "character": "Art Director",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Kate McGregor-Stewart": {
         "id": 54348,
@@ -25557,12 +25562,12 @@
       "Ralph Gervais": {
         "id": 3827407,
         "character": "Mouse Wrangler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Alvin Hammer": {
         "id": 135842,
         "character": "Foreman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Tony Steedman": {
         "id": 18360,
@@ -25587,32 +25592,32 @@
       "Selma Archerd": {
         "id": 152587,
         "character": "Mrs. Claus at Party",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Jay Byron": {
         "id": 1787059,
         "character": "Man #2 at Party",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Harvey Fisher": {
         "id": 2113548,
         "character": "Party Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "C. Ransom Walrod": {
         "id": 1899695,
         "character": "Party Animal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "James R. Miller": {
         "id": 1288322,
         "character": "Security Guard at Party",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Jennie Lew Tugend": {
         "id": 14337,
         "character": "Foo-Ling",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Roy Brocksmith": {
         "id": 12888,
@@ -25622,7 +25627,7 @@
       "Shawn Michaels": {
         "id": 1055728,
         "character": "Stage Manager - \"Frisbee\"",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Stella Hall": {
         "id": 551937,
@@ -25652,12 +25657,12 @@
       "Sydna Scott": {
         "id": 1784982,
         "character": "Woman #2 in Shelter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Wendie Malick": {
         "id": 61980,
         "character": "Wendie Cross",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/o9ispb4DR7zjAr0nlxFoPrdaS4x.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jm5UpTxgFZVTbWbDxsYUZafPoY4.jpg"
       },
       "Joel Murray": {
         "id": 155649,
@@ -25667,7 +25672,7 @@
       "Mitch Glazer": {
         "id": 28866,
         "character": "Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Susan Isaacs": {
         "id": 108635,
@@ -25677,22 +25682,22 @@
       "Lauri Kempson": {
         "id": 3827422,
         "character": "Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Chaz Conner": {
         "id": 3827423,
         "character": "Ghost of Christmas Future (TV)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Miro Polo": {
         "id": 1066981,
         "character": "Mary Lou's Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Ralph Bruneau": {
         "id": 157679,
         "character": "Nephew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Maria Riva": {
         "id": 1236151,
@@ -25702,17 +25707,17 @@
       "James Kindelon": {
         "id": 1966507,
         "character": "Butler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Raphael Harris": {
         "id": 104793,
         "character": "Older Calvin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Wayne A. Finkelman": {
         "id": 1542823,
         "character": "Orderly",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Susan Barnes": {
         "id": 104059,
@@ -25722,12 +25727,12 @@
       "Lynne Randall": {
         "id": 3802971,
         "character": "Harpy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Gilles Savard": {
         "id": 1865107,
         "character": "Waiter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Michael O'Donoghue": {
         "id": 10450,
@@ -25737,22 +25742,22 @@
       "Dick McGarvin": {
         "id": 160560,
         "character": "Announcer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Tom Doak": {
         "id": 3522305,
         "character": "Video Tape Director",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Sam Drummy": {
         "id": 2260100,
         "character": "Cameraman on Crane",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Winfred Tennison": {
         "id": 1757692,
         "character": "Marvin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Steve Kahan": {
         "id": 14328,
@@ -25787,12 +25792,12 @@
       "Larry Carlton": {
         "id": 1055165,
         "character": "Street Musician",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "David Sanborn": {
         "id": 14322,
         "character": "Street Musician",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       },
       "Paul Shaffer": {
         "id": 69921,
@@ -25802,7 +25807,7 @@
       "Dick Blasucci": {
         "id": 1226387,
         "character": "Executive",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RneLsVCEsAqYzxhShfOVjUavQp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg"
       }
     }
   },
@@ -25834,7 +25839,7 @@
       "Margaret Sullavan": {
         "id": 14869,
         "character": "Klara Novak",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dEZy2AzvB0M1t6lXe1ObZMKALp8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iZcLIZQk95e4vugQfQ2sxAszktw.jpg"
       },
       "Frank Morgan": {
         "id": 9067,
@@ -25991,7 +25996,7 @@
       "Lily-Rose Depp": {
         "id": 1459885,
         "character": "Sophie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fulxfCO2UjDTVX3lhy4mup4wXqM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cvBXqmj3waqMUQ7yhQljAUhAivX.jpg"
       },
       "Lucy Punch": {
         "id": 66446,
@@ -26211,7 +26216,7 @@
     "released": "2021-12-02",
     "duration": 99,
     "imdb_id": "tt14315756",
-    "vote_average": "6.439",
+    "vote_average": "6.4",
     "overview": "Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "6.2/10",
@@ -26858,7 +26863,7 @@
       "James Gandolfini": {
         "id": 4691,
         "character": "Tom Valco",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vhtsFJZcfHdeDkFBoWMDzOS6xrP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aGuUi3odvvbkqvKR9nvaa7BJydc.jpg"
       },
       "Christina Applegate": {
         "id": 18979,
@@ -27078,7 +27083,7 @@
       "Anika Noni Rose": {
         "id": 15563,
         "character": "Choir",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d7aLtuNXBqVtqNnZl8wXsFV4ML5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pzzgiBk8v50FN3kbJJUmQiRPrEO.jpg"
       },
       "Michael Kosik": {
         "id": 2136250,
@@ -27150,7 +27155,7 @@
       "James Ransone": {
         "id": 5296,
         "character": "Chester",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n1O0RnxKPfxvVJUh13Gr0pPGlvd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQ94IEd2nGrjmkfMqpvmf6Xlfo6.jpg"
       },
       "Luiza Nersisyan": {
         "id": 1611671,
@@ -27601,7 +27606,7 @@
     "released": "1983-06-07",
     "duration": 116,
     "imdb_id": "tt0086465",
-    "vote_average": "7.214",
+    "vote_average": "7.213",
     "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
     "genres": "Comedy",
     "imdb_score": "7.5/10",
@@ -28317,7 +28322,7 @@
       "Rashida Jones": {
         "id": 80591,
         "character": "The Bride",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgWGm9eYCretBWeljPVtpRV7n6V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jjp33eRM6oavyesW0UM6XBCxQSa.jpg"
       },
       "Jenny Lewis": {
         "id": 91415,
@@ -28804,7 +28809,7 @@
     "released": "1995-04-21",
     "duration": 103,
     "imdb_id": "tt0114924",
-    "vote_average": "7.02",
+    "vote_average": "7",
     "overview": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "6.8/10",
@@ -28986,7 +28991,7 @@
     "released": "1954-10-14",
     "duration": 120,
     "imdb_id": "tt0047673",
-    "vote_average": "7.214",
+    "vote_average": "7.2",
     "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
     "genres": ["Comedy", "Music", "Romance"],
     "imdb_score": "7.6/10",
@@ -29175,7 +29180,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Jules Bass", "Arthur Rankin, Jr."],
+    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
@@ -29482,12 +29487,12 @@
       "Jane Levy": {
         "id": 530618,
         "character": "Zoey Clarke",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5OnDhmMsbEBlq9S8m2Jrzac3uv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4tkkbO34BNjVf1sPwT7pmUNwzwT.jpg"
       },
       "Skylar Astin": {
         "id": 73128,
         "character": "Max Richman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7JSPzVeZKxrSS7FHU367ur4TZvK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dx6xbrerLNKHbUSOdTI68h7qrE3.jpg"
       },
       "Alex Newell": {
         "id": 1224113,
