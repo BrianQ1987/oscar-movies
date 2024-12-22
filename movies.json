@@ -236,7 +236,7 @@
     "Home Alone 2: Lost in New York": {
         "id": 772,
         "plex": false,
-        "watched": [2020, 2021, 2022, 2023],
+        "watched": [2020, 2021, 2022, 2023, 2024],
         "added": 2020
     },
     "Home for the Holidays": {
@@ -296,7 +296,7 @@
     "Jingle All The Way": {
         "id": 9279,
         "plex": false,
-        "watched": [2021],
+        "watched": [2021, 2024],
         "added": 2021
     },
     "Jingle Jangle": {
