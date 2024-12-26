@@ -2353,7 +2353,7 @@
     "released": "2015-11-20",
     "duration": 118,
     "imdb_id": "tt2402927",
-    "vote_average": "7.492",
+    "vote_average": "7.5",
     "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
     "genres": ["Romance", "Drama"],
     "imdb_score": "7.2/10",
@@ -6015,7 +6015,7 @@
         "character": "Passerby (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oOleziEempUPu96jkGs0Pj6tKxj.jpg"
       },
-      "Craig \"Radioman\" Castaldo": {
+      "Craig 'Radio Man' Castaldo": {
         "id": 1116907,
         "character": "Radioman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"
@@ -12029,7 +12029,7 @@
     "released": "2000-11-17",
     "duration": 104,
     "imdb_id": "tt0170016",
-    "vote_average": "6.771",
+    "vote_average": "6.8",
     "overview": "The Grinch decides to rob Whoville of Christmas - but a dash of kindness from little Cindy Lou Who and her family may be enough to melt his heart...",
     "genres": ["Family", "Comedy", "Fantasy"],
     "imdb_score": "6.3/10",
@@ -19105,9 +19105,7 @@
     "vote_average": "7.392",
     "overview": "A retelling of the classic Dickens tale of Ebenezer Scrooge, miser extraordinaire. He is held accountable for his dastardly ways during night-time visitations by the Ghosts of Christmas Past, Present and Future.",
     "genres": ["Music", "Comedy", "Family", "Fantasy", "Drama"],
-    "imdb_score": "7.8/10",
-    "rt_score": "77%",
-    "meta_score": "64/100",
+    "imdb_score": "6.1/10",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Brian Henson",
