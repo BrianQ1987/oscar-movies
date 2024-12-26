@@ -61,7 +61,7 @@
     },
     "Anna and the Apocalypse": {
         "id": 461928,
-        "plex": false,
+        "plex": true,
         "watched": [2022, 2023],
         "added": 2022
     },
@@ -554,7 +554,7 @@
     "The Bishop's Wife": {
         "id": 19490,
         "plex": false,
-        "watched": [2021, 2022],
+        "watched": [2021, 2022, 2024],
         "added": 2021
     },
     "The Christmas Toy": {
