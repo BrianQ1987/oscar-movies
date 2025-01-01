@@ -271,7 +271,7 @@
     "released": "2022-09-08",
     "duration": 100,
     "imdb_id": "tt14456350",
-    "vote_average": "7.404",
+    "vote_average": "7.408",
     "overview": "Two strangers believe in love but never seem to be able to find its true meaning. In a wild twist of events, fate puts each in the other's path on one stormy New Year's Eve.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "6.4/10",
@@ -678,7 +678,7 @@
     "released": "2018-11-30",
     "duration": 98,
     "imdb_id": "tt6433880",
-    "vote_average": "6",
+    "vote_average": "6.03",
     "overview": "A zombie apocalypse threatens the sleepy town of Little Haven – at Christmas – forcing Anna and her friends to fight, slash and sing their way to survival, facing the undead in a desperate race to reach their loved ones. But they soon discover that no one is safe in this new world, and with civilization falling apart around them, the only people they can truly rely on are each other.",
     "genres": ["Horror", "Comedy", "Fantasy"],
     "imdb_score": "6.1/10",
@@ -1140,7 +1140,7 @@
     "released": "2003-11-26",
     "duration": 92,
     "imdb_id": "tt0307987",
-    "vote_average": "6.542",
+    "vote_average": "6.54",
     "overview": "You'd better watch out - Santa Claus Willie T. Soke is coming to town and he doesn't care if you've been naughty or nice. Wille's favorite holiday tradition is to fill his sacks with loot lifted from shopping malls across the country. But this year his plot gets derailed by a wisecracking store detective, a sexy bartender, and a kid who's convinced Willie is the real Santa Claus.",
     "genres": ["Drama", "Comedy", "Crime"],
     "imdb_score": "7.0/10",
@@ -2353,7 +2353,7 @@
     "released": "2015-11-20",
     "duration": 118,
     "imdb_id": "tt2402927",
-    "vote_average": "7.491",
+    "vote_average": "7.5",
     "overview": "In 1950s New York, a department-store clerk who dreams of a better life falls for an older, married woman.",
     "genres": ["Romance", "Drama"],
     "imdb_score": "7.2/10",
@@ -2748,7 +2748,7 @@
     "released": "2024-11-08",
     "duration": 107,
     "imdb_id": "tt25052668",
-    "vote_average": "5.214",
+    "vote_average": "5.2",
     "overview": "A rambunctious extended family descends upon their small Long Island hometown for the holidays where hijinks, generational squabbles, and family traditions ensue.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "5.6/10",
@@ -5458,7 +5458,7 @@
     "released": "1988-07-15",
     "duration": 132,
     "imdb_id": "tt0095016",
-    "vote_average": "7.8",
+    "vote_average": "7.795",
     "overview": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her offices Christmas Party, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down.",
     "genres": ["Action", "Thriller"],
     "imdb_score": "8.2/10",
@@ -5521,7 +5521,7 @@
       "Bruno Doyon": {
         "id": 1641420,
         "character": "Franco",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NnCbaFaWgHczKjH5Eii46VmpPp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/auoL1VbzNsCoWAkM0oY0VPohv3i.jpg"
       },
       "Andreas Wisniewski": {
         "id": 10673,
@@ -5543,15 +5543,10 @@
         "character": "Marco",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4lUFz3Sgp0DOPlt0PbiyuAqENV.jpg"
       },
-      "Gerard Bonn": {
-        "id": 1722431,
-        "character": "Kristoff",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NnCbaFaWgHczKjH5Eii46VmpPp.jpg"
-      },
       "Dennis Hayden": {
         "id": 7679,
         "character": "Eddie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NnCbaFaWgHczKjH5Eii46VmpPp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xYrHY90Bz9WtSx0mrKeNsTNIFy8.jpg"
       },
       "Al Leong": {
         "id": 61704,
@@ -5566,7 +5561,7 @@
       "Hans Buhringer": {
         "id": 1290983,
         "character": "Fritz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NnCbaFaWgHczKjH5Eii46VmpPp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hMHc9YczrQreiTz394AJQdeDWrW.jpg"
       },
       "Wilhelm von Homburg": {
         "id": 27585,
@@ -5787,6 +5782,11 @@
         "id": 1731693,
         "character": "Fireman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lQJ9bPY6EbQMTX8Mk6BMiMFzxpv.jpg"
+      },
+      "Gérard Bonn": {
+        "id": 2158528,
+        "character": "Kristoff",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fiInf6miBdTDjgytNN3wsLjDGil.jpg"
       }
     }
   },
@@ -5800,7 +5800,7 @@
     "released": "2003-11-07",
     "duration": 97,
     "imdb_id": "tt0319343",
-    "vote_average": "6.7",
+    "vote_average": "6.654",
     "overview": "When young Buddy falls into Santa's gift sack on Christmas Eve, he's transported back to the North Pole and raised as a toy-making elf by Santa's helpers. But as he grows into adulthood, he can't shake the nagging feeling that he doesn't belong. Buddy vows to visit Manhattan and find his real dad, a workaholic.",
     "genres": ["Comedy", "Family", "Fantasy"],
     "imdb_score": "7.1/10",
@@ -6873,7 +6873,7 @@
     "released": "1982-12-17",
     "duration": 188,
     "imdb_id": "tt0083922",
-    "vote_average": "7.761",
+    "vote_average": "7.759",
     "overview": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
     "genres": ["Fantasy", "Drama", "Mystery"],
     "imdb_score": "8.1/10",
@@ -7150,7 +7150,7 @@
     "released": "2008-11-26",
     "duration": 88,
     "imdb_id": "tt0369436",
-    "vote_average": "5.792",
+    "vote_average": "5.791",
     "overview": "Brad and Kate have made something of an art form out of avoiding their families during the holidays, but this year their foolproof plan is about go bust -- big time. Stuck at the city airport after all departing flights are canceled, the couple is embarrassed to see their ruse exposed to the world by an overzealous television reporter. Now, Brad and Kate are left with precious little choice other than to swallow their pride and suffer the rounds.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "5.7/10",
@@ -8916,7 +8916,7 @@
     "released": "2022-11-24",
     "duration": 45,
     "imdb_id": "tt13623136",
-    "vote_average": "7.131",
+    "vote_average": "7.129",
     "overview": "On a mission to make Christmas unforgettable for Quill, the Guardians head to Earth in search of the perfect present.",
     "genres": ["Comedy", "Science Fiction", "Adventure"],
     "imdb_score": "6.9/10",
@@ -10014,7 +10014,7 @@
     "released": "2006-12-05",
     "duration": 136,
     "imdb_id": "tt0457939",
-    "vote_average": "7.09",
+    "vote_average": "7.1",
     "overview": "Two women, one from the United States and one from the United Kingdom, swap homes at Christmas time after bad breakups with their boyfriends. Each woman finds romance with a local man but realizes that the imminent return home may end the relationship.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "7.0/10",
@@ -13350,7 +13350,7 @@
     "released": "1946-12-20",
     "duration": 130,
     "imdb_id": "tt0038650",
-    "vote_average": "8.271",
+    "vote_average": "8.3",
     "overview": "A holiday favourite for generations...  George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
     "genres": ["Drama", "Family", "Fantasy"],
     "imdb_score": "8.6/10",
@@ -13952,7 +13952,7 @@
     "plex": false,
     "watched": [2021, 2024],
     "added": 2021,
-    "poster_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
     "title": "Jingle All the Way",
     "released": "1996-11-21",
     "duration": 89,
@@ -14010,7 +14010,7 @@
       "E.J. De la Pena": {
         "id": 981033,
         "character": "Johnny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Laraine Newman": {
         "id": 35159,
@@ -14020,7 +14020,7 @@
       "Justin Chapman": {
         "id": 1410997,
         "character": "Billy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Harvey Korman": {
         "id": 13640,
@@ -14035,12 +14035,12 @@
       "Daniel Riordan": {
         "id": 188377,
         "character": "Turbo Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Jeff L. Deist": {
         "id": 2254302,
         "character": "T.V. Booster / Puppeteer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Nada Despotovich": {
         "id": 20975,
@@ -14050,27 +14050,27 @@
       "Ruth Afton Hjelmgren": {
         "id": 2447408,
         "character": "Single Mother Judy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Caroline Kaiser": {
         "id": 1537858,
         "character": "Single Mother Mary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Samuel B. Morris": {
         "id": 2447409,
         "character": "Sensei",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Shawn Hamilton": {
         "id": 2447410,
         "character": "Sensei Assistant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Lewis Dauber": {
         "id": 2156227,
         "character": "Toy Store Manager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Bill Schoppert": {
         "id": 975188,
@@ -14080,7 +14080,7 @@
       "Courtney Goodell": {
         "id": 2447411,
         "character": "Little Girl at Toy Store",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "George Fisher": {
         "id": 1680739,
@@ -14110,7 +14110,7 @@
       "Steve Hendrickson": {
         "id": 1139343,
         "character": "Father on Phone #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Mo Collins": {
         "id": 168380,
@@ -14130,7 +14130,7 @@
       "Christopher Slater": {
         "id": 2447412,
         "character": "Mall Toy Store Employee #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Robert Southgate": {
         "id": 2447413,
@@ -14140,12 +14140,12 @@
       "Allison Benner": {
         "id": 2447414,
         "character": "Toddler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Hayley Benner": {
         "id": 2447415,
         "character": "Toddler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Sandra K. Horner": {
         "id": 2447416,
@@ -14155,12 +14155,12 @@
       "Phyllis Wright": {
         "id": 2447418,
         "character": "Angry Mom #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Marvette Knight": {
         "id": 2447419,
         "character": "Angry Mom #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Danny Woodburn": {
         "id": 13645,
@@ -14180,22 +14180,22 @@
       "Ron Gene Browne": {
         "id": 2447420,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Robert Tee Clark": {
         "id": 2447421,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "James Riddle": {
         "id": 1478118,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Bill Wilson": {
         "id": 2447422,
         "character": "Santa in Warehouse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Alan Blumenfeld": {
         "id": 22053,
@@ -14205,7 +14205,7 @@
       "Traci Christofore": {
         "id": 2447424,
         "character": "Little Girl Petting Reindeer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Sandra Lee-Oian Thomas": {
         "id": 2447425,
@@ -14215,7 +14215,7 @@
       "Martin Ruben": {
         "id": 1854385,
         "character": "Father in Neighborhood",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Nick LaTour": {
         "id": 154068,
@@ -14245,7 +14245,7 @@
       "Judy Sladky": {
         "id": 2447430,
         "character": "Snoopy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Walter von Huene": {
         "id": 41338,
@@ -14280,7 +14280,7 @@
       "Deena Driskill": {
         "id": 1794805,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Spencer Klein": {
         "id": 82528,
@@ -14290,12 +14290,12 @@
       "Danny Pritchett": {
         "id": 112083,
         "character": "Kid in Turbo Man Commercial",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Rick Johnson": {
         "id": 1730973,
         "character": "Kareem",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Marc Ambrose": {
         "id": 1137065,
@@ -14310,7 +14310,7 @@
       "Sarah Cameron": {
         "id": 2757463,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Susan Chambers": {
         "id": 1504076,
@@ -14320,12 +14320,12 @@
       "Clint Childers": {
         "id": 2757464,
         "character": "Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Kevin Deon": {
         "id": 2757465,
         "character": "Crazy Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Matthew Feeney": {
         "id": 228471,
@@ -14345,22 +14345,22 @@
       "Dan Griffin": {
         "id": 1753519,
         "character": "Spectator (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Brian Johnson": {
         "id": 2757466,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Tracy Lines": {
         "id": 2757467,
         "character": "Turbo Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Larissa Lowthorp": {
         "id": 2757468,
         "character": "Silvia (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "John Murray": {
         "id": 2757469,
@@ -14380,17 +14380,17 @@
       "Lori J. Ness": {
         "id": 1854398,
         "character": "Nun (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Jane Plank": {
         "id": 2757470,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Bill Sather": {
         "id": 2757471,
         "character": "Child in Background (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Yeardley Smith": {
         "id": 5586,
@@ -14400,12 +14400,12 @@
       "Bobby Sussman": {
         "id": 2757472,
         "character": "Parade Watcher (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Joel Thingvall": {
         "id": 1342054,
         "character": "Toy Store Shopper (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Verne Troyer": {
         "id": 10987,
@@ -14415,7 +14415,7 @@
       "Heidi Tungseth": {
         "id": 2757473,
         "character": "Christmas Caroler (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       },
       "Carl Washington": {
         "id": 98805,
@@ -14425,7 +14425,7 @@
       "Ryan Wotherspoon": {
         "id": 587599,
         "character": "Playground Attendant (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bdxrZBGtWaLYkjMmwaSIiTwpSnS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg"
       }
     }
   },
@@ -14731,7 +14731,7 @@
     "released": "2005-09-14",
     "duration": 103,
     "imdb_id": "tt0373469",
-    "vote_average": "7.168",
+    "vote_average": "7.2",
     "overview": "A petty thief posing as an actor is brought to Los Angeles for an unlikely audition and finds himself in the middle of a murder investigation along with his high school dream girl and a detective who's been training him for his upcoming role...",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.5/10",
@@ -15235,7 +15235,7 @@
     "released": "2019-11-07",
     "duration": 102,
     "imdb_id": "tt8623904",
-    "vote_average": "7.232",
+    "vote_average": "7.2",
     "overview": "Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "6.5/10",
@@ -15942,7 +15942,7 @@
     "released": "1994-12-21",
     "duration": 119,
     "imdb_id": "tt0110367",
-    "vote_average": "7.284",
+    "vote_average": "7.283",
     "overview": "With their father away as a chaplain in the Civil War, Jo, Meg, Beth and Amy grow up with their mother in somewhat reduced circumstances. They are a close family who inevitably have their squabbles and tragedies. But the bond holds even when, later, male friends start to become a part of the household.",
     "genres": ["Drama", "Romance"],
     "imdb_score": "7.3/10",
@@ -16263,7 +16263,7 @@
     "released": "2019-12-25",
     "duration": 135,
     "imdb_id": "tt3281548",
-    "vote_average": "7.877",
+    "vote_average": "7.9",
     "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
     "genres": ["Drama", "Romance", "History"],
     "imdb_score": "7.8/10",
@@ -16665,7 +16665,7 @@
     "released": "2003-09-07",
     "duration": 135,
     "imdb_id": "tt0314331",
-    "vote_average": "7.111",
+    "vote_average": "7.1",
     "overview": "Eight London couples try to deal with their relationships in different ways. Their tryst with love makes them discover how complicated relationships can be.",
     "genres": ["Comedy", "Romance", "Drama"],
     "imdb_score": "7.6/10",
@@ -17731,7 +17731,7 @@
     "released": "2024-11-05",
     "duration": 105,
     "imdb_id": "tt20502488",
-    "vote_average": "6.326",
+    "vote_average": "6.32",
     "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "5.5/10",
@@ -17857,7 +17857,7 @@
     "released": "1983-10-19",
     "duration": 25,
     "imdb_id": "tt0085936",
-    "vote_average": "7.6",
+    "vote_average": "7.639",
     "overview": "Ebenezer Scrooge is far too greedy to understand that Christmas is a time for kindness and generosity. But with the guidance of some new found friends, Scrooge learns to embrace the spirit of the season. A retelling of the classic Dickens tale with Disney's classic characters.",
     "genres": ["Family", "Animation"],
     "imdb_score": "8.0/10",
@@ -17925,7 +17925,7 @@
     "rt_score": "40%",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Bill Speers", "Toby Shelton", "Jun Falkenstein", "Alex Mann", "Bradley Raymond"],
+    "director": ["Alex Mann", "Toby Shelton", "Jun Falkenstein", "Bradley Raymond", "Bill Speers"],
     "cast": {
       "Kelsey Grammer": {
         "id": 7090,
@@ -18039,7 +18039,7 @@
     "released": "1947-06-04",
     "duration": 96,
     "imdb_id": "tt0039628",
-    "vote_average": "7.4",
+    "vote_average": "7.36",
     "overview": "Kris Kringle, seemingly the embodiment of Santa Claus, is asked to portray the jolly old fellow at Macy's following his performance in the Thanksgiving Day parade. His portrayal is so complete that many begin to question if he truly is Santa Claus, while others question his sanity.",
     "genres": ["Comedy", "Drama", "Family"],
     "imdb_score": "7.9/10",
@@ -21891,10 +21891,9 @@
     "released": "2024-12-05",
     "duration": 50,
     "imdb_id": "tt33427273",
-    "vote_average": "6.63",
+    "vote_average": "6.6",
     "overview": "Pop icon Sabrina Carpenter jingles all the bells in her first-ever variety music special full of holiday hits, unexpected duets and comedic cameos.",
     "genres": "Music",
-    "rt_score": "100%",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sam Wrench",
@@ -23152,7 +23151,7 @@
     "released": "2024-10-31",
     "duration": 124,
     "imdb_id": "tt14948432",
-    "vote_average": "7",
+    "vote_average": "7.037",
     "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
     "genres": ["Action", "Fantasy", "Comedy"],
     "imdb_score": "6.9/10",
@@ -24112,7 +24111,7 @@
     "released": "1994-11-11",
     "duration": 97,
     "imdb_id": "tt0111070",
-    "vote_average": "6.495",
+    "vote_average": "6.5",
     "overview": "On Christmas Eve, divorced dad Scott Calvin and his son discover Santa Claus has fallen off their roof. When Scott takes the reins of the magical sleigh, he finds he is now the new Santa, and must convince a world of disbelievers, including himself.",
     "genres": ["Fantasy", "Drama", "Comedy", "Family"],
     "imdb_score": "6.6/10",
@@ -24726,7 +24725,7 @@
     "released": "2006-11-02",
     "duration": 97,
     "imdb_id": "tt0452681",
-    "vote_average": "5.538",
+    "vote_average": "5.54",
     "overview": "Now that Santa and Mrs. Claus have the North Pole running smoothly, the Counsel of Legendary Figures has called an emergency meeting on Christmas Eve! The evil Jack Frost has been making trouble, looking to take over the holiday! So he launches a plan to sabotage the toy factory and compel Scott to invoke the little-known Escape Clause and wish he'd never become Santa.",
     "genres": ["Comedy", "Family", "Adventure"],
     "imdb_score": "4.8/10",
@@ -25038,7 +25037,7 @@
     "released": "1951-11-28",
     "duration": 86,
     "imdb_id": "tt0044008",
-    "vote_average": "7.4",
+    "vote_average": "7.42",
     "overview": "Ebenezer Scrooge malcontentedly shuffles through life as a cruel, miserly businessman; until he is visited by three spirits on Christmas Eve who show him how his unhappy childhood and adult behavior has left him a selfish, lonely old man.",
     "genres": ["Fantasy", "Drama"],
     "imdb_score": "8.1/10",
@@ -25548,7 +25547,7 @@
     "released": "1988-11-22",
     "duration": 101,
     "imdb_id": "tt0096061",
-    "vote_average": "6.796",
+    "vote_average": "6.8",
     "overview": "Frank Cross is a wildly successful television executive whose cold ambition and curmudgeonly nature has driven away the love of his life. But after firing a staff member on Christmas Eve, Frank is visited by a series of ghosts who give him a chance to re-evaluate his actions and right the wrongs of his past.",
     "genres": ["Fantasy", "Comedy", "Drama"],
     "imdb_score": "6.9/10",
@@ -26041,8 +26040,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "99%",
     "meta_score": "96/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ernst Lubitsch",
     "cast": {
       "Margaret Sullavan": {
@@ -26431,7 +26430,7 @@
     "released": "2021-12-02",
     "duration": 99,
     "imdb_id": "tt14315756",
-    "vote_average": "6.426",
+    "vote_average": "6.4",
     "overview": "Desperate to avoid his family’s judgment about his perpetual single status, Peter convinces his best friend Nick to join him for the holidays and pretend that they’re now in a relationship. But when Peter’s mother sets him up on a blind date with her handsome trainer James, the plan goes awry.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "6.2/10",
@@ -27060,7 +27059,7 @@
     "released": "2004-09-21",
     "duration": 91,
     "imdb_id": "tt0252028",
-    "vote_average": "5.697",
+    "vote_average": "5.7",
     "overview": "A lonely, obnoxious young millionaire pays a family to spend Christmas with him.",
     "genres": ["Comedy", "Romance"],
     "imdb_score": "5.5/10",
@@ -27821,7 +27820,7 @@
     "released": "1983-06-07",
     "duration": 116,
     "imdb_id": "tt0086465",
-    "vote_average": "7.213",
+    "vote_average": "7.2",
     "overview": "A snobbish investor and a wily street con-artist find their positions reversed as part of a bet by two callous millionaires.",
     "genres": "Comedy",
     "imdb_score": "7.5/10",
@@ -29024,7 +29023,7 @@
     "released": "1995-04-21",
     "duration": 103,
     "imdb_id": "tt0114924",
-    "vote_average": "7.014",
+    "vote_average": "7",
     "overview": "A transit worker pulls commuter Peter off railway tracks after he's mugged, but—while he's in a coma—his family mistakenly thinks she's Peter's fiancée, and she doesn't correct them. Things get more complicated when she falls for his brother, who's not quite sure that she's who she claims to be.",
     "genres": ["Romance", "Comedy"],
     "imdb_score": "6.8/10",
@@ -29206,7 +29205,7 @@
     "released": "1954-10-14",
     "duration": 120,
     "imdb_id": "tt0047673",
-    "vote_average": "7.177",
+    "vote_average": "7.2",
     "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
     "genres": ["Comedy", "Music", "Romance"],
     "imdb_score": "7.6/10",
@@ -29395,7 +29394,7 @@
     "rt_score": "90%",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": ["Arthur Rankin, Jr.", "Jules Bass"],
+    "director": ["Jules Bass", "Arthur Rankin, Jr."],
     "cast": {
       "Shirley Booth": {
         "id": 113284,
