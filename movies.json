@@ -1,854 +1,660 @@
 {
-    "8-bit Christmas": {
-        "id": 802217,
+    "Belfast": {
+        "id": 777270,
         "plex": true,
-        "watched": [2021, 2024],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Director", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"]
     },
-    "A Castle for Christmas": {
-        "id": 758879,
+    "CODA": {
+        "id": 776503,
         "plex": false,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Supporting Actor", "Best Adapted Screenplay"]
     },
-    "A Charlie Brown Christmas": {
-        "id": 13187,
+    "Don't Look Up": {
+        "id": 646380,
         "plex": false,
-        "watched": [2020, 2022, 2023, 2024],
-        "added": 2020
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Original Screenplay"]
     },
-    "Scrooge (1951)": {
-        "id": 13188,
+    "Drive My Car": {
+        "id": 758866,
         "plex": true,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Director", "Best Adapted Screenplay", "Best International Feature Film"]
     },
-    "A Christmas Story": {
-        "id": 850,
+    "Dune": {
+        "id": 438631,
         "plex": true,
-        "watched": [2020, 2022, 2023],
-        "added": 2020
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Adapted Screenplay"]
     },
-    "A Christmas Story Christmas": {
-        "id": 929340,
+    "King Richard": {
+        "id": 614917,
         "plex": true,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Original Screenplay"]
     },
-    "A Muppet Family Christmas": {
-        "id": 13247,
+    "Licorice Pizza": {
+        "id": 718032,
         "plex": true,
-        "watched": [2022, 2023],
-        "added": 2022
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Director", "Best Original Screenplay"]
     },
-    "A Muppets Christmas: Letters To Santa": {
-        "id": 27190,
+    "Nightmare Alley": {
+        "id": 597208,
+        "plex": true,
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture"]
+    },
+    "The Power of the Dog": {
+        "id": 600583,
         "plex": false,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"]
     },
-    "About Fate": {
-        "id": 828613,
+    "West Side Story": {
+        "id": 511809,
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Picture", "Best Director", "Best Supporting Actress", "Best Original Screenplay"]
     },
-    "All I Want For Christmas": {
-        "id": 13644,
-        "plex": true,
-        "watched": [2023],
-        "added": 2021
-    },
-    "Anna and the Apocalypse": {
-        "id": 461928,
-        "plex": true,
-        "watched": [2022, 2023],
-        "added": 2022
-    },
-    "Arthur Christmas": {
-        "id": 51052,
+    "Being the Ricardos": {
+        "id": 517088,
         "plex": false,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Actor", "Best Supporting Actor", "Best Supporting Actress"]
     },
-    "Bell, Book and Candle": {
-        "id": 2006,
-        "plex": true,
-        "watched": [2022, 2023, 2024],
-        "added": 2022
-    },
-    "Best. Christmas. Ever!": {
-        "id": 987490,
+    "Encanto": {
+        "id": 568124,
         "plex": false,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Black Christmas (1974)": {
-        "id": 16938,
+    "Flee": {
+        "id": 680813,
         "plex": true,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Black Christmas (2006)": {
-        "id": 9656,
-        "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Black Christmas (2019)": {
-        "id": 551808,
-        "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Carol": {
-        "id": 258480,
-        "plex": true,
-        "watched": [2020, 2024],
-        "added": 2020
-    },
-    "Christmas Holiday": {
-        "id": 26530,
-        "plex": true,
-        "watched": [2023],
-        "added": 2022
-    },
-    "Christmas in Connecticut": {
-        "id": 13669,
-        "plex": true,
-        "watched": [2021, 2024],
-        "added": 2021
-    },
-    "Christmas with the Campbells": {
-        "id": 934559,
-        "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Christmas with the Coopers": {
-        "id": 333348,
+    "Luca": {
+        "id": 508943,
         "plex": false,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Christmas with the Kranks": {
-        "id": 13673,
+    "Parallel Mothers": {
+        "id": 766798,
+        "plex": true,
+        "watched": false,
+        "nominated": 2022,
+        "categories": ["Best Actress"]
+    },
+    "Raya and the Last Dragon": {
+        "id": 527774,
         "plex": false,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Christmas With You": {
-        "id": 936960,
+    "Spencer": {
+        "id": 716612,
+        "plex": true,
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Actress"]
+    },
+    "The Eyes of Tammy Faye": {
+        "id": 601470,
+        "plex": true,
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Actress"]
+    },
+    "The Lost Daughter": {
+        "id": 554230,
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": false,
+        "nominated": 2022,
+        "categories": ["Best Actress", "Best Supporting Actress", "Best Adapted Screenplay"]
     },
-    "Click & Collect": {
-        "id": 566565,
+    "The Mitchells vs. the Machines": {
+        "id": 501929,
         "plex": false,
-        "watched": [2021, 2022],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Deck the Halls": {
-        "id": 9969,
+    "The Tragedy of Macbeth": {
+        "id": 591538,
         "plex": false,
-        "watched": [2021, 2023],
-        "added": 2021
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Actor"]
     },
-    "Die Hard": {
-        "id": 562,
+    "The Worst Person in the World": {
+        "id": 660120,
+        "plex": true,
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Original Screenplay", "Best International Feature Film"]
+    },
+    "Tick, Tick... Boom!": {
+        "id": 537116,
         "plex": false,
-        "watched": [2020, 2021, 2023],
-        "added": 2020
+        "watched": true,
+        "nominated": 2022,
+        "categories": ["Best Actor"]
     },
-    "The Grinch (2018)": {
-        "id": 360920,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Elf": {
-        "id": 10719,
-        "plex": true,
-        "watched": [2020, 2021, 2022, 2023],
-        "added": 2020
-    },
-    "Emmet Otter's Jugband Christmas": {
-        "id": 20785,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Falling for Christmas": {
-        "id": 833097,
+    "Everything Everywhere All at Once": {
+        "id": "545611",
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"]
     },
-    "Four Christmases": {
-        "id": 12193,
+    "All Quiet on the Western Front": {
+        "id": "49046",
         "plex": false,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Adapted Screenplay", "Best International Feature Film"]
     },
-    "Fred Claus": {
-        "id": 5375,
-        "plex": true,
-        "watched": [2020, 2024],
-        "added": 2020
-    },
-    "Game Over": {
-        "id": 46959,
-        "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Guardians of the Galaxy Holiday Special": {
-        "id": 774752,
+    "Avatar: The Way of Water": {
+        "id": "76600",
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": false,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Director"]
     },
-    "Happiest Season": {
-        "id": 520172,
-        "plex": true,
-        "watched": [2020, 2023],
-        "added": 2020
-    },
-    "Holidate": {
-        "id": 615665,
+    "The Banshees of Inisherin": {
+        "id": "674324",
         "plex": false,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"]
     },
-    "Holiday Inn": {
-        "id": 13485,
+    "The Fabelmans": {
+        "id": "804095",
         "plex": true,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"]
     },
-    "Home Alone": {
-        "id": 771,
+    "Elvis": {
+        "id": "614934",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Actor"]
+    },
+    "Tár": {
+        "id": "817758",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Original Screenplay"]
+    },
+    "Top Gun: Maverick": {
+        "id": "361743",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Adapted Screenplay"]
+    },
+    "Triangle of Sadness": {
+        "id": "497828",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Director", "Best Original Screenplay"]
+    },
+    "Women Talking": {
+        "id": "777245",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Picture", "Best Adapted Screenplay"]
+    },
+    "The Whale": {
+        "id": "785084",
         "plex": false,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Actor", "Best Supporting Actress"]
     },
-    "Home Alone 2: Lost in New York": {
-        "id": 772,
+    "Aftersun": {
+        "id": "965150",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Actor"]
+    },
+    "Living": {
+        "id": "760099",
+        "plex": true,
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Actor", "Best Adapted Screenplay"]
+    },
+    "Blonde": {
+        "id": "301502",
         "plex": false,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Actress"]
     },
-    "Home for the Holidays": {
-        "id": 9089,
+    "To Leslie": {
+        "id": "823147",
         "plex": true,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Actress"]
     },
-    "Home Sweet Home Alone": {
-        "id": 654974,
+    "Causeway": {
+        "id": "595586",
         "plex": false,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Supporting Actor"]
     },
-    "How the Grinch Stole Christmas (1966)": {
-        "id": 13377,
-        "plex": true,
-        "watched": [2020, 2021, 2022, 2024],
-        "added": 2020
-    },
-    "How the Grinch Stole Christmas (2000)": {
-        "id": 8871,
-        "plex": true,
-        "watched": [2020, 2021, 2023],
-        "added": 2020
-    },
-    "In the Good Old Summertime": {
-        "id": 25698,
-        "plex": true,
-        "watched": [2021],
-        "added": 2021
-    },
-    "It Happened on 5th Avenue": {
-        "id": 52844,
-        "plex": true,
-        "watched": [2022, 2024],
-        "added": 2022
-    },
-    "It's a Very Merry Muppet Christmas Movie": {
-        "id": 13352,
-        "plex": true,
-        "watched": [2022],
-        "added": 2021
-    },
-    "It's a Wonderful Knife": {
-        "id": 1113278,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "It's a Wonderful Life": {
-        "id": 1585,
-        "plex": true,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
-    },
-    "Jingle All The Way": {
-        "id": 9279,
+    "Black Panther: Wakanda Forever": {
+        "id": "505642",
         "plex": false,
-        "watched": [2021, 2024],
-        "added": 2021
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Supporting Actress"]
     },
-    "Jingle Jangle": {
-        "id": 622855,
+    "Glass Onion: A Knives Out Mystery": {
+        "id": "661374",
         "plex": false,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Adapted Screenplay"]
     },
-    "John Denver and The Muppets: A Christmas Together": {
-        "id": 45731,
-        "plex": true,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Kiss Kiss Bang Bang": {
-        "id": 5236,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Klaus": {
-        "id": 508965,
+    "Guillermo del Toro's Pinocchio": {
+        "id": "555604",
         "plex": false,
-        "watched": [2020, 2022],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Lady Gaga and the Muppets Holiday Spectacular": {
-        "id": 240000,
+    "Marcel the Shell with Shoes On": {
+        "id": "869626",
         "plex": true,
-        "watched": [2022],
-        "added": 2021
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Last Christmas": {
-        "id": 549053,
+    "Puss in Boots: The Last Wish": {
+        "id": "315162",
         "plex": true,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Last Train to Christmas ": {
-        "id": 887609,
-        "plex": true,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Lego Star Wars Holiday Special": {
-        "id": 732670,
+    "The Sea Beast": {
+        "id": "560057",
         "plex": false,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Little Women (1933)": {
-        "id": 39938,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Little Women (1949)": {
-        "id": 43436,
-        "plex": true,
-        "watched": [2020, 2023],
-        "added": 2020
-    },
-    "Little Women (1994)": {
-        "id": 9587,
-        "plex": true,
-        "watched": [2020, 2022],
-        "added": 2020
-    },
-    "Little Women (2019)": {
-        "id": 331482,
-        "plex": true,
-        "watched": [2020, 2024],
-        "added": 2020
-    },
-    "Love Hard": {
-        "id": 734265,
+    "Turning Red": {
+        "id": "508947",
         "plex": false,
-        "watched": [2021],
-        "added": 2021
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Meet Me in St Louis": {
-        "id": 909,
-        "plex": true,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
-    },
-    "Mickey's Christmas Carol": {
-        "id": 14813,
+    "Argentina 1985": {
+        "id": "714888",
         "plex": false,
-        "watched": [2020, 2022],
-        "added": 2020
+        "watched": false,
+        "nominated": 2023,
+        "categories": ["Best International Feature Film"]
     },
-    "Mickey's Once Upon a Christmas": {
-        "id": 15400,
+    "Close": {
+        "id": "901563",
+        "plex": true,
+        "watched": false,
+        "nominated": 2023,
+        "categories": ["Best International Feature Film"]
+    },
+    "EO": {
+        "id": "785398",
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best International Feature Film"]
     },
-    "Miracle on 34th Street (1947)": {
-        "id": 11881,
+    "The Quiet Girl": {
+        "id": "916405",
         "plex": true,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
+        "watched": true,
+        "nominated": 2023,
+        "categories": ["Best International Feature Film"]
     },
-    "The Miracle on 34th Street (1955)": {
-        "id": 141871,
+    "Oppenheimer": {
+        "id": "872585",
         "plex": true,
-        "watched": [2020],
-        "added": 2020
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"]
     },
-    "Miracle on 34th Street (1959)": {
-        "id": 765873,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "Miracle on 34th Street (1973)": {
-        "id": 252539,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Miracle on 34th Street (1994)": {
-        "id": 10510,
-        "plex": true,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
-    },
-    "Mr Willowby's Christmas Tree": {
-        "id": 210071,
-        "plex": true,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Natitvity!": {
-        "id": 49522,
+    "American Fiction": {
+        "id": "1056360",
         "plex": false,
-        "watched": [2021, 2022, 2024],
-        "added": 2021
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Actor", "Best Supporting Actor", "Best Adapted Screenplay"]
     },
-    "Nativity 2: Danger in the Manger": {
-        "id": 139380,
+    "Anatomy of a Fall": {
+        "id": "915935",
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Original Screenplay"]
     },
-    "Nativity 3: Dude, Where's My Donkey?": {
-        "id": 295049,
-        "plex": false,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Nativity Rocks!": {
-        "id": 478157,
+    "Barbie": {
+        "id": "346698",
         "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Noelle": {
-        "id": 454467,
-        "plex": false,
-        "watched": [2020, 2024],
-        "added": 2020
-    },
-    "One Magic Christmas": {
-        "id": 13380,
-        "plex": false,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Pluto's Christmas Tree": {
-        "id": 61080,
-        "plex": false,
-        "watched": [2020, 2022, 2023],
-        "added": 2020
-    },
-    "Rare Exports: A Christmas Tale": {
-        "id": 48395,
-        "plex": true,
-        "watched": [2023],
-        "added": 2022
-    },
-    "Remember The Night": {
-        "id": 29617,
-        "plex": true,
-        "watched": [2021, 2023],
-        "added": 2021
-    },
-    "Santa Claus The Movie ": {
-        "id": 13764,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Scrooge (1970)": {
-        "id": 13765,
-        "plex": false,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Scrooge: A Christmas Carol (2022)": {
-        "id": 1001865,
-        "plex": false,
-        "watched": [],
-        "added": 2022
-    },
-    "Scrooged": {
-        "id": 9647,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Silent Night (2021)": {
-        "id": 664574,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "Silent Night (2023)": {
-        "id": 891699,
-        "plex": true,
-        "watched": [],
-        "added": 2023
-    },
-    "Single All the Way": {
-        "id": 810873,
-        "plex": false,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Spirited": {
-        "id": 632856,
-        "plex": false,
-        "watched": [2022, 2023],
-        "added": 2022
-    },
-    "Surviving Christmas": {
-        "id": 15566,
-        "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Tangerine": {
-        "id": 308084,
-        "plex": true,
-        "watched": [2022],
-        "added": 2021
-    },
-    "The Best Man Holiday": {
-        "id": 146304,
-        "plex": true,
-        "watched": [2022],
-        "added": 2020
-    },
-    "The Bishop's Wife": {
-        "id": 19490,
-        "plex": false,
-        "watched": [2021, 2022, 2024],
-        "added": 2021
-    },
-    "The Christmas Toy": {
-        "id": 47670,
-        "plex": true,
-        "watched": [2024],
-        "added": 2021
-    },
-    "The Family Stone": {
-        "id": 9043,
-        "plex": false,
-        "watched": [2021],
-        "added": 2021
-    },
-    "The Great Santa Claus Switch": {
-        "id": 210061,
-        "plex": true,
-        "watched": [2023],
-        "added": 2021
-    },
-    "The Holiday": {
-        "id": 1581,
-        "plex": false,
-        "watched": [2020, 2021],
-        "added": 2020
-    },
-    "The Mistle-Tones": {
-        "id": 149032,
-        "plex": false,
-        "watched": [2021],
-        "added": 2021
-    },
-    "The Muppet Christmas Carol": {
-        "id": 10437,
-        "plex": false,
-        "watched": [2020, 2021, 2022, 2023, 2024],
-        "added": 2020
-    },
-    "The Night Before": {
-        "id": 296100,
-        "plex": false,
-        "watched": [2021],
-        "added": 2020
-    },
-    "The Noel Diary": {
-        "id": 736918,
-        "plex": false,
-        "watched": [2022],
-        "added": 2022
-    },
-    "The Polar Express": {
-        "id": 5255,
-        "plex": true,
-        "watched": [2024],
-        "added": 2020
-    },
-    "The Preacher's Wife": {
-        "id": 21539,
-        "plex": false,
-        "watched": [2021, 2022],
-        "added": 2021
-    },
-    "The Santa Clause": {
-        "id": 11395,
-        "plex": false,
-        "watched": [2020, 2021],
-        "added": 2020
-    },
-    "The Santa Clause 2": {
-        "id": 9021,
-        "plex": false,
-        "watched": [2020],
-        "added": 2020
-    },
-    "The Santa Clause 3: The Escape Clause": {
-        "id": 13767,
-        "plex": false,
-        "watched": [2023],
-        "added": 2020
-    },
-    "The Shop Around the Corner": {
-        "id": 20334,
-        "plex": true,
-        "watched": [2021, 2022, 2024],
-        "added": 2021
-    },
-    "Trading Places": {
-        "id": 1621,
-        "plex": true,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Un conte de Noël (A Christmas Tale)": {
-        "id": 8892,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Violent Night": {
-        "id": 899112,
-        "plex": true,
-        "watched": [2022],
-        "added": 2022
-    },
-    "What Happens Later": {
-        "id": 970948,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "While You Were Sleeping ": {
-        "id": 2064,
-        "plex": false,
-        "watched": [2020, 2022, 2024],
-        "added": 2020
-    },
-    "White Christmas": {
-        "id": 13368,
-        "plex": true,
-        "watched": [2020],
-        "added": 2020
-    },
-    "Your Christmas or Mine": {
-        "id": 865559,
-        "plex": false,
-        "watched": [2022],
-        "added": 2022
-    },
-    "Zoey's Extraordinary Christmas": {
-        "id": 872130,
-        "plex": true,
-        "watched": [2021],
-        "added": 2021
-    },
-    "Fanny and Alexander": {
-        "id": 5961,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "Red One": {
-        "id": 845781,
-        "plex": false,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"]
     },
     "The Holdovers": {
-        "id": 840430,
+        "id": "840430",
         "plex": true,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Original Screenplay"]
     },
-    "Tokyo Godfathers": {
-        "id": 13398,
-        "plex": true,
-        "watched": [2022, 2024],
-        "added": 2022
-    },
-    "Holiday Affair": {
-        "id": 24863,
+    "Killers of the Flower Moon": {
+        "id": "466420",
         "plex": false,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor"]
     },
-    "Love Actually": {
-        "id": 508,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "Comfort and Joy": {
-        "id": 30278,
-        "plex": true,
-        "watched": [2023],
-        "added": 2022
-    },
-    "Gremlins": {
-        "id": 927,
-        "plex": true,
-        "watched": [2022, 2024],
-        "added": 2022
-    },
-    "I Believe in Santa": {
-        "id": 1053110,
+    "Maestro": {
+        "id": "523607",
         "plex": false,
-        "watched": [2022],
-        "added": 2022
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Actor", "Best Actress", "Best Original Screenplay"]
     },
-    "Family Switch": {
-        "id": 798021,
-        "plex": true,
-        "watched": [2023],
-        "added": 2023
-    },
-    "Your Christmas or Mine 2": {
-        "id": 1176139,
+    "Past Lives": {
+        "id": "666277",
         "plex": false,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Original Screenplay"]
     },
-    "My Favourite Wife": {
-        "id": 41463,
+    "Poor Things": {
+        "id": "792307",
         "plex": false,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Adapted Screenplay"]
     },
-    "The Nightmare Before Christmas": {
-        "id": 9479,
+    "The Zone of Interest": {
+        "id": "467244",
         "plex": false,
-        "watched": [2023, 2024],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Picture", "Best Director", "Best Adapted Screenplay", "Best International Feature Film"]
     },
-    "The Year Without a Santa Claus": {
-        "id": 13397,
+    "Rustin": {
+        "id": "898713",
         "plex": true,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Actor"]
     },
-    "Bad Santa": {
-        "id": 10147,
+    "Nyad": {
+        "id": "895549",
         "plex": true,
-        "watched": [2023],
-        "added": 2023
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Actress", "Best Supporting Actress"]
     },
-    "The Heist Before Christmas": {
-        "id": 656995,
-        "plex": true,
-        "watched": [2024],
-        "added": 2023
-    },
-    "Christmas in July": {
-        "id": 34778,
-        "plex": true,
-        "watched": [2024],
-        "added": 2024
-    },
-    "Meet Me Next Christmas": {
-        "id": 1104171,
+    "The Color Purple": {
+        "id": "558915",
         "plex": false,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Supporting Actress"]
     },
-    "Christmas Eve in Miller's Point": {
-        "id": 1073650,
+    "May December": {
+        "id": "839369",
         "plex": true,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Original Screenplay"]
     },
-    "Mixed Nuts": {
-        "id": 24070,
-        "plex": true,
-        "watched": [2020, 2022],
-        "added": 2020
-    },
-    "Happy Christmas": {
-        "id": 244534,
+    "The Boy and the Heron": {
+        "id": "508883",
         "plex": false,
-        "watched": [2024],
-        "added": 2024
+        "watched": false,
+        "nominated": 2024,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Rudolph the Red-Nosed Reindeer": {
-        "id": 13382,
-        "plex": true,
-        "watched": [2024],
-        "added": 2024
-    },
-    "Hot Frosty": {
-        "id": 1290287,
+    "Elemental": {
+        "id": "976573",
         "plex": false,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Animated Feature Film"]
     },
-    "From All of Us to All of You": {
-        "id": 150067,
-        "plex": true,
-        "watched": [2024],
-        "added": 2024
-    },
-    "A Very Murray Christmas": {
-        "id": 364067,
+    "Nimona": {
+        "id": "961323",
         "plex": false,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Animated Feature Film"]
     },
-    "A Nonsense Christmas with Sabrina Carpenter": {
-        "id": 1358820,
+    "Robot Dreams": {
+        "id": "838240",
         "plex": true,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Animated Feature Film"]
     },
-    "Our Little Secret": {
-        "id": 1234811,
+    "Spider-Man: Across the Spider-Verse": {
+        "id": "569094",
         "plex": false,
-        "watched": [2024],
-        "added": 2024
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "Io capitano": {
+        "id": "937746",
+        "plex": true,
+        "watched": false,
+        "nominated": 2024,
+        "categories": ["Best International Feature Film"]
+    },
+    "Perfect Days": {
+        "id": "976893",
+        "plex": true,
+        "watched": false,
+        "nominated": 2024,
+        "categories": ["Best International Feature Film"]
+    },
+    "Society of the Snow": {
+        "id": "906126",
+        "plex": true,
+        "watched": true,
+        "nominated": 2024,
+        "categories": ["Best International Feature Film"]
+    },
+    "The Teachers' Lounge": {
+        "id": "998022",
+        "plex": true,
+        "watched": false,
+        "nominated": 2024,
+        "categories": ["Best International Feature Film"]
+    },
+    "Anora": {
+        "id": "1064213",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"]
+    },
+    "The Brutalist": {
+        "id": "549509",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"]
+    },
+    "A Complete Unknown": {
+        "id": "661539",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"]
+    },
+    "Conclave": {
+        "id": "974576",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Adapted Screenplay"]
+    },
+    "Dune: Part Two": {
+        "id": "693134",
+        "plex": true,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture"]
+    },
+    "Emilia Pérez": {
+        "id": "974950",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actress", "Best Adapted Screenplay", "Best International Feature Film"]
+    },
+    "I'm Still Here": {
+        "id": "1000837",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Actress", "Best International Feature Film"]
+    },
+    "Nickel Boys": {
+        "id": "1028196",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Adapted Screenplay"]
+    },
+    "The Substance": {
+        "id": "933260",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Original Screenplay"]
+    },
+    "Wicked": {
+        "id": "402431",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Picture", "Best Actress", "Best Supporting Actress"]
+    },
+    "Sing Sing": {
+        "id": "1155828",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Actor", "Best Adapted Screenplay"]
+    },
+    "The Apprentice": {
+        "id": "1182047",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Actor", "Best Supporting Actor"]
+    },
+    "A Real Pain": {
+        "id": "1013850",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Supporting Actor", "Best Original Screenplay"]
+    },
+    "September 5": {
+        "id": "1211472",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Original Screenplay"]
+    },
+    "Flow": {
+        "id": "823219",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Animated Feature Film", "Best International Feature Film"]
+    },
+    "Inside Out 2": {
+        "id": "1022789",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "Memoir of a Snail": {
+        "id": "1064486",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "Wallace & Gromit: Vengeance Most Fowl": {
+        "id": "929204",
+        "plex": false,
+        "watched": true,
+        "nominated": 2025,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "The Wild Robot": {
+        "id": "1184918",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "The Girl with the Needle": {
+        "id": "1232827",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best International Feature Film"]
+    },
+    "The Seed of the Sacred Fig": {
+        "id": "1278263",
+        "plex": false,
+        "watched": false,
+        "nominated": 2025,
+        "categories": ["Best International Feature Film"]
     }
 }

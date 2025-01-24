@@ -12,7 +12,7 @@
 
 .poster img, #info-poster img, .cast img {
   border-radius: 5px;
-  border: solid 1px #999999;
+  border: solid 1px #B69F66;
 }
 
 #info-poster {
@@ -134,7 +134,7 @@ h2 {
     float: left;
     margin-right: 10px;
     margin-bottom: 25px;
-    background-color: #888888;
+    background-color: #55565A;
   }
 
   .pie .title {
@@ -186,7 +186,7 @@ h2 {
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-color: #343a40;
+    background-color: #801B1D;
     position: absolute;
     top: 20px;
     left: 20px;
@@ -195,6 +195,11 @@ h2 {
     font-size: 35px;
     text-align: center;
     z-index: 2;
+  }
+
+  body {
+    background-color: #801B1D !important;
+    color: #fff !important
   }
 
   .new-entry {
@@ -207,7 +212,7 @@ h2 {
     padding-bottom: 1px;
   }
 
-  #added-year {
+  #nominated-year {
     font-size: 16pt;
     margin-left: 5px;
   }
@@ -221,14 +226,15 @@ h2 {
     border-radius: 10px;
     cursor: pointer;
     margin-left: 10px;
-    border: solid 1px #ffffff;
+    border: solid 1px #B69F66;
+    color: #D6BB6E;
     font-size: 14pt;
     margin-top: 15px;
   }
 
   .clicked {
-    color: #343a40;
-    background-color: #ffffff !important;
+    background-color: #DC1E33 !important;
+    color: white !important;
   }
 
   #filter-menu, #sort-menu {
@@ -236,8 +242,8 @@ h2 {
   }
 
   .menu-item {
-    border: solid 1px #333333;
-    background-color: #343a40;
+    border: solid 1px #B69F66;
+    background-color: #801B1D;
     cursor: pointer;
     font-size: 14pt;
     width: 220px;
@@ -266,43 +272,48 @@ h2 {
     white-space: pre;
   }
 
-  #added-filters {
+  #nominated-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
   }
 
   #watched-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
+  }
+
+  #categories-filters {
+    margin-left: 160px;
+    margin-top: -280px;
   }
 
 
   #last-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
   }
 
   #genre-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
   }
 
   #duration-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
     padding-bottom: 40px;
-    background-color: #343a40;
-    border: solid 1px #333333;
+    background-color: #801B1D;
+    border: solid 1px #B69F66;
   }
 
   #release-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
   }
 
   #platform-filters {
     margin-left: 160px;
-    margin-top: -360px;
+    margin-top: -280px;
   }
 
   #movies {
@@ -337,7 +348,6 @@ h2 {
 
   #back-to-start {
     font-size: 16pt;
-    opacity: 1;
     transition: opacity 0.5s, visibility 0.5s;
     position: fixed;
     z-index: 99;
@@ -345,7 +355,7 @@ h2 {
     user-select: none;
     bottom: 0px;
     color: #ffffff;
-    background-color: #333333;
+    background-color: #444;
     opacity: 0.8;
     width: 100%;
     text-align: center;
@@ -402,7 +412,8 @@ h2 {
 
 /* customizable snowflake styling */
 .snowflake {
-  color: #fff;
+  color: #D6BB6E;
+  opacity: 50%;
   font-size: 1em;
   font-family: Arial, sans-serif;
   text-shadow: 0 0 5px #000;
@@ -412,7 +423,7 @@ h2 {
 
 .slidecontainer {
   width: 100%; /* Width of the outside container */
-  background-color: #343a40;
+  background-color: #801B1D;
 }
 
 /* The slider itself */
@@ -422,7 +433,7 @@ h2 {
   width: 100%; /* Full-width */
   height: 25px; /* Specified height */
   /* background: #d3d3d3; /* Grey background */
-  background: linear-gradient(to right, #008000 0%, #008000 var(--value, 100%), #d3d3d3 var(--value, 100%), #d3d3d3 100%);
+  background: linear-gradient(to right, #000 0%, #000 var(--value, 100%), #D6BB6E var(--value, 100%), #D6BB6E 100%);
   outline: none; /* Remove outline */
   opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
   -webkit-transition: .2s; /* 0.2 seconds transition on hover */
@@ -440,7 +451,7 @@ h2 {
   appearance: none;
   width: 25px; /* Set a specific slider handle width */
   height: 25px; /* Slider handle height */
-  background: #dd1111; /* Green background */
+  background: #Bd4b1a; /* Green background */
   border-radius: 50%;
   cursor: pointer; /* Cursor on hover */
 }
@@ -448,17 +459,18 @@ h2 {
 .slider::-moz-range-thumb {
   width: 25px; /* Set a specific slider handle width */
   height: 25px; /* Slider handle height */
-  background: #dd1111; /* Green background */
+  background: #Bd4b1a; /* Green background */
   border-radius: 50%;
   cursor: pointer; /* Cursor on hover */
 }
 
 #ok {
   float: right;
-  background-color: white;
-  color: #333333;
+  background-color: #801B1D;
+  color: #D6BB6E;
   margin-right: 15px;
   padding: 5px 10px 5px 10px;
   border-radius: 5px;
+  border: 1px solid #D6BB6E;
   cursor: pointer;
 }

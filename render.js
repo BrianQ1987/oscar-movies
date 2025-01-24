@@ -35,18 +35,33 @@ async function renderMovies() {
         
     }
 
-    let year_added = [];
+    let year_nominated = [];
     
     for (let i = 0; i < Object.keys(movies).length; i ++) {
 
         let movie = movies[Object.keys(movies)[i]];
 
-        year_added.push(movie.added);
+        if (!year_nominated.includes(movie.nominated)) {
+            year_nominated.push(movie.nominated);
+        }
 
     }
 
-    current_year = Math.max(...year_added);
-    
+    year_nominated.sort();
+
+    current_year = Math.max(...year_nominated);
+
+    for (let i = 0; i < year_nominated.length; i ++) {
+        year_div = document.createElement("div");
+        year_div.id = year_nominated[i] + "-movies";
+        year_div.classList.add("row")
+        year_div.classList.add("no-gutters");
+        year_div.classList.add("year-movies");
+        year_div.style.display = "flex";
+
+        moviesDiv.innerHTML += "<h2 class = 'year-heading' style = 'margin-left: 10px;'>" + year_nominated[i] + "</h2>";
+        moviesDiv.appendChild(year_div);
+    }
 
     for (let i = 0; i < Object.keys(movies).length; i ++) {
 
@@ -62,7 +77,7 @@ async function renderMovies() {
         poster_div.id = id;
         poster_div.innerHTML = `<img src="${movie.poster_path}" class="img-fluid" ></img>`;
 
-        moviesDiv.appendChild(poster_div);
+        document.getElementById(movie.nominated + "-movies").appendChild(poster_div)
 
         title_div = document.createElement("div");
         title_div.classList.add("poster-title");
@@ -140,7 +155,7 @@ async function renderMovies() {
                 ratings_div.removeChild(ratings_div.firstChild)
             }
 
-            colours = ["#DE3700", "#F85B00", "#E1FF00", "#92E000", "#2AA10F"];
+            colours = ["#DC1E33", "#Bd4b1a", "#046852", "#1C4F90", "#5C2B85"];
             
             function draw_pie (site_score, title) {
 
@@ -210,7 +225,7 @@ async function renderMovies() {
 
             draw_pie("vote_average", "TMDB")
 
-            document.getElementById("added-year").textContent = movie.added;
+            document.getElementById("nominated-year").textContent = movie.nominated;
 
             watched_div = document.getElementById("info-watched");
 
@@ -222,13 +237,35 @@ async function renderMovies() {
                 movie.watched = [movie.watched]
             }
 
-            for (let j = movie.added; j <= current_year; j ++) {
-                if (movie.watched.includes(j)) {
-                    emoji = "🎄"
-                } else {
-                    emoji = "❌"
+            if (movie.watched) {
+                emoji = "🌟"
+            } else {
+                emoji = "❌"
+            }
+            watched_div.innerHTML = "<div style = 'font-size: 16pt'>🍿 Watched:" + emoji + "</div>"
+
+            let info_categories = document.getElementById("info-categories");
+
+            while (info_categories.firstChild) {
+                info_categories.removeChild(info_categories.firstChild)
+            }
+
+            if (!Array.isArray(movie.categories)) {
+                movie.categories = [movie.categories]
+            }
+
+            for (let j = 0; j < movie.categories.length; j ++) {
+                category = movie.categories[j]
+                if (category == "Best Picture" | category.indexOf("Feature") > - 1) {
+                    emoji = "🎥"
+                } else if (category.indexOf("Act") > -1) {
+                    emoji = "🎭"
+                } else if (category.indexOf("Screenplay") > -1) {
+                    emoji = "📝"
+                } else if (category == "Best Director") {
+                    emoji = "🎬"
                 }
-                watched_div.innerHTML += "<div class = 'row' style = 'margin-left: 15px; font-size: 16pt'><div style = 'width: 52px; margin-left: 5px'>" + j + ":</div><div style = 'width: 30px; text-align: center; margin-left: 5px;'>" + emoji + "</div></div>"
+                info_categories.innerHTML += '<div>' + emoji + ' ' + category + '</div>'
             }
             
             platform_div = document.getElementById("info-platforms");
@@ -461,6 +498,6 @@ window.onscroll = handleOnScroll;
 let snowflakes = document.getElementById("snowflakes");
 
 for (let i = 0; i < 12; i ++) {
-    snowflakes.innerHTML += '<div class="snowflake"><div class="inner">❅</div></div>'
+    snowflakes.innerHTML += '<div class="snowflake"><div class="inner">★</div></div>'
 }
 

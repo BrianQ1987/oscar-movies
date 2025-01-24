@@ -21,24 +21,8 @@ filter_btn.onclick = function(event) {
         filter_menu.style.display = "block";
     }
 
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
-    }
-
-    // if (document.getElementById("duration-filters")) {
-    //     filter_menu.removeChild(document.getElementById("duration-filters"))
-    // }
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     if (document.getElementById("platform-filters")) {
@@ -47,6 +31,10 @@ filter_btn.onclick = function(event) {
 
     if (document.getElementById("genre-filters")) {
         filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
     }
 
     // Add a click listener to the document to close the menu
@@ -118,28 +106,23 @@ filter_show_all.onclick = function () {
 
     filter_show_all.classList.add("clicked");
 
-    showing.innerHTML = "Displaying <strong>" + Object.keys(movies).length + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies"
+    showing.innerHTML = "Displaying <strong>" + Object.keys(movies).length + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies";
+
+    movie_divs = document.getElementsByClassName("year-movies");
+    headings = document.getElementsByClassName("year-heading");
+    for (let j = 0; j < movie_divs.length; j ++) {
+        movie_divs[j].style.display = "flex";
+        headings[j].style.display = "flex";
+    }
 
 }
 
 filter_show_all.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
@@ -151,20 +134,8 @@ filter_duration = document.getElementById("filter-duration");
 
 filter_duration.onmouseover = function () {
 
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
-    }
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     if (document.getElementById("platform-filters")) {
@@ -173,6 +144,10 @@ filter_duration.onmouseover = function () {
 
     if (document.getElementById("genre-filters")) {
         filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
     }
 
     dur_div = document.getElementById("duration-filters");
@@ -229,120 +204,28 @@ filter_duration.onmouseover = function () {
 
     document.getElementById("ok").onclick = function () {
         filter_menu.style.display = "none";
+        movie_divs = document.getElementsByClassName("year-movies");
+        headings = document.getElementsByClassName("year-heading");
+        for (let j = 0; j < movie_divs.length; j ++) {
+            movie_divs[j].style.display = "flex";
+            headings[j].style.display = "flex";
+        }
     }
 
 }
 
-// Filter on release date
-filter_release = document.getElementById("filter-release");
-
-filter_release.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
-    }
-
-    document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
-
-    if (document.getElementById("platform-filters")) {
-        filter_menu.removeChild(document.getElementById("platform-filters"))
-    }
-
-    if (document.getElementById("genre-filters")) {
-        filter_menu.removeChild(document.getElementById("genre-filters"))
-    }
-
-    rel_div = document.createElement("div");
-    rel_div.id = "release-filters";
-
-    decades = [];
-
-    for (let i = 0; i < Object.keys(movies).length; i ++) {
-        if (movies[Object.keys(movies)[i]].released != "") {
-            decades.push(movies[Object.keys(movies)[i]].released.slice(0, 3));
-        }
-    }
-
-    first_decade = Math.min(...decades);
-    last_decade = Math.max(...decades);
-
-    for (let i = first_decade; i <= last_decade; i ++) {
-
-        d_div = document.createElement("div");
-        d_div.classList.add("menu-item");
-        d_div.textContent = i + "0s";
-        rel_div.appendChild(d_div);
-
-        d_div.onclick = function () {
-
-            filter_menu.removeChild(rel_div);
-
-            for (let i = 0; i < filter_items.length; i ++) {
-                filter_items[i].classList.remove("clicked")
-            }
-        
-            filter_release.classList.add("clicked");
-
-            let count = 0;
-
-            for (let j = 0; j < Object.keys(movies).length; j ++) {
-
-                movie = movies[Object.keys(movies)[j]];                
-                
-                if (movie.released.slice(0, 3) != i) {
-                    document.getElementById(movie.id).style.display = "none";
-                } else {
-                    document.getElementById(movie.id).style.display = "flex";
-                    count += 1;
-                }
-        
-            }
-
-            showing.innerHTML = "Displaying movies that were released in the <strong>"+ i + "0s</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
-
-            filter_menu.style.display = "none";
-            filter_btn.classList.remove("clicked");
-        }
 
 
-    }
+// Filter on nominated year
+filter_nominated = document.getElementById("filter-nominated");
 
-    filter_menu.appendChild(rel_div);
-}
-
-// Filter on added year
-filter_added = document.getElementById("filter-added");
-
-filter_added.onmouseover = function() {
+filter_nominated.onmouseover = function() {
     
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
@@ -352,13 +235,17 @@ filter_added.onmouseover = function() {
         filter_menu.removeChild(document.getElementById("genre-filters"))
     }
 
-    years_div = document.createElement("div");
-    years_div.id = "added-filters";
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
+    }
 
-    for (let i = 2020; i <= current_year; i ++) {
+    years_div = document.createElement("div");
+    years_div.id = "nominated-filters";
+
+    for (let i = 2022; i <= current_year; i ++) {
         year_div = document.createElement("div");
         year_div.classList.add("menu-item");
-        year_div.textContent = "Added in " + i;
+        year_div.textContent = "Nominated in " + i;
         years_div.appendChild(year_div);
 
         year_div.onclick = function() {
@@ -369,103 +256,29 @@ filter_added.onmouseover = function() {
                 filter_items[i].classList.remove("clicked")
             }
         
-            filter_added.classList.add("clicked");
-
-            let count = 0;
+            filter_nominated.classList.add("clicked");
 
             for (let j = 0; j < Object.keys(movies).length; j ++) {
-
-                movie = movies[Object.keys(movies)[j]];                
-                
-                if (movie.added != i) {
-                    document.getElementById(movie.id).style.display = "none";
-                } else {
-                    document.getElementById(movie.id).style.display = "flex";
-                    count += 1;
-                }
-        
-            }
-
-            showing.innerHTML = "Displaying movies first added in <strong>"+ i + "</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
-
-            filter_menu.style.display = "none";
-            filter_btn.classList.remove("clicked");
-        }
-    }
-
-    filter_menu.appendChild(years_div);
-
-}
-
-// Filter on watched
-filter_watched = document.getElementById("filter-watched");
-
-filter_watched.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
-    }
-
-    document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
-
-    if (document.getElementById("platform-filters")) {
-        filter_menu.removeChild(document.getElementById("platform-filters"))
-    }
-
-    if (document.getElementById("genre-filters")) {
-        filter_menu.removeChild(document.getElementById("genre-filters"))
-    }
-
-    years_div = document.createElement("div");
-    years_div.id = "watched-filters";
-
-    for (let i = 2020; i <= current_year; i ++) {
-        year_div = document.createElement("div");
-        year_div.classList.add("menu-item");
-        year_div.textContent = "Watched in " + i;
-        years_div.appendChild(year_div);
-
-        year_div.onclick = function() {
-
-            filter_menu.removeChild(years_div);
-
-            for (let i = 0; i < filter_items.length; i ++) {
-                filter_items[i].classList.remove("clicked")
-            }
-        
-            filter_watched.classList.add("clicked");
-
-            let count = 0;
-
-            for (let j = 0; j < Object.keys(movies).length; j ++) {
-
                 movie = movies[Object.keys(movies)[j]];
-
-                if (!Array.isArray(movie.watched)) {
-                    movie.watched = [movie.watched]
-                }
-                
-                if (!movie.watched.includes(i) || movie.watched.length == 0) {
-                    document.getElementById(movie.id).style.display = "none";
-                } else {
-                    document.getElementById(movie.id).style.display = "flex";
-                    count += 1;
-                }
-        
+                document.getElementById(movie.id).style.display = "flex";
             }
 
-            showing.innerHTML = "Displaying movies watched in <strong>"+ i + "</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
+            movie_divs = document.getElementsByClassName("year-movies");
+            headings = document.getElementsByClassName("year-heading");
+
+            for (let j = 0; j < movie_divs.length; j ++) {
+                if (movie_divs[j].id != i + "-movies") {
+                    movie_divs[j].style.display = "none";
+                    headings[j].style.display = "none";
+                } else {
+                    movie_divs[j].style.display = "flex";
+                    headings[j].style.display = "flex";
+                    count = movie_divs[j].getElementsByTagName("div").length / 2;
+                }
+            }
+
+
+            showing.innerHTML = "Displaying movies nominated in <strong>"+ i + "</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
 
             filter_menu.style.display = "none";
             filter_btn.classList.remove("clicked");
@@ -473,85 +286,11 @@ filter_watched.onmouseover = function () {
     }
 
     filter_menu.appendChild(years_div);
+
 }
 
 
-// Filter on last watched
-filter_last = document.getElementById("filter-last");
 
-filter_last.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
-    }
-
-    document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
-
-    if (document.getElementById("platform-filters")) {
-        filter_menu.removeChild(document.getElementById("platform-filters"))
-    }
-
-    if (document.getElementById("genre-filters")) {
-        filter_menu.removeChild(document.getElementById("genre-filters"))
-    }
-
-    years_div = document.createElement("div");
-    years_div.id = "last-filters";
-
-    for (let i = 2020; i <= current_year; i ++) {
-        year_div = document.createElement("div");
-        year_div.classList.add("menu-item");
-        year_div.style.width = "220px";
-        year_div.textContent = "Last watched in " + i;
-        years_div.appendChild(year_div);
-
-        year_div.onclick = function() {
-
-            filter_menu.removeChild(years_div);
-
-            for (let i = 0; i < filter_items.length; i ++) {
-                filter_items[i].classList.remove("clicked")
-            }
-        
-            filter_last.classList.add("clicked");
-
-            let count = 0;
-
-            for (let j = 0; j < Object.keys(movies).length; j ++) {
-
-                movie = movies[Object.keys(movies)[j]];
-                
-                last_watched = movie.watched[movie.watched.length - 1];
-                
-                if (last_watched != i || movie.watched.length == 0) {
-                    document.getElementById(movie.id).style.display = "none";
-                } else {
-                    document.getElementById(movie.id).style.display = "flex";
-                    count += 1;
-                }
-        
-            }
-
-            showing.innerHTML = "Displaying movies last watched in <strong>"+ i + "</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
-
-            filter_menu.style.display = "none";
-            filter_btn.classList.remove("clicked");
-        }
-    }
-
-    filter_menu.appendChild(years_div);
-}
 
 // Filter on never watched
 filter_no_watch = document.getElementById("filter-no-watch");
@@ -566,8 +305,8 @@ filter_no_watch.onclick = function () {
     for (let i = 0; i < Object.keys(movies).length; i ++) {
 
         movie = movies[Object.keys(movies)[i]];
-        
-        if (movie.watched.length != 0) {
+
+        if (movie.watched) {
             document.getElementById(movie.id).style.display = "none";
         } else {
             document.getElementById(movie.id).style.display = "flex";
@@ -584,27 +323,21 @@ filter_no_watch.onclick = function () {
 
     showing.innerHTML = "Displaying movies that have never been watched (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)"
 
+    movie_divs = document.getElementsByClassName("year-movies");
+    headings = document.getElementsByClassName("year-heading");
+    for (let j = 0; j < movie_divs.length; j ++) {
+        movie_divs[j].style.display = "flex";
+        headings[j].style.display = "flex";
+    }
 
 }
 
 filter_no_watch.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
@@ -612,6 +345,10 @@ filter_no_watch.onmouseover = function () {
 
     if (document.getElementById("genre-filters")) {
         filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
     }
 }
 
@@ -619,23 +356,11 @@ filter_no_watch.onmouseover = function () {
 filter_platform = document.getElementById("filter-platform");
 
 filter_platform.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
@@ -643,6 +368,10 @@ filter_platform.onmouseover = function () {
 
     if (document.getElementById("genre-filters")) {
         filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
     }
 
     years_div = document.createElement("div");
@@ -697,6 +426,13 @@ filter_platform.onmouseover = function () {
 
             filter_menu.style.display = "none";
             filter_btn.classList.remove("clicked");
+
+            movie_divs = document.getElementsByClassName("year-movies");
+            headings = document.getElementsByClassName("year-heading");
+            for (let j = 0; j < movie_divs.length; j ++) {
+                movie_divs[j].style.display = "flex";
+                headings[j].style.display = "flex";
+            }
         }
     }
 
@@ -707,23 +443,11 @@ filter_platform.onmouseover = function () {
 filter_genre = document.getElementById("filter-genre");
 
 filter_genre.onmouseover = function () {
-    if (document.getElementById("added-filters")) {
-        filter_menu.removeChild(document.getElementById("added-filters"))
-    }
-
-    if (document.getElementById("watched-filters")) {
-        filter_menu.removeChild(document.getElementById("watched-filters"))
-    }
-
-    if (document.getElementById("last-filters")) {
-        filter_menu.removeChild(document.getElementById("last-filters"))
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
     }
 
     document.getElementById("duration-filters").style.display = "none";
-
-    if (document.getElementById("release-filters")) {
-        filter_menu.removeChild(document.getElementById("release-filters"))
-    }
 
     if (document.getElementById("platform-filters")) {
         filter_menu.removeChild(document.getElementById("platform-filters"))
@@ -731,6 +455,10 @@ filter_genre.onmouseover = function () {
 
     if (document.getElementById("genre-filters")) {
         filter_menu.removeChild(document.getElementById("genre-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
     }
 
     years_div = document.createElement("div");
@@ -789,6 +517,100 @@ filter_genre.onmouseover = function () {
             }
 
             showing.innerHTML = "Displaying <strong>"+ genres[i] + "</strong> movies (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";       
+
+            filter_menu.style.display = "none";
+            filter_btn.classList.remove("clicked");
+
+            movie_divs = document.getElementsByClassName("year-movies");
+            headings = document.getElementsByClassName("year-heading");
+            for (let j = 0; j < movie_divs.length; j ++) {
+                movie_divs[j].style.display = "flex";
+                headings[j].style.display = "flex";
+            }
+        }
+    }
+
+    filter_menu.appendChild(years_div);
+}
+
+// Filter on categories
+filter_categories = document.getElementById("filter-categories");
+
+filter_categories.onmouseover = function () {
+    if (document.getElementById("nominated-filters")) {
+        filter_menu.removeChild(document.getElementById("nominated-filters"))
+    }
+
+    document.getElementById("duration-filters").style.display = "none";
+
+    if (document.getElementById("platform-filters")) {
+        filter_menu.removeChild(document.getElementById("platform-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
+    }
+
+    if (document.getElementById("categories-filters")) {
+        filter_menu.removeChild(document.getElementById("categories-filters"))
+    }
+
+    years_div = document.createElement("div");
+    years_div.id = "categories-filters";
+
+    categories = [];
+
+    for (let i = 0; i < Object.keys(movies).length; i ++) {
+
+        let movie_categories = movies[Object.keys(movies)[i]].categories;
+
+        if (!Array.isArray(movie_categories)) {
+            movie_categories = [movie_categories];
+        }
+
+        for (let j = 0; j < movie_categories.length; j ++) {
+            if (!categories.includes(movie_categories[j])) {
+                categories.push(movie_categories[j])
+            }
+        }        
+
+    }
+
+    categories.sort()
+
+    for (let i = 0; i < categories.length; i ++) {
+        year_div = document.createElement("div");
+        year_div.classList.add("menu-item");
+        year_div.style.width = "220px";
+        year_div.textContent = categories[i];
+        years_div.appendChild(year_div);
+
+        year_div.onclick = function() {
+
+            filter_menu.removeChild(years_div);
+
+            for (let i = 0; i < filter_items.length; i ++) {
+                filter_items[i].classList.remove("clicked")
+            }
+        
+            filter_categories.classList.add("clicked");
+
+            let count = 0;
+
+            for (let j = 0; j < Object.keys(movies).length; j ++) {
+
+                movie = movies[Object.keys(movies)[j]];
+                
+                if (!movie.categories.includes(categories[i])) {
+                    document.getElementById(movie.id).style.display = "none";
+                } else {
+                    document.getElementById(movie.id).style.display = "flex";
+                    count += 1;
+                }
+        
+            }
+
+            showing.innerHTML = "Displaying movies nominated for <strong>"+ categories[i] + "</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";       
 
             filter_menu.style.display = "none";
             filter_btn.classList.remove("clicked");
@@ -871,61 +693,17 @@ sort_duration.onclick = function() {
 
 }
 
-//Sort by Released date
-sort_release = document.getElementById("sort-release");
+//Sort by date nominated
+sort_nominated = document.getElementById("sort-nominated");
 
-sort_release.onclick = function() {
-
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
-
-    sort_release.classList.add("clicked");
-
-    sort_menu.style.display = "none";
-
-    let dates = [];
-
-    for (let i = 0; i < Object.keys(movies).length; i ++) {
-        dates.push(movies[Object.keys(movies)[i]].released);
-    }    
-
-    dates = [...new Set(dates)];
-    dates = dates.sort();
-
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
-    
-    for (let j = 0; j < dates.length; j ++) {
-
-        for (let i = 0; i < Object.keys(movies).length; i ++) {
-        
-            movie = movies[Object.keys(movies)[i]];        
-
-            if (movie.released == dates[j]) {
-                moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-                first = movie.id;
-            }
-
-        }
-
-    }
-
-    sorting.innerHTML = "sorted from newest to oldest release date."
-
-}
-
-//Sort by date added
-sort_added = document.getElementById("sort-added");
-
-sort_added.onclick = function() {
+sort_nominated.onclick = function() {
 
     sort_items = sort_menu.getElementsByClassName("menu-item");
     for (let i = 0; i < sort_items.length; i ++) {
         sort_items[i].classList.remove("clicked")
     }
 
-    sort_added.classList.add("clicked");
+    sort_nominated.classList.add("clicked");
 
     sort_menu.style.display = "none";
 
@@ -937,7 +715,7 @@ sort_added.onclick = function() {
         
             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.added == j) {
+            if (movie.nominated == j) {
                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
                 first = movie.id;
             }
@@ -946,44 +724,7 @@ sort_added.onclick = function() {
 
     }
 
-    sorting.innerHTML = "sorted from newest to oldest date added."
-
-}
-
-//Sort by last watched
-sort_watched = document.getElementById("sort-watched");
-
-sort_watched.onclick = function() {
-
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
-
-    sort_watched.classList.add("clicked");
-
-    sort_menu.style.display = "none";
-
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
-    
-    for (let j = 2020; j <= current_year; j ++) {
-
-        for (let i = 0; i < Object.keys(movies).length; i ++) {
-        
-            movie = movies[Object.keys(movies)[i]];        
-
-            last_watched = movie.watched[movie.watched.length - 1];
-
-            if (last_watched == j) {
-                moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-                first = movie.id;
-            }
-
-        }
-
-    }
-
-    sorting.innerHTML = "sorted by most recently watched."
+    sorting.innerHTML = "sorted from newest to oldest date nominated."
 
 }
 
