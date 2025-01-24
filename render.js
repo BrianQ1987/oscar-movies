@@ -229,14 +229,6 @@ async function renderMovies() {
 
             watched_div = document.getElementById("info-watched");
 
-            while (watched_div.firstChild) {
-                watched_div.removeChild(watched_div.firstChild)
-            }
-
-            if (!Array.isArray(movie.watched)) {
-                movie.watched = [movie.watched]
-            }
-
             if (movie.watched) {
                 emoji = "🌟"
             } else {
