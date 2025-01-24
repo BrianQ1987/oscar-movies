@@ -589,7 +589,7 @@
     },
     "The Apprentice": {
         "id": "1182047",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best Actor", "Best Supporting Actor"]
@@ -624,7 +624,7 @@
     },
     "Memoir of a Snail": {
         "id": "1064486",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best Animated Feature Film"]
@@ -638,7 +638,7 @@
     },
     "The Wild Robot": {
         "id": "1184918",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best Animated Feature Film"]
@@ -652,7 +652,7 @@
     },
     "The Seed of the Sacred Fig": {
         "id": "1278263",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best International Feature Film"]
