@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -1129,7 +1129,7 @@
   },
   "The Apprentice": {
     "id": "1182047",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2025,
     "categories": ["Best Actor", "Best Supporting Actor"],
@@ -1138,12 +1138,14 @@
     "released": "2024-10-09",
     "duration": 122,
     "imdb_id": "tt8368368",
-    "vote_average": "6.9",
+    "vote_average": "6.915",
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.1/10",
     "rt_score": "82%",
     "meta_score": "64/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ali Abbasi",
     "cast": {
       "Sebastian Stan": {
@@ -2167,7 +2169,7 @@
     "released": "2022-12-14",
     "duration": 192,
     "imdb_id": "tt1630029",
-    "vote_average": "7.613",
+    "vote_average": "7.6",
     "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
     "genres": ["Science Fiction", "Adventure", "Action"],
     "imdb_score": "7.5/10",
@@ -2475,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.45",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -2581,7 +2583,7 @@
     "released": "2023-07-19",
     "duration": 114,
     "imdb_id": "tt1517268",
-    "vote_average": "6.992",
+    "vote_average": "7",
     "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
     "genres": ["Comedy", "Adventure"],
     "imdb_score": "6.8/10",
@@ -3452,7 +3454,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjdybHeNvp4DFbRd97Jo2ZLakwX.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -3782,7 +3784,7 @@
     "released": "2021-11-12",
     "duration": 98,
     "imdb_id": "tt12789558",
-    "vote_average": "7.1",
+    "vote_average": "7.082",
     "overview": "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.2/10",
@@ -4929,7 +4931,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.5",
+    "vote_average": "5.263",
     "overview": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -4960,7 +4962,7 @@
       "Raffey Cassidy": {
         "id": 1055230,
         "character": "Zsófia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wf5Ril2eYaOtwJIgeqvv93FDxkM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/41ZCInpbMnATF3fuvYxJu44K1UW.jpg"
       },
       "Stacy Martin": {
         "id": 1137823,
@@ -5198,7 +5200,7 @@
     "released": "2022-11-01",
     "duration": 104,
     "imdb_id": "tt9660502",
-    "vote_average": "7.807",
+    "vote_average": "7.8",
     "overview": "Thirteen-year-olds Léo and Rémi have always been close, but they drift apart after the intimacy of their relationship is questioned by schoolmates.",
     "genres": "Drama",
     "imdb_score": "7.8/10",
@@ -5589,7 +5591,7 @@
     "released": "2023-12-25",
     "duration": 141,
     "imdb_id": "tt1200263",
-    "vote_average": "7.1",
+    "vote_average": "7.08",
     "overview": "A decades-spanning tale of love and resilience and of one woman's journey to independence. Celie faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood.",
     "genres": "Drama",
     "imdb_score": "6.8/10",
@@ -5800,12 +5802,12 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg",
     "title": "A Complete Unknown",
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.5",
+    "vote_average": "7.554",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music", "History"],
     "imdb_score": "7.8/10",
@@ -5856,7 +5858,7 @@
       "Lenny Grossman": {
         "id": 4051614,
         "character": "Federal Court Clerk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "David Wenzel": {
         "id": 1192821,
@@ -5876,12 +5878,12 @@
       "Eloise Peyrot": {
         "id": 5148592,
         "character": "Tinya Seeger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Maya Feldman": {
         "id": 5148593,
         "character": "Mika Seeger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Dan Fogler": {
         "id": 58873,
@@ -5911,17 +5913,17 @@
       "Norbert Leo Butz": {
         "id": 52020,
         "character": "Alan Lomax",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Alaina Surgener": {
         "id": 3963321,
         "character": "Gena Russo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Martin Fisher": {
         "id": 3987403,
         "character": "Civil Rights Speaker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Craig Geraghty": {
         "id": 2266738,
@@ -5931,12 +5933,12 @@
       "Michael Everett Johnson": {
         "id": 1831647,
         "character": "Orderly",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Jater Webb": {
         "id": 5148601,
         "character": "Young Musician at Party",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Boyd Holbrook": {
         "id": 467645,
@@ -5946,7 +5948,7 @@
       "Andy Talen": {
         "id": 4849598,
         "character": "Jimmy Dean",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Andrew Kober": {
         "id": 1320504,
@@ -5966,12 +5968,12 @@
       "Sophia Feldman": {
         "id": 5148604,
         "character": "Girl #1 (D.C. Hotel)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Taylor Valentine Lupini": {
         "id": 3979287,
         "character": "Girl #2 (D.C. Hotel)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "P.J. Byrne": {
         "id": 1211946,
@@ -5996,7 +5998,7 @@
       "Zoe Zien": {
         "id": 4895519,
         "character": "Tilda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Kevyn Morrow": {
         "id": 2481094,
@@ -6011,7 +6013,7 @@
       "Jonathan Spivey": {
         "id": 3553831,
         "character": "Party Guest #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Cilda Shaur": {
         "id": 1956122,
@@ -6031,7 +6033,7 @@
       "Taylor Goodwyn": {
         "id": 5148614,
         "character": "Woman at McAnn's",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Arthur Langlie": {
         "id": 3462017,
@@ -6046,17 +6048,17 @@
       "Jordan Goodsell": {
         "id": 3408533,
         "character": "Roy Halee (Engineer)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Eli Brown": {
         "id": 5148616,
         "character": "Mike Bloomfield",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Big Bill Morganfield": {
         "id": 3794879,
         "character": "Jesse Moffette",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Liam Craig": {
         "id": 2086101,
@@ -6071,7 +6073,7 @@
       "Ian Kagey": {
         "id": 5148619,
         "character": "Harvey Brooks (Columbia Records)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Dave Maulbeck": {
         "id": 2636856,
@@ -6086,27 +6088,27 @@
       "Aidan Close": {
         "id": 5148620,
         "character": "Kid In Crowd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Irina Chelidze": {
         "id": 2992502,
         "character": "Girl In Crowd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Jenna Veal": {
         "id": 5148621,
         "character": "Newport Festival Fan #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Joshua Flinchbaugh": {
         "id": 5148622,
         "character": "Newport Festival Fan #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Cameron G. Quevedo": {
         "id": 4951183,
         "character": "Newport Festival Fan #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Alexis Felix": {
         "id": 4011143,
@@ -6121,7 +6123,7 @@
       "Sunny Vinsavich": {
         "id": 3347828,
         "character": "Angry Fan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Kayli Carter": {
         "id": 1731341,
@@ -6131,102 +6133,102 @@
       "Steve Bell": {
         "id": 5148625,
         "character": "Sony Terry (Blues Musician)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Malcolm Gold": {
         "id": 5148627,
         "character": "Marshall Grant (Tennessee 3)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Patrick Phalen": {
         "id": 5148629,
         "character": "Luther Perkins (Tennessee 3)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Douglas Marriner": {
         "id": 5148630,
         "character": "W.S. Holland (Tennessee 3)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Justin Levine": {
         "id": 5148633,
         "character": "Barry Goldberg (Newport Band '65)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Mark Whitfield, Jr.": {
         "id": 5148635,
         "character": "Sam Lay (Newport Band '65)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Joshua Crumbley": {
         "id": 5148636,
         "character": "Jerome Arnold (Newport Band '65)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Felix Lemerle": {
         "id": 5148637,
         "character": "Kenny Rankin (Columbia Records)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Malick Koly": {
         "id": 5148638,
         "character": "Bruce Langhorne (Columbia Records)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Andre Chez Lewis": {
         "id": 5148639,
         "character": "Paul Griffin (Columbia Records)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Jimmy Caltrider": {
         "id": 5148640,
         "character": "Bobby Gregg (Columbia Records)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Kyle A. Sanna": {
         "id": 5148641,
         "character": "Patsy Celtic Band Member",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Patrick M. Dennis": {
         "id": 5148642,
         "character": "Patsy Celtic Band Member",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Nick Baxter": {
         "id": 2895634,
         "character": "Patsy Celtic Band Member",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Alan Murray": {
         "id": 5148644,
         "character": "Musician Outside Viking #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Mark Gross": {
         "id": 5148646,
         "character": "Musician Outside Viking #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Andy Stein": {
         "id": 5148649,
         "character": "Musician Outside Viking #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Jean Rohe": {
         "id": 5148650,
         "character": "Musician Outside Viking #4",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Farley Rene": {
         "id": 5148651,
         "character": "Texas Prison Working Group #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Junior Cius": {
         "id": 3332821,
         "character": "Texas Prison Working Group #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Travis Patton": {
         "id": 1901758,
@@ -6236,27 +6238,27 @@
       "Victor Sho": {
         "id": 2982844,
         "character": "Texas Prison Working Group #4",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Vincent Mp Filliatre": {
         "id": 5148654,
         "character": "Texas Prison Working Group #5",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Amos J. Machanic": {
         "id": 3247383,
         "character": "Texas Prison Working Group #6",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Sunny Jain": {
         "id": 3274055,
         "character": "Man Playing Tambourine",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "James Archie Worley": {
         "id": 2819379,
         "character": "Vendor Sings Opera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Jon Gennari": {
         "id": 3709069,
@@ -6266,7 +6268,7 @@
       "Stephen Carter Carlsen": {
         "id": 5189292,
         "character": "Paul Stookey (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       },
       "Bridget McGarry": {
         "id": 1846876,
@@ -6276,7 +6278,7 @@
       "Michael Lepre": {
         "id": 5113257,
         "character": "Cab Driver (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/662Mk69uIJvjA1zb5PYP4geje9H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
       }
     }
   },
@@ -6609,7 +6611,7 @@
       "Liev Schreiber": {
         "id": 23626,
         "character": "Bash Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gTHvDnTN52iTdnQPVPu6LhirUHc.jpg"
       },
       "Samsara Yett": {
         "id": 2861577,
@@ -7129,7 +7131,7 @@
     "released": "2021-08-18",
     "duration": 179,
     "imdb_id": "tt14039582",
-    "vote_average": "7.421",
+    "vote_average": "7.4",
     "overview": "Yusuke Kafuku, a stage actor and director, still unable, after two years, to cope with the loss of his beloved wife, accepts to direct Uncle Vanya at a theater festival in Hiroshima. There he meets Misaki, an introverted young woman, appointed to drive his car. In between rides, secrets from the past and heartfelt confessions will be unveiled.",
     "genres": "Drama",
     "imdb_score": "7.5/10",
@@ -7257,7 +7259,7 @@
     "released": "2021-09-15",
     "duration": 155,
     "imdb_id": "tt1160419",
-    "vote_average": "7.8",
+    "vote_average": "7.785",
     "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
     "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.0/10",
@@ -7475,7 +7477,7 @@
     "released": "2024-02-27",
     "duration": 167,
     "imdb_id": "tt15239678",
-    "vote_average": "8.2",
+    "vote_average": "8.15",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.5/10",
@@ -8106,7 +8108,7 @@
     "released": "2022-06-22",
     "duration": 159,
     "imdb_id": "tt3704428",
-    "vote_average": "7.515",
+    "vote_average": "7.514",
     "overview": "The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.",
     "genres": ["Drama", "Music", "History"],
     "imdb_score": "7.3/10",
@@ -8609,7 +8611,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "6.4/10",
@@ -8916,7 +8918,7 @@
     "released": "2021-10-13",
     "duration": 102,
     "imdb_id": "tt2953050",
-    "vote_average": "7.597",
+    "vote_average": "7.596",
     "overview": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto. The magic of the Encanto has blessed every child in the family—every child except one, Mirabel. But when she discovers that the magic surrounding the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal, might just be her exceptional family's last hope.",
     "genres": ["Animation", "Comedy", "Family", "Fantasy"],
     "imdb_score": "7.2/10",
@@ -9204,7 +9206,7 @@
     "released": "2022-03-24",
     "duration": 140,
     "imdb_id": "tt6710474",
-    "vote_average": "7.769",
+    "vote_average": "7.8",
     "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
     "genres": ["Action", "Adventure", "Science Fiction"],
     "imdb_score": "7.8/10",
@@ -9781,7 +9783,7 @@
       "Robin Bartlett": {
         "id": 11902,
         "character": "Tina Schildkraut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bZS5omu7ZVmSQboNQZ999PrUXAj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/94OpCjYBbxIoCtJpFWAlFQornKO.jpg"
       },
       "Oakes Fegley": {
         "id": 1422517,
@@ -10209,7 +10211,7 @@
     "released": "2024-08-29",
     "duration": 85,
     "imdb_id": "tt4772188",
-    "vote_average": "8.401",
+    "vote_average": "8.415",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
     "genres": ["Animation", "Fantasy", "Adventure"],
     "imdb_score": "7.9/10",
@@ -10229,7 +10231,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -10244,7 +10246,7 @@
       "Trine Dyrholm": {
         "id": 4460,
         "character": "Dagmar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yIVfxie2pVso5gfHKXElR8gUTQN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ntUn5eKFlQxbjPci5A99qJOjulY.jpg"
       },
       "Besir Zeciri": {
         "id": 1458362,
@@ -10264,7 +10266,7 @@
       "Ava Knox Martin": {
         "id": 4714047,
         "character": "Erena",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKpG0LdNgLsiVRIvhUMHLwzJ4L.jpg"
       },
       "Ari Alexander": {
         "id": 1501634,
@@ -10284,7 +10286,7 @@
       "Anna Terpiłowska": {
         "id": 1948243,
         "character": "Strict Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/x4ehWCNqxMgiW87NmWpMY7YB2m4.jpg"
       },
       "Dan Jakobsen": {
         "id": 1544031,
@@ -10567,7 +10569,7 @@
     "released": "2022-11-09",
     "duration": 117,
     "imdb_id": "tt1488589",
-    "vote_average": "8.072",
+    "vote_average": "8.074",
     "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
     "genres": ["Animation", "Fantasy", "Drama"],
     "imdb_score": "7.6/10",
@@ -10948,7 +10950,7 @@
     "released": "2024-09-19",
     "duration": 137,
     "imdb_id": "tt14961016",
-    "vote_average": "8.5",
+    "vote_average": "8.2",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -11506,7 +11508,7 @@
     "released": "2023-09-07",
     "duration": 121,
     "imdb_id": "tt14225838",
-    "vote_average": "7.822",
+    "vote_average": "7.823",
     "overview": "Longing for a brighter future, two Senegalese teenagers embark on a journey from West Africa to Italy. However, between their dreams and reality lies a labyrinth of checkpoints, the Sahara Desert, and the vast waters of the Mediterranean.",
     "genres": ["Adventure", "Drama"],
     "imdb_score": "7.6/10",
@@ -11673,7 +11675,7 @@
     "released": "2023-10-18",
     "duration": 206,
     "imdb_id": "tt5537002",
-    "vote_average": "7.443",
+    "vote_average": "7.442",
     "overview": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
     "genres": ["Crime", "History", "Drama"],
     "imdb_score": "7.6/10",
@@ -13219,7 +13221,7 @@
     "released": "2021-11-26",
     "duration": 133,
     "imdb_id": "tt11271038",
-    "vote_average": "7",
+    "vote_average": "6.973",
     "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.1/10",
@@ -14568,7 +14570,7 @@
     "released": "2021-06-17",
     "duration": 95,
     "imdb_id": "tt12801262",
-    "vote_average": "7.81",
+    "vote_average": "7.8",
     "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
     "genres": ["Animation", "Comedy", "Fantasy", "Adventure", "Family"],
     "imdb_score": "7.4/10",
@@ -15320,7 +15322,7 @@
   },
   "Memoir of a Snail": {
     "id": "1064486",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2025,
     "categories": "Best Animated Feature Film",
@@ -15329,12 +15331,14 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "7.847",
+    "vote_average": "7.9",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "83/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Adam Elliot",
     "cast": {
       "Sarah Snook": {
@@ -16381,7 +16385,7 @@
     "released": "2023-06-23",
     "duration": 99,
     "imdb_id": "tt19500164",
-    "vote_average": "7.892",
+    "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "genres": ["Animation", "Family", "Action", "Science Fiction", "Adventure", "Fantasy", "Drama"],
     "imdb_score": "7.5/10",
@@ -16577,7 +16581,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -16782,7 +16786,7 @@
     "released": "2023-07-19",
     "duration": 181,
     "imdb_id": "tt15398776",
-    "vote_average": "8.072",
+    "vote_average": "8.073",
     "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.3/10",
@@ -17210,7 +17214,7 @@
     "released": "2021-10-08",
     "duration": 123,
     "imdb_id": "tt12618926",
-    "vote_average": "6.824",
+    "vote_average": "6.8",
     "overview": "Two unmarried women who have become pregnant by accident and are about to give birth meet in a hospital room: Janis, in her late-thirties, unrepentant and happy; Ana, a teenager, remorseful and frightened.",
     "genres": "Drama",
     "imdb_score": "7.1/10",
@@ -17318,7 +17322,7 @@
     "released": "2023-06-02",
     "duration": 106,
     "imdb_id": "tt13238346",
-    "vote_average": "7.746",
+    "vote_average": "7.744",
     "overview": "Nora and Hae Sung, two childhood friends, are reunited in New York for one fateful week as they confront notions of destiny, love, and the choices that make a life.",
     "genres": ["Drama", "Romance"],
     "imdb_score": "7.8/10",
@@ -17474,7 +17478,7 @@
     "released": "2023-11-10",
     "duration": 124,
     "imdb_id": "tt27503384",
-    "vote_average": "7.779",
+    "vote_average": "7.8",
     "overview": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
     "genres": "Drama",
     "imdb_score": "7.9/10",
@@ -17707,7 +17711,7 @@
     "released": "2023-12-07",
     "duration": 141,
     "imdb_id": "tt14230458",
-    "vote_average": "7.718",
+    "vote_average": "7.7",
     "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
     "genres": ["Science Fiction", "Romance", "Comedy"],
     "imdb_score": "7.8/10",
@@ -17765,7 +17769,7 @@
       "Hanna Schygulla": {
         "id": 3734,
         "character": "Martha Von Kurtzroc",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jdSfTQOd5pqwhpnGxSICQ8MsWh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fxH98JLkAYB2vSpo7bT5OHhoQ42.jpg"
       },
       "Margaret Qualley": {
         "id": 1392137,
@@ -18666,7 +18670,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.841",
+    "vote_average": "6.885",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.2/10",
@@ -18762,7 +18766,7 @@
     "released": "2023-12-06",
     "duration": 102,
     "imdb_id": "tt13429870",
-    "vote_average": "8.034",
+    "vote_average": "8.027",
     "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
     "genres": ["Animation", "Drama", "Comedy", "Science Fiction"],
     "imdb_score": "7.6/10",
@@ -19278,7 +19282,7 @@
     "released": "2022-06-24",
     "duration": 115,
     "imdb_id": "tt9288046",
-    "vote_average": "7.351",
+    "vote_average": "7.4",
     "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
     "genres": ["Animation", "Adventure", "Action", "Family", "Fantasy"],
     "imdb_score": "7.0/10",
@@ -19407,7 +19411,7 @@
   },
   "The Seed of the Sacred Fig": {
     "id": "1278263",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2025,
     "categories": "Best International Feature Film",
@@ -19422,6 +19426,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "95%",
     "meta_score": "85/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Mohammad Rasoulof",
     "cast": {
       "Misagh Zare": {
@@ -19869,7 +19875,7 @@
     "released": "2023-12-15",
     "duration": 144,
     "imdb_id": "tt16277242",
-    "vote_average": "8.008",
+    "vote_average": "8",
     "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.8/10",
@@ -20436,7 +20442,7 @@
     "released": "2021-11-04",
     "duration": 117,
     "imdb_id": "tt12536294",
-    "vote_average": "6.788",
+    "vote_average": "6.79",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.5/10",
@@ -20634,7 +20640,7 @@
       "Sami Amber": {
         "id": 3089894,
         "character": "Boy (Roadhouse Cafe) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/f4nadJWqasqTRW7kVobpZqsgau.jpg"
       }
     }
   },
@@ -20649,13 +20655,13 @@
     "released": "2023-05-31",
     "duration": 140,
     "imdb_id": "tt9362722",
-    "vote_average": "8.353",
+    "vote_average": "8.4",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21821,7 +21827,7 @@
     "released": "2022-09-23",
     "duration": 158,
     "imdb_id": "tt14444726",
-    "vote_average": "7.1",
+    "vote_average": "7.087",
     "overview": "As celebrated conductor Lydia Tár starts rehearsals for a career-defining symphony, the consequences of her past choices begin to echo in the present.",
     "genres": ["Music", "Drama"],
     "imdb_score": "7.4/10",
@@ -24670,7 +24676,7 @@
     "released": "2021-12-05",
     "duration": 105,
     "imdb_id": "tt10095582",
-    "vote_average": "6.9",
+    "vote_average": "6.927",
     "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
     "genres": ["Drama", "War"],
     "imdb_score": "7.1/10",
@@ -25985,6 +25991,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "100%",
     "meta_score": "82/100",
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
@@ -26826,7 +26834,7 @@
     "released": "2024-11-20",
     "duration": 162,
     "imdb_id": "tt1262426",
-    "vote_average": "7",
+    "vote_average": "6.93",
     "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
     "genres": ["Drama", "Romance", "Fantasy"],
     "imdb_score": "8.0/10",
@@ -28823,21 +28831,23 @@
   },
   "The Wild Robot": {
     "id": "1184918",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2025,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
     "title": "The Wild Robot",
     "released": "2024-09-12",
     "duration": 102,
     "imdb_id": "tt29623480",
-    "vote_average": "8.364",
+    "vote_average": "8.4",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
     "genres": ["Animation", "Action", "Science Fiction", "Family"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Chris Sanders",
     "cast": {
       "Lupita Nyong'o": {
@@ -28943,52 +28953,52 @@
       "Alessandro Beghi": {
         "id": 4967576,
         "character": "Baby Opossum 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Tiago Martinez": {
         "id": 3516191,
         "character": "Baby Opossum 2 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Becca Last": {
         "id": 4967579,
         "character": "Baby Opossum 3 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Madelyn Turpin": {
         "id": 4967581,
         "character": "Baby Opossum 3, 4, 5, 6 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Kayleigh Rayne": {
         "id": 4663825,
         "character": "Baby Opossum 4, 7 / Baby Bunny 2 / Baby Skunk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Isabelle Tupin": {
         "id": 4967583,
         "character": "Baby Opossum 8, 9 / Baby Bunny 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Beckett Blomberg": {
         "id": 4967584,
         "character": "Baby Opossum 10 / Chipmunk / Baby Lynx (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Damon Fung": {
         "id": 4967585,
         "character": "Baby Opossum 11 / Baby Otter (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "King Moore": {
         "id": 4871610,
         "character": "Baby Opossum 12 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Collin Erker": {
         "id": 3200942,
         "character": "Skunk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vcZfDONCxoOU7mosZEnkhYujBEG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       }
     }
   },
@@ -29374,7 +29384,7 @@
     "released": "2023-12-15",
     "duration": 105,
     "imdb_id": "tt7160372",
-    "vote_average": "7.066",
+    "vote_average": "7.1",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
     "genres": ["Drama", "History", "War"],
     "imdb_score": "7.3/10",
