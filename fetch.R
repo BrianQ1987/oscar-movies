@@ -70,7 +70,7 @@ for (movie_name in names(movies)) {
   movie$released <- data$release_date
   movie$duration <- data$runtime
   movie$imdb_id <- data$imdb_id
-  movie$vote_average <- as.character(data$vote_average)
+  movie$vote_average <- as.character(round(data$vote_average, 1))
   movie$overview <- data$overview
   
   movie$genres <- c()
