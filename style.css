@@ -12,7 +12,7 @@
 
 .poster img, #info-poster img, .cast img {
   border-radius: 5px;
-  border: solid 1px #B69F66;
+  border: solid 3px #B69F66;
 }
 
 #info-poster {
