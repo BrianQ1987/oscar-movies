@@ -2,18 +2,18 @@ filter_btn = document.getElementById("filter-btn");
 filter_menu = document.getElementById("filter-menu");
 filter_items = filter_menu.getElementsByClassName("menu-item");
 
-sort_btn = document.getElementById("sort-btn");
-sort_menu = document.getElementById("sort-menu");
+// sort_btn = document.getElementById("sort-btn");
+// sort_menu = document.getElementById("sort-menu");
 
 // Filter button
 filter_btn.onclick = function(event) {
 
     event.stopPropagation();
 
-    sort_menu.style.display = "none";
+    // sort_menu.style.display = "none";
 
     filter_btn.classList.add("clicked");
-    sort_btn.classList.remove("clicked");
+    // sort_btn.classList.remove("clicked");
 
     if (filter_menu.style.display == "block") {
         filter_menu.style.display = "none";
@@ -54,35 +54,35 @@ function closeFilterMenu(event) {
 }
 
 // Sort button
-sort_btn.onclick = function(event) {
+// sort_btn.onclick = function(event) {
 
-    event.stopPropagation();
+//     event.stopPropagation();
 
-    filter_menu.style.display = "none";
+//     filter_menu.style.display = "none";
 
-    filter_btn.classList.remove("clicked");
-    sort_btn.classList.add("clicked");
+//     filter_btn.classList.remove("clicked");
+//     sort_btn.classList.add("clicked");
 
-    if (sort_menu.style.display == "block") {
-        sort_menu.style.display = "none";
-    } else {
-        sort_menu.style.display = "block";
-    }
+//     if (sort_menu.style.display == "block") {
+//         sort_menu.style.display = "none";
+//     } else {
+//         sort_menu.style.display = "block";
+//     }
     
-    // Add a click listener to the document to close the menu
-    document.addEventListener("click", closeSortMenu);
-}
+//     // Add a click listener to the document to close the menu
+//     document.addEventListener("click", closeSortMenu);
+// }
 
-function closeSortMenu(event) {
-    // Check if the click occurred outside the filter_menu
-    if (!sort_menu.contains(event.target) && event.target !== sort_btn) {
-        sort_menu.style.display = "none";
-        sort_btn.classList.remove("clicked");
+// function closeSortMenu(event) {
+//     // Check if the click occurred outside the filter_menu
+//     if (!sort_menu.contains(event.target) && event.target !== sort_btn) {
+//         sort_menu.style.display = "none";
+//         sort_btn.classList.remove("clicked");
 
-        // Remove the event listener to avoid multiple bindings
-        document.removeEventListener("click", closeSortMenu);
-    }
-}
+//         // Remove the event listener to avoid multiple bindings
+//         document.removeEventListener("click", closeSortMenu);
+//     }
+// }
 
 // Show all films
 filter_show_all = document.getElementById("filter-show-all");
@@ -245,7 +245,7 @@ filter_nominated.onmouseover = function() {
     for (let i = 2022; i <= current_year; i ++) {
         year_div = document.createElement("div");
         year_div.classList.add("menu-item");
-        year_div.textContent = "Nominated in " + i;
+        year_div.textContent = i;
         years_div.appendChild(year_div);
 
         year_div.onclick = function() {
@@ -279,6 +279,8 @@ filter_nominated.onmouseover = function() {
 
 
             showing.innerHTML = "Displaying movies nominated in <strong>"+ i + "</strong> (<strong>" + count + "</strong> of <strong>" + Object.keys(movies).length + "</strong> movies)";
+
+        let pct_watched = Math.round(total_watched / total_movies * 100);
 
             filter_menu.style.display = "none";
             filter_btn.classList.remove("clicked");
@@ -614,6 +616,29 @@ filter_categories.onmouseover = function () {
 
             filter_menu.style.display = "none";
             filter_btn.classList.remove("clicked");
+
+            let year_watched = document.getElementsByClassName("year-watched");
+            let year_movies = document.getElementsByClassName("year-movies");
+
+            for (let j = 0; j < year_watched.length; j ++) {
+
+                movies_watched = 0;
+                total_movies = 0;
+                posters = year_movies[j].getElementsByClassName("poster");
+                poster_texts = year_movies[j].getElementsByClassName("poster-title");
+                
+                for (let k = 0; k < posters.length; k ++) {
+                    if (posters[k].style.display == "flex") {
+                        total_movies += 1;
+                    }
+                    if (posters[k].style.display == "flex" & poster_texts[k].textContent == "Watched") {
+                        movies_watched += 1;
+                    }
+                }
+                let pct_watched = Math.round(movies_watched / total_movies * 100);
+
+                year_watched[j].textContent = ` - ${movies_watched}/${total_movies} watched (${pct_watched}%)`
+            }
         }
     }
 
@@ -621,218 +646,218 @@ filter_categories.onmouseover = function () {
 }
 
 // Sorting
-sort_az = document.getElementById("sort-az");
+// sort_az = document.getElementById("sort-az");
 
-sort_az.onclick = function () {
+// sort_az.onclick = function () {
 
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
+//     sort_items = sort_menu.getElementsByClassName("menu-item");
+//     for (let i = 0; i < sort_items.length; i ++) {
+//         sort_items[i].classList.remove("clicked")
+//     }
 
-    sort_az.classList.add("clicked");
+//     sort_az.classList.add("clicked");
 
-    sort_menu.style.display = "none";
+//     sort_menu.style.display = "none";
 
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
+//     first = moviesDiv.getElementsByClassName("poster")[0].id;
 
-    for (let i = Object.keys(movies).length - 1; i >= 0 ; i --) {
+//     for (let i = Object.keys(movies).length - 1; i >= 0 ; i --) {
         
-        movie = movies[Object.keys(movies)[i]];        
+//         movie = movies[Object.keys(movies)[i]];        
         
-        moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-        first = movie.id;
+//         moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
+//         first = movie.id;
         
-    }
+//     }
 
-    sorting.innerHTML = "";
+//     sorting.innerHTML = "";
 
-}
+// }
 
-//Sort by Duration
-sort_duration = document.getElementById("sort-duration");
+// //Sort by Duration
+// sort_duration = document.getElementById("sort-duration");
 
-sort_duration.onclick = function() {
+// sort_duration.onclick = function() {
 
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
+//     sort_items = sort_menu.getElementsByClassName("menu-item");
+//     for (let i = 0; i < sort_items.length; i ++) {
+//         sort_items[i].classList.remove("clicked")
+//     }
 
-    sort_duration.classList.add("clicked");
+//     sort_duration.classList.add("clicked");
 
-    sort_menu.style.display = "none";
+//     sort_menu.style.display = "none";
 
-    let durations = [];
+//     let durations = [];
 
-    for (let i = 0; i < Object.keys(movies).length; i ++) {
-        durations.push(movies[Object.keys(movies)[i]].duration);
-    }    
+//     for (let i = 0; i < Object.keys(movies).length; i ++) {
+//         durations.push(movies[Object.keys(movies)[i]].duration);
+//     }    
 
-    durations = [...new Set(durations)];
-    durations = durations.sort((a, b) => b - a);
+//     durations = [...new Set(durations)];
+//     durations = durations.sort((a, b) => b - a);
 
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
+//     first = moviesDiv.getElementsByClassName("poster")[0].id;
     
-    for (let j = 0; j < durations.length; j ++) {
+//     for (let j = 0; j < durations.length; j ++) {
 
-        for (let i = 0; i < Object.keys(movies).length; i ++) {
+//         for (let i = 0; i < Object.keys(movies).length; i ++) {
         
-            movie = movies[Object.keys(movies)[i]];        
+//             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.duration == durations[j]) {
-                moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-                first = movie.id;
-            }
+//             if (movie.duration == durations[j]) {
+//                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
+//                 first = movie.id;
+//             }
 
-        }
+//         }
 
-    }
+//     }
 
-    sorting.innerHTML = "sorted from shortest to longest duration."
+//     sorting.innerHTML = "sorted from shortest to longest duration."
 
-}
+// }
 
-//Sort by date nominated
-sort_nominated = document.getElementById("sort-nominated");
+// //Sort by date nominated
+// sort_nominated = document.getElementById("sort-nominated");
 
-sort_nominated.onclick = function() {
+// sort_nominated.onclick = function() {
 
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
+//     sort_items = sort_menu.getElementsByClassName("menu-item");
+//     for (let i = 0; i < sort_items.length; i ++) {
+//         sort_items[i].classList.remove("clicked")
+//     }
 
-    sort_nominated.classList.add("clicked");
+//     sort_nominated.classList.add("clicked");
 
-    sort_menu.style.display = "none";
+//     sort_menu.style.display = "none";
 
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
+//     first = moviesDiv.getElementsByClassName("poster")[0].id;
     
-    for (let j = 2020; j <= current_year; j ++) {
+//     for (let j = 2020; j <= current_year; j ++) {
 
-        for (let i = 0; i < Object.keys(movies).length; i ++) {
+//         for (let i = 0; i < Object.keys(movies).length; i ++) {
         
-            movie = movies[Object.keys(movies)[i]];        
+//             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.nominated == j) {
-                moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-                first = movie.id;
-            }
+//             if (movie.nominated == j) {
+//                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
+//                 first = movie.id;
+//             }
 
-        }
+//         }
 
-    }
+//     }
 
-    sorting.innerHTML = "sorted from newest to oldest date nominated."
+//     sorting.innerHTML = "sorted from newest to oldest date nominated."
 
-}
+// }
 
-//Sort by IMDb score
-sort_imdb = document.getElementById("sort-imdb");
+// //Sort by IMDb score
+// sort_imdb = document.getElementById("sort-imdb");
 
-sort_imdb.onclick = function() {
+// sort_imdb.onclick = function() {
 
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
+//     sort_items = sort_menu.getElementsByClassName("menu-item");
+//     for (let i = 0; i < sort_items.length; i ++) {
+//         sort_items[i].classList.remove("clicked")
+//     }
 
-    sort_imdb.classList.add("clicked");
+//     sort_imdb.classList.add("clicked");
 
-    sort_menu.style.display = "none";
+//     sort_menu.style.display = "none";
 
-    let scores = [];
+//     let scores = [];
 
-    for (let i = 0; i < Object.keys(movies).length; i ++) {
-        if (movies[Object.keys(movies)[i]].hasOwnProperty("imdb_score")) {
-            scores.push(movies[Object.keys(movies)[i]].imdb_score);
-        } else {
-            scores.push("0/10")
-        }
-    }    
+//     for (let i = 0; i < Object.keys(movies).length; i ++) {
+//         if (movies[Object.keys(movies)[i]].hasOwnProperty("imdb_score")) {
+//             scores.push(movies[Object.keys(movies)[i]].imdb_score);
+//         } else {
+//             scores.push("0/10")
+//         }
+//     }    
 
-    scores = [...new Set(scores)];
-    scores = scores.sort();
+//     scores = [...new Set(scores)];
+//     scores = scores.sort();
 
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
+//     first = moviesDiv.getElementsByClassName("poster")[0].id;
     
-    for (let j = 0; j < scores.length; j ++) {
+//     for (let j = 0; j < scores.length; j ++) {
 
-        for (let i = 0; i < Object.keys(movies).length; i ++) {
+//         for (let i = 0; i < Object.keys(movies).length; i ++) {
         
-            movie = movies[Object.keys(movies)[i]];        
+//             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.imdb_score == scores[j]) {
-                moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-                first = movie.id;
-            }
+//             if (movie.imdb_score == scores[j]) {
+//                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
+//                 first = movie.id;
+//             }
 
-        }
+//         }
 
-    }
+//     }
 
-    sorting.innerHTML = "sorted from highest to lowest IMDb score."
+//     sorting.innerHTML = "sorted from highest to lowest IMDb score."
 
-}
+// }
 
-//Sort by Rotten Tomatoes score
-sort_rt = document.getElementById("sort-rt");
+// //Sort by Rotten Tomatoes score
+// sort_rt = document.getElementById("sort-rt");
 
-sort_rt.onclick = function() {
+// sort_rt.onclick = function() {
 
-    sort_items = sort_menu.getElementsByClassName("menu-item");
-    for (let i = 0; i < sort_items.length; i ++) {
-        sort_items[i].classList.remove("clicked")
-    }
+//     sort_items = sort_menu.getElementsByClassName("menu-item");
+//     for (let i = 0; i < sort_items.length; i ++) {
+//         sort_items[i].classList.remove("clicked")
+//     }
 
-    sort_rt.classList.add("clicked");
+//     sort_rt.classList.add("clicked");
 
-    sort_menu.style.display = "none";
+//     sort_menu.style.display = "none";
 
-    let scores = [];
+//     let scores = [];
 
-    for (let i = 0; i < Object.keys(movies).length; i ++) {
+//     for (let i = 0; i < Object.keys(movies).length; i ++) {
 
-        let rt_value = "";
+//         let rt_value = "";
 
-        if (movies[Object.keys(movies)[i]].hasOwnProperty("rt_score")) {
+//         if (movies[Object.keys(movies)[i]].hasOwnProperty("rt_score")) {
 
-            rt_value = movies[Object.keys(movies)[i]].rt_score;
-            rt_value = rt_value.slice(0, rt_value.indexOf("%"));
+//             rt_value = movies[Object.keys(movies)[i]].rt_score;
+//             rt_value = rt_value.slice(0, rt_value.indexOf("%"));
 
-        } else {
-            rt_value = "0";
-        }
+//         } else {
+//             rt_value = "0";
+//         }
 
         
 
-        scores.push(rt_value);
-    }    
+//         scores.push(rt_value);
+//     }    
 
-    scores = [...new Set(scores)];
-    scores = scores.sort((a, b) => a - b);
+//     scores = [...new Set(scores)];
+//     scores = scores.sort((a, b) => a - b);
 
-    first = moviesDiv.getElementsByClassName("poster")[0].id;
+//     first = moviesDiv.getElementsByClassName("poster")[0].id;
     
-    for (let j = 0; j < scores.length; j ++) {
+//     for (let j = 0; j < scores.length; j ++) {
 
-        for (let i = 0; i < Object.keys(movies).length; i ++) {
+//         for (let i = 0; i < Object.keys(movies).length; i ++) {
         
-            movie = movies[Object.keys(movies)[i]];        
+//             movie = movies[Object.keys(movies)[i]];        
 
-            if (movie.rt_score == scores[j] + "%") {
-                moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
-                first = movie.id;
-            }
+//             if (movie.rt_score == scores[j] + "%") {
+//                 moviesDiv.insertBefore(document.getElementById(movie.id), document.getElementById(first));
+//                 first = movie.id;
+//             }
 
-        }
+//         }
 
-    }
+//     }
 
-    sorting.innerHTML = "sorted from highest to lowest Rotten Tomatoes score."
+//     sorting.innerHTML = "sorted from highest to lowest Rotten Tomatoes score."
 
-}
+// }
 
 random_btn = document.getElementById("random-btn");
 

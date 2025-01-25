@@ -1,5 +1,6 @@
 .poster {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     cursor: pointer;
@@ -12,7 +13,11 @@
 
 .poster img, #info-poster img, .cast img {
   border-radius: 5px;
-  border: solid 3px #B69F66;
+  border: solid 5px #B69F66;
+}
+
+.poster img.unwatched {
+  border-color: #DC1E33 !important;
 }
 
 #info-poster {
@@ -25,12 +30,28 @@
 }
 
 .poster-title {
-    position: absolute;
-    text-align: center;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 14pt;
+    text-align: center;
+    font-weight: bold;
+    font-size: 12pt;
     cursor: pointer;
+    background-color: #B69F66;
+    height: 25px;
+    margin-top: -25px;
+    width: 100%;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+
+.poster-title.unwatched {
+  background-color: #DC1E33 !important;
+}
+
+.year-movies {
+  border-bottom: 1px solid #B69F66;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
 }
 
 .info {
@@ -42,9 +63,19 @@ h2 {
     width: 100%;
 }
 
+.year-heading {
+  font-size: 2rem;
+  margin-bottom: 8px;
+  margin-left: 10px;
+}
+
+.year-watched {
+  font-size: 1.5rem
+}
 
 #back-btn, #next-btn, #prev-btn {
-    border: solid 1px #ffffff;
+    border: solid 1px #B69F66;
+    color: #B69F66;
     width: 110px;
     font-size: 14pt;
     text-align: center;
@@ -355,7 +386,7 @@ h2 {
     user-select: none;
     bottom: 0px;
     color: #ffffff;
-    background-color: #444;
+    background-color: #801B1D;
     opacity: 0.8;
     width: 100%;
     text-align: center;

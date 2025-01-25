@@ -8,7 +8,7 @@ prev_btn = document.getElementById("prev-btn");
 back_link = document.getElementById("back-link");
 sorting = document.getElementById("sorting");
 can = document.getElementById("can");
-sort_menu = document.getElementById("sort-menu");
+// sort_menu = document.getElementById("sort-menu");
 filter_menu = document.getElementById("filter-menu");
 back_to_start = document.getElementById("back-to-start");
 
@@ -59,7 +59,24 @@ async function renderMovies() {
         year_div.classList.add("year-movies");
         year_div.style.display = "flex";
 
-        moviesDiv.innerHTML += "<h2 class = 'year-heading' style = 'margin-left: 10px;'>" + year_nominated[i] + "</h2>";
+        let total_watched = 0;
+        let total_movies = 0;
+
+        for (let j = 0; j < Object.keys(movies).length; j ++) {
+            let watched = movies[Object.keys(movies)[j]].watched;
+            let nominated = movies[Object.keys(movies)[j]].nominated;
+
+            if (nominated == year_nominated[i]) {
+                total_movies += 1;
+            }
+            if (nominated == year_nominated[i] & watched) {
+                total_watched += 1;
+            }
+        }
+
+        let pct_watched = Math.round(total_watched / total_movies * 100);
+
+        moviesDiv.innerHTML += `<p class = "year-heading">${year_nominated[i]}<span class = 'year-watched'> - ${total_watched}/${total_movies} watched (${pct_watched}%)</span></p>`;
         moviesDiv.appendChild(year_div);
     }
 
@@ -74,33 +91,24 @@ async function renderMovies() {
         poster_div.classList.add("col-xl-2");
         poster_div.classList.add("p-1");
         poster_div.classList.add("poster")
-        poster_div.id = id;
-        poster_div.innerHTML = `<img src="${movie.poster_path}" class="img-fluid" ></img>`;
+        poster_div.id = id;        
 
-        document.getElementById(movie.nominated + "-movies").appendChild(poster_div)
+        document.getElementById(movie.nominated + "-movies").appendChild(poster_div);
 
         title_div = document.createElement("div");
         title_div.classList.add("poster-title");
         title_div.id = id + "-title";
-        title_div.innerHTML = `${movie.title} (${movie.released.slice(0, 4)})`;
-        title_div.style.display = "none";
+        if (movie.watched) {
+            title_div.innerHTML = "Watched";
+            poster_div.innerHTML = `<img src="${movie.poster_path}" class="img-fluid" ></img>`;
+        } else {
+            title_div.innerHTML = "Not watched";
+            title_div.classList.add("unwatched");
+            poster_div.innerHTML = `<img src="${movie.poster_path}" class="img-fluid unwatched" ></img>`;
+        }     
+
+
         poster_div.appendChild(title_div);
-
-        poster_div.onmouseover = function() {
-            document.getElementById(id + "-title").style.display = "flex";
-        }
-
-        poster_div.onmouseout = function() {
-            document.getElementById(id + "-title").style.display = "none";
-        }       
-
-        title_div.onmouseover = function () {
-            document.getElementById(id).getElementsByTagName("img")[0].style.filter = "opacity(30%)";
-        }
-
-        title_div.onmouseout = function () {
-            document.getElementById(id).getElementsByTagName("img")[0].removeAttribute("style");
-        }
 
         poster_div.onclick = function() {
 
@@ -136,7 +144,7 @@ async function renderMovies() {
             buttons.style.display = "none";
             showing.style.display = "none";
             sorting.style.display = "none";
-            sort_menu.style.display = "none";
+            // sort_menu.style.display = "none";
             filter_menu.style.display = "none";
             document.getElementById("movie-info").style.display = "flex";
 
