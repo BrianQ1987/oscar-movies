@@ -5807,7 +5807,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music", "History"],
     "imdb_score": "7.8/10",
@@ -10361,7 +10361,7 @@
     "released": "2022-11-23",
     "duration": 140,
     "imdb_id": "tt11564570",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
@@ -15323,7 +15323,7 @@
   "Memoir of a Snail": {
     "id": "1064486",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2025,
     "categories": "Best Animated Feature Film",
     "poster_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg",
@@ -20661,7 +20661,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24902,7 +24902,7 @@
       "Woody Harrelson": {
         "id": 57755,
         "character": "The Captain",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gaibtvUFIlwHzRvNKV5UfrR4GCM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
       },
       "Zlatko Burić": {
         "id": 31960,
