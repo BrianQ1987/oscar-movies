@@ -51,7 +51,7 @@ async function renderMovies() {
 
     current_year = Math.max(...year_nominated);
 
-    for (let i = 0; i < year_nominated.length; i ++) {
+    for (let i = year_nominated.length - 1; i >= 0; i --) {
         year_div = document.createElement("div");
         year_div.id = year_nominated[i] + "-movies";
         year_div.classList.add("row")
