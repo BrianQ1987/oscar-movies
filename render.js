@@ -293,7 +293,9 @@ async function renderMovies() {
 
             document.getElementById("info-plot").textContent = movie.overview;
 
-            
+            if (!Array.isArray(movie.genres)) {
+                movie.genres = [movie.genres]
+            }
                 
             if (movie.genres.length > 1) {
                 document.getElementById("genre-heading").innerHTML = "🎭 Genres";
