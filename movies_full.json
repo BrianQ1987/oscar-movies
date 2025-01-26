@@ -4923,7 +4923,7 @@
   "The Brutalist": {
     "id": "549509",
     "plex": false,
-    "watched": false,
+    "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
@@ -18535,7 +18535,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19282,7 +19282,7 @@
     "released": "2022-06-24",
     "duration": 115,
     "imdb_id": "tt9288046",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
     "genres": ["Animation", "Adventure", "Action", "Family", "Fantasy"],
     "imdb_score": "7.0/10",
@@ -25993,7 +25993,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26013,7 +26013,7 @@
       "Reece Shearsmith": {
         "id": 34551,
         "character": "Norbot (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tZmYqVKwIC5AUIiIXssZJAuUSrb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wYEQV27o0K2Ysc5efXRl5tTU3td.jpg"
       },
       "Diane Morgan": {
         "id": 1543364,
