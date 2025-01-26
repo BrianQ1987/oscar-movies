@@ -520,7 +520,7 @@
     "The Brutalist": {
         "id": "549509",
         "plex": false,
-        "watched": false,
+        "watched": true,
         "nominated": 2025,
         "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"]
     },
