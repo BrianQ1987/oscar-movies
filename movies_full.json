@@ -10231,7 +10231,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -19749,7 +19749,7 @@
       },
       "Clarence Maclin": {
         "id": 4178063,
-        "character": "Himself",
+        "character": "Clarence 'Divine Eye' Maclin",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1nRVnEo3fICl9yhRyemn8PgrJ4q.jpg"
       },
       "Sean San Jose": {
@@ -19764,78 +19764,33 @@
       },
       "David \"Dap\" Giraudy": {
         "id": 4583265,
-        "character": "Himself",
+        "character": "David 'Dap' Giraudy",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
       },
       "Patrick \"Preme\" Griffin": {
         "id": 4583266,
-        "character": "Himself",
+        "character": "Patrick 'Preme' Griffin",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
       },
       "Mosi Eagle": {
         "id": 4583267,
-        "character": "Himself",
+        "character": "Mosi Eagle",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
       },
       "James \"Big E\" Williams": {
         "id": 4583268,
-        "character": "Himself",
+        "character": "James 'Big E' Williams",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
       },
       "Sean Dino Johnson": {
         "id": 4287254,
-        "character": "Himself",
+        "character": "Sean 'Dino' Johnson",
         "profile_path": "https://image.tmdb.org/t/p/w1280/8R72xUztiV6K1ShPJVqUPumAjvk.jpg"
-      },
-      "Cornell \"Nate\" Alston": {
-        "id": 4583269,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-      },
-      "Camillo \"Carmine\" LoVacco": {
-        "id": 4583270,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-      },
-      "Dario Peña": {
-        "id": 4583271,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-      },
-      "Pedro Cotto": {
-        "id": 4583272,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-      },
-      "Miguel Valentin": {
-        "id": 4583273,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-      },
-      "Jon Adrian \"JJ\" Velazquez": {
-        "id": 4583274,
-        "character": "Blaze",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
-      },
-      "John Divine G Whitfield": {
-        "id": 4178065,
-        "character": "The Book Fan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hBNxb0i8KWjWoZcZegWzGHqqAiU.jpg"
-      },
-      "Sharon Washington": {
-        "id": 141748,
-        "character": "Social Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uUTYgfcmJUfz3cm7cEqiXlHPRAv.jpg"
-      },
-      "Johnny Simmons": {
-        "id": 27104,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg"
       },
       "Brent Buell": {
         "id": 4583275,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qjXz8iSiiL8xr5QcbWoqzKuWXFo.jpg"
       },
       "Michael Capra": {
         "id": 4583277,
@@ -19852,6 +19807,11 @@
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
       },
+      "Johnny Simmons": {
+        "id": 27104,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/51LZiAAI3ZW4vabNOQnd3weYgUm.jpg"
+      },
       "Katherine Vockins": {
         "id": 4583280,
         "character": "",
@@ -19861,6 +19821,46 @@
         "id": 4583281,
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "Sharon Washington": {
+        "id": 141748,
+        "character": "Social Worker",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uUTYgfcmJUfz3cm7cEqiXlHPRAv.jpg"
+      },
+      "Dario Peña": {
+        "id": 4583271,
+        "character": "Dario Peña",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "Miguel Valentin": {
+        "id": 4583273,
+        "character": "Miguel Valentin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "Jon Adrian \"JJ\" Velazquez": {
+        "id": 4583274,
+        "character": "Jon Adrian 'JJ' Velazquez",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "Pedro Cotto": {
+        "id": 4583272,
+        "character": "Pedro Cotto",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "Camillo \"Carmine\" LoVacco": {
+        "id": 4583270,
+        "character": "Camillo 'Carmine' LoVacco",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "Cornell \"Nate\" Alston": {
+        "id": 4583269,
+        "character": "Charlie",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
+      },
+      "John Divine G Whitfield": {
+        "id": 4178065,
+        "character": "The Book Fan",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/923IkblPanYe5xueobjfTz3MSvM.jpg"
       }
     }
   },
@@ -25993,7 +25993,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
