@@ -2129,7 +2129,7 @@
       "María Laura Cali": {
         "id": 1508184,
         "character": "Mujer Mayor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aRXgrvOvSIObtEOBmuoyyQKNUSQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
       },
       "María Colloca": {
         "id": 4255943,
@@ -5888,7 +5888,7 @@
       "Dan Fogler": {
         "id": 58873,
         "character": "Albert Grossman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w2YaXHeKewEseNCIMgBrLS4SttX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
       },
       "Reza Salazar": {
         "id": 1851163,
@@ -6293,7 +6293,7 @@
     "released": "2024-10-25",
     "duration": 120,
     "imdb_id": "tt20215234",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -10347,6 +10347,101 @@
         "id": 5091397,
         "character": "Juror",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Thomas Kirk": {
+        "id": 5205304,
+        "character": "Foreman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Per Thiim Thim": {
+        "id": 1711503,
+        "character": "Landlord Olaf Jensen",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Peter Secher Schmidt": {
+        "id": 1505796,
+        "character": "Prosecutor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hNbC2hycVe0XyujcqEcaaOAlgGs.jpg"
+      },
+      "Cordelia Majgaard": {
+        "id": 5205317,
+        "character": "Young Maid",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Tommy Wurtz Petersen": {
+        "id": 5205319,
+        "character": "Foreman in Surgar Factury",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Liv Vilde Christensen": {
+        "id": 4441152,
+        "character": "Girl with Baby",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Lizzielou Corfixen": {
+        "id": 3410657,
+        "character": "Frida's Sister",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Q4LuXRUIil5qGUJFneTUZaRCwR.jpg"
+      },
+      "Petrine Agger": {
+        "id": 135945,
+        "character": "Older Bath House Assistant",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wjzYZU9Gxj979MYeGpjwTZxGUzf.jpg"
+      },
+      "Ragnhild Kaasgaard": {
+        "id": 3319961,
+        "character": "Woman at Sugar Factory",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Clara Kokseby": {
+        "id": 1299307,
+        "character": "Respectful woman in Apt",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Tone Suvi Ellegaard Ebbe": {
+        "id": 5205331,
+        "character": "Respectful Woman's Daughter",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Jakob Højlev Jørgensen": {
+        "id": 1194835,
+        "character": "Doctor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oz8OY5ptfZkISyU9Q0SR724mda2.jpg"
+      },
+      "Jonas Mikkelsen": {
+        "id": 5205334,
+        "character": "Male Customer in Sweets Shop",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Hector Engelbrecht": {
+        "id": 5205335,
+        "character": "Newspaper Boy",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Torsten Sonne": {
+        "id": 5205336,
+        "character": "Orphange Director",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Birgitte Marianne Krogh": {
+        "id": 5205337,
+        "character": "Secretary in Sewing Factory",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Lasse Haastrup": {
+        "id": 5205339,
+        "character": "Police Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
+      },
+      "Anders Hove": {
+        "id": 1566,
+        "character": "Judge",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6UxfzFFh0T07sLQ33WgUUaV7tbJ.jpg"
+      },
+      "Helle Marianne Sommer": {
+        "id": 5205341,
+        "character": "Raging Woman in Court",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2xkyx8v9G3ePxe1IcFugFQkXHzQ.jpg"
       }
     }
   },
@@ -10950,7 +11045,7 @@
     "released": "2024-09-19",
     "duration": 137,
     "imdb_id": "tt14961016",
-    "vote_average": "8",
+    "vote_average": "7.9",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -15852,7 +15947,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "7.1",
+    "vote_average": "6.7",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -16581,7 +16676,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18535,7 +18630,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20661,7 +20756,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24456,7 +24551,7 @@
       "Lewis Pullman": {
         "id": 1700685,
         "character": "Lt. Robert 'Bob' Floyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/66kpxSuPKANxaAqjIyd7F0EuFdR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bar5VvioWtciX9MOfK88H4WDh2g.jpg"
       },
       "Jay Ellis": {
         "id": 151680,
@@ -24491,7 +24586,7 @@
       "Jennifer Connelly": {
         "id": 6161,
         "character": "Penny Benjamin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/opBts8lC3ZhK4BQwl8ztczehsFQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ybJnXzhHUZ5ipOmLLH41GLXVz0j.jpg"
       },
       "Jack Schumacher": {
         "id": 3563646,
@@ -25993,7 +26088,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -28826,6 +28921,16 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
+      },
+      "Will Bower": {
+        "id": 5205216,
+        "character": "Racist Munchkin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AGMPlJdAP0NSeR7wBrtSZEAw50.jpg"
+      },
+      "Cameron Roach": {
+        "id": 5205586,
+        "character": "Oz Goon",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t2Gm9sOLIyM5CSpCsrpcCZ3AyNT.jpg"
       }
     }
   },
