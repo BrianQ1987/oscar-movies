@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -10236,7 +10236,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -18359,7 +18359,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Wolf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5Vs0d8js1uJV0WDPwMFU3zO2n3m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -19606,25 +19606,25 @@
     "meta_score": "77/100",
     "director": "Tim Fehlbaum",
     "cast": {
-      "Peter Sarsgaard": {
-        "id": 133,
-        "character": "Roone Arledge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
-      },
       "John Magaro": {
         "id": 37154,
         "character": "Geoffrey Mason",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
       },
-      "Ben Chaplin": {
-        "id": 21343,
-        "character": "Marvin Bader",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8yMej4f9E4XKNAznMcF5pkGCNao.jpg"
-      },
       "Leonie Benesch": {
         "id": 119065,
         "character": "Marianne Gebhardt",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hIRRfgggHgz07HBLyEHVpCXldYX.jpg"
+      },
+      "Peter Sarsgaard": {
+        "id": 133,
+        "character": "Roone Arledge",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
+      },
+      "Ben Chaplin": {
+        "id": 21343,
+        "character": "Marvin Bader",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8yMej4f9E4XKNAznMcF5pkGCNao.jpg"
       },
       "Zinedine Soualem": {
         "id": 5445,
@@ -26093,7 +26093,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
