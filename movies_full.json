@@ -4931,7 +4931,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.1",
+    "vote_average": "4.9",
     "overview": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -5807,7 +5807,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.8/10",
@@ -6420,6 +6420,11 @@
         "id": 6786,
         "character": "Lowenstein",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3zvW4PZydHpDJqNbEJIPchuPkLh.jpg"
+      },
+      "Jackson Minton": {
+        "id": 4862300,
+        "character": "Freaky Cardinal",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
       }
     }
   },
@@ -8611,7 +8616,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "6.4/10",
@@ -11045,7 +11050,7 @@
     "released": "2024-09-19",
     "duration": 137,
     "imdb_id": "tt14961016",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -15947,7 +15952,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.7",
+    "vote_average": "6.5",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -16676,7 +16681,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18322,7 +18327,7 @@
     "watched": true,
     "nominated": 2023,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/aV1KGO9X3S4kzqEptVDAvGjccql.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
     "title": "Puss in Boots: The Last Wish",
     "released": "2022-12-07",
     "duration": 103,
@@ -18469,7 +18474,7 @@
       "Natalia Cronembold": {
         "id": 2008023,
         "character": "Waitress / Baker's Dozen Gang Member (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aV1KGO9X3S4kzqEptVDAvGjccql.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
       },
       "Paul Fisher": {
         "id": 934181,
@@ -18630,7 +18635,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19594,7 +19599,7 @@
     "duration": 95,
     "imdb_id": "tt28082769",
     "vote_average": "6.2",
-    "overview": "During the 1972 Summer Olympics in Munich, Germany, an American sports broadcasting team must adapt to live coverage the Israeli athletes being held hostage by a terrorist group.",
+    "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
     "rt_score": "92%",
@@ -28921,16 +28926,6 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
-      },
-      "Will Bower": {
-        "id": 5205216,
-        "character": "Racist Munchkin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AGMPlJdAP0NSeR7wBrtSZEAw50.jpg"
-      },
-      "Cameron Roach": {
-        "id": 5205586,
-        "character": "Oz Goon",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t2Gm9sOLIyM5CSpCsrpcCZ3AyNT.jpg"
       }
     }
   },
