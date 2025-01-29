@@ -4931,7 +4931,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "4.9",
+    "vote_average": "5",
     "overview": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -5807,7 +5807,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.8/10",
@@ -6288,7 +6288,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vYEyxF1UT779RiEalpMjUT6kfdf.jpg",
     "title": "Conclave",
     "released": "2024-10-25",
     "duration": 120,
@@ -6359,7 +6359,7 @@
       "Bruno Novelli": {
         "id": 4935617,
         "character": "Dead Pope",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vYEyxF1UT779RiEalpMjUT6kfdf.jpg"
       },
       "Rony Kramer": {
         "id": 95167,
@@ -6404,7 +6404,7 @@
       "Antonio Toma": {
         "id": 5087484,
         "character": "Jr. Cardinal-Deacon Guerrini",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vYEyxF1UT779RiEalpMjUT6kfdf.jpg"
       },
       "Balkissa Souley Maiga": {
         "id": 1762507,
@@ -6424,7 +6424,7 @@
       "Jackson Minton": {
         "id": 4862300,
         "character": "Freaky Cardinal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vYEyxF1UT779RiEalpMjUT6kfdf.jpg"
       }
     }
   },
@@ -8638,7 +8638,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/MtZ9pJrCcZ1ckxOZym7Jk1QNVB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i2a2Lxpl3ciVL94GcMK8aITEm4Y.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -12623,7 +12623,7 @@
       "Martin Scorsese": {
         "id": 1032,
         "character": "Radio Show Producer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/52dsh3ZXDgB6HPN5VqNBj3QOnjn.jpg"
       },
       "Marko Costanzo": {
         "id": 92376,
@@ -15952,7 +15952,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.5",
+    "vote_average": "6.2",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -16493,7 +16493,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18635,7 +18635,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19022,7 +19022,7 @@
       "Maxwell Whittington-Cooper": {
         "id": 2185197,
         "character": "John Lewis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kOFr6AFz2Hd0LufX2ySEUHxRBpc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oH1D5Ll0TSpm7UCZ7QpKkZjdwYy.jpg"
       },
       "Frank Harts": {
         "id": 946953,
@@ -20761,7 +20761,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
