@@ -947,7 +947,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1068,7 +1068,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1083,7 +1083,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1098,22 +1098,22 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
       },
       "Charlton Lamar": {
         "id": 3650583,
@@ -2202,7 +2202,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dcXVtI66VpW8vSRdfjNx2swnaWT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -4931,8 +4931,8 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5",
-    "overview": "Escaping post-war Europe, visionary architect László Tóth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
+    "vote_average": "5.1",
+    "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
     "rt_score": "93%",
@@ -4944,30 +4944,35 @@
         "character": "László Toth",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
       },
-      "Felicity Jones": {
-        "id": 72855,
-        "character": "Erzsébet Toth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
-      },
       "Guy Pearce": {
         "id": 529,
         "character": "Harrison Lee Van Buren",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
       },
-      "Joe Alwyn": {
-        "id": 1496392,
-        "character": "Harry Lee Van Buren",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qtpsreyKKo2hRco5FAXWoXa4tLt.jpg"
+      "Felicity Jones": {
+        "id": 72855,
+        "character": "Erzsébet Toth",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
         "character": "Zsófia",
         "profile_path": "https://image.tmdb.org/t/p/w1280/41ZCInpbMnATF3fuvYxJu44K1UW.jpg"
       },
+      "Joe Alwyn": {
+        "id": 1496392,
+        "character": "Harry Lee Van Buren",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qtpsreyKKo2hRco5FAXWoXa4tLt.jpg"
+      },
       "Stacy Martin": {
         "id": 1137823,
         "character": "Maggie Lee Van Buren",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2eRIvurxaDFKqC9BzAAiYhJp90Z.jpg"
+      },
+      "Alessandro Nivola": {
+        "id": 4941,
+        "character": "Attila",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6simAB2dFVjjaNqx2qhSBRQpfmA.jpg"
       },
       "Emma Laird": {
         "id": 2290611,
@@ -4979,30 +4984,25 @@
         "character": "Gordon",
         "profile_path": "https://image.tmdb.org/t/p/w1280/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
       },
-      "Alessandro Nivola": {
-        "id": 4941,
-        "character": "Attila",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6simAB2dFVjjaNqx2qhSBRQpfmA.jpg"
-      },
-      "Benett Vilmányi": {
-        "id": 1182361,
-        "character": "Binyamin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eqyD4srY6cLLpyTaX5tunrpbsVd.jpg"
-      },
-      "Michael Epp": {
-        "id": 1338019,
-        "character": "Jim Simpson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
+      "Peter Polycarpou": {
+        "id": 78019,
+        "character": "Hoffman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2lt53oJXRYt3FGzSvCbQmtVfLN2.jpg"
       },
       "Jonathan Hyde": {
         "id": 8537,
         "character": "Leslie",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iNLNW7tH8GRpCP9INLXGmwVU1hK.jpg"
       },
-      "Peter Polycarpou": {
-        "id": 78019,
-        "character": "Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2lt53oJXRYt3FGzSvCbQmtVfLN2.jpg"
+      "Michael Epp": {
+        "id": 1338019,
+        "character": "Jim Simpson",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
+      },
+      "Benett Vilmányi": {
+        "id": 1182361,
+        "character": "Binyamin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eqyD4srY6cLLpyTaX5tunrpbsVd.jpg"
       },
       "Salvatore Sansone": {
         "id": 68158,
@@ -5807,7 +5807,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.8/10",
@@ -6295,7 +6295,7 @@
     "imdb_id": "tt20215234",
     "vote_average": "7",
     "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
-    "genres": "Drama",
+    "genres": ["Drama", "Mystery", "Thriller"],
     "imdb_score": "7.4/10",
     "rt_score": "93%",
     "meta_score": "79/100",
@@ -10236,7 +10236,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -15431,7 +15431,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -16493,7 +16493,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17448,7 +17448,7 @@
       "Moon Seung-ah": {
         "id": 2309873,
         "character": "Young Nora",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bqnsM6Ecn89ZtYwzzL2DT9HgjjR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pMWmxsuKpOH7npeZNYCxJmZt993.jpg"
       },
       "Yim Seung-min": {
         "id": 3888559,
@@ -18760,7 +18760,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg",
     "title": "A Real Pain",
     "released": "2024-11-01",
     "duration": 90,
@@ -18816,12 +18816,12 @@
       "Jakub Gąsowski": {
         "id": 2070761,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
       },
       "Krzysztof Jaszczak": {
         "id": 4525253,
         "character": "Pianist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
       },
       "Piotr Czarniecki": {
         "id": 2309385,
@@ -18841,7 +18841,7 @@
       "Banner Eisenberg": {
         "id": 5060357,
         "character": "Abe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
       },
       "Jakub Pruski": {
         "id": 3435737,
@@ -19593,7 +19593,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.3",
+    "vote_average": "6.4",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
@@ -20826,7 +20826,7 @@
       "Amandla Stenberg": {
         "id": 561869,
         "character": "Margo Kess: Spider-Byte (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dGqTcwLVoVOqU6Ckp8igV3wD0CW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
       },
       "Jharrel Jerome": {
         "id": 1664716,
@@ -24551,7 +24551,7 @@
       "Lewis Pullman": {
         "id": 1700685,
         "character": "Lt. Robert 'Bob' Floyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bar5VvioWtciX9MOfK88H4WDh2g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jAo0Rxl9EYVxLnhUlBww5Uxl89v.jpg"
       },
       "Jay Ellis": {
         "id": 151680,
@@ -26088,7 +26088,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
