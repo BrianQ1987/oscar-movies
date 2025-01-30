@@ -1329,9 +1329,9 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
       },
       "Chris Owens": {
-        "id": 4794250,
+        "id": 158459,
         "character": "Jay Pritzker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hT55s8UvUyzqzaf4Y7bXQgbjiY7.jpg"
       },
       "Nabil Traboulsi": {
         "id": 3574122,
@@ -4931,7 +4931,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.1",
+    "vote_average": "5.2",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -4954,11 +4954,6 @@
         "character": "Erzsébet Toth",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
       },
-      "Raffey Cassidy": {
-        "id": 1055230,
-        "character": "Zsófia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/41ZCInpbMnATF3fuvYxJu44K1UW.jpg"
-      },
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee Van Buren",
@@ -4969,6 +4964,11 @@
         "character": "Maggie Lee Van Buren",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2eRIvurxaDFKqC9BzAAiYhJp90Z.jpg"
       },
+      "Raffey Cassidy": {
+        "id": 1055230,
+        "character": "Zsófia",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/41ZCInpbMnATF3fuvYxJu44K1UW.jpg"
+      },
       "Alessandro Nivola": {
         "id": 4941,
         "character": "Attila",
@@ -4977,22 +4977,27 @@
       "Emma Laird": {
         "id": 2290611,
         "character": "Audrey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lcsyb7KZUcg8LRBkiCJScYD2rYT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mFctZzV9Z6lXXn3TqSF7SqA7aVg.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
         "character": "Gordon",
         "profile_path": "https://image.tmdb.org/t/p/w1280/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
       },
-      "Peter Polycarpou": {
-        "id": 78019,
-        "character": "Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2lt53oJXRYt3FGzSvCbQmtVfLN2.jpg"
-      },
       "Jonathan Hyde": {
         "id": 8537,
-        "character": "Leslie",
+        "character": "Leslie Woodrow",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iNLNW7tH8GRpCP9INLXGmwVU1hK.jpg"
+      },
+      "Peter Polycarpou": {
+        "id": 78019,
+        "character": "Michael Hoffman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2lt53oJXRYt3FGzSvCbQmtVfLN2.jpg"
+      },
+      "Maria Sand": {
+        "id": 5213028,
+        "character": "Michelle Hoffman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Michael Epp": {
         "id": 1338019,
@@ -5011,13 +5016,28 @@
       },
       "Ariane Labed": {
         "id": 235125,
-        "character": "Zsófia in 1980",
+        "character": "Older Zsófia",
         "profile_path": "https://image.tmdb.org/t/p/w1280/78QyAml6N1HMuHudmrVlKnJfSQY.jpg"
+      },
+      "Charlie Esoko": {
+        "id": 5213030,
+        "character": "Young William",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+      },
+      "Zephan Amissah": {
+        "id": 2117381,
+        "character": "Teenage William",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nbsntoQm0hlDKiY7Gkf70m1X5Aa.jpg"
       },
       "Dóra Sztarenki": {
         "id": 1570490,
         "character": "Woman Dancing with László",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ocWOWcp5oRDgkeW3cnuZ5VFnPD.jpg"
+      },
+      "Levente Orbán": {
+        "id": 1827534,
+        "character": "Hungarian Refugee",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uhSixq3L1U2oIxCZlcnNYFh3FwQ.jpg"
       },
       "Anna Mészöly": {
         "id": 2592735,
@@ -5043,6 +5063,11 @@
         "id": 1390683,
         "character": "Border Officer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/15ZOE2tjKqM4Wd3cg5DqmPsGzEi.jpg"
+      },
+      "Daniel Washington": {
+        "id": 2298881,
+        "character": "HIAS Representative 1",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "András Borgula": {
         "id": 5015673,
@@ -5081,18 +5106,13 @@
       },
       "Peter Linka": {
         "id": 146123,
-        "character": "Townsperson",
+        "character": "Townsperson #1",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4AiCsFDtzRTaH4nKF5m8QWxKLD3.jpg"
       },
       "Robert Jackson": {
         "id": 2892343,
         "character": "Townsperson #2",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg"
-      },
-      "Levente Orbán": {
-        "id": 1827534,
-        "character": "Hungarian Refugee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uhSixq3L1U2oIxCZlcnNYFh3FwQ.jpg"
       }
     }
   },
@@ -8616,7 +8636,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "6.4/10",
@@ -13359,7 +13379,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Joel Wachs",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vrGyNcAW1Cuwkt1nyqAQQOOUQnv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
       },
       "Skyler Gisondo": {
         "id": 61263,
@@ -14798,7 +14818,7 @@
     "released": "2023-11-22",
     "duration": 129,
     "imdb_id": "tt5535276",
-    "vote_average": "6.4",
+    "vote_average": "6.3",
     "overview": "A towering and fearless love story chronicling the lifelong relationship between Leonard Bernstein and Felicia Montealegre Cohn Bernstein. A love letter to life and art, Maestro at its core is an emotionally epic portrayal of family and love.",
     "genres": ["Drama", "Romance", "Music"],
     "imdb_score": "6.5/10",
@@ -16944,7 +16964,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Edward Teller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vrGyNcAW1Cuwkt1nyqAQQOOUQnv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
       },
       "Jason Clarke": {
         "id": 76512,
@@ -18630,7 +18650,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26088,7 +26108,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
