@@ -590,7 +590,7 @@
     "The Apprentice": {
         "id": "1182047",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2025,
         "categories": ["Best Actor", "Best Supporting Actor"]
     },
