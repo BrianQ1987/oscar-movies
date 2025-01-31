@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -952,7 +952,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Romance", "Comedy", "Drama"],
     "imdb_score": "8.0/10",
@@ -1130,7 +1130,7 @@
   "The Apprentice": {
     "id": "1182047",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2025,
     "categories": ["Best Actor", "Best Supporting Actor"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg",
@@ -2252,7 +2252,7 @@
       "Jack Champion": {
         "id": 1895760,
         "character": "Miles 'Spider' Socorro",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aYY3C75ZwbQxGSSan9Uft4mGE9w.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8PXFKzhjFJ0oYP60Bj1kA44XBjY.jpg"
       },
       "Brendan Cowell": {
         "id": 129527,
@@ -10266,6 +10266,7 @@
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
     "rt_score": "91%",
+    "meta_score": "83/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Magnus von Horn",
@@ -16520,7 +16521,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18657,7 +18658,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18838,16 +18839,21 @@
       "Ellora Torchia": {
         "id": 1457454,
         "character": "Priya",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/81ei6es6IaZLFTMZO8UWsGN4k4M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nxeriYCpM1pkTaU0dif8yxCa1zx.jpg"
+      },
+      "Banner Eisenberg": {
+        "id": 5060357,
+        "character": "Abe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
+      },
+      "Olha Bosova": {
+        "id": 3452065,
+        "character": "Flight Attendant",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/noZaC88NYvgygwRDSd6UbR8bvb2.jpg"
       },
       "Jakub Gąsowski": {
         "id": 2070761,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
-      },
-      "Krzysztof Jaszczak": {
-        "id": 4525253,
-        "character": "Pianist",
         "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
       },
       "Piotr Czarniecki": {
@@ -18855,20 +18861,15 @@
         "character": "Conductor",
         "profile_path": "https://image.tmdb.org/t/p/w1280/B7dGokldokyEsnsWhiQPD6y1ry.jpg"
       },
+      "Krzysztof Jaszczak": {
+        "id": 4525253,
+        "character": "Pianist",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
+      },
       "Marek Kasprzyk": {
         "id": 937309,
         "character": "Older Man",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ilxGSlmeeqvhxsV61NNDQ1CkTu9.jpg"
-      },
-      "Olha Bosova": {
-        "id": 3452065,
-        "character": "Flight Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/noZaC88NYvgygwRDSd6UbR8bvb2.jpg"
-      },
-      "Banner Eisenberg": {
-        "id": 5060357,
-        "character": "Abe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg"
       },
       "Jakub Pruski": {
         "id": 3435737,
@@ -19859,9 +19860,9 @@
     "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
-    "imdb_score": "7.8/10",
+    "imdb_score": "7.7/10",
     "rt_score": "97%",
-    "meta_score": "84/100",
+    "meta_score": "83/100",
     "director": "Greg Kwedar",
     "cast": {
       "Colman Domingo": {
@@ -20002,6 +20003,7 @@
     "genres": ["Drama", "History"],
     "imdb_score": "7.8/10",
     "rt_score": "90%",
+    "meta_score": "72/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "J. A. Bayona",
@@ -26115,7 +26117,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29506,7 +29508,7 @@
     "released": "2023-12-15",
     "duration": 105,
     "imdb_id": "tt7160372",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
     "genres": ["Drama", "History", "War"],
     "imdb_score": "7.3/10",
