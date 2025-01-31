@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -968,12 +968,12 @@
       "Mark Eydelshteyn": {
         "id": 3051936,
         "character": "Ivan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zHUC7ZhiY2amy4vmCHM6KN4CMmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vlQh0PedEBjpNUIa0vdbWEQPV48.jpg"
       },
       "Yura Borisov": {
         "id": 1266686,
         "character": "Igor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gQDqoGxrhHxtuFyg2VmDCPjiyL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
       },
       "Karren Karagulian": {
         "id": 966306,
@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.2",
+    "vote_average": "5.3",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -5832,7 +5832,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.8/10",
@@ -8663,7 +8663,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i2a2Lxpl3ciVL94GcMK8aITEm4Y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kVcAIQPbpFlFwdeC3s09x26RHVE.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -10266,6 +10266,7 @@
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
     "rt_score": "91%",
+    "meta_score": "83/100",
     "director": "Magnus von Horn",
     "cast": {
       "Vic Carmen Sonne": {
@@ -16518,7 +16519,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18655,7 +18656,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19857,9 +19858,9 @@
     "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
-    "imdb_score": "7.8/10",
+    "imdb_score": "7.7/10",
     "rt_score": "97%",
-    "meta_score": "84/100",
+    "meta_score": "83/100",
     "director": "Greg Kwedar",
     "cast": {
       "Colman Domingo": {
@@ -20000,6 +20001,7 @@
     "genres": ["Drama", "History"],
     "imdb_score": "7.8/10",
     "rt_score": "90%",
+    "meta_score": "72/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "J. A. Bayona",
@@ -20781,7 +20783,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
