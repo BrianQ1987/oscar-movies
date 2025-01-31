@@ -947,7 +947,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1068,7 +1068,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1083,7 +1083,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1098,22 +1098,22 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Charlton Lamar": {
         "id": 3650583,
@@ -10252,7 +10252,7 @@
   },
   "The Girl with the Needle": {
     "id": "1232827",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2025,
     "categories": "Best International Feature Film",
@@ -10266,7 +10266,8 @@
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
     "rt_score": "91%",
-    "meta_score": "83/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Magnus von Horn",
     "cast": {
       "Vic Carmen Sonne": {
@@ -16519,7 +16520,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16707,7 +16708,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19858,9 +19859,9 @@
     "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
-    "imdb_score": "7.7/10",
+    "imdb_score": "7.8/10",
     "rt_score": "97%",
-    "meta_score": "83/100",
+    "meta_score": "84/100",
     "director": "Greg Kwedar",
     "cast": {
       "Colman Domingo": {
@@ -20001,7 +20002,6 @@
     "genres": ["Drama", "History"],
     "imdb_score": "7.8/10",
     "rt_score": "90%",
-    "meta_score": "72/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "J. A. Bayona",
@@ -24563,7 +24563,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
       },
       "Miles Teller": {
         "id": 996701,
