@@ -973,7 +973,7 @@
       "Yura Borisov": {
         "id": 1266686,
         "character": "Igor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gQDqoGxrhHxtuFyg2VmDCPjiyL.jpg"
       },
       "Karren Karagulian": {
         "id": 966306,
@@ -4436,6 +4436,11 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
+      },
+      "Leonardo Castro Sitiriche": {
+        "id": 1620122,
+        "character": "Hacienda Owner",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9jCxbPPEavfykG2O0ZNIhmkAKLm.jpg"
       }
     }
   },
@@ -4944,15 +4949,15 @@
         "character": "László Toth",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
       },
-      "Guy Pearce": {
-        "id": 529,
-        "character": "Harrison Lee Van Buren",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
-      },
       "Felicity Jones": {
         "id": 72855,
         "character": "Erzsébet Toth",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
+      },
+      "Guy Pearce": {
+        "id": 529,
+        "character": "Harrison Lee Van Buren",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
       },
       "Joe Alwyn": {
         "id": 1496392,
@@ -13904,7 +13909,7 @@
       "Austin Anderson": {
         "id": 1323379,
         "character": "Fat Bernie's Waterbed Customer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ei8ZGQ1toi2PdUJuptvPmoaSJDR.jpg"
       },
       "William Angarola": {
         "id": 4188449,
@@ -18650,7 +18655,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19613,7 +19618,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.4",
+    "vote_average": "6.5",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
@@ -20776,7 +20781,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26108,7 +26113,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
