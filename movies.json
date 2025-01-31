@@ -645,7 +645,7 @@
     },
     "The Girl with the Needle": {
         "id": "1232827",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best International Feature Film"]
