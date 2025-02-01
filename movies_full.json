@@ -4931,12 +4931,12 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.3",
+    "vote_average": "5.4",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -5002,7 +5002,7 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg"
       },
       "Michael Epp": {
         "id": 1338019,
@@ -5027,7 +5027,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg"
       },
       "Zephan Amissah": {
         "id": 2117381,
@@ -5072,17 +5072,17 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg"
       },
       "Dávid Puskás": {
         "id": 5017078,
         "character": "Hired Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg"
       },
       "Jeremy Wheeler": {
         "id": 1493396,
@@ -5107,7 +5107,7 @@
       "Stephen Saracco": {
         "id": 3575676,
         "character": "Construction Supervisor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuKb7dsBkQJJYEuvScMER9WonBH.jpg"
       },
       "Peter Linka": {
         "id": 146123,
@@ -10266,7 +10266,6 @@
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
     "rt_score": "91%",
-    "meta_score": "83/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Magnus von Horn",
@@ -19860,9 +19859,9 @@
     "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
-    "imdb_score": "7.7/10",
+    "imdb_score": "7.8/10",
     "rt_score": "97%",
-    "meta_score": "83/100",
+    "meta_score": "84/100",
     "director": "Greg Kwedar",
     "cast": {
       "Colman Domingo": {
@@ -20003,7 +20002,6 @@
     "genres": ["Drama", "History"],
     "imdb_score": "7.8/10",
     "rt_score": "90%",
-    "meta_score": "72/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "J. A. Bayona",
