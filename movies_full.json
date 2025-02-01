@@ -8641,7 +8641,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "6.4/10",
@@ -12881,8 +12881,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -16520,7 +16520,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16708,7 +16708,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19620,7 +19620,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
@@ -20783,7 +20783,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26115,7 +26115,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
