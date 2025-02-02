@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.5",
+    "vote_average": "5.6",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -6318,7 +6318,7 @@
     "released": "2024-10-25",
     "duration": 120,
     "imdb_id": "tt20215234",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
     "genres": ["Drama", "Mystery", "Thriller"],
     "imdb_score": "7.4/10",
@@ -6445,11 +6445,6 @@
         "id": 6786,
         "character": "Lowenstein",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3zvW4PZydHpDJqNbEJIPchuPkLh.jpg"
-      },
-      "Jackson Minton": {
-        "id": 4862300,
-        "character": "Freaky Cardinal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vYEyxF1UT779RiEalpMjUT6kfdf.jpg"
       }
     }
   },
@@ -7507,7 +7502,7 @@
     "released": "2024-02-27",
     "duration": 167,
     "imdb_id": "tt15239678",
-    "vote_average": "8.2",
+    "vote_average": "8.1",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.5/10",
@@ -18658,7 +18653,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19538,12 +19533,12 @@
     "watched": false,
     "nominated": 2025,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/d6chGhHP6vzo2VJPivLvZuwnq7j.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg",
     "title": "The Seed of the Sacred Fig",
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -19586,27 +19581,27 @@
       "Shiva Ordooie": {
         "id": 2505349,
         "character": "Fatemeh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d6chGhHP6vzo2VJPivLvZuwnq7j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Amineh Mazrouie Arani": {
         "id": 4277062,
         "character": "Woman in the Car",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d6chGhHP6vzo2VJPivLvZuwnq7j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Mohammad Kamal Alavi": {
         "id": 2051924,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d6chGhHP6vzo2VJPivLvZuwnq7j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Parisa Mohyedini": {
         "id": 5200017,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d6chGhHP6vzo2VJPivLvZuwnq7j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Barat Azimi": {
         "id": 5200018,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d6chGhHP6vzo2VJPivLvZuwnq7j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       }
     }
   },
@@ -24635,7 +24630,7 @@
       "Greg Tarzan Davis": {
         "id": 2080646,
         "character": "Lt. Javy 'Coyote' Machado",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eN1KOOV3HQSYA58WjQKY05ruoGw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mRWnRkEeV9lRICrz7DF0wpWxW47.jpg"
       },
       "Jake Picking": {
         "id": 1456280,
