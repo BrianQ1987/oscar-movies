@@ -954,7 +954,7 @@
     "imdb_id": "tt28607951",
     "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
-    "genres": ["Romance", "Comedy", "Drama"],
+    "genres": ["Drama", "Comedy", "Romance", "Adventure"],
     "imdb_score": "7.8/10",
     "rt_score": "94%",
     "meta_score": "91/100",
@@ -1306,7 +1306,7 @@
       "Tom Barnett": {
         "id": 133335,
         "character": "Rupert Murdoch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hjTo1gEMrmjIys8t7Wgee3yogFT.jpg"
       },
       "Jason Blicker": {
         "id": 44169,
@@ -2477,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -3790,8 +3790,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "86%",
     "meta_score": "75/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Kenneth Branagh",
     "cast": {
       "Jude Hill": {
@@ -4861,7 +4861,7 @@
       "Masaki Suda": {
         "id": 585211,
         "character": "Gray Heron (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dYSUOemkmEfwDY2zIMNf2CaXr4q.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/g7gXu0bE9jZ5LHjSqn1zHdNtiA1.jpg"
       },
       "Ko Shibasaki": {
         "id": 58593,
@@ -11071,7 +11071,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg",
     "title": "I'm Still Here",
     "released": "2024-09-19",
-    "duration": 137,
+    "duration": 138,
     "imdb_id": "tt14961016",
     "vote_average": "7.8",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
@@ -16516,7 +16516,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19556,7 +19556,7 @@
       "Soheila Golestani": {
         "id": 1574748,
         "character": "Najmeh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/68cY4IE0tZQub2ScIpQQ0rpVWKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lBoGDXEEInw4z0nHwdqT4xDXqBb.jpg"
       },
       "Mahsa Rostami": {
         "id": 4710576,
@@ -25834,7 +25834,7 @@
       "FINNEAS": {
         "id": 1396403,
         "character": "Jesse (4*Town) (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/51ykLxoGsLnseUUdSU3xWt4Mad8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zgkOG8QslbDiEqocTmuaimtruMs.jpg"
       },
       "Topher Ngo": {
         "id": 3313617,
@@ -26112,7 +26112,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
