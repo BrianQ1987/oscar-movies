@@ -604,7 +604,7 @@
     "September 5": {
         "id": "1211472",
         "plex": false,
-        "watched": false,
+        "watched": true,
         "nominated": 2025,
         "categories": ["Best Original Screenplay"]
     },
