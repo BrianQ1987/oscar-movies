@@ -947,14 +947,14 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
     "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
-    "genres": ["Drama", "Comedy", "Romance", "Adventure"],
+    "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.8/10",
     "rt_score": "94%",
     "meta_score": "91/100",
@@ -1068,7 +1068,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1083,7 +1083,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1098,22 +1098,22 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJEAPirevZZyCdHO4DuYtvTtmtU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Charlton Lamar": {
         "id": 3650583,
@@ -2711,7 +2711,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Mattel CEO",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xYPM1OOLXZguj4FsgmOzTSUXaXd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vL1QjMdMtuM2f8fQZzei6WAvicZ.jpg"
       },
       "Connor Swindells": {
         "id": 2112439,
@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.7",
+    "vote_average": "5.8",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -10256,7 +10256,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -15975,7 +15975,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -16516,7 +16516,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16556,7 +16556,7 @@
       "Indya Moore": {
         "id": 1789788,
         "character": "Alamzapam Davis (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kW3BI0LFgePZCVKE5Xyl239vMbm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uIRHpgbj9DfjMksigXmi497xRqU.jpg"
       },
       "Julio Torres": {
         "id": 1659144,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17892,7 +17892,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLDwNORVWCc2mbCmxGKT0EeOpt1.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -20780,7 +20780,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21341,7 +21341,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLDwNORVWCc2mbCmxGKT0EeOpt1.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
@@ -21401,7 +21401,7 @@
       "Akil Wingate": {
         "id": 2144020,
         "character": "TV Host",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4fUMoe4WlT8QcZBRUufTDYargVm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qTKfqogEfAib9T4F7k8Zrtbz1yQ.jpg"
       },
       "Vincent Colombe": {
         "id": 1607019,
@@ -26112,7 +26112,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
