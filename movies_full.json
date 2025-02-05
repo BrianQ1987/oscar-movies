@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -2477,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -10256,7 +10256,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -13522,7 +13522,7 @@
       "Louis Delavenne": {
         "id": 1738122,
         "character": "Rive Gauche Waiter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3iuejVpjqd3yAKWLBUu52ooNwoQ.jpg"
       },
       "Rogelio Camarillo": {
         "id": 1759243,
@@ -16516,7 +16516,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19608,7 +19608,7 @@
   "September 5": {
     "id": "1211472",
     "plex": false,
-    "watched": false,
+    "watched": true,
     "nominated": 2025,
     "categories": "Best Original Screenplay",
     "poster_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
@@ -19616,7 +19616,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
@@ -20780,7 +20780,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26112,7 +26112,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
