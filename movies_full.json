@@ -2477,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -2596,7 +2596,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8WC12YJltY2H0TdRs9f4Uu8T6Sx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.8",
+    "vote_average": "5.9",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
@@ -16516,7 +16516,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17576,7 +17576,7 @@
       "Chase Sui Wonders": {
         "id": 2420169,
         "character": "Girl (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wpb52nv8X4jKbrSEd42EXELlEAs.jpg"
       },
       "Isaac Powell": {
         "id": 2564137,
@@ -18653,7 +18653,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19400,7 +19400,7 @@
     "released": "2022-06-24",
     "duration": 115,
     "imdb_id": "tt9288046",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
     "genres": ["Animation", "Adventure", "Action", "Family", "Fantasy"],
     "imdb_score": "7.0/10",
@@ -19533,7 +19533,7 @@
     "watched": false,
     "nominated": 2025,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
     "title": "The Seed of the Sacred Fig",
     "released": "2024-09-18",
     "duration": 167,
@@ -19581,27 +19581,27 @@
       "Shiva Ordooie": {
         "id": 2505349,
         "character": "Fatemeh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
       },
       "Amineh Mazrouie Arani": {
         "id": 4277062,
         "character": "Woman in the Car",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
       },
       "Mohammad Kamal Alavi": {
         "id": 2051924,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
       },
       "Parisa Mohyedini": {
         "id": 5200017,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
       },
       "Barat Azimi": {
         "id": 5200018,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
       }
     }
   },
@@ -19616,7 +19616,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
