@@ -4939,14 +4939,14 @@
     "vote_average": "5.8",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
-    "imdb_score": "8.1/10",
+    "imdb_score": "8.0/10",
     "rt_score": "93%",
-    "meta_score": "91/100",
+    "meta_score": "90/100",
     "director": "Brady Corbet",
     "cast": {
       "Adrien Brody": {
         "id": 3490,
-        "character": "László Toth",
+        "character": "László Tóth",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
       },
       "Felicity Jones": {
@@ -5835,9 +5835,9 @@
     "vote_average": "7.3",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
-    "imdb_score": "7.8/10",
+    "imdb_score": "7.7/10",
     "rt_score": "77%",
-    "meta_score": "73/100",
+    "meta_score": "70/100",
     "director": "James Mangold",
     "cast": {
       "Timothée Chalamet": {
@@ -15975,7 +15975,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.4",
+    "vote_average": "6.5",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -18523,8 +18523,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -19400,7 +19400,7 @@
     "released": "2022-06-24",
     "duration": 115,
     "imdb_id": "tt9288046",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
     "genres": ["Animation", "Adventure", "Action", "Family", "Fantasy"],
     "imdb_score": "7.0/10",
@@ -26112,7 +26112,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -28945,6 +28945,11 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
+      },
+      "Kellen Goff": {
+        "id": 1807446,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3HWEo27RznochUzqPYsffYPzC8A.jpg"
       }
     }
   },
