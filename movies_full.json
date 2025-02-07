@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -963,7 +963,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gyiw7fAsqVYYrfRbYxwLfaJSOR7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mYvxBOIUmAUjEZqHXBok1rc8eIC.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -2477,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "5.9",
+    "vote_average": "6",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
@@ -5079,11 +5079,6 @@
         "character": "HIAS Representative 2",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
       },
-      "Dávid Puskás": {
-        "id": 5017078,
-        "character": "Hired Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
-      },
       "Jeremy Wheeler": {
         "id": 1493396,
         "character": "Party Guest",
@@ -5118,6 +5113,11 @@
         "id": 2892343,
         "character": "Townsperson #2",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg"
+      },
+      "David Puskas": {
+        "id": 3767547,
+        "character": "Hired Man",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lHgHZF5GjGBLPOAOnGK9eUgRLnW.jpg"
       }
     }
   },
@@ -5853,7 +5853,7 @@
       "Elle Fanning": {
         "id": 18050,
         "character": "Sylvie Russo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fP47sExdo4l1jrbh9jycr5fG6TG.jpg"
       },
       "Monica Barbaro": {
         "id": 1525043,
@@ -10256,7 +10256,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -15088,7 +15088,7 @@
       "Alexa Swinton": {
         "id": 2380384,
         "character": "Nina Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tSmHfRNqZNqBGH1FD43C1SYL3W4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3uQX8HbT897AqG3EFlTjw0xwIJo.jpg"
       },
       "Mike Mitarotondo": {
         "id": 4479664,
@@ -15975,7 +15975,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -16516,7 +16516,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -26112,7 +26112,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -28966,7 +28966,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.4",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Action", "Science Fiction", "Family"],
+    "genres": ["Animation", "Science Fiction", "Family"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
