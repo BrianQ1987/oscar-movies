@@ -15088,7 +15088,7 @@
       "Alexa Swinton": {
         "id": 2380384,
         "character": "Nina Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9dsrUoXs76D6WiTP1mA3Y3sstrH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tSmHfRNqZNqBGH1FD43C1SYL3W4.jpg"
       },
       "Mike Mitarotondo": {
         "id": 4479664,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -16947,7 +16947,7 @@
       "Josh Hartnett": {
         "id": 2299,
         "character": "Ernest Lawrence",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dCfu2EN7FjISACcjilaJu7evwEc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8nTEioiir92fGHcASarPxkjF6kG.jpg"
       },
       "Casey Affleck": {
         "id": 1893,
@@ -19413,7 +19413,7 @@
       "Karl Urban": {
         "id": 1372,
         "character": "Jacob Holland (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bsAnEFgVm5kn8DbBZKfnlLNll89.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/noh94S1b6t8JIEBC1KMdoh3DPB3.jpg"
       },
       "Zaris-Angel Hator": {
         "id": 2127280,
@@ -19616,7 +19616,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.7",
+    "vote_average": "6.9",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
