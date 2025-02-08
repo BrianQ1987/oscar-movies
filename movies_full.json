@@ -2477,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -7560,7 +7560,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7JAUieStGsHZAy6ed2WuFy4CJjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zpK2YnIWQedh9pVfNw0zbBpJkoR.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -16521,7 +16521,7 @@
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2Tlg632tAkfZNlnoF8CV8F9Pf63.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r35jAHpb2IYuyyVWBleubyJjehk.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17350,7 +17350,7 @@
       "Penélope Cruz": {
         "id": 955,
         "character": "Janis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5tk7ncwbDxxH3v5jH6YRa5OmpAn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2Lbc8QXgHik1D1saPqQ5qEWwUEh.jpg"
       },
       "Milena Smit": {
         "id": 2560224,
@@ -19616,7 +19616,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.9",
+    "vote_average": "6.7",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Drama", "Thriller", "History"],
     "imdb_score": "7.1/10",
