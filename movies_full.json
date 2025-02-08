@@ -1140,7 +1140,7 @@
     "imdb_id": "tt8368368",
     "vote_average": "6.9",
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
-    "genres": ["Drama", "History"],
+    "genres": ["History", "Drama"],
     "imdb_score": "7.1/10",
     "rt_score": "82%",
     "meta_score": "64/100",
@@ -2477,7 +2477,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -8658,7 +8658,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kVcAIQPbpFlFwdeC3s09x26RHVE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/MtZ9pJrCcZ1ckxOZym7Jk1QNVB.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -16516,7 +16516,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16704,7 +16704,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20780,7 +20780,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26112,7 +26112,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26930,15 +26930,20 @@
         "character": "Young Mary (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qfQI1DytVev66JqX0BcVlU1oTIb.jpg"
       },
-      "Wilhelm Schalaudek": {
-        "id": 3948074,
-        "character": "Liam (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wWhYBZgCPcgoWhJfrkXRW1bn7AI.jpg"
-      },
       "Lance Oppenheim": {
         "id": 1405665,
         "character": "Julian (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/h12zgCaZ24imkZlw0nry9T9mjGD.jpg"
+      },
+      "Grace Perkins": {
+        "id": 5233055,
+        "character": "Maddie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg"
+      },
+      "Wilhelm Schalaudek": {
+        "id": 3948074,
+        "character": "Liam (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wWhYBZgCPcgoWhJfrkXRW1bn7AI.jpg"
       }
     }
   },
@@ -28945,11 +28950,6 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
-      },
-      "Kellen Goff": {
-        "id": 1807446,
-        "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3HWEo27RznochUzqPYsffYPzC8A.jpg"
       }
     }
   },
