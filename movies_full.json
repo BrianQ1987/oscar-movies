@@ -622,7 +622,7 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/hCmPjQiy6Muwp6mLZQbyPXydxlA.jpg"
       },
       "Jason Armani Martinez": {
-        "id": 3924025,
+        "id": 2559042,
         "character": "Nursing Home Orderly",
         "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
       },
@@ -4843,7 +4843,7 @@
     "released": "2023-07-14",
     "duration": 124,
     "imdb_id": "tt6587046",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama"],
     "imdb_score": "7.4/10",
@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "6.6",
+    "vote_average": "6.7",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
@@ -5836,7 +5836,7 @@
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
-    "rt_score": "77%",
+    "rt_score": "80%",
     "meta_score": "70/100",
     "director": "James Mangold",
     "cast": {
@@ -10266,7 +10266,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -15098,7 +15098,7 @@
       "Alexa Swinton": {
         "id": 2380384,
         "character": "Nina Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rHJrQ9DzAl5AacmnA1dYpXGiY78.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u1HwY8UYV0ZofGVz2hdH5ouvLkq.jpg"
       },
       "Mike Mitarotondo": {
         "id": 4479664,
@@ -15464,7 +15464,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -16526,7 +16526,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16714,7 +16714,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17601,7 +17601,7 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
     "title": "Perfect Days",
     "released": "2023-11-10",
     "duration": 124,
@@ -17659,7 +17659,7 @@
       "Miyako Tanaka": {
         "id": 4500897,
         "character": "Old Lady with Brush",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Ron Mizuma": {
         "id": 2212955,
@@ -17674,22 +17674,22 @@
       "Aoi Iwasaki": {
         "id": 4500899,
         "character": "Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Kisuke Shimazaki": {
         "id": 4500901,
         "character": "Lost Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Yuriko Kawasaki": {
         "id": 1962646,
         "character": "Mother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Aki Kobayashi": {
         "id": 4500902,
         "character": "Baby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Bunmei Harada": {
         "id": 3365720,
@@ -17729,7 +17729,7 @@
       "Makiko Okamoto": {
         "id": 4500906,
         "character": "Old Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Daigo Matsui": {
         "id": 1080183,
@@ -17754,7 +17754,7 @@
       "Naoko Ken": {
         "id": 1057560,
         "character": "Cat Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Mijika Nagai": {
         "id": 2062205,
@@ -17769,17 +17769,17 @@
       "Isao Matsui": {
         "id": 1999004,
         "character": "Old Local",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Aoi Yoshida": {
         "id": 3213323,
         "character": "Dera-Chan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Motoyuki Shibata": {
         "id": 4753651,
         "character": "DPE Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Inuko Inuyama": {
         "id": 936287,
@@ -17799,12 +17799,12 @@
       "Nijika Tonouchi": {
         "id": 4500916,
         "character": "High School Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Yasushi Okuwa": {
         "id": 4219995,
         "character": "Keiko's Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Hairi Katagiri": {
         "id": 123862,
@@ -18798,7 +18798,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.2/10",
@@ -18824,7 +18824,7 @@
       "Jennifer Grey": {
         "id": 722,
         "character": "Marcia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dY8mECHnrLvr4UQr61Ym78cakoA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wxEmUKB5gQSrKyrOosIvZ7sh5VU.jpg"
       },
       "Kurt Egyiawan": {
         "id": 1526130,
@@ -20784,13 +20784,13 @@
     "released": "2023-05-31",
     "duration": 140,
     "imdb_id": "tt9362722",
-    "vote_average": "8.4",
+    "vote_average": "8.3",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -27134,7 +27134,7 @@
       "Hattie Ryan": {
         "id": 5152474,
         "character": "Curious Munchkin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s0JRAgx9GzrmbjgG6Y7zdN2Pjcx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tZ5jRJDcPjuU1b5uc4SlTBzf3vx.jpg"
       },
       "Kirsty Anne Shaw": {
         "id": 4850927,
