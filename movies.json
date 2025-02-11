@@ -561,7 +561,7 @@
     },
     "Nickel Boys": {
         "id": "1028196",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best Picture", "Best Adapted Screenplay"]
