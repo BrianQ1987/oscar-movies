@@ -4936,7 +4936,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
@@ -6521,7 +6521,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eVydQeeFRtWb54jp5rC6CnD01Wn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -15800,7 +15800,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eeDOWWvCKkYSnOXXfR2ugsRv97M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dD5TawNhgcchH1nODcbBpRXoHjl.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -15978,8 +15978,9 @@
     "vote_average": "6.9",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
-    "imdb_score": "7.6/10",
+    "imdb_score": "7.4/10",
     "rt_score": "90%",
+    "meta_score": "91/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "RaMell Ross",
@@ -16518,7 +16519,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16706,7 +16707,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20782,7 +20783,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26114,7 +26115,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26976,7 +26977,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eVydQeeFRtWb54jp5rC6CnD01Wn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
       },
       "Jeff Goldblum": {
         "id": 4785,
