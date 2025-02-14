@@ -6304,21 +6304,6 @@
         "id": 5113257,
         "character": "Cab Driver (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
-      },
-      "John F. Kennedy": {
-        "id": 21111,
-        "character": "Self (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/59L7ESQn3PCui8bVluY7H5Qu9Fv.jpg"
-      },
-      "Walter Cronkite": {
-        "id": 83786,
-        "character": "Self (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hCIBybvwP7aMqwJFxcmVEyNrRyB.jpg"
-      },
-      "Bette Davis": {
-        "id": 3380,
-        "character": "Charlotte Vale (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uBRNCljWHEG9cW9em2ZyoGWQQN5.jpg"
       }
     }
   },
@@ -7575,7 +7560,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zpK2YnIWQedh9pVfNw0zbBpJkoR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bAIvEBxYfENqgqbxz0Gz5C2Zh2b.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -10271,7 +10256,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History", "Thriller"],
     "imdb_score": "7.3/10",
@@ -11120,25 +11105,25 @@
         "character": "Eliana Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3bB3tiUeBdCvhUlDSXo5uv4qvfe.jpg"
       },
-      "Guilherme Silveira": {
-        "id": 4505876,
-        "character": "Marcelo Rubens Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
-      },
       "Bárbara Luz": {
         "id": 1901533,
         "character": "Ana Lúcia \"Nalu\" Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
       },
-      "Pri Helena": {
-        "id": 1735633,
-        "character": "Zezé",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
+      "Guilherme Silveira": {
+        "id": 4505876,
+        "character": "Marcelo Rubens Paiva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
       },
       "Cora Ramalho": {
         "id": 4505877,
         "character": "Babiu Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+      },
+      "Pri Helena": {
+        "id": 1735633,
+        "character": "Zezé",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
       },
       "Dan Stulbach": {
         "id": 550453,
@@ -14803,7 +14788,7 @@
         "character": "Maggiore (Cop) (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/8Kti1mECLgP1QYmkSiDl3EOsCxE.jpg"
       },
-      "Jonathan Nichols": {
+      "Jonathan Nichols-Navarro": {
         "id": 1443802,
         "character": "Priest (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fbX4KkFBhKjDsvlsMUrsJO5tBka.jpg"
@@ -15815,7 +15800,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rbCAZX5EyJgRyHK2Gn3IzKNkI7X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eeDOWWvCKkYSnOXXfR2ugsRv97M.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -17909,7 +17894,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pSRCcDQBibsr6wb3FlKmEvh7zen.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -18132,7 +18117,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg",
     "title": "The Power of the Dog",
     "released": "2021-10-25",
-    "duration": 126,
+    "duration": 127,
     "imdb_id": "tt10293406",
     "vote_average": "6.8",
     "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
@@ -19555,7 +19540,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -20797,7 +20782,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21358,7 +21343,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pSRCcDQBibsr6wb3FlKmEvh7zen.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
