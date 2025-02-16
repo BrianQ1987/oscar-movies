@@ -6118,7 +6118,7 @@
       "Irina Chelidze": {
         "id": 2992502,
         "character": "Girl In Crowd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5tQYnwYrvr7XhYY7JZYLo7MYIVN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8fM2g5F6OC1fQeBwBLoLL9emX6J.jpg"
       },
       "Jenna Veal": {
         "id": 5148621,
@@ -7162,8 +7162,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ryūsuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -7502,7 +7502,7 @@
     "released": "2024-02-27",
     "duration": 167,
     "imdb_id": "tt15239678",
-    "vote_average": "8.1",
+    "vote_average": "8.2",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.5/10",
@@ -9106,7 +9106,7 @@
       "Isabelle Huppert": {
         "id": 17882,
         "character": "The Countess",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pVF6MODn0Lpfx1WMdNPSoOOeWXP.jpg"
       },
       "Lorenzo Zurzolo": {
         "id": 1526594,
@@ -16707,7 +16707,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17599,7 +17599,7 @@
     "released": "2023-11-10",
     "duration": 124,
     "imdb_id": "tt27503384",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Hirayama is content with his life as a toilet cleaner in Tokyo. Outside of his structured routine, he cherishes music on cassette tapes, books, and taking photos of trees. Through unexpected encounters, he reflects on finding beauty in the world.",
     "genres": "Drama",
     "imdb_score": "7.9/10",
@@ -17612,7 +17612,7 @@
       "Koji Yakusho": {
         "id": 18056,
         "character": "Hirayama",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
       },
       "Tokio Emoto": {
         "id": 1015822,
@@ -19023,7 +19023,7 @@
       "Ayana Workman": {
         "id": 1994104,
         "character": "Eleanor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z4hGZUjDOlEJrGMGi9X2nJEGfu8.jpg"
       },
       "Grantham Coleman": {
         "id": 1666985,
@@ -21344,7 +21344,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iLDwNORVWCc2mbCmxGKT0EeOpt1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
@@ -25026,6 +25026,11 @@
         "character": "The Captain",
         "profile_path": "https://image.tmdb.org/t/p/w1280/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
       },
+      "Dolly de Leon": {
+        "id": 1513304,
+        "character": "Abigail",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uoSUx7tgIDFvhXk90lCMDpu4Cy9.jpg"
+      },
       "Zlatko Burić": {
         "id": 31960,
         "character": "Dimitry",
@@ -25035,11 +25040,6 @@
         "id": 84241,
         "character": "Paula",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6IBTHHoufClaMJiPbTox5SWZvbM.jpg"
-      },
-      "Dolly de Leon": {
-        "id": 1513304,
-        "character": "Abigail",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uoSUx7tgIDFvhXk90lCMDpu4Cy9.jpg"
       },
       "Henrik Dorsin": {
         "id": 225636,
