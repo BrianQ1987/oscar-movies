@@ -16707,7 +16707,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17895,7 +17895,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iLDwNORVWCc2mbCmxGKT0EeOpt1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -18656,7 +18656,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19541,7 +19541,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -19855,7 +19855,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -20783,7 +20783,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26115,7 +26115,7 @@
     "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29284,14 +29284,14 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "90/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
     "cast": {
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/CoWdGzUzMSDe5lo98EH2AsP1Sq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
