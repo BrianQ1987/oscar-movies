@@ -4936,7 +4936,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
     "duration": 215,
@@ -4945,7 +4945,7 @@
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
-    "rt_score": "93%",
+    "rt_score": "94%",
     "meta_score": "90/100",
     "director": "Brady Corbet",
     "cast": {
@@ -5007,7 +5007,7 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
       },
       "Michael Epp": {
         "id": 1338019,
@@ -5022,7 +5022,7 @@
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hfLT7NssUnh1jVhCAZnrSAMorAw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hm2gbkIO6weYHbDNqkm3COgFMtF.jpg"
       },
       "Ariane Labed": {
         "id": 235125,
@@ -5032,7 +5032,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
       },
       "Zephan Amissah": {
         "id": 2117381,
@@ -5077,12 +5077,12 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
       },
       "Jeremy Wheeler": {
         "id": 1493396,
@@ -5102,12 +5102,12 @@
       "Natalie Shinnick": {
         "id": 2903584,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xliiRh8hooB7Ij5PXywojIK5Z8m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7g7eTdjc8u0rVdL9FLsWtrEsJBv.jpg"
       },
       "Stephen Saracco": {
         "id": 3575676,
         "character": "Construction Supervisor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
       },
       "Peter Linka": {
         "id": 146123,
@@ -11078,7 +11078,7 @@
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -11641,6 +11641,7 @@
     "genres": ["Adventure", "Drama"],
     "imdb_score": "7.6/10",
     "rt_score": "96%",
+    "meta_score": "79/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Matteo Garrone",
@@ -16712,7 +16713,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18796,7 +18797,7 @@
     "released": "2024-11-01",
     "duration": 89,
     "imdb_id": "tt21823606",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.2/10",
@@ -26115,9 +26116,9 @@
     "vote_average": "7.6",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Comedy", "Family", "Adventure"],
-    "imdb_score": "7.9/10",
+    "imdb_score": "7.6/10",
     "rt_score": "100%",
-    "meta_score": "82/100",
+    "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": ["Nick Park", "Merlin Crossingham"],
