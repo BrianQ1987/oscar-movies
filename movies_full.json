@@ -16,8 +16,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "95%",
     "meta_score": "95/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Charlotte Wells",
     "cast": {
       "Paul Mescal": {
@@ -952,7 +952,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.8/10",
@@ -1326,7 +1326,7 @@
       "Jaclyn Vogl": {
         "id": 2464779,
         "character": "Model",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4nJBJ14AfN73F2nEsh8gkBWqi9a.jpg"
       },
       "Benny Shilling": {
         "id": 4794248,
@@ -1596,7 +1596,7 @@
       "Miles Carney": {
         "id": 3600822,
         "character": "Orgy Guy #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wl7zWJdTEiAOw1dl8ZsI3zqOsi6.jpg"
       },
       "David Yee": {
         "id": 4794403,
@@ -4120,7 +4120,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4vXkRCbrquoP5Lrb4px7tubDLMC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kfcn0yyEdN2aJfVaxW0NIoKVF4J.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -11078,7 +11078,7 @@
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
-    "vote_average": "7.8",
+    "vote_average": "7.9",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -19626,7 +19626,7 @@
     "imdb_id": "tt28082769",
     "vote_average": "6.9",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
-    "genres": ["Drama", "Thriller", "History"],
+    "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
     "rt_score": "92%",
     "meta_score": "77/100",
