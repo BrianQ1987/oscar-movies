@@ -3804,20 +3804,20 @@
         "character": "Buddy",
         "profile_path": "https://image.tmdb.org/t/p/w1280/yAcW6qaqQVok6UpfPb1D9dPBFbK.jpg"
       },
-      "Lewis McAskie": {
-        "id": 3065081,
-        "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gjv5cnI14X3PbhGQzJdc8yJmRCX.jpg"
+      "Jamie Dornan": {
+        "id": 1254583,
+        "character": "Pa",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dPCjxgq4YsqkcZ3fsE84Ifq0Wxv.jpg"
       },
       "Caitríona Balfe": {
         "id": 147056,
         "character": "Ma",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4KQRDj74lKwU52Ewmzz7sVIakgn.jpg"
       },
-      "Jamie Dornan": {
-        "id": 1254583,
-        "character": "Pa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dPCjxgq4YsqkcZ3fsE84Ifq0Wxv.jpg"
+      "Lewis McAskie": {
+        "id": 3065081,
+        "character": "Will",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gjv5cnI14X3PbhGQzJdc8yJmRCX.jpg"
       },
       "Judi Dench": {
         "id": 5309,
@@ -3829,15 +3829,15 @@
         "character": "Pop",
         "profile_path": "https://image.tmdb.org/t/p/w1280/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
       },
-      "Colin Morgan": {
-        "id": 228866,
-        "character": "Billy Clanton",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jeSLhhfUIZR3UQGGhtYTk0J2I5.jpg"
-      },
       "Lara McDonnell": {
         "id": 1726976,
         "character": "Moira",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qm5WAiX5YU6KoWMn5Ts4vW8eddo.jpg"
+      },
+      "Colin Morgan": {
+        "id": 228866,
+        "character": "Billy Clanton",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jeSLhhfUIZR3UQGGhtYTk0J2I5.jpg"
       },
       "Gerard Horan": {
         "id": 56101,
@@ -4945,7 +4945,7 @@
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
-    "rt_score": "94%",
+    "rt_score": "93%",
     "meta_score": "90/100",
     "director": "Brady Corbet",
     "cast": {
@@ -5022,7 +5022,7 @@
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hm2gbkIO6weYHbDNqkm3COgFMtF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uEygVMvDjgTz9N3sgJbn9auaNIA.jpg"
       },
       "Ariane Labed": {
         "id": 235125,
@@ -15460,7 +15460,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -15981,7 +15981,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.7",
+    "vote_average": "6.6",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -16525,7 +16525,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18411,7 +18411,7 @@
       "John Mulaney": {
         "id": 933558,
         "character": "Jack Horner (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nYa0D4nwtw95p4G9WzkmEoIM1NA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nhILXEgHuFtFcv46LjcikKOLbwn.jpg"
       },
       "Da'Vine Joy Randolph": {
         "id": 1180099,
@@ -18797,7 +18797,7 @@
     "released": "2024-11-01",
     "duration": 89,
     "imdb_id": "tt21823606",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.2/10",
@@ -19625,7 +19625,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
@@ -26116,9 +26116,9 @@
     "vote_average": "7.6",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Comedy", "Family", "Adventure"],
-    "imdb_score": "7.6/10",
+    "imdb_score": "7.9/10",
     "rt_score": "100%",
-    "meta_score": "83/100",
+    "meta_score": "82/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": ["Nick Park", "Merlin Crossingham"],
