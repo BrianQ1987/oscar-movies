@@ -3454,7 +3454,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zjdybHeNvp4DFbRd97Jo2ZLakwX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -4934,7 +4934,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 215,
+    "duration": 201,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
@@ -4956,38 +4956,48 @@
       },
       "Guy Pearce": {
         "id": 529,
-        "character": "Harrison Lee Van Buren",
+        "character": "Harrison Lee Van Buren Sr.",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
       },
       "Joe Alwyn": {
         "id": 1496392,
-        "character": "Harry Lee Van Buren",
+        "character": "Harry Lee",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qtpsreyKKo2hRco5FAXWoXa4tLt.jpg"
-      },
-      "Stacy Martin": {
-        "id": 1137823,
-        "character": "Maggie Lee Van Buren",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2eRIvurxaDFKqC9BzAAiYhJp90Z.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
-        "character": "Zsófia / Zsófia's Young Adult Daughter",
+        "character": "Zsófia",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5BJCaQHaNDWL9y6Mfa3NHQf3lno.jpg"
+      },
+      "Stacy Martin": {
+        "id": 1137823,
+        "character": "Maggie Lee",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2eRIvurxaDFKqC9BzAAiYhJp90Z.jpg"
+      },
+      "Isaach de Bankolé": {
+        "id": 4812,
+        "character": "Gordon",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
       },
       "Alessandro Nivola": {
         "id": 4941,
         "character": "Attila",
         "profile_path": "https://image.tmdb.org/t/p/w1280/53wfpjSwPTMwhfuOSdgGgojMI8m.jpg"
       },
+      "Ariane Labed": {
+        "id": 235125,
+        "character": "Older Zsófia",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/78QyAml6N1HMuHudmrVlKnJfSQY.jpg"
+      },
+      "Michael Epp": {
+        "id": 1338019,
+        "character": "Jim Simpson",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
+      },
       "Emma Laird": {
         "id": 2290611,
         "character": "Audrey",
         "profile_path": "https://image.tmdb.org/t/p/w1280/mFctZzV9Z6lXXn3TqSF7SqA7aVg.jpg"
-      },
-      "Isaach de Bankolé": {
-        "id": 4812,
-        "character": "Gordon",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aGjABQBgTA3tduuh54hzWx0aQ44.jpg"
       },
       "Jonathan Hyde": {
         "id": 8537,
@@ -5004,29 +5014,9 @@
         "character": "Michelle Hoffman",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
-      "Michael Epp": {
-        "id": 1338019,
-        "character": "Jim Simpson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3Nz3sX7QISm5e6mWNvJDKUD2Qyd.jpg"
-      },
-      "Benett Vilmányi": {
-        "id": 1182361,
-        "character": "Binyamin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eqyD4srY6cLLpyTaX5tunrpbsVd.jpg"
-      },
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
-      },
-      "Ariane Labed": {
-        "id": 235125,
-        "character": "Older Zsófia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/78QyAml6N1HMuHudmrVlKnJfSQY.jpg"
-      },
-      "Charlie Esoko": {
-        "id": 5213030,
-        "character": "Young William",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Zephan Amissah": {
@@ -5034,40 +5024,30 @@
         "character": "Teenage William",
         "profile_path": "https://image.tmdb.org/t/p/w1280/nbsntoQm0hlDKiY7Gkf70m1X5Aa.jpg"
       },
-      "Dóra Sztarenki": {
-        "id": 1570490,
-        "character": "Woman Dancing with László",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ocWOWcp5oRDgkeW3cnuZ5VFnPD.jpg"
+      "Charlie Esoko": {
+        "id": 5213030,
+        "character": "Young William",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Levente Orbán": {
         "id": 1827534,
         "character": "Hungarian Refugee",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uhSixq3L1U2oIxCZlcnNYFh3FwQ.jpg"
       },
-      "Anna Mészöly": {
-        "id": 2592735,
-        "character": "Prostitute 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uXqFAMRheLuNX4Jdtt7icjPqIpM.jpg"
+      "Benett Vilmányi": {
+        "id": 1182361,
+        "character": "Binyamin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eqyD4srY6cLLpyTaX5tunrpbsVd.jpg"
+      },
+      "Peter Deutsch": {
+        "id": 5259108,
+        "character": "Habbi Zuniz",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Abigél Szőke": {
         "id": 2295856,
         "character": "Nun",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fEpcKS60CLwCDyei4xfO3Tx74E9.jpg"
-      },
-      "Mariann Hermányi": {
-        "id": 3270774,
-        "character": "Servant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yvzk4xb681pwfgtXjeVC7pkkHA8.jpg"
-      },
-      "Hermina Fátyol": {
-        "id": 1307637,
-        "character": "Madame",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62pyayAqMVxl467i3sgrNKkicvn.jpg"
-      },
-      "Zsolt Páll": {
-        "id": 1390683,
-        "character": "Border Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/15ZOE2tjKqM4Wd3cg5DqmPsGzEi.jpg"
       },
       "Daniel Washington": {
         "id": 2298881,
@@ -5079,45 +5059,75 @@
         "character": "HIAS Representative 2",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
+      "Zsolt Páll": {
+        "id": 1390683,
+        "character": "Border Officer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/15ZOE2tjKqM4Wd3cg5DqmPsGzEi.jpg"
+      },
+      "Anna Mészöly": {
+        "id": 2592735,
+        "character": "Prostitute 1",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/70OqFRPCz7GOG1f8gbnn0HWcJjX.jpg"
+      },
+      "Mariann Hermányi": {
+        "id": 3270774,
+        "character": "Servant",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yvzk4xb681pwfgtXjeVC7pkkHA8.jpg"
+      },
+      "Nicholas Wittman": {
+        "id": 1700678,
+        "character": "Volunteer at Church",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx5qk9u45rsJdwqeuLvavfq2cat.jpg"
+      },
+      "Robert Jackson": {
+        "id": 2892343,
+        "character": "Townsperson 1",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg"
+      },
+      "Peter Linka": {
+        "id": 146123,
+        "character": "Townsperson 2",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4AiCsFDtzRTaH4nKF5m8QWxKLD3.jpg"
+      },
       "Jeremy Wheeler": {
         "id": 1493396,
         "character": "Party Guest",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qysjgXM9zSuaoqT6JGKzbVqCqH.jpg"
-      },
-      "Jaymes Butler": {
-        "id": 74225,
-        "character": "Bar Manager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i22INNLIiq0h3W26UwdcLed1O4N.jpg"
-      },
-      "Matt Devere": {
-        "id": 25445,
-        "character": "Mayor Kinney",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5rgHPFJ028clroKVryimQWfQxUY.jpg"
-      },
-      "Natalie Shinnick": {
-        "id": 2903584,
-        "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7g7eTdjc8u0rVdL9FLsWtrEsJBv.jpg"
       },
       "Stephen Saracco": {
         "id": 3575676,
         "character": "Construction Supervisor",
         "profile_path": "https://image.tmdb.org/t/p/w1280/u43jtHQ70hozFOSkdXuRPyhz7FJ.jpg"
       },
-      "Peter Linka": {
-        "id": 146123,
-        "character": "Townsperson #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4AiCsFDtzRTaH4nKF5m8QWxKLD3.jpg"
-      },
-      "Robert Jackson": {
-        "id": 2892343,
-        "character": "Townsperson #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jGAL898QmnnXXkjeYhSE0WIFW4T.jpg"
+      "Jaymes Butler": {
+        "id": 74225,
+        "character": "Bar Manager",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i22INNLIiq0h3W26UwdcLed1O4N.jpg"
       },
       "David Puskas": {
         "id": 3767547,
         "character": "Hired Man",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lHgHZF5GjGBLPOAOnGK9eUgRLnW.jpg"
+      },
+      "Laurent Winkler": {
+        "id": 2448697,
+        "character": "Guest",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aDkXTEVtVMmMNxnDZv1e7xUtAo1.jpg"
+      },
+      "Hermina Fátyol": {
+        "id": 1307637,
+        "character": "Madame",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/62pyayAqMVxl467i3sgrNKkicvn.jpg"
+      },
+      "Dóra Sztarenki": {
+        "id": 1570490,
+        "character": "Woman Dancing with László",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ocWOWcp5oRDgkeW3cnuZ5VFnPD.jpg"
+      },
+      "Natalie Shinnick": {
+        "id": 2903584,
+        "character": "Receptionist",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7g7eTdjc8u0rVdL9FLsWtrEsJBv.jpg"
       }
     }
   },
@@ -8638,7 +8648,7 @@
       "Karla Sofía Gascón": {
         "id": 1505938,
         "character": "Emilia Pérez / Manitas del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kD1HfsMqALsge15QY8PxL3de2t4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
       },
       "Zoe Saldaña": {
         "id": 8691,
@@ -11058,7 +11068,7 @@
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "In the early 1970s, the military dictatorship in Brazil reaches its height. The Paiva family - Rubens, Eunice, and their five children - live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -14023,7 +14033,7 @@
       "Kimiko Kasai": {
         "id": 2425245,
         "character": "Tail o' the Cock Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bOmpic3NC4BZuHaW3TGXMJ71oNn.jpg"
       },
       "Richard Rudolph": {
         "id": 1536514,
@@ -16490,7 +16500,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16678,7 +16688,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17565,7 +17575,7 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
     "title": "Perfect Days",
     "released": "2023-11-10",
     "duration": 124,
@@ -17623,7 +17633,7 @@
       "Miyako Tanaka": {
         "id": 4500897,
         "character": "Old Lady with Brush",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Ron Mizuma": {
         "id": 2212955,
@@ -17638,22 +17648,22 @@
       "Aoi Iwasaki": {
         "id": 4500899,
         "character": "Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Kisuke Shimazaki": {
         "id": 4500901,
         "character": "Lost Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Yuriko Kawasaki": {
         "id": 1962646,
         "character": "Mother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Aki Kobayashi": {
         "id": 4500902,
         "character": "Baby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Bunmei Harada": {
         "id": 3365720,
@@ -17693,7 +17703,7 @@
       "Makiko Okamoto": {
         "id": 4500906,
         "character": "Old Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Daigo Matsui": {
         "id": 1080183,
@@ -17718,7 +17728,7 @@
       "Naoko Ken": {
         "id": 1057560,
         "character": "Cat Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Mijika Nagai": {
         "id": 2062205,
@@ -17733,17 +17743,17 @@
       "Isao Matsui": {
         "id": 1999004,
         "character": "Old Local",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Aoi Yoshida": {
         "id": 3213323,
         "character": "Dera-Chan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Motoyuki Shibata": {
         "id": 4753651,
         "character": "DPE Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Inuko Inuyama": {
         "id": 936287,
@@ -17763,12 +17773,12 @@
       "Nijika Tonouchi": {
         "id": 4500916,
         "character": "High School Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Yasushi Okuwa": {
         "id": 4219995,
         "character": "Keiko's Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
       },
       "Hairi Katagiri": {
         "id": 123862,
@@ -19590,7 +19600,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
@@ -20603,7 +20613,7 @@
       "Sally Hawkins": {
         "id": 39658,
         "character": "Maggie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1dtDq82dM2YQ17lBL4ZKPJo5LKw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/osYgwtQIiNbPFc8JkFDxreBgqxZ.jpg"
       },
       "James Harkness": {
         "id": 1774532,
@@ -26998,7 +27008,7 @@
       "Bronwyn James": {
         "id": 1587577,
         "character": "Shenshen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gr9ulGhrIKfydAvaxaJqLzYzaMJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rtJOTh0rz2K4RgWpU8iuAjODebm.jpg"
       },
       "Aaron Teoh": {
         "id": 3636639,
