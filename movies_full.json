@@ -4931,10 +4931,10 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 214,
+    "duration": 215,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
@@ -5012,12 +5012,12 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Zephan Amissah": {
         "id": 2117381,
@@ -5027,7 +5027,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Levente Orbán": {
         "id": 1827534,
@@ -5042,7 +5042,7 @@
       "Peter Deutsch": {
         "id": 5259108,
         "character": "Habbi Zuniz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Abigél Szőke": {
         "id": 2295856,
@@ -5052,12 +5052,12 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0dyZlvVQml1KgQpJQbA5osr5c8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
       },
       "Zsolt Páll": {
         "id": 1390683,
@@ -8636,7 +8636,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "6.4/10",
@@ -15976,7 +15976,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -21330,7 +21330,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLDwNORVWCc2mbCmxGKT0EeOpt1.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
