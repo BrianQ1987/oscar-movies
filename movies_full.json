@@ -599,7 +599,7 @@
       "Adam Brody": {
         "id": 11702,
         "character": "Wiley Valdespino",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2JT47vNEinUv3TZMpDCElzGakcR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2iKOiwAXR1cgPVFHOGpNTpVyVvC.jpg"
       },
       "Justin Andrew Phillips": {
         "id": 3540394,
@@ -7488,6 +7488,56 @@
         "id": 53934,
         "character": "Bene Gesserit Ancestor (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cvf1pX4t6ZzDPsRi9J2xGrGj78c.jpg"
+      },
+      "Károly Baksai": {
+        "id": 3778751,
+        "character": "Atreides Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+      },
+      "Björn Freiberg": {
+        "id": 1509617,
+        "character": "Leto Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlombW8NqDM9nQg4n4TIZaZ6Nvg.jpg"
+      },
+      "Balázs Megyeri": {
+        "id": 2254898,
+        "character": "Sardaukar Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iSrppoQQV9XF5tBKTBllAAn8Xmm.jpg"
+      },
+      "Michael Nardone": {
+        "id": 175154,
+        "character": "Gurney Sergeant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gdgKIHFT5gssY9R1vDWXTkDFU5C.jpg"
+      },
+      "Duncan Pow": {
+        "id": 1264237,
+        "character": "Hawat Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sRXFbRCHuvKdeV8RZX7fQwjcuf0.jpg"
+      },
+      "Ferenc Iván Szabó": {
+        "id": 2534393,
+        "character": "Leto Officer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9DHdIp0BSb2acAcWUewhzdweHQK.jpg"
+      },
+      "Elemér Szatmári": {
+        "id": 3413793,
+        "character": "Harkonnen Medic (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+      },
+      "Laszlo Szilagyi": {
+        "id": 5266016,
+        "character": "Sardaukar Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+      },
+      "Peter Sztojanov, Jr.": {
+        "id": 2372075,
+        "character": "Sardaukar Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eEYPxNBdxUV7iWzQ87ATZoQqWou.jpg"
+      },
+      "István Áldott": {
+        "id": 3499887,
+        "character": "Sardaukar Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fkhQh4uxq5RjS4ylHi2ILansEff.jpg"
       }
     }
   },
@@ -8002,7 +8052,7 @@
         "character": "Alia Atreides (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
       },
-      "Peter Sztojanov Jr.": {
+      "Peter Sztojanov, Jr.": {
         "id": 2372075,
         "character": "Emperor's Elite Sardaukar (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/eEYPxNBdxUV7iWzQ87ATZoQqWou.jpg"
@@ -15455,7 +15505,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -19605,7 +19655,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
@@ -19841,7 +19891,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -20769,7 +20819,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26101,7 +26151,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
