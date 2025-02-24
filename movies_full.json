@@ -952,7 +952,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.8/10",
@@ -4931,7 +4931,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
     "duration": 215,
@@ -5012,12 +5012,12 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
       },
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
       },
       "Zephan Amissah": {
         "id": 2117381,
@@ -5027,7 +5027,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
       },
       "Levente Orbán": {
         "id": 1827534,
@@ -5042,7 +5042,7 @@
       "Peter Deutsch": {
         "id": 5259108,
         "character": "Habbi Zuniz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
       },
       "Abigél Szőke": {
         "id": 2295856,
@@ -5052,12 +5052,12 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zGsBZKyUTXgNSkqAfgoCb4Bz0FK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tjVO6MwV3JWOl2QOzZfVOjBRLa.jpg"
       },
       "Zsolt Páll": {
         "id": 1390683,
@@ -10255,7 +10255,7 @@
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.3/10",
-    "rt_score": "91%",
+    "rt_score": "93%",
     "meta_score": "83/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -10483,7 +10483,7 @@
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
-    "rt_score": "91%",
+    "rt_score": "92%",
     "meta_score": "81/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
@@ -16693,7 +16693,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18391,7 +18391,7 @@
       "John Mulaney": {
         "id": 933558,
         "character": "Jack Horner (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nhILXEgHuFtFcv46LjcikKOLbwn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
       },
       "Da'Vine Joy Randolph": {
         "id": 1180099,
@@ -18642,7 +18642,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18777,7 +18777,7 @@
     "released": "2024-11-01",
     "duration": 89,
     "imdb_id": "tt21823606",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.2/10",
@@ -26101,7 +26101,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
