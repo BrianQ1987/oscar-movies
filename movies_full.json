@@ -4379,10 +4379,10 @@
         "character": "Young Namor",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4ao1ogN1f80ig1HIZGy5ylWIXUT.jpg"
       },
-      "Leonardo Castro": {
-        "id": 3320451,
+      "Leonardo Castro Sitiriche": {
+        "id": 1620122,
         "character": "Hacienda Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9jCxbPPEavfykG2O0ZNIhmkAKLm.jpg"
       },
       "Juan Carlos Cantu": {
         "id": 168147,
@@ -4438,11 +4438,6 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
-      },
-      "Leonardo Castro Sitiriche": {
-        "id": 1620122,
-        "character": "Hacienda Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9jCxbPPEavfykG2O0ZNIhmkAKLm.jpg"
       }
     }
   },
@@ -4933,12 +4928,12 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life, his work, and his marriage to his wife Erzsébet after being forced apart during wartime by shifting borders and regimes. On his own in a strange new country, László settles in Pennsylvania, where the wealthy and prominent industrialist Harrison Lee Van Buren recognizes his talent for building. But power and legacy come at a heavy cost.",
     "genres": "Drama",
     "imdb_score": "8.0/10",
@@ -5014,12 +5009,12 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
       },
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
       },
       "Zephan Amissah": {
         "id": 2117381,
@@ -5029,7 +5024,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
       },
       "Levente Orbán": {
         "id": 1827534,
@@ -5044,7 +5039,7 @@
       "Peter Deutsch": {
         "id": 5259108,
         "character": "Habbi Zuniz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
       },
       "Abigél Szőke": {
         "id": 2295856,
@@ -5054,12 +5049,12 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tcWp5CsnZnNyUXk28JcXy7XlSmw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
       },
       "Zsolt Páll": {
         "id": 1390683,
@@ -5844,7 +5839,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
@@ -8220,7 +8215,7 @@
         "character": "Vernon Presley",
         "profile_path": "https://image.tmdb.org/t/p/w1280/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
       },
-      "Kelvin Harrison Jr.": {
+      "Kelvin Harrison, Jr.": {
         "id": 1344361,
         "character": "B.B. King",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6kpDyaZzmSbqCNYuXZUfeMwS1bq.jpg"
@@ -8278,7 +8273,7 @@
       "Alton Mason": {
         "id": 2953700,
         "character": "Little Richard",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4WuqtBtXniEHO398JDmWFEaVAtP.jpg"
       },
       "Shonka Dukureh": {
         "id": 3430991,
@@ -8288,7 +8283,7 @@
       "David Gannon": {
         "id": 2534418,
         "character": "Charlie Hodge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gxCKECuzS85gxeE457ZFMzaLYB2.jpg"
       },
       "Shannon Sanders": {
         "id": 3866155,
@@ -8348,9 +8343,9 @@
       "Senayt Mebrahtu": {
         "id": 3866164,
         "character": "Sweet Inspiratons - Estelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hnr64DgBSckyIAXqAtdKe2Rn316.jpg"
       },
-      "Mariama Princess Andrews": {
+      "Princess Mariama Andrews": {
         "id": 3866167,
         "character": "Sweet Inspiratons - Cissy",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -8358,7 +8353,7 @@
       "Sharon Brooks": {
         "id": 3866173,
         "character": "Sweet Inspiratons - Sylvia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jaYXI3ePkhiGwCVAUj88l5I3obB.jpg"
       },
       "Nicholas Bell": {
         "id": 15340,
@@ -8378,9 +8373,9 @@
       "Cle Morgan": {
         "id": 3644673,
         "character": "Mahalia Jackson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ai3docGLMQZSfI6tdvhrOp1DChG.jpg"
       },
-      "Charles D. Allen": {
+      "Charles Allen": {
         "id": 1457509,
         "character": "Reverend Brewster",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gVPFtWlef1tgT78t03MYMXXkB6J.jpg"
@@ -8393,7 +8388,7 @@
       "Liz Blackett": {
         "id": 3866182,
         "character": "Grandma Dodger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kXUmoFb0F3Igpfg2HfalNuCxBuG.jpg"
       },
       "Mike Bingaman": {
         "id": 2129508,
@@ -8453,7 +8448,7 @@
       "Terepai Richmond": {
         "id": 3866203,
         "character": "DJ Fontana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8nKVty5NrwheaCBijV6NtUoYdTB.jpg"
       },
       "Alex Knight": {
         "id": 3866204,
@@ -8483,7 +8478,7 @@
       "Luke Corrin Care": {
         "id": 3866210,
         "character": "Aladdin Croupier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3fR2L8onj5Vgq9GmQfGnbQmt8Hp.jpg"
       },
       "Jack McGirr": {
         "id": 2014143,
@@ -8503,12 +8498,12 @@
       "Ruby Gonzales-Judd": {
         "id": 3866213,
         "character": "Girl (Russwood)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k3xFQ4WV50o8Mw8OMhDfXlh6jF.jpg"
       },
       "Greg Powell": {
         "id": 3644675,
         "character": "Milton Berle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nqZj6R3DQXHoS95GzGyrvbJxHTW.jpg"
       },
       "Patrick Shearer": {
         "id": 2969831,
@@ -8540,7 +8535,7 @@
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
-      "Gary Hale": {
+      "Gary Haile": {
         "id": 3866220,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -8565,7 +8560,7 @@
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
-      "Stephen R. Ladson": {
+      "Stephen Ladson": {
         "id": 3866227,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -8603,19 +8598,19 @@
       "Robert Randolph": {
         "id": 1318593,
         "character": "Pentecostal Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j4BNsLTBFKg9q159rI3CR27MXsc.jpg"
       },
       "Calvin Settles II": {
         "id": 3866234,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
-      "Calvin V. Settles Sr.": {
+      "Calvin V. Settles, Sr.": {
         "id": 3866235,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
-      "Ira Wayne Settles Sr.": {
+      "Ira Wayne Settles, Sr.": {
         "id": 3866236,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
@@ -8648,7 +8643,7 @@
       "Cameron Keith Walls": {
         "id": 3866242,
         "character": "Pentecostal Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c7Eu74YSHrqwfaWbwrJ3nFC7oYo.jpg"
       },
       "Andrea Baker": {
         "id": 3866243,
@@ -8674,6 +8669,611 @@
         "id": 3533052,
         "character": "US Navy Sailor (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uptrPKs066PrPNHxxkD0JZDe5yQ.jpg"
+      },
+      "Alex Radu": {
+        "id": 2621971,
+        "character": "George Klein",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a4y1QtBc5llnTuTNwbx7gxcr6M7.jpg"
+      },
+      "Jordan Abbey-Young": {
+        "id": 2078521,
+        "character": "Disgruntled Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4hgYLguwL2K7IbiOyPCCyFK9pdE.jpg"
+      },
+      "Ant Aggs": {
+        "id": 5268705,
+        "character": "Glen Hardin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Cam Alexander": {
+        "id": 5268706,
+        "character": "Soldier (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Odion Alofokai": {
+        "id": 5268708,
+        "character": "Choir Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Tim Appleton": {
+        "id": 3115121,
+        "character": "NBC Special Audience Member / Vegas Concertgoer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sFb2yXk4lvKI2dpA0Wbt9ZSeYRb.jpg"
+      },
+      "Brenton Ashe": {
+        "id": 5234880,
+        "character": "Hotel Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Renarta Azzopardi": {
+        "id": 5268716,
+        "character": "'68 Comeback Show Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Connor Barton": {
+        "id": 4136235,
+        "character": "Chef (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aPEAUrz9DfU7gAGUSr0wXBWIkWg.jpg"
+      },
+      "Ruby Bell": {
+        "id": 5268720,
+        "character": "Russwood Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Lexy Bernardo": {
+        "id": 5268721,
+        "character": "Beale St. Pedestrian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Thomas Bishop": {
+        "id": 5268725,
+        "character": "Eastland Colleague / NBC Special Audience Member / Vegas Concertgoer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uqE5YFJ7xyT5fuZPy9gS6iU8XDW.jpg"
+      },
+      "Renee Bowen": {
+        "id": 2248716,
+        "character": "Dancer / Faller (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Jessica Bowles": {
+        "id": 2725235,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qv5miMEGmzc5V0cWazQU4nJs9W3.jpg"
+      },
+      "Mikaela Bradshaw": {
+        "id": 5268731,
+        "character": "Kissing Bee / Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ctXgY26mPoewYuKX4009zSqPvnU.jpg"
+      },
+      "Michael Breid": {
+        "id": 5268732,
+        "character": "Jessie Presley (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Lamar Brown": {
+        "id": 5268736,
+        "character": "Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Tyson Brown": {
+        "id": 3179567,
+        "character": "Carnival Worker / Chicken Tent Punter / Concertgoer / Hayride Crowd (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Meganne Byng": {
+        "id": 5268738,
+        "character": "Disaffected Teen #1 (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Linda Chien": {
+        "id": 1258516,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xPXx5bvMQao4s8XohWU57gez93m.jpg"
+      },
+      "Kyle Clark": {
+        "id": 3668626,
+        "character": "Beale St. Driver / Concertgoer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rh2ZbrcvRifr9j81w7RnlYzsFkr.jpg"
+      },
+      "Tom Coyle": {
+        "id": 5268745,
+        "character": "Trombonist / Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Josie Cross": {
+        "id": 5268746,
+        "character": "Glenda (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Shé D'Montford": {
+        "id": 5268749,
+        "character": "Milton Berle Studio Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Michaela Da Costa": {
+        "id": 4478285,
+        "character": "Groupie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Jack Daniel": {
+        "id": 5268754,
+        "character": "Radio Announcer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rTwja6dHWCONbtlsHIjpvAAE2kE.jpg"
+      },
+      "Debbie Davis": {
+        "id": 5268756,
+        "character": "Harriette - Wife of NBC Producer / Trainspotter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1reqoBCzQsJBIyMipZFcnqXLRFp.jpg"
+      },
+      "Florian Delain": {
+        "id": 227883,
+        "character": "State Trooper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2d6MwQN2mLxbjLGYHOcXLGnrAGQ.jpg"
+      },
+      "Philippe Deseck": {
+        "id": 91562,
+        "character": "Orchestra Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Liam Donnelly": {
+        "id": 5268765,
+        "character": "Ferris Wheel Rockabilly (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Joel Drabble": {
+        "id": 2480191,
+        "character": "Truck Carny Billy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wXqGl4DMRd5Hl0Dwve6bljhzcMu.jpg"
+      },
+      "Jamie Martin Duncan": {
+        "id": 5268770,
+        "character": "Cousin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Roger Dvorak": {
+        "id": 3510709,
+        "character": "Stage Manager / Carnival Punter / Hayride Crowd Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q4FFDAlRyxw15bSbPBI085xof6O.jpg"
+      },
+      "Lachlan Engeler": {
+        "id": 4088499,
+        "character": "Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uDqaqmVk6VjJuawbiRwqxbS8nl6.jpg"
+      },
+      "Shinaed Evans": {
+        "id": 4496846,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Vanesa Everett": {
+        "id": 3974367,
+        "character": "Scream Queen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aFxS2CaXBrjTnq7uFp9AC2Qih0c.jpg"
+      },
+      "Christina Fern": {
+        "id": 5268782,
+        "character": "Brigitte Bardot (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q4FFDAlRyxw15bSbPBI085xof6O.jpg"
+      },
+      "Joshua Fisk": {
+        "id": 5268786,
+        "character": "Singer Executive (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Scott James George": {
+        "id": 4066265,
+        "character": "Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4SaTqCO3tOqbkrcsPEbt8SEKtC.jpg"
+      },
+      "Sade Goldsmith": {
+        "id": 5268788,
+        "character": "Showing Bee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jt1Fy72AEtAAPDQvJ1ifRWpBgAH.jpg"
+      },
+      "Asabi Goodman": {
+        "id": 5268792,
+        "character": "Graceland Maid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2mtAxhlRzIvp3XGcW2boy2lXU7h.jpg"
+      },
+      "Daniel Goodwin": {
+        "id": 2560846,
+        "character": "US Sailor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mmt2wiYjvsetLkB7obLbQ1NqKax.jpg"
+      },
+      "Pierce Gordon": {
+        "id": 4364216,
+        "character": "Coke Glasses Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AhMYKmHwKk90YpZNYqjhafTGF9j.jpg"
+      },
+      "William Green": {
+        "id": 5268802,
+        "character": "Casino Patron / Elvis & Priscilla Wedding Photo Lookalike /  NBC Studio Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Mia Grunwald": {
+        "id": 3851625,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jdsJdpJPcyDIqs4qclc794G4Gap.jpg"
+      },
+      "Tonia Renee Hammerich": {
+        "id": 142253,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/naTOGwsRU56D4RkmiebaBIvtBMS.jpg"
+      },
+      "Liam Head": {
+        "id": 4031760,
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9qcdpjsHQ36Phzp6P6TNMl9OXD3.jpg"
+      },
+      "Erin Hegarty": {
+        "id": 5268810,
+        "character": "Scream Queen Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Peter Hill": {
+        "id": 3133798,
+        "character": "Bandstand Musician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Elke Hinrichsen": {
+        "id": 4136233,
+        "character": "Merchandise Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lNOmRjUGYW5eRsfE66rSWOJqBKP.jpg"
+      },
+      "Stephen Hirst": {
+        "id": 3966835,
+        "character": "Older Guy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xi5WSwFxwfwcSYkn6b7M2nxM8C1.jpg"
+      },
+      "Doll Hunt": {
+        "id": 5268811,
+        "character": "Glen Hardin (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eDRIlvMEl7PWacsNUplnR2sMZvN.jpg"
+      },
+      "Graeme Isaako": {
+        "id": 5268812,
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Meghan Jarvis": {
+        "id": 5268813,
+        "character": "Kissing Bee Elvis Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Alyson Joyce": {
+        "id": 5268814,
+        "character": "Marie Knight (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Murran Kain": {
+        "id": 3162413,
+        "character": "Disaffected Teen #2 / Scream Queen / Energy Bomb (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kS1w6vTPv071pMD5S44dsBb0NHb.jpg"
+      },
+      "Cale Kampers": {
+        "id": 5268816,
+        "character": "Eastland Colleague (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tBOdbX1dvsG1U1qO9k2ycJHrd3Y.jpg"
+      },
+      "Jenna Kenney": {
+        "id": 1854896,
+        "character": "Barbara Hearn (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mL1tRA7bXqPIs2siWg2yMuhu9JQ.jpg"
+      },
+      "Joel Knights": {
+        "id": 1394456,
+        "character": "Assistant Floor Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Anastasia Kouts": {
+        "id": 3438196,
+        "character": "Milton Berle Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Eta4TfCSaTOlke9ncFLAYH7ckS.jpg"
+      },
+      "Rae Leigh": {
+        "id": 5268818,
+        "character": "Kissing Bee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Jasmine Liew": {
+        "id": 5268819,
+        "character": "Carnival Goer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Kay Lyons": {
+        "id": 5268820,
+        "character": "Audience Enthusiast (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Genevieve Mathews": {
+        "id": 4278603,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Madison Montepaone": {
+        "id": 5268821,
+        "character": "Bad Nauheim Girlfriend (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Joshua Moonen": {
+        "id": 5268822,
+        "character": "Young Tom Parker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Darcie Morris": {
+        "id": 5268823,
+        "character": "Scream Queen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ocHLfqpf3uWSP9MwJEMJOh6OlDc.jpg"
+      },
+      "Timothy Mossop": {
+        "id": 4136232,
+        "character": "Back-up Singer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Chris Mudole": {
+        "id": 5268824,
+        "character": "Actor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Scott Nielsen": {
+        "id": 5268826,
+        "character": "Stage Manager (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d9QRWGoG1pTnRsx9vKxUVCOjVYx.jpg"
+      },
+      "Emily Norris-Perkins": {
+        "id": 5268827,
+        "character": "Milton Berle Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kXN5BuhkIZOPrvrTVaD6Pjlyc8D.jpg"
+      },
+      "Zac O'Brien": {
+        "id": 4197436,
+        "character": "Street Bully (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jPvausjOq1apcvVdGXvOtoYYlJp.jpg"
+      },
+      "Amanda O'Dempsey": {
+        "id": 2971467,
+        "character": "Spider Man Kisser (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xkW5iAMrkMF8So4puzm4npCES8Y.jpg"
+      },
+      "David O'Donoghoe": {
+        "id": 3438180,
+        "character": "Southern Politician (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFE4I1TPVyBPPPCRR5KMWaIV2qS.jpg"
+      },
+      "Jason O'Halloran": {
+        "id": 5268835,
+        "character": "Peruvian Kick Man / Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Peter O'Hanlon": {
+        "id": 2324533,
+        "character": "Thug (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1lJhTAaPz6tVJrShe2TnJBVPeLY.jpg"
+      },
+      "Tilly Oddy-Black": {
+        "id": 5268838,
+        "character": "Irene (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Nathalie Oliveira": {
+        "id": 3241531,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dhy8Lzg8M0PRRpcOdkd4QVBvVzh.jpg"
+      },
+      "Logan Owen": {
+        "id": 2971453,
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d84AShkSy1xCZDmCIHpsKwGCYVS.jpg"
+      },
+      "Mustafa Pathan": {
+        "id": 4083179,
+        "character": "Memphis Cop (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Renee Petersen": {
+        "id": 5268843,
+        "character": "Russwood Rockabilly / Hayride Audience Member / '68 Comeback Special Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Georgie Pilling": {
+        "id": 5268844,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5DaMW2kFjeiFgGYkMMKqKONLq4P.jpg"
+      },
+      "Ethan Pond": {
+        "id": 5268845,
+        "character": "Clapper Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Jade Prechelt": {
+        "id": 2461473,
+        "character": "Daisy Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ywwudTEnuYyfupozQUOnIgNYqg2.jpg"
+      },
+      "Isaac Priest": {
+        "id": 5268846,
+        "character": "Waiter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4mwjkRF2y84OOUj4DbUWBC6gaoL.jpg"
+      },
+      "Stephanie Puggioni": {
+        "id": 5268847,
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/frYAOK6AUliiq7nTa5zLYDnC7Ra.jpg"
+      },
+      "Jon Quested": {
+        "id": 1840497,
+        "character": "Louisiana Hayride (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7tpHhDx4I9ysdcBKa8OXKdxH8Uj.jpg"
+      },
+      "Vivian Rabello": {
+        "id": 5268848,
+        "character": "Hayride Crowd Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oPRbttU6mnV6rTz2RQHeWxufdFs.jpg"
+      },
+      "Andrew Ravuna": {
+        "id": 3071114,
+        "character": "Vic Stone (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mA2rvk2ZzfBXF8T9sPeIQjS0VQS.jpg"
+      },
+      "Johnny Reardon, Jr.": {
+        "id": 5268849,
+        "character": "US Navy Sailor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Laura Reid": {
+        "id": 3722922,
+        "character": "Daisy Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8TfBibl2fMIXUQROhyNywBYwVgY.jpg"
+      },
+      "John Reynolds": {
+        "id": 121160,
+        "character": "Convoy Passenger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zLneWgNb86MlizXADGJwz0qTy9S.jpg"
+      },
+      "Isabel Riley": {
+        "id": 5268851,
+        "character": "Orchestra (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Lynne Rose": {
+        "id": 3974357,
+        "character": "Carnival Punter / Concertgoer / Hayride Crowd Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7d0awZiU5q0IMsDsjNtl3s7NC4C.jpg"
+      },
+      "Matthew Scully": {
+        "id": 1320563,
+        "character": "Hayride Stage Manager / Crew (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s2cK5Cn3VKhmwZ4EJIChEj4i5yZ.jpg"
+      },
+      "Jaz Sebastian": {
+        "id": 5268853,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nm5RtYXnXwjMklA3AEYAoKn4kiv.jpg"
+      },
+      "Dan Silveira": {
+        "id": 5268854,
+        "character": "Head Chef (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hP4ljJWGqaEXbpaY6ix46wksua6.jpg"
+      },
+      "Olivia Simatovic": {
+        "id": 5268855,
+        "character": "Carnival Punter / Hayride Audience Member / Nurse / Russwood Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wDDzV4Hg5LHmWJXS9jjX4DcUSQV.jpg"
+      },
+      "Rachel Sinclair": {
+        "id": 5268858,
+        "character": "Scream Queen Mary (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/DfVEvxOhvwQXzKhG514IjLcSjC.jpg"
+      },
+      "Alek Skar": {
+        "id": 3529081,
+        "character": "Crowd Member / Firebreather (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Jimmy Skylark": {
+        "id": 5268859,
+        "character": "Hayride Crowd (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/w6iZRhssOjYlTwJtewn0L8lrkZ1.jpg"
+      },
+      "Bomber Hurley Smith": {
+        "id": 1742699,
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Kristin Sparks": {
+        "id": 2655132,
+        "character": "Young Scream Queen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kRM3rqJlnwdpwFNeNhJV2xCp5oP.jpg"
+      },
+      "Patryk Stadejek": {
+        "id": 5268862,
+        "character": "Hotel Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/welKr3GkvekXnnWOSwp6ao3J8KD.jpg"
+      },
+      "Debora Tamay": {
+        "id": 5268863,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1OtUlVaeGDwdzTMXQWyYoQaiA19.jpg"
+      },
+      "Sarah Taylor": {
+        "id": 5268866,
+        "character": "Audience Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lrkCsFhlTJt2NQa07PpBDbziyF9.jpg"
+      },
+      "Dominic Thwaite": {
+        "id": 5268867,
+        "character": "Happy Days (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hF1mJty3QeMdkIY9pKCYYHuIfhu.jpg"
+      },
+      "Jesse Turner": {
+        "id": 2220846,
+        "character": "Delivery Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7obrRZt5FxhlH0lOvqnDmhy9Mud.jpg"
+      },
+      "Simona Varga": {
+        "id": 5268869,
+        "character": "Screamer Girl (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zO7U50hz3k3klhxqrm4gsNHAN8K.jpg"
+      },
+      "Shannon Vitali": {
+        "id": 5268871,
+        "character": "Concertgoer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Chase Vollenweider": {
+        "id": 4031762,
+        "character": "Dancer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5L3QDU8vf30b54p6nOv7Mff88e9.jpg"
+      },
+      "Bianca Wallace": {
+        "id": 3043226,
+        "character": "Script Supervisor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4SNehmA66o6PEFTT7MBGqEhAdd8.jpg"
+      },
+      "Lillie Wallace": {
+        "id": 5268874,
+        "character": "Energy Bom / Scream Queen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Shelly Wallace": {
+        "id": 5268876,
+        "character": "Lisa Marie's Nanny (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Kaia Walton": {
+        "id": 3828154,
+        "character": "Delivery Boy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4ZD7xDqnO7Auyp0DANbKjgYERYq.jpg"
+      },
+      "Rachael Ward": {
+        "id": 5014377,
+        "character": "Dancer - Colonel's Nightmare (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Malachi Waters": {
+        "id": 5268881,
+        "character": "Concertgoer / Driver / Stage Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Katrina West": {
+        "id": 4136229,
+        "character": "Ann Eastland (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Anna Wilkinson": {
+        "id": 5268886,
+        "character": "Scream Queen Sally (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Ally Wright": {
+        "id": 3721756,
+        "character": "Fan (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+      },
+      "Kyle Byrne": {
+        "id": 3157520,
+        "character": "Carnival Punter / White Concertgoer / Chicken Tent Punter / Hayride Crowd Member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lawqArJjwQFFaEgCaXEqBu6nwdY.jpg"
       }
     }
   },
@@ -15853,7 +16453,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ztCndqnzaY5ATLe0yYs2MhAMy1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9GlCx2V1z3hjUMEwSWnaXVqTgcH.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16557,7 +17157,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16745,7 +17345,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19583,7 +20183,7 @@
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
-    "rt_score": "95%",
+    "rt_score": "96%",
     "meta_score": "85/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -19984,7 +20584,7 @@
       "Sharon Washington": {
         "id": 141748,
         "character": "Social Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uUTYgfcmJUfz3cm7cEqiXlHPRAv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kZktXVoRLaETbNkiMoDBzFpdWVB.jpg"
       },
       "Dario Peña": {
         "id": 4583271,
@@ -20821,7 +21421,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26153,7 +26753,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
