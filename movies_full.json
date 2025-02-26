@@ -2490,7 +2490,7 @@
       "Colin Farrell": {
         "id": 72466,
         "character": "Pádraic Súilleabháin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oyQVfpowL9eSudYhwoPGkd9WxS7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg"
       },
       "Brendan Gleeson": {
         "id": 2039,
@@ -6080,7 +6080,7 @@
       "Jordan Goodsell": {
         "id": 3408533,
         "character": "Roy Halee (Engineer)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vprKH2HwXJSxSPiWhaUqbPPUaFq.jpg"
       },
       "Eli Brown": {
         "id": 5148616,
@@ -6320,7 +6320,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/qHNpEmmsyewn2yW8mmxYLgediil.jpg",
     "title": "Conclave",
     "released": "2024-10-25",
     "duration": 120,
@@ -6391,7 +6391,7 @@
       "Bruno Novelli": {
         "id": 4935617,
         "character": "Dead Pope",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qHNpEmmsyewn2yW8mmxYLgediil.jpg"
       },
       "Rony Kramer": {
         "id": 95167,
@@ -6436,7 +6436,7 @@
       "Antonio Toma": {
         "id": 5087484,
         "character": "Jr. Cardinal-Deacon Guerrini",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qHNpEmmsyewn2yW8mmxYLgediil.jpg"
       },
       "Balkissa Souley Maiga": {
         "id": 1762507,
@@ -17157,7 +17157,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19294,7 +19294,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21421,7 +21421,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26753,7 +26753,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29591,6 +29591,16 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
+      },
+      "IrishCGM": {
+        "id": 5160741,
+        "character": "Wish Master 2",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bCcFopaWaDb0I6YKvqoMZ6VnGUy.jpg"
+      },
+      "Daisy Mapfumo": {
+        "id": 5191181,
+        "character": "Gabby",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mfrh2g7wTn0IQRwsTszG6IxLIHu.jpg"
       }
     }
   },
@@ -29628,7 +29638,7 @@
       "Kit Connor": {
         "id": 1538851,
         "character": "Brightbill (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Bz8Hw3KqUsjMqV8aYe21EAXwNi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6BDubD35VfSa0uyPr0UuYznuiM4.jpg"
       },
       "Bill Nighy": {
         "id": 2440,
