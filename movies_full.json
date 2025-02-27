@@ -5867,15 +5867,25 @@
         "character": "Joan Baez",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hiOYXzSkkuKyCEcjLxBoAc4bLZS.jpg"
       },
+      "Scoot McNairy": {
+        "id": 59233,
+        "character": "Woody Guthrie",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+      },
+      "Dan Fogler": {
+        "id": 58873,
+        "character": "Albert Grossman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
+      },
       "Boyd Holbrook": {
         "id": 467645,
         "character": "Johnny Cash",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zKYA9XfK5jtCpBgTr62jm4xVS79.jpg"
       },
-      "Scoot McNairy": {
-        "id": 59233,
-        "character": "Woody Guthrie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+      "Will Harrison": {
+        "id": 1968242,
+        "character": "Bob Neuwirth",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cBVQp3Q0nFl5dmeGVQJQYHImRkw.jpg"
       },
       "Joe Tippett": {
         "id": 1664022,
@@ -5921,11 +5931,6 @@
         "id": 5148593,
         "character": "Mika Seeger",
         "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
-      },
-      "Dan Fogler": {
-        "id": 58873,
-        "character": "Albert Grossman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zJWbLEjfbDthBMucq9M6L4GJXL3.jpg"
       },
       "Reza Salazar": {
         "id": 1851163,
@@ -6057,11 +6062,6 @@
         "character": "Party Guest #5",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rkk2AnclGlMPwGBwkSKvWrCKpNF.jpg"
       },
-      "Will Harrison": {
-        "id": 1968242,
-        "character": "Bob Neuwirth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cBVQp3Q0nFl5dmeGVQJQYHImRkw.jpg"
-      },
       "Taylor Goodwyn": {
         "id": 5148614,
         "character": "Woman at McAnn's",
@@ -6119,12 +6119,12 @@
       },
       "Aidan Close": {
         "id": 5148620,
-        "character": "Kid In Crowd",
+        "character": "Kid in Crowd",
         "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
       },
       "Irina Chelidze": {
         "id": 2992502,
-        "character": "Girl In Crowd",
+        "character": "Girl in Crowd",
         "profile_path": "https://image.tmdb.org/t/p/w1280/8fM2g5F6OC1fQeBwBLoLL9emX6J.jpg"
       },
       "Jenna Veal": {
@@ -6263,9 +6263,9 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
       },
       "Travis Patton": {
-        "id": 1901758,
+        "id": 5272548,
         "character": "Texas Prison Working Group #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Aguv1WAr9PC6CauGOWG0zgmK8Hn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
       },
       "Victor Sho": {
         "id": 2982844,
@@ -11706,6 +11706,11 @@
         "id": 4107721,
         "character": "Boston Streeter / Pedestrian (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+      },
+      "Quinn Stone": {
+        "id": 5272031,
+        "character": "Student",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
       }
     }
   },
@@ -15018,7 +15023,7 @@
       "Aimee Lou Wood": {
         "id": 2201317,
         "character": "Margaret Harris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9z36ueBIBXoNTW9QQPQBw9QtlRI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sbNoAk4RYHMXoHK0khnMl5c1oj6.jpg"
       },
       "Alex Sharp": {
         "id": 136127,
@@ -17365,7 +17370,7 @@
       "Ethan Jones Romero": {
         "id": 3349900,
         "character": "Nico",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2flMj8MHqoKdWaCbnEQnlBdyi4j.jpg"
       },
       "Luke Cosgrove": {
         "id": 1695506,
@@ -19299,7 +19304,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
