@@ -963,7 +963,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mYvxBOIUmAUjEZqHXBok1rc8eIC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b0HZr4Xa4pIR7MzTPXfIWvUZELx.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -4928,7 +4928,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
     "duration": 215,
@@ -5009,12 +5009,12 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Salvatore Sansone": {
         "id": 68158,
         "character": "Orazio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Zephan Amissah": {
         "id": 2117381,
@@ -5024,7 +5024,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Levente Orbán": {
         "id": 1827534,
@@ -5039,7 +5039,7 @@
       "Peter Deutsch": {
         "id": 5259108,
         "character": "Habbi Zuniz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Abigél Szőke": {
         "id": 2295856,
@@ -5049,12 +5049,12 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kItauiQa3jYG4qPLt2yWx6STDGh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Zsolt Páll": {
         "id": 1390683,
@@ -5867,6 +5867,16 @@
         "character": "Joan Baez",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hiOYXzSkkuKyCEcjLxBoAc4bLZS.jpg"
       },
+      "Boyd Holbrook": {
+        "id": 467645,
+        "character": "Johnny Cash",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zKYA9XfK5jtCpBgTr62jm4xVS79.jpg"
+      },
+      "Scoot McNairy": {
+        "id": 59233,
+        "character": "Woody Guthrie",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+      },
       "Joe Tippett": {
         "id": 1664022,
         "character": "Dave Van Ronk",
@@ -5896,11 +5906,6 @@
         "id": 1192821,
         "character": "Cab Driver",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pPCt3LdXHtvYagO8rRyMGJwcZqh.jpg"
-      },
-      "Scoot McNairy": {
-        "id": 59233,
-        "character": "Woody Guthrie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
       },
       "Riley Hashimoto": {
         "id": 3098527,
@@ -5971,11 +5976,6 @@
         "id": 5148601,
         "character": "Young Musician at Party",
         "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
-      },
-      "Boyd Holbrook": {
-        "id": 467645,
-        "character": "Johnny Cash",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zKYA9XfK5jtCpBgTr62jm4xVS79.jpg"
       },
       "Andy Talen": {
         "id": 4849598,
@@ -6320,7 +6320,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/qHNpEmmsyewn2yW8mmxYLgediil.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/1j9r59YQ0a7kM9AKX9MCvf90QNS.jpg",
     "title": "Conclave",
     "released": "2024-10-25",
     "duration": 120,
@@ -6391,7 +6391,7 @@
       "Bruno Novelli": {
         "id": 4935617,
         "character": "Dead Pope",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qHNpEmmsyewn2yW8mmxYLgediil.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1j9r59YQ0a7kM9AKX9MCvf90QNS.jpg"
       },
       "Rony Kramer": {
         "id": 95167,
@@ -6436,7 +6436,7 @@
       "Antonio Toma": {
         "id": 5087484,
         "character": "Jr. Cardinal-Deacon Guerrini",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qHNpEmmsyewn2yW8mmxYLgediil.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1j9r59YQ0a7kM9AKX9MCvf90QNS.jpg"
       },
       "Balkissa Souley Maiga": {
         "id": 1762507,
@@ -7549,7 +7549,7 @@
     "released": "2024-02-27",
     "duration": 167,
     "imdb_id": "tt15239678",
-    "vote_average": "8.2",
+    "vote_average": "8.1",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.5/10",
@@ -17964,6 +17964,11 @@
         "id": 3160419,
         "character": "Lady Bird Johnson (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1hZuEFfcVQyCj75A3abEliIuKXf.jpg"
+      },
+      "Caden Layne": {
+        "id": 3971464,
+        "character": "Scientist (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nQhwMLzafIhHUW1HrWej2urWVP7.jpg"
       }
     }
   },
@@ -20257,7 +20262,7 @@
     "released": "2024-11-07",
     "duration": 95,
     "imdb_id": "tt28082769",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
@@ -22092,7 +22097,7 @@
       "Tiffany Hofstetter": {
         "id": 297771,
         "character": "Stylist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5h2ujK3hjMzk3iJCHTfd5FuLYfU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ge4F2wAqKkNFwTOYebcn6EMSXJD.jpg"
       },
       "Nicolas Royer": {
         "id": 1169247,
@@ -26753,7 +26758,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29591,16 +29596,6 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
-      },
-      "IrishCGM": {
-        "id": 5160741,
-        "character": "Wish Master 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bCcFopaWaDb0I6YKvqoMZ6VnGUy.jpg"
-      },
-      "Daisy Mapfumo": {
-        "id": 5191181,
-        "character": "Gabby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mfrh2g7wTn0IQRwsTszG6IxLIHu.jpg"
       }
     }
   },
