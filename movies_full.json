@@ -1142,7 +1142,7 @@
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
     "genres": ["History", "Drama"],
     "imdb_score": "7.1/10",
-    "rt_score": "82%",
+    "rt_score": "83%",
     "meta_score": "64/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -4840,7 +4840,7 @@
     "released": "2023-07-14",
     "duration": 124,
     "imdb_id": "tt6587046",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama"],
     "imdb_score": "7.4/10",
@@ -4931,7 +4931,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 215,
+    "duration": 201,
     "imdb_id": "tt8999762",
     "vote_average": "7.1",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
@@ -6498,7 +6498,7 @@
       "Jonah Hill": {
         "id": 21007,
         "character": "Jason Orlean",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hoise4R82zsMdxhy0nIuwaR8tdh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
       },
       "Mark Rylance": {
         "id": 40900,
@@ -17159,7 +17159,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21430,7 +21430,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
