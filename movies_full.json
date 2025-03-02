@@ -4954,7 +4954,7 @@
       "Guy Pearce": {
         "id": 529,
         "character": "Harrison Lee Van Buren Sr.",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wIUR413lEyzEzitCLgToItwVZBr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
       },
       "Joe Alwyn": {
         "id": 1496392,
@@ -6306,6 +6306,11 @@
         "id": 5113257,
         "character": "Cab Driver (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/p2RPPprusPYCQfVV82dlsZXPe9k.jpg"
+      },
+      "Jon Gennari": {
+        "id": 3709069,
+        "character": "Folk Festival Stage Manager (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nNh6aDkanJyonuGAF1aQKTIKawu.jpg"
       }
     }
   },
@@ -11744,20 +11749,10 @@
         "character": "Rubens Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sd9pWha3ThWyX5DPsVnZVPKSJ9W.jpg"
       },
-      "Fernanda Montenegro": {
-        "id": 10055,
-        "character": "Older Eunice Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
-      },
       "Valentina Herszage": {
         "id": 1508719,
         "character": "Vera Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uJxN1QpU7XJzeg2navvMIQOGAjj.jpg"
-      },
-      "Luiza Kosovski": {
-        "id": 4505878,
-        "character": "Eliana Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
       },
       "Bárbara Luz": {
         "id": 1901533,
@@ -11774,20 +11769,20 @@
         "character": "Babiu Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
       },
+      "Luiza Kosovski": {
+        "id": 4505878,
+        "character": "Eliana Paiva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
+      },
       "Pri Helena": {
         "id": 1735633,
         "character": "Zezé",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
       },
-      "Dan Stulbach": {
-        "id": 550453,
-        "character": "Baby Bocayuva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fxsAH5U6hlhzxGIlkjsNKNYUG7k.jpg"
-      },
-      "Carla Ribas": {
-        "id": 592668,
-        "character": "Martha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/71JbumRwC4zxSgCdIUHj8QtBKOt.jpg"
+      "Luiz Bertazzo": {
+        "id": 142830,
+        "character": "Dr. Schneider",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9rpkxfChPTkNkOscTfd2lqqENix.jpg"
       },
       "Maeve Jinkings": {
         "id": 1016242,
@@ -11799,15 +11794,20 @@
         "character": "Félix",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xqaUJtNl3XBFMpOF6GVuh3z26hh.jpg"
       },
+      "Dan Stulbach": {
+        "id": 550453,
+        "character": "Baby Bocayuva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fxsAH5U6hlhzxGIlkjsNKNYUG7k.jpg"
+      },
+      "Carla Ribas": {
+        "id": 592668,
+        "character": "Martha",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/71JbumRwC4zxSgCdIUHj8QtBKOt.jpg"
+      },
       "Maitê Padilha": {
         "id": 1951689,
         "character": "Cristina",
         "profile_path": "https://image.tmdb.org/t/p/w1280/68QHgitMH9r5mJH0noKk65kkc8P.jpg"
-      },
-      "Luiz Bertazzo": {
-        "id": 142830,
-        "character": "Dr. Schneider",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9rpkxfChPTkNkOscTfd2lqqENix.jpg"
       },
       "Camila Márdila": {
         "id": 1342895,
@@ -11818,6 +11818,11 @@
         "id": 571470,
         "character": "Lino Machado",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7pml9uBwEwH9e2Ch6BrpuDmK8Zs.jpg"
+      },
+      "Fernanda Montenegro": {
+        "id": 10055,
+        "character": "Older Eunice Paiva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
       },
       "Augusto Trainotti": {
         "id": 3090249,
@@ -16460,7 +16465,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v76kH7Cc8n6HHYCC7pa4qyeo7dy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mnYHjEHYKD1VXqvJxdvibf4NaCu.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16849,6 +16854,16 @@
         "id": 5134736,
         "character": "Boy at Playground",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
+      },
+      "Sidney Poitier": {
+        "id": 16897,
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fhMiCe3ScxBGKEX6Y6flEJm7iHd.jpg"
+      },
+      "Martin Luther King Jr.": {
+        "id": 1107983,
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5AYILU60HVNMWmhDEhFtnJVv31O.jpg"
       }
     }
   },
@@ -16869,8 +16884,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "80%",
     "meta_score": "70/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Guillermo del Toro",
     "cast": {
       "Bradley Cooper": {
@@ -17352,7 +17367,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17971,11 +17986,6 @@
         "id": 3160419,
         "character": "Lady Bird Johnson (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1hZuEFfcVQyCj75A3abEliIuKXf.jpg"
-      },
-      "Caden Layne": {
-        "id": 3971464,
-        "character": "Scientist (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nQhwMLzafIhHUW1HrWej2urWVP7.jpg"
       }
     }
   },
@@ -26767,7 +26777,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26893,6 +26903,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "91%",
     "meta_score": "85/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Steven Spielberg",
     "cast": {
       "Ansel Elgort": {
