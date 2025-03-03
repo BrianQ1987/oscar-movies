@@ -947,7 +947,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1068,7 +1068,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1083,7 +1083,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1098,22 +1098,22 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3bXdP1k2pzpmVD8GWXkC8VhmUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/43bJoLoMJnc68Fua1Oa6wrqfeIG.jpg"
       },
       "Charlton Lamar": {
         "id": 3650583,
@@ -10528,7 +10528,7 @@
     "released": "2022-11-23",
     "duration": 140,
     "imdb_id": "tt11564570",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
@@ -11866,7 +11866,7 @@
       "Robert De Niro": {
         "id": 380,
         "character": "William Hale",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p1rFz9OlrIiMtqhtrHQDB3W4xRA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
       },
       "Lily Gladstone": {
         "id": 1183917,
@@ -18706,7 +18706,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19466,7 +19466,7 @@
       "Karl Urban": {
         "id": 1372,
         "character": "Jacob Holland (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vjpjptvlBAbWfvmetjpOPHYXIwX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
       },
       "Zaris-Angel Hator": {
         "id": 2127280,
@@ -19591,7 +19591,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -20835,7 +20835,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
