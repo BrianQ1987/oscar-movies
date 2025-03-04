@@ -4082,7 +4082,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "Everett Ross",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kx61L8oImUOJjQqwgCmEQ5kC3El.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktLqOkNC9MQ8Xb10PKIagRx5XEP.jpg"
       },
       "Julia Louis-Dreyfus": {
         "id": 15886,
@@ -4117,7 +4117,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kfcn0yyEdN2aJfVaxW0NIoKVF4J.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hz9AOUWZ2zzS0dpPJ1yQv2grA35.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -8683,7 +8683,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "6.4/10",
@@ -8692,15 +8692,15 @@
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
     "cast": {
-      "Karla Sofía Gascón": {
-        "id": 1505938,
-        "character": "Emilia Pérez / Manitas del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
-      },
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita Mora Castro",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      "Karla Sofía Gascón": {
+        "id": 1505938,
+        "character": "Emilia Pérez / Manitas del Monte",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
       },
       "Selena Gomez": {
         "id": 77948,
@@ -10300,7 +10300,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.3/10",
@@ -18495,7 +18495,7 @@
       "Cody Cameron": {
         "id": 12095,
         "character": "Pinocchio (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/68Cewzd8H9qFwJclWFl33Fl3N70.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gmlav8ikKPojgvQOQ8vQSQt9hoj.jpg"
       },
       "Kailey Crawford": {
         "id": 3042923,
@@ -18706,7 +18706,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18852,7 +18852,7 @@
       "Jesse Eisenberg": {
         "id": 44735,
         "character": "David Kaplan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2ojZrkt5rdkUi857WSeCatxXdGS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
       },
       "Kieran Culkin": {
         "id": 18793,
@@ -18862,7 +18862,7 @@
       "Will Sharpe": {
         "id": 939337,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uO1LYDK55dDqjQeK0eKJFtMy3va.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1pzdCm3m1kWn7YLTMbVvwT5O4jZ.jpg"
       },
       "Jennifer Grey": {
         "id": 722,
@@ -19591,7 +19591,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -20835,7 +20835,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21986,7 +21986,7 @@
       "Coralie Fargeat": {
         "id": 1607016,
         "character": "(uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cLoy8QSKNyNOR2Ff9YHAR8NT3sr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/weElmtGXU0eqSDyJxh32ZBgIpqw.jpg"
       }
     }
   },
@@ -24863,7 +24863,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Macbeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tRYHzK6WmxOCrqeO3OnEUAF5ied.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Iyt3wbsla5bM6IzbICDVnBhkER.jpg"
       },
       "Frances McDormand": {
         "id": 3910,
