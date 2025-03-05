@@ -1138,7 +1138,7 @@
     "released": "2024-10-09",
     "duration": 122,
     "imdb_id": "tt8368368",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
     "genres": ["History", "Drama"],
     "imdb_score": "7.1/10",
@@ -2608,7 +2608,7 @@
       "America Ferrera": {
         "id": 59174,
         "character": "Gloria",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dhiUliLE7dFaqj5BKNQ6x7Wm9uR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
       },
       "Ariana Greenblatt": {
         "id": 1767250,
@@ -10738,7 +10738,7 @@
     "imdb_id": "tt1488589",
     "vote_average": "8.1",
     "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
-    "genres": ["Animation", "Fantasy", "Drama"],
+    "genres": ["Animation", "Fantasy", "Drama", "Adventure", "Family", "Music"],
     "imdb_score": "7.6/10",
     "rt_score": "27%",
     "meta_score": "79/100",
@@ -11122,7 +11122,7 @@
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
-    "vote_average": "7.9",
+    "vote_average": "8",
     "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.9/10",
@@ -16559,7 +16559,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/2NQljeavtfl22207D1kxLpa4LS3.jpg",
     "title": "Nimona",
     "released": "2023-06-23",
-    "duration": 99,
+    "duration": 101,
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
@@ -16757,7 +16757,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17895,7 +17895,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -20835,7 +20835,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21375,7 +21375,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg",
     "title": "The Substance",
     "released": "2024-09-07",
     "duration": 141,
@@ -21511,7 +21511,7 @@
       "Nicolas Royer": {
         "id": 1169247,
         "character": "Guy in the Elevator",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Nathan Rippy": {
         "id": 1373113,
@@ -21521,7 +21521,7 @@
       "Manon Arizmendi": {
         "id": 4374537,
         "character": "Little Girl - New Year's Eve Show",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Virginie Kotlinski": {
         "id": 2941844,
@@ -21531,7 +21531,7 @@
       "Brett Gillen": {
         "id": 2958558,
         "character": "Director of Photography - New Year's Eve Show",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Charlotte Marquardt": {
         "id": 2123660,
@@ -21551,7 +21551,7 @@
       "Claire Lemaire": {
         "id": 5002606,
         "character": "Screaming Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Lila Boughoufala": {
         "id": 3421059,
@@ -21581,7 +21581,7 @@
       "Martin Graham": {
         "id": 3194545,
         "character": "Shareholder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Christian Bordeleau": {
         "id": 1481174,
@@ -21596,22 +21596,22 @@
       "Didier Dhondt": {
         "id": 5002627,
         "character": "Shareholder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Jacques-Yves Dorges": {
         "id": 3158767,
         "character": "Shareholder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Jean-Claude Matthey": {
         "id": 5002629,
         "character": "Shareholder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Olivier Jarcin": {
         "id": 5002632,
         "character": "Shareholder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Jean-Luc Magneron": {
         "id": 5002633,
@@ -21621,22 +21621,22 @@
       "Charlotte Murray": {
         "id": 4818983,
         "character": "Allison - Diner Waitress",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Aaron Kahn": {
         "id": 5002963,
         "character": "Greeting Person",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Gabriela Arnon": {
         "id": 4317945,
         "character": "Greeting Person",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Nancy Josephson Lahoussine": {
         "id": 5002968,
         "character": "Greeting Person",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Andrew Eldridge": {
         "id": 4673010,
@@ -21651,7 +21651,7 @@
       "Bryan Jones": {
         "id": 1298291,
         "character": "Greeting Person",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Adam Carage": {
         "id": 4673015,
@@ -21671,7 +21671,7 @@
       "Rebecca Lafont": {
         "id": 5002975,
         "character": "Happy Birthday Person",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Laura Puech": {
         "id": 3125113,
@@ -21696,42 +21696,42 @@
       "Jean Miel": {
         "id": 2123468,
         "character": "Worker Walk of Fame",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Paul Descoings": {
         "id": 5002980,
         "character": "Worker Walk of Fame",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Benoit Lévêque": {
         "id": 5002981,
         "character": "Worker Walk of Fame",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Arthur Molinet": {
         "id": 5002982,
         "character": "Cocktail Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Manon Sachot": {
         "id": 3546266,
         "character": "Cocktail Lounge Couple",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Bastien Jorelle": {
         "id": 5002983,
         "character": "Cocktail Lounge Couple",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Kelly Hoarau": {
         "id": 5002984,
         "character": "Female Assistant - Towel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Michel Juskiewicz": {
         "id": 5002986,
         "character": "George - Harvey's Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Louise Greggory": {
         "id": 4925967,
@@ -21741,27 +21741,27 @@
       "Christophe Sartirano": {
         "id": 5002993,
         "character": "Guy Looking at Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Florent Torres": {
         "id": 5002994,
         "character": "Guy Looking at Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Romain Caldeira": {
         "id": 5002995,
         "character": "Billboard Technician",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Barthelemy Thomas": {
         "id": 3732886,
         "character": "Billboard Technician",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Axel Baille": {
         "id": 3316339,
         "character": "Photographer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Ashley Lambert": {
         "id": 1561797,
@@ -21786,7 +21786,7 @@
       "William Calvert": {
         "id": 1091875,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Michael Corbett": {
         "id": 1217688,
@@ -21806,122 +21806,122 @@
       "Audjyan Alcide": {
         "id": 5039186,
         "character": "Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Jonathan Jenvrin": {
         "id": 5039188,
         "character": "Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Mimi Maury": {
         "id": 5039192,
         "character": "Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Amelye Solange": {
         "id": 5039193,
         "character": "Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Kévin Table": {
         "id": 4902989,
         "character": "Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Laura Boera": {
         "id": 5039194,
         "character": "Sparkle Your Life Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Cissy Duc": {
         "id": 3442599,
         "character": "Sparkle Your Life Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Sophie Mercier": {
         "id": 1890042,
         "character": "Sparkle Your Life Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Marie Valton": {
         "id": 5039200,
         "character": "Sparkle Your Life Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Katrina Budzynski": {
         "id": 5039203,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Alicia Maury": {
         "id": 5039206,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Megane Adamik": {
         "id": 5039207,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Annalisa Pagnotta": {
         "id": 5039209,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Maelle Dantigny": {
         "id": 5039210,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Aleksandra Fontaine Kedzierska": {
         "id": 5039215,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Pauline Sagetat": {
         "id": 5039216,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Agustina Fitzsimons": {
         "id": 5039217,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Elena Shcheglova": {
         "id": 5039218,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Eve Marchant": {
         "id": 5039219,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Lola Donati": {
         "id": 2924631,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Kate Matthews": {
         "id": 5039221,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Ophélie Jonard": {
         "id": 5039224,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Pauline Richard": {
         "id": 5039225,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Laureen Cappelliez": {
         "id": 5039227,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Daria Panchenko": {
         "id": 1126176,
@@ -21931,42 +21931,42 @@
       "Delphine Beaulieu": {
         "id": 1338344,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Victoria Brun": {
         "id": 5039228,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Cara Chapman": {
         "id": 5039229,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Katharine Matthews": {
         "id": 5039230,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Alexandra Faget": {
         "id": 5039231,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Clémence Juville": {
         "id": 5039232,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Margot L'Entete": {
         "id": 5039233,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Hillary Sukhonos": {
         "id": 5039235,
         "character": "New Year's Eve Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sjBM33NBPT8jDj9YNd8Vnegn2DS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Matthew Géczy": {
         "id": 225161,
@@ -26167,7 +26167,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
