@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -16757,7 +16757,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18430,7 +18430,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Wolf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Vs0d8js1uJV0WDPwMFU3zO2n3m.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -18836,7 +18836,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
     "title": "A Real Pain",
     "released": "2024-11-01",
     "duration": 89,
@@ -18892,7 +18892,7 @@
       "Banner Eisenberg": {
         "id": 5060357,
         "character": "Abe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
       },
       "Olha Bosova": {
         "id": 3452065,
@@ -18902,7 +18902,7 @@
       "Jakub Gąsowski": {
         "id": 2070761,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
       },
       "Piotr Czarniecki": {
         "id": 2309385,
@@ -18912,7 +18912,7 @@
       "Krzysztof Jaszczak": {
         "id": 4525253,
         "character": "Pianist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
       },
       "Marek Kasprzyk": {
         "id": 937309,
@@ -24760,7 +24760,7 @@
       "Bob Stephenson": {
         "id": 17449,
         "character": "Senior Engineer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/htF2P5zyyFFB1jpBNGVvTiGH01F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6RICLz0vofoGkI339Pk5sVn1657.jpg"
       },
       "Landon Gordon": {
         "id": 2891225,
@@ -26167,7 +26167,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
