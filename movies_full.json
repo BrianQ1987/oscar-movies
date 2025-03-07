@@ -160,7 +160,7 @@
       },
       "Albrecht Schuch": {
         "id": 1111158,
-        "character": "Stanislaus \"Kat\" Katczinsky",
+        "character": "Stanislaus 'Kat' Katczinsky",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bYqsnHVbaLTnffo4Dj5UiyPBm4U.jpg"
       },
       "Aaron Hilmer": {
@@ -1306,7 +1306,7 @@
       "Tom Barnett": {
         "id": 133335,
         "character": "Rupert Murdoch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjTo1gEMrmjIys8t7Wgee3yogFT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
       },
       "Jason Blicker": {
         "id": 44169,
@@ -3766,7 +3766,7 @@
       "Christian Roberts": {
         "id": 2947223,
         "character": "Camera A Focus Puller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hT6cZhqk2PNK756qjKnH00c16HN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
       },
       "Chris Wolfe": {
         "id": 2046873,
@@ -3792,8 +3792,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "86%",
     "meta_score": "75/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Kenneth Branagh",
     "cast": {
       "Jude Hill": {
@@ -4470,7 +4470,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "The Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Bobby Cannavale": {
         "id": 21127,
@@ -4949,7 +4949,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "László Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
@@ -5109,7 +5109,7 @@
       "David Puskas": {
         "id": 3767547,
         "character": "Hired Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lHgHZF5GjGBLPOAOnGK9eUgRLnW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Laurent Winkler": {
         "id": 2448697,
@@ -5150,8 +5150,6 @@
     "imdb_score": "6.6/10",
     "rt_score": "85%",
     "meta_score": "66/100",
-    "platforms": "Apple TV Plus",
-    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
     "director": "Lila Neugebauer",
     "cast": {
       "Jennifer Lawrence": {
@@ -5366,8 +5364,6 @@
     "imdb_score": "8.0/10",
     "rt_score": "94%",
     "meta_score": "72/100",
-    "platforms": "Apple TV Plus",
-    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
     "director": "Siân Heder",
     "cast": {
       "Emilia Jones": {
@@ -6120,7 +6116,7 @@
       "Lorin Doctor": {
         "id": 2935367,
         "character": "Spacey Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8c2SeI967kgEDhfpC5H3JpHTSLm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
       },
       "Aidan Close": {
         "id": 5148620,
@@ -6130,7 +6126,7 @@
       "Irina Chelidze": {
         "id": 2992502,
         "character": "Girl in Crowd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8fM2g5F6OC1fQeBwBLoLL9emX6J.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
       },
       "Jenna Veal": {
         "id": 5148621,
@@ -6330,7 +6326,7 @@
     "released": "2024-10-25",
     "duration": 120,
     "imdb_id": "tt20215234",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
     "genres": ["Drama", "Thriller", "Mystery"],
     "imdb_score": "7.4/10",
@@ -8313,7 +8309,7 @@
       "Gareth Davies": {
         "id": 2580441,
         "character": "Bones Howe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oBlgrGkmgSYX8UUyqIafaKlLUvs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
       "Chaydon Jay": {
         "id": 3644672,
@@ -8691,8 +8687,8 @@
     "vote_average": "6.8",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
-    "imdb_score": "6.4/10",
-    "meta_score": "71/100",
+    "imdb_score": "5.4/10",
+    "meta_score": "70/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
@@ -10290,7 +10286,7 @@
     "genres": ["Animation", "Fantasy", "Adventure"],
     "imdb_score": "7.9/10",
     "rt_score": "97%",
-    "meta_score": "86/100",
+    "meta_score": "87/100",
     "director": "Gints Zilbalodis",
     "cast": []
   },
@@ -11122,7 +11118,7 @@
     "watched": false,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actress", "Best International Feature Film"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg",
     "title": "I'm Still Here",
     "released": "2024-09-19",
     "duration": 138,
@@ -11130,8 +11126,8 @@
     "vote_average": "8",
     "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
-    "imdb_score": "8.9/10",
-    "meta_score": "79/100",
+    "imdb_score": "8.6/10",
+    "meta_score": "85/100",
     "director": "Walter Salles",
     "cast": {
       "Fernanda Torres": {
@@ -11157,12 +11153,12 @@
       "Guilherme Silveira": {
         "id": 4505876,
         "character": "Marcelo Rubens Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Cora Ramalho": {
         "id": 4505877,
         "character": "Babiu Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Luiza Kosovski": {
         "id": 4505878,
@@ -11282,12 +11278,12 @@
       "Aguida Aguiar": {
         "id": 4096776,
         "character": "Carla Escrevente Fórum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Daniel Ericsson": {
         "id": 2098428,
         "character": "Vinicius Equipe Schneider",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Renan Lima": {
         "id": 5165966,
@@ -11302,92 +11298,92 @@
       "Isadora Ruppert": {
         "id": 3466387,
         "character": "Laura Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Antonio Furtado": {
         "id": 5187776,
         "character": "George Marido Veroca",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Fagundes Emanuel": {
         "id": 1680127,
         "character": "Chico",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Matheus Canto": {
         "id": 5187780,
         "character": "Daniel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Pedro Passarelli": {
         "id": 5187781,
         "character": "Familiar Paiva 01",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Mônica Braga": {
         "id": 5187783,
         "character": "Familiar Paiva 02",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Giulia Passarelli": {
         "id": 5187785,
         "character": "Familiar Paiva 03",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Angela Chieregati Passarelli": {
         "id": 5187786,
         "character": "Familiar Paiva 04",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Lucas Santos": {
         "id": 5187791,
         "character": "Edu Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Felipe Nehab": {
         "id": 5187793,
         "character": "Marcos Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Félix Salles": {
         "id": 5187795,
         "character": "Bento",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Manoel Taborda": {
         "id": 5187796,
         "character": "Joaquim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Theo Hoffmeister": {
         "id": 5187799,
         "character": "Amigo 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "João Gabriel Frapolli": {
         "id": 5187801,
         "character": "Amigo 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Lucas Zampa": {
         "id": 5187804,
         "character": "Amigo 3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Alexandre Mello": {
         "id": 5187812,
         "character": "Interrogador 2 DOI CODI",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Thadeu Matos": {
         "id": 2628135,
         "character": "Equipe Schneider 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Hugo Camizão": {
         "id": 4997977,
         "character": "Equipe Schneider 3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Otavio Linhares": {
         "id": 2453778,
@@ -11397,22 +11393,22 @@
       "Leo Mac-Dowell": {
         "id": 5187827,
         "character": "Prisioneiro DOI COD",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Rafaela Mell": {
         "id": 5187828,
         "character": "Prisioneira DOI CODI",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "João Júnior": {
         "id": 3312650,
         "character": "PE Blitz 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Denis Sauer": {
         "id": 5187831,
         "character": "PE Blitz 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Marcelo Várzea": {
         "id": 1986559,
@@ -11422,12 +11418,12 @@
       "Daniel de Almeida": {
         "id": 2655897,
         "character": "Marlon Segurança Fórum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Alan Rocha": {
         "id": 2490904,
         "character": "Jornalista Manchete",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Philipp Lavra": {
         "id": 2404026,
@@ -11442,22 +11438,22 @@
       "Camilla Flores": {
         "id": 5187850,
         "character": "Raquel Cuidadora Eunice",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Luisa Taborda": {
         "id": 1751597,
         "character": "Silvia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Mayra Coelho": {
         "id": 4682651,
         "character": "Assistente Manuela",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Ingrid Oliveira": {
         "id": 3782333,
         "character": "Escrevente Fórum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Kauã Rodríguez": {
         "id": 4331199,
@@ -11472,12 +11468,12 @@
       "Daniel Pereira": {
         "id": 4082297,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Tainá Andrade": {
         "id": 5035522,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qNLMPY3KLrYgTX2QZ5iEwwOqyRz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
       },
       "Cid Moreira": {
         "id": 2567602,
@@ -11859,8 +11855,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "93%",
     "meta_score": "89/100",
-    "platforms": "Apple TV Plus",
-    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
     "director": "Martin Scorsese",
     "cast": {
       "Leonardo DiCaprio": {
@@ -13962,7 +13956,7 @@
       "Austin Anderson": {
         "id": 1323379,
         "character": "Fat Bernie's Waterbed Customer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ei8ZGQ1toi2PdUJuptvPmoaSJDR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
       },
       "William Angarola": {
         "id": 4188449,
@@ -15860,7 +15854,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v76kH7Cc8n6HHYCC7pa4qyeo7dy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mnYHjEHYKD1VXqvJxdvibf4NaCu.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16574,7 +16568,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16762,7 +16756,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17380,7 +17374,7 @@
       "Christine Heneise": {
         "id": 3160419,
         "character": "Lady Bird Johnson (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1hZuEFfcVQyCj75A3abEliIuKXf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
       }
     }
   },
@@ -18711,7 +18705,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19078,7 +19072,7 @@
       "Ayana Workman": {
         "id": 1994104,
         "character": "Eleanor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z4hGZUjDOlEJrGMGi9X2nJEGfu8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lCawCmTJhKT7c2ZOzLBTXDIR8JS.jpg"
       },
       "Grantham Coleman": {
         "id": 1666985,
@@ -20819,7 +20813,7 @@
       "Sami Amber": {
         "id": 3089894,
         "character": "Boy (Roadhouse Cafe) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f4nadJWqasqTRW7kVobpZqsgau.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg"
       }
     }
   },
@@ -21781,7 +21775,7 @@
       "Chase Fein": {
         "id": 1105658,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kNghtLxsGNhC5Qv3nKtd0H1RRDt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Shane Sweet": {
         "id": 158124,
@@ -22223,7 +22217,7 @@
       "Jasmine Leung": {
         "id": 3724368,
         "character": "Laura Kim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wiQNYYK9nUWmg9cEyiKf4LwmSTC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
       },
       "Johann von Bülow": {
         "id": 36014,
@@ -24861,8 +24855,6 @@
     "imdb_score": "7.1/10",
     "rt_score": "93%",
     "meta_score": "87/100",
-    "platforms": "Apple TV Plus",
-    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
     "director": "Joel Coen",
     "cast": {
       "Denzel Washington": {
@@ -26172,7 +26164,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29340,7 +29332,7 @@
     "genres": ["Drama", "Romance", "Comedy"],
     "imdb_score": "7.7/10",
     "rt_score": "96%",
-    "meta_score": "90/100",
+    "meta_score": "91/100",
     "platforms": ["Channel 4", "Plex"],
     "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
