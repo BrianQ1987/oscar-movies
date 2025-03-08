@@ -684,7 +684,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -963,7 +963,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0HZr4Xa4pIR7MzTPXfIWvUZELx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/drny5M0foZpJfaee6Kh0L4Ox8xg.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -8687,8 +8687,8 @@
     "vote_average": "6.8",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
-    "imdb_score": "6.4/10",
-    "meta_score": "71/100",
+    "imdb_score": "5.4/10",
+    "meta_score": "70/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
@@ -10286,7 +10286,7 @@
     "genres": ["Animation", "Fantasy", "Adventure"],
     "imdb_score": "7.9/10",
     "rt_score": "97%",
-    "meta_score": "86/100",
+    "meta_score": "87/100",
     "director": "Gints Zilbalodis",
     "cast": []
   },
@@ -10529,7 +10529,7 @@
     "released": "2022-11-23",
     "duration": 140,
     "imdb_id": "tt11564570",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
@@ -16568,12 +16568,12 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yjvE3aovyTvebAOalNaI3t6KkjQ.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -28593,10 +28593,10 @@
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
       },
-      "Samuel Caleb Baxter": {
-        "id": 5153505,
+      "Samuel Baxter": {
+        "id": 5110899,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9GyMPlTaydbYiVzFAkdeCqfpr3N.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
       },
       "Samuel Constanti": {
         "id": 5153506,
@@ -29332,7 +29332,7 @@
     "genres": ["Drama", "Romance", "Comedy"],
     "imdb_score": "7.7/10",
     "rt_score": "96%",
-    "meta_score": "90/100",
+    "meta_score": "91/100",
     "platforms": ["Channel 4", "Plex"],
     "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
