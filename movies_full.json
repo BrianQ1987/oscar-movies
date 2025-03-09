@@ -447,8 +447,6 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Cord Jefferson",
     "cast": {
       "Jeffrey Wright": {
@@ -684,7 +682,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -963,7 +961,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/drny5M0foZpJfaee6Kh0L4Ox8xg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gyiw7fAsqVYYrfRbYxwLfaJSOR7.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -1133,7 +1131,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Actor", "Best Supporting Actor"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg",
     "title": "The Apprentice",
     "released": "2024-10-09",
     "duration": 122,
@@ -1196,7 +1194,7 @@
       "Chloe Madison": {
         "id": 2765430,
         "character": "Fancy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Ben Sullivan": {
         "id": 1756897,
@@ -1216,7 +1214,7 @@
       "Jim Monaco": {
         "id": 938907,
         "character": "Al Formicola",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Bruce Beaton": {
         "id": 1753894,
@@ -1266,7 +1264,7 @@
       "Stefanie Martino": {
         "id": 4794202,
         "character": "Reporter #4",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Randy Thomas": {
         "id": 1848595,
@@ -1276,12 +1274,12 @@
       "Myron Ron Reider": {
         "id": 4794207,
         "character": "Atlantic City Gambler #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Sharon Wilcox": {
         "id": 4794208,
         "character": "Atlantic City Gambler #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Jai Jai Jones": {
         "id": 1470382,
@@ -1296,17 +1294,17 @@
       "Charlie Seminerio": {
         "id": 3412432,
         "character": "Tailor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Joshua Michael St. John": {
         "id": 4794210,
         "character": "Blond Guy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Tom Barnett": {
         "id": 133335,
         "character": "Rupert Murdoch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Jason Blicker": {
         "id": 44169,
@@ -1326,7 +1324,7 @@
       "Benny Shilling": {
         "id": 4794248,
         "character": "Nixon Masked Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Chris Owens": {
         "id": 158459,
@@ -1336,17 +1334,17 @@
       "Nabil Traboulsi": {
         "id": 3574122,
         "character": "TV Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Sam Rosenthal": {
         "id": 4794254,
         "character": "Michael Rubin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Brie Watson": {
         "id": 3438174,
         "character": "Audience Member #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Luke Robinson": {
         "id": 2442876,
@@ -1366,22 +1364,22 @@
       "Lorne Monroe": {
         "id": 4794267,
         "character": "Maxwell Bouncer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Peter Deiwick": {
         "id": 2936542,
         "character": "Tavern Waiter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Ben Ball": {
         "id": 4794268,
         "character": "Robert Trump",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Iona Rose Mackay": {
         "id": 3895147,
         "character": "Mary Trump",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Samantha Espie": {
         "id": 1014293,
@@ -1401,12 +1399,12 @@
       "Kerry Ann Doherty": {
         "id": 3268249,
         "character": "Estelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Erik Snider": {
         "id": 4794272,
         "character": "Board Member Bob",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Chris Gleason": {
         "id": 1857468,
@@ -1416,7 +1414,7 @@
       "Taylor Bernier": {
         "id": 4794273,
         "character": "Young Lawyer #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Mishka Thébaud": {
         "id": 1838549,
@@ -1426,12 +1424,12 @@
       "Domingos Andrade": {
         "id": 4794274,
         "character": "Tony's Associate",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Dina Roudman": {
         "id": 2779818,
         "character": "Carly",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Rick Hughes": {
         "id": 1845489,
@@ -1466,27 +1464,27 @@
       "Tammy Boundy": {
         "id": 4794282,
         "character": "Tennant #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Katie Garyfalakis": {
         "id": 4794296,
         "character": "Blond Model",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Don Saxon": {
         "id": 980052,
         "character": "Presbyterian Pastor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Salvatore Marcellino": {
         "id": 4794317,
         "character": "Mob Associate",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Marvin Karon": {
         "id": 1239376,
         "character": "Harry Helmsley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Moni Ogunsuyi": {
         "id": 2298270,
@@ -1501,22 +1499,22 @@
       "Brad Austin": {
         "id": 3917676,
         "character": "Dick Morgan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Kate Wheeler": {
         "id": 4794319,
         "character": "Female Passerby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Fiona Mongillo": {
         "id": 4794320,
         "character": "Donald's Secretary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Daniel Goldenberg": {
         "id": 4794322,
         "character": "Lawyer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Mary Krohnert": {
         "id": 211432,
@@ -1526,7 +1524,7 @@
       "Taylor Brunatti": {
         "id": 4794323,
         "character": "Ivanka's Girlfriend #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Addyson Douglas": {
         "id": 2103926,
@@ -1541,27 +1539,27 @@
       "James Lucas Cruikshank": {
         "id": 4794327,
         "character": "Choir Singer #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Henos Girma": {
         "id": 4794328,
         "character": "Choir Singer #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Elliot Hunter Self": {
         "id": 4794329,
         "character": "Choir Singer #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Ross Cameron Bruce Fraser": {
         "id": 4794330,
         "character": "Choir Singer #4",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Eamon Bernard Fraser": {
         "id": 4794331,
         "character": "Choir Singer #5",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Niamh Carolan": {
         "id": 2656660,
@@ -1571,7 +1569,7 @@
       "Michelle Doiron": {
         "id": 2599660,
         "character": "Topless Call Girl #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Drew Catherine": {
         "id": 2226963,
@@ -1581,12 +1579,12 @@
       "Dion Yorkie": {
         "id": 4794339,
         "character": "Orgy Guy #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Sebb Argo": {
         "id": 4794401,
         "character": "Orgy Guy #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Miles Carney": {
         "id": 3600822,
@@ -1596,7 +1594,7 @@
       "David Yee": {
         "id": 4794403,
         "character": "Party Goer #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5icMlNq4rx6XJ9luWAR1Nr3M9rZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cq2NZ4mvsjTxVa1MQ9jK7KriHsg.jpg"
       },
       "Richard Nixon": {
         "id": 27765,
@@ -10529,7 +10527,7 @@
     "released": "2022-11-23",
     "duration": 140,
     "imdb_id": "tt11564570",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
@@ -11126,8 +11124,8 @@
     "vote_average": "8",
     "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
     "genres": ["Drama", "History"],
-    "imdb_score": "8.9/10",
-    "meta_score": "79/100",
+    "imdb_score": "8.6/10",
+    "meta_score": "85/100",
     "director": "Walter Salles",
     "cast": {
       "Fernanda Torres": {
@@ -16756,7 +16754,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17628,7 +17626,7 @@
       "Chase Sui Wonders": {
         "id": 2420169,
         "character": "Girl (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wpb52nv8X4jKbrSEd42EXELlEAs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e89eEhNUIfMawLNdJ3jXft8AAMF.jpg"
       },
       "Isaac Powell": {
         "id": 2564137,
@@ -21390,7 +21388,7 @@
       "Demi Moore": {
         "id": 3416,
         "character": "Elisabeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lgojmzzzNS6qnho24NdUYDy9nxS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yDBFefCUVpgNFzBOY8VdilzUntK.jpg"
       },
       "Margaret Qualley": {
         "id": 1392137,
