@@ -16754,7 +16754,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20832,6 +20832,8 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
@@ -27074,7 +27076,7 @@
       "Bronwyn James": {
         "id": 1587577,
         "character": "Shenshen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rtJOTh0rz2K4RgWpU8iuAjODebm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mSaZaVNsAVU70VH5go2D2oS8OIL.jpg"
       },
       "Aaron Teoh": {
         "id": 3636639,
