@@ -93,7 +93,7 @@
       "Kayleigh Coleman": {
         "id": 3562263,
         "character": "Jane",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w3evWYYDsfbsqjnrYkRN8Zg8WDd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/87Saij0k3iXE59fYfRHgt5gmTKl.jpg"
       },
       "John Stuifzand": {
         "id": 3757257,
@@ -961,7 +961,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gyiw7fAsqVYYrfRbYxwLfaJSOR7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/drny5M0foZpJfaee6Kh0L4Ox8xg.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -16241,16 +16241,6 @@
         "id": 5134736,
         "character": "Boy at Playground",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
-      },
-      "Sidney Poitier": {
-        "id": 16897,
-        "character": "Self (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fhMiCe3ScxBGKEX6Y6flEJm7iHd.jpg"
-      },
-      "Martin Luther King Jr.": {
-        "id": 1107983,
-        "character": "Self (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5AYILU60HVNMWmhDEhFtnJVv31O.jpg"
       }
     }
   },
@@ -16754,7 +16744,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
