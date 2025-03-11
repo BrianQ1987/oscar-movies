@@ -10291,7 +10291,18 @@
     "rt_score": "97%",
     "meta_score": "87/100",
     "director": "Gints Zilbalodis",
-    "cast": []
+    "cast": {
+      "Gints Zilbalodis": {
+        "id": 1328012,
+        "character": "Writter",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
+      },
+      "Rihards Zaļupe": {
+        "id": 2553500,
+        "character": "Music",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/imKSymKBK7o73sajciEmndJoVkR.jpg"
+      }
+    }
   },
   "The Girl with the Needle": {
     "id": "1232827",
@@ -11426,7 +11437,7 @@
       "Alan Rocha": {
         "id": 2490904,
         "character": "Jornalista Manchete",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m12SRfaSvbDQT9y4LAoBqULbDHo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
       },
       "Philipp Lavra": {
         "id": 2404026,
@@ -13429,7 +13440,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Jon Peters",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rVyVoBJl8WBM5kq6gFobV3Fgcay.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
       },
       "Benny Safdie": {
         "id": 227564,
@@ -14895,7 +14906,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Leonard Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rVyVoBJl8WBM5kq6gFobV3Fgcay.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
       },
       "Matt Bomer": {
         "id": 66743,
@@ -16024,7 +16035,7 @@
   "Nickel Boys": {
     "id": "1028196",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Adapted Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg",
@@ -16273,7 +16284,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Stanton Carlisle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rVyVoBJl8WBM5kq6gFobV3Fgcay.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -16749,7 +16760,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18698,7 +18709,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20829,7 +20840,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21376,7 +21387,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction"],
+    "genres": ["Horror", "Science Fiction", "Drama", "Comedy"],
     "imdb_score": "7.3/10",
     "rt_score": "89%",
     "meta_score": "78/100",
@@ -26159,7 +26170,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
