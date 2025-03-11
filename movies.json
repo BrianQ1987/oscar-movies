@@ -554,7 +554,7 @@
     },
     "I'm Still Here": {
         "id": "1000837",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2025,
         "categories": ["Best Picture", "Best Actress", "Best International Feature Film"]
