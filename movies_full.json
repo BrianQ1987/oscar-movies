@@ -497,7 +497,7 @@
       "Joseph Marrella": {
         "id": 4277684,
         "character": "Matthew Wilson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Ejc8rJ6345hARXEgM78clWCWfH.jpg"
       },
       "Stephen Burrell": {
         "id": 3957864,
@@ -8691,15 +8691,15 @@
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
     "cast": {
-      "Karla Sofía Gascón": {
-        "id": 1505938,
-        "character": "Emilia Pérez / Manitas del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
-      },
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita Mora Castro",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+      },
+      "Karla Sofía Gascón": {
+        "id": 1505938,
+        "character": "Emilia Pérez / Manitas del Monte",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
       },
       "Selena Gomez": {
         "id": 77948,
@@ -10291,18 +10291,7 @@
     "rt_score": "97%",
     "meta_score": "87/100",
     "director": "Gints Zilbalodis",
-    "cast": {
-      "Gints Zilbalodis": {
-        "id": 1328012,
-        "character": "Writter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
-      },
-      "Rihards Zaļupe": {
-        "id": 2553500,
-        "character": "Music",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/imKSymKBK7o73sajciEmndJoVkR.jpg"
-      }
-    }
+    "cast": []
   },
   "The Girl with the Needle": {
     "id": "1232827",
@@ -11128,7 +11117,7 @@
   },
   "I'm Still Here": {
     "id": "1000837",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actress", "Best International Feature Film"],
@@ -11142,6 +11131,8 @@
     "genres": ["Drama", "History"],
     "imdb_score": "8.6/10",
     "meta_score": "85/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Walter Salles",
     "cast": {
       "Fernanda Torres": {
@@ -16572,7 +16563,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16760,7 +16751,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -16978,7 +16969,7 @@
       "Cillian Murphy": {
         "id": 2037,
         "character": "J. Robert Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ycZpLjHxsNPvsB6ndu2D9qsx94X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
       },
       "Emily Blunt": {
         "id": 5081,
@@ -20840,7 +20831,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26170,7 +26161,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
