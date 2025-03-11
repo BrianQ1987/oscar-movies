@@ -682,7 +682,7 @@
     "released": "2023-08-23",
     "duration": 151,
     "imdb_id": "tt17009710",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
     "imdb_score": "7.7/10",
@@ -961,7 +961,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/drny5M0foZpJfaee6Kh0L4Ox8xg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b0HZr4Xa4pIR7MzTPXfIWvUZELx.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -4926,7 +4926,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
     "duration": 215,
@@ -5007,7 +5007,7 @@
       "Maria Sand": {
         "id": 5213028,
         "character": "Michelle Hoffman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Salvatore Sansone": {
         "id": 68158,
@@ -5022,7 +5022,7 @@
       "Charlie Esoko": {
         "id": 5213030,
         "character": "Young William",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Levente Orbán": {
         "id": 1827534,
@@ -5037,7 +5037,7 @@
       "Peter Deutsch": {
         "id": 5259108,
         "character": "Habbi Zuniz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Abigél Szőke": {
         "id": 2295856,
@@ -5047,12 +5047,12 @@
       "Daniel Washington": {
         "id": 2298881,
         "character": "HIAS Representative 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "András Borgula": {
         "id": 5015673,
         "character": "HIAS Representative 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Zsolt Páll": {
         "id": 1390683,
@@ -5102,7 +5102,7 @@
       "David Puskas": {
         "id": 3767547,
         "character": "Hired Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl16UFazRs5Xv3VS8YKhRqQRY8T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg"
       },
       "Laurent Winkler": {
         "id": 2448697,
@@ -8969,6 +8969,11 @@
       "Paul Kai Te": {
         "id": 5088313,
         "character": "Sicario (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+      },
+      "The Rizzler": {
+        "id": 5294810,
+        "character": "Emilia Perizz",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
       }
     }
@@ -16556,7 +16561,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17122,7 +17127,7 @@
       "Alex Wolff": {
         "id": 934281,
         "character": "Luis Alvarez",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hMhGWS5nB7ZGA3B1aefY39pizgm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2SSYjSU4zJrT7wi9MF3HfsIvxqv.jpg"
       },
       "Josh Zuckerman": {
         "id": 62816,
@@ -19578,7 +19583,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -26154,7 +26159,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
