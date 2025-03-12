@@ -8,7 +8,7 @@ api_key <- '91d04f3f962aeb346fde58d53a9594ca'
 api_base_url <- 'https://api.themoviedb.org/3/'
 image_base_url <- 'https://image.tmdb.org/t/p/w1280'
 
-services <- c("Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV Plus", 
+services <- c("Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV+", 
               "Channel 4", "Paramount Plus", "BBC iPlayer", "My5", "Freevee")
 
 # Function to sort objects by title
