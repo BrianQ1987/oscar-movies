@@ -4833,7 +4833,7 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/dYwihSnQmCVuIQbuG9n18BK5Iqd.jpg",
     "title": "The Boy and the Heron",
     "released": "2023-07-14",
     "duration": 124,
@@ -5841,7 +5841,7 @@
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
-    "rt_score": "80%",
+    "rt_score": "82%",
     "meta_score": "70/100",
     "director": "James Mangold",
     "cast": {
@@ -18706,7 +18706,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18839,7 +18839,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
     "title": "A Real Pain",
     "released": "2024-11-01",
-    "duration": 89,
+    "duration": 90,
     "imdb_id": "tt21823606",
     "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
@@ -20837,7 +20837,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26169,7 +26169,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
