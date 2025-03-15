@@ -961,7 +961,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qwGxIf222ZkWiWiHUUI3Pif3m0v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b0HZr4Xa4pIR7MzTPXfIWvUZELx.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -2481,8 +2481,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "87/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
+    "platforms": ["Channel 4", "Channel 4"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -6526,7 +6526,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b0nleEoQuw43mm8XGftPZLOju1m.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -8681,7 +8681,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actress", "Best Adapted Screenplay", "Best International Feature Film"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg",
     "title": "Emilia Pérez",
     "released": "2024-08-21",
     "duration": 132,
@@ -8738,37 +8738,37 @@
       "Gaël Murgia-Fur": {
         "id": 4759023,
         "character": "Angel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Tirso Pietriga": {
         "id": 4759024,
         "character": "Diego",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Xiomara Ahumada Quito": {
         "id": 5063372,
         "character": "Woman in Black",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Magali Brito": {
         "id": 4759028,
         "character": "La Ponchis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Jarib dit Javier Zagoya Montiel": {
         "id": 2367087,
         "character": "Chaplain",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Sébastien Fruit": {
         "id": 4759029,
         "character": "El Flaco",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Alejandra Reyes": {
         "id": 4126351,
         "character": "Rosa / Courtroom Cleaning Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Anabel Lopez": {
         "id": 1635750,
@@ -8778,7 +8778,7 @@
       "Daniel Velasco-Acosta": {
         "id": 4725739,
         "character": "Emilia's Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "James Gerard": {
         "id": 220575,
@@ -8788,7 +8788,7 @@
       "Braulio Gómez Bernal": {
         "id": 5064098,
         "character": "TV Anchor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Stéphane Ly-Cuong": {
         "id": 1886845,
@@ -8803,72 +8803,72 @@
       "Johanna Rebolledo Marin": {
         "id": 5064100,
         "character": "Courtroom Cleaning Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Alejandra Díaz Ambrosi": {
         "id": 5064102,
         "character": "Courtroom Cleaning Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Karla Lazo": {
         "id": 3747650,
         "character": "Courtroom Cleaning Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Gabriela Ceceña": {
         "id": 4200295,
         "character": "Courtroom Cleaning Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Lucile Chriqui": {
         "id": 5064105,
         "character": "Courtroom Cleaning Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Sarah Gfeller": {
         "id": 5064108,
         "character": "Widow",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Luis Gabriel Gonzalez": {
         "id": 5064112,
         "character": "Repented Sicario",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Loïc Percheron Lazo": {
         "id": 5064113,
         "character": "Soloist Child",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Rosario Zamora": {
         "id": 2337108,
         "character": "Chepultepec Cafe Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Nathalia Saucedo": {
         "id": 5064121,
         "character": "Emilia's Maid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Monica Ortiz": {
         "id": 5064124,
         "character": "Emilia's Maid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Marysol Cordourier": {
         "id": 5064123,
         "character": "Emilia's Maid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Alonso Venegas-Flores": {
         "id": 3594551,
         "character": "Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Ana Laura Fortuit": {
         "id": 5064129,
         "character": "Journalist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Jonas Paz-Benavides": {
         "id": 4148899,
@@ -8878,12 +8878,12 @@
       "Tiphanie Ham": {
         "id": 5064132,
         "character": "Journalist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Benjamin Díaz Espinoza": {
         "id": 5064133,
         "character": "Kid on Bike",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Holly-Rose Clegg": {
         "id": 3506082,
@@ -8903,17 +8903,17 @@
       "Michaël Charny": {
         "id": 2455084,
         "character": "London Dinner Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Mohammed Ali Ismail": {
         "id": 2828347,
         "character": "London Dinner Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Katie Valentine": {
         "id": 5064152,
         "character": "London Dinner Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Zelda Rittner": {
         "id": 2478799,
@@ -8928,32 +8928,32 @@
       "Silvia Herraiz": {
         "id": 5064154,
         "character": "Fundraising Speaker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Ángel Romero": {
         "id": 3800239,
         "character": "Mariachi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Eduardo Lubo": {
         "id": 5064157,
         "character": "Mariachi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Manuel Sol Mateo": {
         "id": 5064158,
         "character": "Mariachi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Théo Guarin": {
         "id": 5064166,
         "character": "Angel as a Child",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Lucas Varoclier": {
         "id": 4725738,
         "character": "Diego as a Child",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Agathe Bokja": {
         "id": 4060696,
@@ -8973,12 +8973,12 @@
       "Paul Kai Te": {
         "id": 5088313,
         "character": "Sicario (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "The Rizzler": {
         "id": 5294810,
         "character": "Emilia Perizz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRlzWIUljlcaWMvVdHlVkK4HrKj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       }
     }
   },
@@ -9287,8 +9287,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "94%",
     "meta_score": "81/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
+    "platforms": ["Channel 4", "Channel 4"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -16569,7 +16569,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16757,7 +16757,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18576,8 +18576,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Channel 4", "Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -19591,7 +19591,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -20629,7 +20629,7 @@
       "Kristen Stewart": {
         "id": 37917,
         "character": "Diana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nhXjosx8LbjqWQTf3sFM8GojKVb.jpg"
       },
       "Timothy Spall": {
         "id": 9191,
@@ -25103,7 +25103,7 @@
       "Iris Berben": {
         "id": 43451,
         "character": "Therese",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pInPB6vJDaGlVQZn06pKoOCRhCN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qj03SCM8eARHkbxyEjBzZIAAiqv.jpg"
       },
       "Jean-Christophe Folly": {
         "id": 559648,
@@ -27031,7 +27031,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b0nleEoQuw43mm8XGftPZLOju1m.jpg"
       },
       "Jeff Goldblum": {
         "id": 4785,
@@ -29338,8 +29338,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Channel 4", "Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
     "cast": {
       "Renate Reinsve": {
