@@ -5122,7 +5122,7 @@
       "Natalie Shinnick": {
         "id": 2903584,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7g7eTdjc8u0rVdL9FLsWtrEsJBv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xliiRh8hooB7Ij5PXywojIK5Z8m.jpg"
       }
     }
   },
@@ -6526,7 +6526,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0nleEoQuw43mm8XGftPZLOju1m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -14393,11 +14393,6 @@
         "id": 2905434,
         "character": "Fair Volunteer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/31sgNM0IqpevV5SPGVM5faryy6e.jpg"
-      },
-      "Ben Stiller": {
-        "id": 7399,
-        "character": "Sam Harpoon (as Dan Chariton)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
       }
     }
   },
@@ -16569,7 +16564,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19591,7 +19586,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -20619,9 +20614,9 @@
     "vote_average": "6.8",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
     "genres": ["Drama", "History"],
-    "imdb_score": "6.5/10",
-    "rt_score": "83%",
-    "meta_score": "76/100",
+    "imdb_score": "7.8/10",
+    "rt_score": "90%",
+    "meta_score": "72/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Pablo Larraín",
@@ -26169,7 +26164,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27031,7 +27026,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0nleEoQuw43mm8XGftPZLOju1m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
       },
       "Jeff Goldblum": {
         "id": 4785,
