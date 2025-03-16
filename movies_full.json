@@ -2481,8 +2481,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "87/100",
-    "platforms": ["Channel 4", "Channel 4"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": "Channel 4",
+    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -2706,7 +2706,7 @@
       "Helen Mirren": {
         "id": 15735,
         "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tFc53mBJKhKhlTLaHQkn03NC5hf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
       },
       "Will Ferrell": {
         "id": 23659,
@@ -2876,7 +2876,7 @@
       "Adam Ray": {
         "id": 1637555,
         "character": "Policeman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a6yNOlhATZtRVYOFAgbQismCrjC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ehoRh9BwWIK4P5OnEuFolSPcozv.jpg"
       },
       "George Basil": {
         "id": 1097533,
@@ -4833,12 +4833,12 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/dYwihSnQmCVuIQbuG9n18BK5Iqd.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
     "title": "The Boy and the Heron",
     "released": "2023-07-14",
     "duration": 124,
     "imdb_id": "tt6587046",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama"],
     "imdb_score": "7.4/10",
@@ -4934,7 +4934,7 @@
     "vote_average": "7.1",
     "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
     "genres": "Drama",
-    "imdb_score": "8.0/10",
+    "imdb_score": "7.5/10",
     "rt_score": "94%",
     "meta_score": "90/100",
     "director": "Brady Corbet",
@@ -7157,8 +7157,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ryūsuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -9287,8 +9287,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "94%",
     "meta_score": "81/100",
-    "platforms": ["Channel 4", "Channel 4"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": "Channel 4",
+    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -9500,8 +9500,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "67%",
     "meta_score": "55/100",
-    "platforms": ["Disney Plus", "Channel 4", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Michael Showalter",
     "cast": {
       "Jessica Chastain": {
@@ -16564,7 +16564,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16752,7 +16752,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -16990,7 +16990,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -18571,8 +18571,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -18701,7 +18701,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20614,9 +20614,9 @@
     "vote_average": "6.8",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
     "genres": ["Drama", "History"],
-    "imdb_score": "7.8/10",
-    "rt_score": "90%",
-    "meta_score": "72/100",
+    "imdb_score": "6.5/10",
+    "rt_score": "83%",
+    "meta_score": "76/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Pablo Larraín",
@@ -24612,7 +24612,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -26164,7 +26164,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29333,8 +29333,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
     "cast": {
       "Renate Reinsve": {
