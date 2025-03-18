@@ -4040,7 +4040,7 @@
     "vote_average": "7.1",
     "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
     "genres": ["Action", "Adventure", "Science Fiction"],
-    "imdb_score": "6.7/10",
+    "imdb_score": "6.6/10",
     "rt_score": "84%",
     "meta_score": "67/100",
     "platforms": "Disney Plus",
@@ -5122,7 +5122,7 @@
       "Natalie Shinnick": {
         "id": 2903584,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xliiRh8hooB7Ij5PXywojIK5Z8m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7g7eTdjc8u0rVdL9FLsWtrEsJBv.jpg"
       }
     }
   },
@@ -5236,8 +5236,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "91%",
     "meta_score": "81/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Lukas Dhont",
     "cast": {
       "Eden Dambrine": {
@@ -8703,7 +8703,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kEGPpTVNBFD25cgyEEsoOZSmaMv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xRUoMcqi2AasnoJOjUNncBxrvwY.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -11146,7 +11146,7 @@
       },
       "Valentina Herszage": {
         "id": 1508719,
-        "character": "Vera Paiva",
+        "character": "Vera \"Veroca\" Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uJxN1QpU7XJzeg2navvMIQOGAjj.jpg"
       },
       "Bárbara Luz": {
@@ -16747,7 +16747,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18696,7 +18696,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18834,9 +18834,9 @@
     "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
-    "imdb_score": "7.2/10",
+    "imdb_score": "7.1/10",
     "rt_score": "96%",
-    "meta_score": "86/100",
+    "meta_score": "85/100",
     "director": "Jesse Eisenberg",
     "cast": {
       "Jesse Eisenberg": {
@@ -27008,7 +27008,7 @@
     "vote_average": "6.9",
     "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
     "genres": ["Drama", "Romance", "Fantasy"],
-    "imdb_score": "8.0/10",
+    "imdb_score": "7.5/10",
     "rt_score": "88%",
     "meta_score": "73/100",
     "director": "Jon M. Chu",
