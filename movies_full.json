@@ -7142,6 +7142,11 @@
         "id": 2148697,
         "character": "Reporter with Big Hair (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dPMHEvsqwBHSiFaSIUNCMmA2wOC.jpg"
+      },
+      "Luan Gallagher": {
+        "id": 4718081,
+        "character": "Boy looking at the meteor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
       }
     }
   },
@@ -7162,8 +7167,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ryūsuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -14633,7 +14638,7 @@
       "Dakota Johnson": {
         "id": 118545,
         "character": "Nina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dZO0CeFknOFrOcjOQKkINmpWn3f.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
       },
       "Ed Harris": {
         "id": 228,
@@ -15509,7 +15514,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg",
     "title": "Memoir of a Snail",
     "released": "2024-10-17",
     "duration": 94,
@@ -15567,7 +15572,7 @@
       "Bernie Clifford": {
         "id": 3664298,
         "character": "Owen Appleby (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Davey Thompson": {
         "id": 3222232,
@@ -15577,12 +15582,12 @@
       "Charlotte Belsey": {
         "id": 4549229,
         "character": "Young Grace (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Mason Litsos": {
         "id": 4549227,
         "character": "Young Gilbert (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Nick Cave": {
         "id": 39516,
@@ -15592,22 +15597,22 @@
       "Agnes Davison": {
         "id": 5084937,
         "character": "Additional Young Grace (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Daniel Agdag": {
         "id": 1454654,
         "character": "Doctor (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Saxon Wright": {
         "id": 4062102,
         "character": "Bert (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Selena Brennan": {
         "id": 4554037,
         "character": "Annie Pudel (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Adam Elliot": {
         "id": 92733,
@@ -15617,37 +15622,37 @@
       "Smita Singh": {
         "id": 5084949,
         "character": "Teacher (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Braiden Asciak": {
         "id": 3236168,
         "character": "Dwayne Appleby (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Dan Doherty": {
         "id": 1750874,
         "character": "Shayne Appleby / Canberra Courier (voice",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Alexander Esenarro Santafe": {
         "id": 5084955,
         "character": "Hector Santamaria (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Hedley Elliot": {
         "id": 5084957,
         "character": "Crossing Kid Hedley (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Clancy Elliot": {
         "id": 5084958,
         "character": "Crossing Kid Clancy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Grace Elliot": {
         "id": 5084960,
         "character": "Crossing Kid Gracey (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Luke Elliot": {
         "id": 27644,
@@ -15662,82 +15667,82 @@
       "Craig Ross": {
         "id": 1454663,
         "character": "Craig Ross (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Vicki Ross": {
         "id": 5084962,
         "character": "Laughter Club Vicki (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "David Williams": {
         "id": 2711052,
         "character": "Sylvia (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Klaus Banadinovich": {
         "id": 3820865,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Charlotte Culshaw": {
         "id": 5089215,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Ruby Davis": {
         "id": 5085421,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Beryl Downing": {
         "id": 5089216,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Wilhelmina Elliot": {
         "id": 5089217,
         "character": "Additional Kids Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Owen Grieve": {
         "id": 3175483,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Alyssia Jade": {
         "id": 5089218,
         "character": "Additional Kids Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Caleb Lee": {
         "id": 5089221,
         "character": "Additional Kids Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Veronica Lynch": {
         "id": 4177012,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Jaylen Nagloo": {
         "id": 5089222,
         "character": "Additional Kids Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Devanjana Rajesh": {
         "id": 5089223,
         "character": "Additional Kids Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Ruth Relf": {
         "id": 5089225,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Roger Savage": {
         "id": 2404764,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       },
       "Flynn Wandin": {
         "id": 4078884,
@@ -15752,7 +15757,7 @@
       "Lee Yee": {
         "id": 2967683,
         "character": "Additional Adult Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lWh5OlerPR1c1cfn1ZLq0lpqFds.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57AgZv1ITeBLShiNdchZ5153evs.jpg"
       }
     }
   },
@@ -16564,7 +16569,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16752,7 +16757,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -26164,7 +26169,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27191,7 +27196,7 @@
       "Cesily Collette Taylor": {
         "id": 4625103,
         "character": "Young Nessarose",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/laBXulz5H4TAxQs8H3gQTzkVwiO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/54a0uoK06bukqkzJo1SlwcPzn3n.jpg"
       },
       "Jarlan Bogolubov": {
         "id": 4088090,
