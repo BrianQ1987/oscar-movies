@@ -16,8 +16,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "95%",
     "meta_score": "95/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Charlotte Wells",
     "cast": {
       "Paul Mescal": {
@@ -954,7 +954,7 @@
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.8/10",
-    "rt_score": "94%",
+    "rt_score": "93%",
     "meta_score": "91/100",
     "director": "Sean Baker",
     "cast": {
@@ -8708,7 +8708,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi del Monte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xRUoMcqi2AasnoJOjUNncBxrvwY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kEGPpTVNBFD25cgyEEsoOZSmaMv.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -16038,7 +16038,7 @@
     "vote_average": "6.5",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
-    "imdb_score": "7.4/10",
+    "imdb_score": "7.0/10",
     "rt_score": "91%",
     "meta_score": "91/100",
     "platforms": ["Amazon Prime Video", "Plex"],
@@ -20832,7 +20832,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21680,10 +21680,10 @@
         "character": "Stagehand",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3R5cX2LPRSdY6GCqFBcP9Muq8Zv.jpg"
       },
-      "Céline Vogt": {
-        "id": 73995,
-        "character": "Elisabeth (Young) - Walk of Fame",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2pkBIL8OKXXWr1SERPsr7LVAsQX.jpg"
+      "Cécile Vogt": {
+        "id": 5323934,
+        "character": "Elisabeth (Young) - Walk of Fame / Pump It Up Show Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
       "Yannick Guérin": {
         "id": 5002976,
@@ -21870,7 +21870,7 @@
         "character": "New Year's Eve Show Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
       },
-      "Aleksandra Fontaine Kedzierska": {
+      "Aleksandra Kedzierska Fontaine": {
         "id": 5039215,
         "character": "New Year's Eve Show Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cGm2qnmXx9tFabmzEIkJZjCJdQd.jpg"
@@ -26159,7 +26159,7 @@
     "vote_average": "7.6",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Comedy", "Family", "Adventure"],
-    "imdb_score": "7.6/10",
+    "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
@@ -28906,7 +28906,7 @@
       "Jonathan Bourne": {
         "id": 5153559,
         "character": "Chorus",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hVQ0gwCqaoW59nzc4I74jPRCGWu.jpg"
       },
       "Leah St Luce": {
         "id": 5153560,
