@@ -945,12 +945,12 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.8/10",
@@ -1066,7 +1066,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1081,7 +1081,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1096,22 +1096,22 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qh8m8Udz0sCa5gy9VaqfHPh0yPM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
       },
       "Charlton Lamar": {
         "id": 3650583,
@@ -3749,7 +3749,7 @@
       "Daniel Armella": {
         "id": 1328457,
         "character": "Stagehand",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fxHaBfg1MDlku1HXGobLZ205bqt.jpg"
       },
       "Molly Meyer": {
         "id": 1525063,
@@ -6526,7 +6526,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cslFyOh3sTWDeWXgsxmjJ1uqE0P.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/g08BKZKbQbfY6MOPFHLwL1q1NJl.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -16752,7 +16752,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18701,7 +18701,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19900,7 +19900,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -20832,7 +20832,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26164,7 +26164,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
