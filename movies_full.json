@@ -4836,7 +4836,7 @@
     "released": "2023-07-14",
     "duration": 124,
     "imdb_id": "tt6587046",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama"],
     "imdb_score": "7.4/10",
@@ -5835,7 +5835,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
@@ -9285,8 +9285,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "94%",
     "meta_score": "81/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -16750,7 +16748,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20830,7 +20828,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21377,7 +21375,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction", "Drama", "Comedy"],
+    "genres": ["Horror", "Science Fiction"],
     "imdb_score": "7.3/10",
     "rt_score": "89%",
     "meta_score": "78/100",
