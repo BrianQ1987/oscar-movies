@@ -688,8 +688,6 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "86/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Justine Triet",
     "cast": {
       "Sandra Hüller": {
@@ -5835,7 +5833,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
@@ -15510,7 +15508,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "7.9",
+    "vote_average": "8",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -15769,8 +15767,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "81/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["ITVX", "Netflix"],
+    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": "Mike Rianda",
     "cast": {
       "Abbi Jacobson": {
@@ -17394,7 +17392,7 @@
       "Penélope Cruz": {
         "id": 955,
         "character": "Janis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fl0Mx91l950V5qKfX1nhNgxaVwP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2Lbc8QXgHik1D1saPqQ5qEWwUEh.jpg"
       },
       "Milena Smit": {
         "id": 2560224,
@@ -18697,7 +18695,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18717,7 +18715,7 @@
       "Alan Tudyk": {
         "id": 21088,
         "character": "Tuk Tuk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ygkSM0G3JQaC0lY42567p6OGnQ1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sNZKdBEXVLgSC10y2LStfP3kBJT.jpg"
       },
       "Izaac Wang": {
         "id": 2362044,
@@ -20828,7 +20826,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
