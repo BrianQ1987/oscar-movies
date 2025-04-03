@@ -2607,7 +2607,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3Y3Xk8jwE1Ju0zIn31zBMuD7Fkn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8xrCTYP8PuHixWzkiX6onJNfw8k.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -18690,7 +18690,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18831,6 +18831,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "96%",
     "meta_score": "85/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Jesse Eisenberg",
     "cast": {
       "Jesse Eisenberg": {
@@ -25792,7 +25794,7 @@
     "released": "2022-03-10",
     "duration": 100,
     "imdb_id": "tt8097030",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": "6.9/10",
@@ -29322,8 +29324,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Channel 4", "Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
     "cast": {
       "Renate Reinsve": {
