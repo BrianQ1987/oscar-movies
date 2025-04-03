@@ -2183,7 +2183,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/snQ1rfO9Bb2LRG9MAOQnn3JXVHy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -8699,7 +8699,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita Mora Castro",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/snQ1rfO9Bb2LRG9MAOQnn3JXVHy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
       },
       "Selena Gomez": {
         "id": 77948,
@@ -16553,7 +16553,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16741,7 +16741,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20821,7 +20821,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
