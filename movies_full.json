@@ -8721,7 +8721,7 @@
         "character": "Gabriel Mendoza",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xb2wmTZkuflhYxp6Mp9b2cyQd8k.jpg"
       },
-      "Gaël Murgia-Fur": {
+      "Gaël Murguia-Fur": {
         "id": 4759023,
         "character": "Angel",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
@@ -16543,7 +16543,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -26140,7 +26140,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
