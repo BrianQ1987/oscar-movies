@@ -5969,7 +5969,7 @@
       "Andy Talen": {
         "id": 4849598,
         "character": "Jimmy Dean",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/f6np3MCTOzMps5KBJtcu7BiIrfV.jpg"
       },
       "Andrew Kober": {
         "id": 1320504,
@@ -18675,7 +18675,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19876,7 +19876,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -20808,7 +20808,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26140,7 +26140,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
