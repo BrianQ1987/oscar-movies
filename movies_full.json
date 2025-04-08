@@ -2464,6 +2464,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "87/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -2602,7 +2604,7 @@
       "Kate McKinnon": {
         "id": 1240487,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mnSWLkK6KWesWuFIYjRIrUh7qgr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7o26OzpEPAUma65jGQZop9d52gy.jpg"
       },
       "Alexandra Shipp": {
         "id": 1253199,
@@ -4918,7 +4920,7 @@
     "duration": 215,
     "imdb_id": "tt8999762",
     "vote_average": "7.1",
-    "overview": "Escaping post-war Europe, visionary architect László Toth arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
+    "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
     "genres": "Drama",
     "imdb_score": "7.5/10",
     "rt_score": "93%",
@@ -5823,7 +5825,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
@@ -7333,7 +7335,7 @@
       "Dave Bautista": {
         "id": 543530,
         "character": "Beast Rabban Harkonnen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ymn6iQBJbQZN6BYI60YJDXVP4gF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
       },
       "David Dastmalchian": {
         "id": 83854,
@@ -7581,7 +7583,7 @@
       "Dave Bautista": {
         "id": 543530,
         "character": "Beast Rabban",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ymn6iQBJbQZN6BYI60YJDXVP4gF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
       },
       "Christopher Walken": {
         "id": 4690,
@@ -10558,7 +10560,7 @@
       "Dave Bautista": {
         "id": 543530,
         "character": "Duke Cody",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ymn6iQBJbQZN6BYI60YJDXVP4gF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
       },
       "Jessica Henwick": {
         "id": 1202689,
@@ -16543,7 +16545,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16731,7 +16733,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18675,7 +18677,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20808,7 +20810,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26140,7 +26142,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26278,7 +26280,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/41IGc7zC5CNgJyjtIOExan5fYO6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2zk0hYmVtDNVENhHbsVs2FPzP3o.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
@@ -26997,7 +26999,7 @@
       "Cynthia Erivo": {
         "id": 1765068,
         "character": "Elphaba",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eiFzhLYPkKuud8DIUsganj6K9ip.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oQcFwHu50upW6Soz4Ycc9iHge1k.jpg"
       },
       "Ariana Grande": {
         "id": 226001,
