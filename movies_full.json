@@ -5213,7 +5213,7 @@
     "watched": false,
     "nominated": 2023,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg",
     "title": "Close",
     "released": "2022-11-01",
     "duration": 104,
@@ -5281,17 +5281,17 @@
       "Herman van Slambrouck": {
         "id": 3885596,
         "character": "Mark",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       },
       "Iven Deduytschaver": {
         "id": 3885597,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       },
       "Jeffrey Vanhaeren": {
         "id": 3885600,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       },
       "Hélène Theunissen": {
         "id": 1933416,
@@ -5301,17 +5301,17 @@
       "Baptiste Bataille": {
         "id": 3885604,
         "character": "Baptiste's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       },
       "Pieter Piron": {
         "id": 1937781,
         "character": "Doctor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       },
       "Freya De Corte": {
         "id": 3885616,
         "character": "Teacher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       },
       "Cachou Kirsch": {
         "id": 1367117,
@@ -5326,7 +5326,7 @@
       "Hervé Guerrisi": {
         "id": 2921901,
         "character": "Master of Ceremony",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ktvvF6J84V7qXoFIRhyvB8RA0rJ.jpg"
       }
     }
   },
@@ -11867,7 +11867,7 @@
       "Jesse Plemons": {
         "id": 88124,
         "character": "Tom White",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ckTthGclQE0y6b7gR0RpRo7LskL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nx5BJs7anBcuZiqvXC9nInMwMSM.jpg"
       },
       "Tantoo Cardinal": {
         "id": 7863,
@@ -16733,7 +16733,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18169,7 +18169,7 @@
       "Jesse Plemons": {
         "id": 88124,
         "character": "George Burbank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ckTthGclQE0y6b7gR0RpRo7LskL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nx5BJs7anBcuZiqvXC9nInMwMSM.jpg"
       },
       "Thomasin McKenzie": {
         "id": 1356758,
@@ -19878,7 +19878,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -20810,7 +20810,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24640,7 +24640,7 @@
       "Jennifer Connelly": {
         "id": 6161,
         "character": "Penny Benjamin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3oYDftEbM3YgBiHYcbbIPRNZrTL.jpg"
       },
       "Jack Schumacher": {
         "id": 3563646,
@@ -26142,7 +26142,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
