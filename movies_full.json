@@ -15754,8 +15754,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "81/100",
-    "platforms": ["ITVX", "Netflix"],
-    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mike Rianda",
     "cast": {
       "Abbi Jacobson": {
@@ -16733,7 +16733,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18677,7 +18677,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
