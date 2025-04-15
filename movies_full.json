@@ -8231,7 +8231,7 @@
         "character": "Tom Diskin",
         "profile_path": "https://image.tmdb.org/t/p/w1280/djxNCzu1MYxz6D2XV5I1yCsw1e.jpg"
       },
-      "Gary Clark, Jr.": {
+      "Gary Clark Jr.": {
         "id": 971937,
         "character": "Arthur \"Big Boy\" Crudup",
         "profile_path": "https://image.tmdb.org/t/p/w1280/w0ePaQi3UUOaejzNGmHpc2V87lK.jpg"
@@ -15841,7 +15841,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mnYHjEHYKD1VXqvJxdvibf4NaCu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tAGvStYVpHE4znYTln5gD84abgN.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16016,7 +16016,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.4",
+    "vote_average": "6.5",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.0/10",
@@ -16545,7 +16545,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16733,7 +16733,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
