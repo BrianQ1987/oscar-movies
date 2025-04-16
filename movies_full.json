@@ -2749,7 +2749,7 @@
       "Marisa Abela": {
         "id": 2673762,
         "character": "Teen Talk Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xVXmTygr6PpNaBaXT0e0W5LdbFJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
       },
       "Lucy Boynton": {
         "id": 86232,
@@ -4917,7 +4917,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 200,
+    "duration": 215,
     "imdb_id": "tt8999762",
     "vote_average": "7.1",
     "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
@@ -16545,7 +16545,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -26142,7 +26142,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
