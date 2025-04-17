@@ -2579,7 +2579,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kkZKkxI2MfvaeZ38bJERWlqSXSZ.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -4037,7 +4037,7 @@
     "cast": {
       "Letitia Wright": {
         "id": 1083010,
-        "character": "Shuri",
+        "character": "Shuri / Black Panther",
         "profile_path": "https://image.tmdb.org/t/p/w1280/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
       },
       "Tenoch Huerta Mejía": {
@@ -4424,6 +4424,11 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
+      },
+      "Chadwick Boseman": {
+        "id": 172069,
+        "character": "King T'Challa / Black Panther (In Memory of)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
       }
     }
   },
@@ -17096,12 +17101,12 @@
       "Steven Houska": {
         "id": 1215064,
         "character": "Senator Scott",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aZHLD1QOEc90t8pJ3SU6T5OmGFa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dTk6VcX6wPL0CDj3iM9HjbiV8bu.jpg"
       },
       "Petrie Willink": {
         "id": 2781676,
         "character": "Dutch Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gjxKOLnBNkS3lGpRrVreLC4DwgY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9LowsiEDtqyLWd9OG7EQHjErevs.jpg"
       },
       "Matthias Schweighöfer": {
         "id": 16808,
@@ -17151,7 +17156,7 @@
       "Tom Jenkins": {
         "id": 2692405,
         "character": "Richard Tolman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qfALI1iNFbc2xNxL9qGPDhlkMkE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xnLWHpvteDUwyEsrGoajHrs476V.jpg"
       },
       "Louise Lombard": {
         "id": 20805,
@@ -20810,7 +20815,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21366,7 +21371,7 @@
       "Demi Moore": {
         "id": 3416,
         "character": "Elisabeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yDBFefCUVpgNFzBOY8VdilzUntK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wApParZYBDi4yxekjfxjKEifJYh.jpg"
       },
       "Margaret Qualley": {
         "id": 1392137,
@@ -26142,7 +26147,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
