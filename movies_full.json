@@ -4927,7 +4927,7 @@
     "vote_average": "7.1",
     "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
     "genres": "Drama",
-    "imdb_score": "7.5/10",
+    "imdb_score": "7.4/10",
     "rt_score": "93%",
     "meta_score": "90/100",
     "director": "Brady Corbet",
@@ -6460,9 +6460,8 @@
     "vote_average": "7.1",
     "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
     "genres": ["Comedy", "Science Fiction", "Drama"],
-    "imdb_score": "7.4/10",
-    "rt_score": "93%",
-    "meta_score": "79/100",
+    "imdb_score": "7.2/10",
+    "meta_score": "49/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Adam McKay",
@@ -16734,9 +16733,9 @@
     "vote_average": "7.1",
     "overview": "Athlete Diana Nyad sets out at 60 to achieve a nearly impossible lifelong dream: to swim from Cuba to Florida across more than 100 miles of open ocean.",
     "genres": ["Drama", "History"],
-    "imdb_score": "7.5/10",
-    "rt_score": "92%",
-    "meta_score": "75/100",
+    "imdb_score": "7.1/10",
+    "rt_score": "85%",
+    "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
@@ -18553,8 +18552,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -18683,7 +18682,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19435,9 +19434,9 @@
     "vote_average": "7.3",
     "overview": "When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
     "genres": ["Animation", "Adventure", "Action", "Family", "Fantasy"],
-    "imdb_score": "6.5/10",
-    "rt_score": "83%",
-    "meta_score": "68/100",
+    "imdb_score": "7.0/10",
+    "rt_score": "94%",
+    "meta_score": "74/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Chris Williams",
@@ -19651,9 +19650,9 @@
     "vote_average": "7",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
-    "imdb_score": "7.6/10",
-    "rt_score": "97%",
-    "meta_score": "85/100",
+    "imdb_score": "7.1/10",
+    "rt_score": "92%",
+    "meta_score": "76/100",
     "director": "Tim Fehlbaum",
     "cast": {
       "John Magaro": {
@@ -23485,11 +23484,6 @@
         "id": 3965546,
         "character": "MPO Assistant #3 (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
-      },
-      "Leonard Bernstein": {
-        "id": 9851,
-        "character": "Self (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gIcYeEYui0CVZ3eDE26iKUeDX6K.jpg"
       }
     }
   },
@@ -26148,7 +26142,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26998,7 +26992,7 @@
     "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
     "genres": ["Drama", "Romance", "Fantasy"],
     "imdb_score": "7.5/10",
-    "rt_score": "88%",
+    "rt_score": "87%",
     "meta_score": "73/100",
     "director": "Jon M. Chu",
     "cast": {
@@ -29003,9 +28997,9 @@
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
     "genres": ["Animation", "Science Fiction", "Family"],
-    "imdb_score": "7.5/10",
-    "rt_score": "88%",
-    "meta_score": "73/100",
+    "imdb_score": "8.2/10",
+    "rt_score": "96%",
+    "meta_score": "85/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Chris Sanders",
@@ -29334,7 +29328,7 @@
       "Herbert Nordrum": {
         "id": 1083266,
         "character": "Eivind",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oDIyom8cgKeeEXHD8vEFiw2r0Ng.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/92nrjh1G9DvoVyp9GAAoNVLWXV1.jpg"
       },
       "Hans Olav Brenner": {
         "id": 574243,
