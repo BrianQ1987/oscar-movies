@@ -4924,7 +4924,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -6319,9 +6319,9 @@
     "vote_average": "7.2",
     "overview": "After the unexpected death of the Pope, Cardinal Lawrence is tasked with managing the covert and ancient ritual of electing a new one. Sequestered in the Vatican with the Catholic Church’s most powerful leaders until the process is complete, Lawrence finds himself at the center of a conspiracy that could lead to its downfall.",
     "genres": ["Drama", "Thriller", "Mystery"],
-    "imdb_score": "7.7/10",
-    "rt_score": "82%",
-    "meta_score": "70/100",
+    "imdb_score": "7.4/10",
+    "rt_score": "93%",
+    "meta_score": "79/100",
     "director": "Edward Berger",
     "cast": {
       "Ralph Fiennes": {
@@ -8061,9 +8061,9 @@
     "vote_average": "7.6",
     "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
     "genres": ["Animation", "Comedy", "Family", "Fantasy", "Romance"],
-    "imdb_score": "8.5/10",
-    "rt_score": "92%",
-    "meta_score": "79/100",
+    "imdb_score": "7.0/10",
+    "rt_score": "73%",
+    "meta_score": "58/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Peter Sohn",
@@ -16738,7 +16738,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18835,7 +18835,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Benji Kaplan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xVJ2YLyOAKKUMM04V53zyolEyjc.jpg"
       },
       "Will Sharpe": {
         "id": 939337,
