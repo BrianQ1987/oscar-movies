@@ -5830,7 +5830,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
@@ -5901,7 +5901,7 @@
       "Lenny Grossman": {
         "id": 4051614,
         "character": "Federal Court Clerk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3XWMue7Ns00BwnxxcIOn8K1C5cy.jpg"
       },
       "David Wenzel": {
         "id": 1192821,
@@ -5916,12 +5916,12 @@
       "Eloise Peyrot": {
         "id": 5148592,
         "character": "Tinya Seeger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lr7l0zACG9tsIsfOLB8QgbE4v2D.jpg"
       },
       "Maya Feldman": {
         "id": 5148593,
         "character": "Mika Seeger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hhBaXhSPeCmXfz6CRtZXRcebWB9.jpg"
       },
       "Reza Salazar": {
         "id": 1851163,
@@ -5946,17 +5946,17 @@
       "Norbert Leo Butz": {
         "id": 52020,
         "character": "Alan Lomax",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2SMyLebGOemP26yL9pp7IFKfqG5.jpg"
       },
       "Alaina Surgener": {
         "id": 3963321,
         "character": "Gena Russo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aNBcrN9GlK51ZajUbnaIKJcbW4L.jpg"
       },
       "Martin Fisher": {
         "id": 3987403,
         "character": "Civil Rights Speaker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eTFUBHpXAGPz8TBH9tYU1GIQEKn.jpg"
       },
       "Craig Geraghty": {
         "id": 2266738,
@@ -5966,7 +5966,7 @@
       "Michael Everett Johnson": {
         "id": 1831647,
         "character": "Orderly",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kW6Ixjyyj4AwVryZgVI1EpdTlPC.jpg"
       },
       "Jater Webb": {
         "id": 5148601,
@@ -6026,7 +6026,7 @@
       "Zoe Zien": {
         "id": 4895519,
         "character": "Tilda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l6ZqGgo3bgewgJESl3TRQlMmOgD.jpg"
       },
       "Kevyn Morrow": {
         "id": 2481094,
@@ -6041,7 +6041,7 @@
       "Jonathan Spivey": {
         "id": 3553831,
         "character": "Party Guest #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uUa0TffBvOtKJM58lsxzwrGe43i.jpg"
       },
       "Cilda Shaur": {
         "id": 1956122,
@@ -16550,7 +16550,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16738,7 +16738,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20815,7 +20815,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26142,7 +26142,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
