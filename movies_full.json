@@ -3410,11 +3410,6 @@
         "id": 5186434,
         "character": "Retro Nurse Barbie (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ecQyo220IHuI13jemTyLEqyqCiI.jpg"
-      },
-      "Keelan Kelly": {
-        "id": 5329233,
-        "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
       }
     }
   },
@@ -6311,7 +6306,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
     "title": "Conclave",
     "released": "2024-10-25",
     "duration": 120,
@@ -6382,7 +6377,7 @@
       "Bruno Novelli": {
         "id": 4935617,
         "character": "Dead Pope",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg"
       },
       "Rony Kramer": {
         "id": 95167,
@@ -8121,7 +8116,7 @@
       "Matthew Yang King": {
         "id": 157067,
         "character": "Alan / Lutz / Earth Pruner (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jcLJIw0s2uP4PSnH5E8oM3pUyiV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4ck5cTZit0GZVynMSPOEbrF6qTp.jpg"
       },
       "Clara Lin Ding": {
         "id": 4078463,
@@ -18682,7 +18677,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20815,7 +20810,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
