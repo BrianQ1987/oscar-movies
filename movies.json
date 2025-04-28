@@ -611,7 +611,7 @@
     "Flow": {
         "id": "823219",
         "plex": false,
-        "watched": false,
+        "watched": true,
         "nominated": 2025,
         "categories": ["Best Animated Feature Film", "Best International Feature Film"]
     },
