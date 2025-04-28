@@ -10261,7 +10261,7 @@
   "Flow": {
     "id": "823219",
     "plex": false,
-    "watched": false,
+    "watched": true,
     "nominated": 2025,
     "categories": ["Best Animated Feature Film", "Best International Feature Film"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/imKSymKBK7o73sajciEmndJoVkR.jpg",
@@ -16545,7 +16545,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18677,7 +18677,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19646,7 +19646,7 @@
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
-    "rt_score": "93%",
+    "rt_score": "92%",
     "meta_score": "76/100",
     "director": "Tim Fehlbaum",
     "cast": {
@@ -22193,7 +22193,7 @@
       "Jasmine Leung": {
         "id": 3724368,
         "character": "Laura Kim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pAfLwvH3AsXiZ5430jor4XHaNHo.jpg"
       },
       "Johann von Bülow": {
         "id": 36014,
@@ -26137,7 +26137,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -28984,7 +28984,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
     "title": "The Wild Robot",
     "released": "2024-09-12",
     "duration": 102,
@@ -29102,52 +29102,52 @@
       "Alessandro Beghi": {
         "id": 4967576,
         "character": "Baby Opossum 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Tiago Martinez": {
         "id": 3516191,
         "character": "Baby Opossum 2 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Becca Last": {
         "id": 4967579,
         "character": "Baby Opossum 3 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Madelyn Turpin": {
         "id": 4967581,
         "character": "Baby Opossum 3, 4, 5, 6 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Kayleigh Rayne": {
         "id": 4663825,
         "character": "Baby Opossum 4, 7 / Baby Bunny 2 / Baby Skunk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Isabelle Tupin": {
         "id": 4967583,
         "character": "Baby Opossum 8, 9 / Baby Bunny 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Beckett Blomberg": {
         "id": 4967584,
         "character": "Baby Opossum 10 / Chipmunk / Baby Lynx (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Damon Fung": {
         "id": 4967585,
         "character": "Baby Opossum 11 / Baby Otter (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "King Moore": {
         "id": 4871610,
         "character": "Baby Opossum 12 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       },
       "Collin Erker": {
         "id": 3200942,
         "character": "Skunk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
       }
     }
   },
@@ -29468,7 +29468,7 @@
       "Nataniel Nordnes": {
         "id": 3397536,
         "character": "Comic Book Fan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7qjOwl1G9u8ubU89eUcPHwF8rz5.jpg"
       },
       "Trygve Indrelid": {
         "id": 3742542,
