@@ -1352,7 +1352,7 @@
       "Clare Coulter": {
         "id": 1025076,
         "character": "Ms. Nathanson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zM9gZ8TBPck8a2DRZmE8jL4nEJq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ki6Mxhn92agQRFJ9AN417s4ShhL.jpg"
       },
       "Craig Burnatowski": {
         "id": 126244,
@@ -6464,7 +6464,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Dr. Randall Mindy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zwxeqY7AV9VS2J0nTXp3onRErBg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ts9l18VkDSooRGDWIeQegNVHciC.jpg"
       },
       "Jennifer Lawrence": {
         "id": 72129,
@@ -11852,7 +11852,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Ernest Burkhart",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zwxeqY7AV9VS2J0nTXp3onRErBg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ts9l18VkDSooRGDWIeQegNVHciC.jpg"
       },
       "Robert De Niro": {
         "id": 380,
@@ -16545,7 +16545,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18369,7 +18369,7 @@
     "watched": true,
     "nominated": 2023,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/aV1KGO9X3S4kzqEptVDAvGjccql.jpg",
     "title": "Puss in Boots: The Last Wish",
     "released": "2022-12-07",
     "duration": 103,
@@ -18516,7 +18516,7 @@
       "Natalia Cronembold": {
         "id": 2008023,
         "character": "Waitress / Baker's Dozen Gang Member (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aV1KGO9X3S4kzqEptVDAvGjccql.jpg"
       },
       "Paul Fisher": {
         "id": 934181,
@@ -19646,7 +19646,7 @@
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
-    "rt_score": "92%",
+    "rt_score": "93%",
     "meta_score": "76/100",
     "director": "Tim Fehlbaum",
     "cast": {
