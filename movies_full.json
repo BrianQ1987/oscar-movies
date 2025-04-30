@@ -4419,11 +4419,6 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
-      },
-      "Chadwick Boseman": {
-        "id": 172069,
-        "character": "King T'Challa / Black Panther (In Memory of)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
       }
     }
   },
@@ -7578,7 +7573,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qqDsryavx9rwSMhDAxW6OC7oNQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wWWe5MPJwXrDmRM3tI62QbYxBGx.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -15841,7 +15836,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/GshvBqZFXYSq96ONEcY13zMeoY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tqaQpBvvYxm5uL7ckPJlvT4Govb.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16733,7 +16728,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -16971,7 +16966,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qqDsryavx9rwSMhDAxW6OC7oNQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wWWe5MPJwXrDmRM3tI62QbYxBGx.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -18406,7 +18401,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qqDsryavx9rwSMhDAxW6OC7oNQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wWWe5MPJwXrDmRM3tI62QbYxBGx.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -18677,7 +18672,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20810,7 +20805,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26137,7 +26132,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
