@@ -5828,6 +5828,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "82%",
     "meta_score": "70/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Mangold",
     "cast": {
       "Timothée Chalamet": {
@@ -6314,6 +6316,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "93%",
     "meta_score": "79/100",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Edward Berger",
     "cast": {
       "Ralph Fiennes": {
@@ -14966,7 +14970,7 @@
       "Julia Aku": {
         "id": 3076369,
         "character": "Olga",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/miJv31IHZJqzSHlOYSyUurdcWe6.jpg"
       },
       "Benjamin Freemantle": {
         "id": 4479640,
@@ -17108,7 +17112,7 @@
       "Alex Wolff": {
         "id": 934281,
         "character": "Luis Alvarez",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2SSYjSU4zJrT7wi9MF3HfsIvxqv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hMhGWS5nB7ZGA3B1aefY39pizgm.jpg"
       },
       "Josh Zuckerman": {
         "id": 62816,
@@ -18674,7 +18678,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
