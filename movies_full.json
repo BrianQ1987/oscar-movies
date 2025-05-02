@@ -5126,7 +5126,7 @@
     "overview": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond.",
     "genres": "Drama",
     "imdb_score": "6.6/10",
-    "rt_score": "84%",
+    "rt_score": "85%",
     "meta_score": "66/100",
     "platforms": "Apple TV+",
     "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
@@ -6455,7 +6455,7 @@
     "imdb_id": "tt11286314",
     "vote_average": "7.1",
     "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
-    "genres": ["Comedy", "Science Fiction", "Drama"],
+    "genres": ["Comedy", "Science Fiction"],
     "imdb_score": "7.2/10",
     "meta_score": "49/100",
     "platforms": "Netflix",
@@ -7536,7 +7536,7 @@
     "released": "2024-02-27",
     "duration": 167,
     "imdb_id": "tt15239678",
-    "vote_average": "8.1",
+    "vote_average": "8.2",
     "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
     "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.5/10",
@@ -18678,7 +18678,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20821,7 +20821,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q4UpZMEuvNCN5lL5L6xa3ICpheJ.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -26138,7 +26138,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
