@@ -9291,7 +9291,7 @@
       "Ke Huy Quan": {
         "id": 690,
         "character": "Waymond Wang",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5PfYVcNLs1gGKIo0qwJrvyc2UOZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vvQSIzwuNZgIorG7UsT8aYwVrGh.jpg"
       },
       "James Hong": {
         "id": 20904,
@@ -10728,7 +10728,7 @@
     "imdb_id": "tt1488589",
     "vote_average": "8.1",
     "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
-    "genres": ["Animation", "Fantasy", "Drama", "Adventure", "Family", "Music"],
+    "genres": ["Animation", "Fantasy", "Adventure"],
     "imdb_score": "7.6/10",
     "rt_score": "27%",
     "meta_score": "79/100",
@@ -16077,11 +16077,6 @@
         "character": "Young Elwood",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
       },
-      "Daveed Diggs": {
-        "id": 1652371,
-        "character": "Adult Elwood",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v4VmQP0iFFW7SU2ouE2Qhu27Hgy.jpg"
-      },
       "Sam Malone": {
         "id": 1411644,
         "character": "Percy",
@@ -16192,6 +16187,11 @@
         "character": "Citrus Grove Stilt Boss",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
       },
+      "Daveed Diggs": {
+        "id": 1652371,
+        "character": "Adult Elwood",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v4VmQP0iFFW7SU2ouE2Qhu27Hgy.jpg"
+      },
       "Rachel Whitman Groves": {
         "id": 1485159,
         "character": "Nurse Scarlet",
@@ -16226,11 +16226,6 @@
         "id": 4328013,
         "character": "Larry (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/njfKK5kJbwiyJnuSO7CwY2laOmF.jpg"
-      },
-      "Bash Luks": {
-        "id": 5134736,
-        "character": "Boy at Playground",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
       }
     }
   },
@@ -16546,7 +16541,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20813,7 +20808,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26140,7 +26135,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
