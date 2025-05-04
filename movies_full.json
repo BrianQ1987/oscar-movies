@@ -950,7 +950,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -5210,7 +5210,7 @@
     "watched": false,
     "nominated": 2023,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg",
     "title": "Close",
     "released": "2022-11-01",
     "duration": 104,
@@ -5278,17 +5278,17 @@
       "Herman van Slambrouck": {
         "id": 3885596,
         "character": "Mark",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       },
       "Iven Deduytschaver": {
         "id": 3885597,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       },
       "Jeffrey Vanhaeren": {
         "id": 3885600,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       },
       "Hélène Theunissen": {
         "id": 1933416,
@@ -5298,17 +5298,17 @@
       "Baptiste Bataille": {
         "id": 3885604,
         "character": "Baptiste's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       },
       "Pieter Piron": {
         "id": 1937781,
         "character": "Doctor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       },
       "Freya De Corte": {
         "id": 3885616,
         "character": "Teacher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       },
       "Cachou Kirsch": {
         "id": 1367117,
@@ -5323,7 +5323,7 @@
       "Hervé Guerrisi": {
         "id": 2921901,
         "character": "Master of Ceremony",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hjoSRso1ZslGWHowrVtBIfNT56b.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
       }
     }
   },
@@ -7579,7 +7579,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wWWe5MPJwXrDmRM3tI62QbYxBGx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8678,8 +8678,9 @@
     "vote_average": "6.7",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
-    "imdb_score": "5.4/10",
-    "meta_score": "70/100",
+    "imdb_score": "7.3/10",
+    "rt_score": "77%",
+    "meta_score": "64/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
@@ -16045,7 +16046,7 @@
       "Hamish Linklater": {
         "id": 184581,
         "character": "Spencer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AnpxdQjBk3v2OQTgyyb9EuUxAow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hByas1g3htnZFWIbCBdbxC7vGeS.jpg"
       },
       "Gralen Bryant Banks": {
         "id": 557804,
@@ -17460,7 +17461,7 @@
     "watched": true,
     "nominated": 2024,
     "categories": ["Best Picture", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg",
     "title": "Past Lives",
     "released": "2023-06-02",
     "duration": 106,
@@ -17548,17 +17549,17 @@
       "Song Noo-ri": {
         "id": 4499213,
         "character": "Na Young's Childhood Friend 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg"
       },
       "Jin Si-ah": {
         "id": 4499214,
         "character": "Na Young's Childhood Friend 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg"
       },
       "Choi Yoon-seo": {
         "id": 4499215,
         "character": "Na Young's Childhood Friend 3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rzO71VFu7CpJMfF5TQNMj0d1lSV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg"
       },
       "Hwang Seung-eon": {
         "id": 1106149,
@@ -18675,7 +18676,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20818,7 +20819,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/q4UpZMEuvNCN5lL5L6xa3ICpheJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -26135,7 +26136,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
