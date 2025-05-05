@@ -1617,7 +1617,7 @@
       "Ricardo Darín": {
         "id": 69310,
         "character": "Julio Strassera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wP7gyISMcsXLJoInWTjncqhrsAT.jpg"
       },
       "Peter Lanzani": {
         "id": 1246181,
@@ -18675,7 +18675,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20808,7 +20808,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
