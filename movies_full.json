@@ -5210,7 +5210,7 @@
     "watched": false,
     "nominated": 2023,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg",
     "title": "Close",
     "released": "2022-11-01",
     "duration": 104,
@@ -5278,17 +5278,17 @@
       "Herman van Slambrouck": {
         "id": 3885596,
         "character": "Mark",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Iven Deduytschaver": {
         "id": 3885597,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Jeffrey Vanhaeren": {
         "id": 3885600,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Hélène Theunissen": {
         "id": 1933416,
@@ -5298,17 +5298,17 @@
       "Baptiste Bataille": {
         "id": 3885604,
         "character": "Baptiste's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Pieter Piron": {
         "id": 1937781,
         "character": "Doctor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Freya De Corte": {
         "id": 3885616,
         "character": "Teacher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Cachou Kirsch": {
         "id": 1367117,
@@ -5323,7 +5323,7 @@
       "Hervé Guerrisi": {
         "id": 2921901,
         "character": "Master of Ceremony",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       }
     }
   },
@@ -10288,9 +10288,9 @@
     "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History"],
-    "imdb_score": "7.3/10",
+    "imdb_score": "7.5/10",
     "rt_score": "92%",
-    "meta_score": "83/100",
+    "meta_score": "82/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Magnus von Horn",
@@ -16536,7 +16536,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16719,9 +16719,9 @@
     "vote_average": "7.1",
     "overview": "Athlete Diana Nyad sets out at 60 to achieve a nearly impossible lifelong dream: to swim from Cuba to Florida across more than 100 miles of open ocean.",
     "genres": ["Drama", "History"],
-    "imdb_score": "7.5/10",
-    "rt_score": "92%",
-    "meta_score": "75/100",
+    "imdb_score": "7.1/10",
+    "rt_score": "85%",
+    "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
@@ -18665,9 +18665,9 @@
     "vote_average": "7.8",
     "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
     "genres": ["Animation", "Family", "Fantasy", "Action", "Adventure"],
-    "imdb_score": "7.7/10",
-    "rt_score": "97%",
-    "meta_score": "89/100",
+    "imdb_score": "7.3/10",
+    "rt_score": "93%",
+    "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": ["Don Hall", "Carlos López Estrada"],
@@ -19447,7 +19447,7 @@
       "Marianne Jean-Baptiste": {
         "id": 17352,
         "character": "Sarah Sharpe (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/As8lStgIKjFvxJ79rjyZuZHHSih.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bJ6p32cswcp0xvqiZC7S5tiwa2K.jpg"
       },
       "Benjamin Plessala": {
         "id": 3463959,
@@ -20803,7 +20803,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24799,6 +24799,21 @@
         "id": 1046359,
         "character": "Big Roy (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+      },
+      "Kelly McGillis": {
+        "id": 11084,
+        "character": "Charlotte 'Charlie' Blackwood (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/150q3jC4YF1pzSCRe29Kn12W9Ao.jpg"
+      },
+      "Anthony Edwards": {
+        "id": 11085,
+        "character": "LTJG Nick 'Goose' Bradshaw (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rP88gP87pa3je6Viem3081tESIV.jpg"
+      },
+      "Meg Ryan": {
+        "id": 5344,
+        "character": "Carole Bradshaw (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/veFWqcGqFiKdYMJ6uqYdabK9Jma.jpg"
       }
     }
   },
