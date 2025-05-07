@@ -8963,6 +8963,41 @@
         "id": 5088313,
         "character": "Sicario (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+      },
+      "Shuuko Calderón": {
+        "id": 5419884,
+        "character": "Woman at Club(uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+      },
+      "Rose Harlean": {
+        "id": 2802738,
+        "character": "Passerby (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2U6aKtvs7gRtF7K0w0RGDrPBQlz.jpg"
+      },
+      "Clara Jimenez": {
+        "id": 5419885,
+        "character": "TV Translator (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+      },
+      "Cyrus Khodaveisi": {
+        "id": 3599290,
+        "character": "Doctor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+      },
+      "Yohan Levy": {
+        "id": 2403099,
+        "character": "Soldier Ido (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lxI7T3FruDh3lwsaN90VyL0qSq0.jpg"
+      },
+      "Mickael Lips": {
+        "id": 5419886,
+        "character": "Armed Men (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+      },
+      "Daniel Peraldi": {
+        "id": 5419887,
+        "character": "Court Policeman (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       }
     }
   },
@@ -9797,7 +9832,7 @@
       "David Lynch": {
         "id": 5602,
         "character": "John Ford",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b6TnSpuqeOlbq7aHH9G4inmQ1v9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
       },
       "Jeannie Berlin": {
         "id": 124377,
@@ -16536,12 +16571,12 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yjvE3aovyTvebAOalNaI3t6KkjQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cIZNPpvdSPvEnwCuXvxwWcEUezM.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -16724,7 +16759,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18823,7 +18858,7 @@
       "Kieran Culkin": {
         "id": 18793,
         "character": "Benji Kaplan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zfnZ41oxeWnXHlpFU62IR64h8w7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
       },
       "Will Sharpe": {
         "id": 939337,
@@ -27242,7 +27277,7 @@
       "Kim Durham": {
         "id": 1763310,
         "character": "Tamarin / Owl (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hQ1HkX34cjEScElb7bOQP4GCfCT.jpg"
       },
       "Jennifer Woodward": {
         "id": 2341440,
@@ -29321,7 +29356,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wAXYfmwSWBb885WYejXcVqNBBHO.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
