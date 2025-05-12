@@ -8234,7 +8234,7 @@
       },
       "Gary Clark Jr.": {
         "id": 971937,
-        "character": "Arthur \"Big Boy\" Crudup",
+        "character": "Arthur 'Big Boy' Crudup",
         "profile_path": "https://image.tmdb.org/t/p/w1280/w0ePaQi3UUOaejzNGmHpc2V87lK.jpg"
       },
       "Yola": {
@@ -8265,7 +8265,7 @@
       "Shonka Dukureh": {
         "id": 3430991,
         "character": "Big Mama Thornton / Pentecostal Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oGKj0PYIQOkinIzganat2l0uR6X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
       "David Gannon": {
         "id": 2534418,
@@ -8275,12 +8275,12 @@
       "Shannon Sanders": {
         "id": 3866155,
         "character": "Pentecostal Pastor / Pentecostal Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fE6nWeTSfyMSM6gt6nYS24bv2zm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
       "Charles Grounds": {
         "id": 1520527,
         "character": "Cousin Billy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/A4Yc3lKnbMa9rUraLvFbCbf6stG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
       "Josh McConville": {
         "id": 1281967,
@@ -8651,16 +8651,6 @@
         "id": 64948,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
-      },
-      "Sam Arnold": {
-        "id": 3533052,
-        "character": "US Navy Sailor (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uptrPKs066PrPNHxxkD0JZDe5yQ.jpg"
-      },
-      "Stephanie Puggioni": {
-        "id": 5288339,
-        "character": "Audience Member (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       }
     }
   },
@@ -9774,7 +9764,7 @@
       "Ronald Reagan": {
         "id": 18802,
         "character": "Self (archive Footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tuB7bNPABSP3MtPKpdttbz2OdSU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zqpgunkttKWkBFTTdL2Oj86uklx.jpg"
       },
       "Christian Goins": {
         "id": 3983489,
@@ -18703,7 +18693,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20628,7 +20618,7 @@
       "Kristen Stewart": {
         "id": 37917,
         "character": "Diana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ryhCjTGqS6G6OprbR0qUEH355lA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nhXjosx8LbjqWQTf3sFM8GojKVb.jpg"
       },
       "Timothy Spall": {
         "id": 9191,
@@ -20836,7 +20826,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
