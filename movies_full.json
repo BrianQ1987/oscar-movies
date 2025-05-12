@@ -1604,7 +1604,7 @@
     "released": "2022-09-29",
     "duration": 141,
     "imdb_id": "tt15301048",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "In the 1980s, a team of lawyers takes on the heads of Argentina's bloody military dictatorship in a battle against odds and a race against time.",
     "genres": ["Drama", "History", "Crime"],
     "imdb_score": "7.6/10",
@@ -7296,7 +7296,7 @@
       "Oscar Isaac": {
         "id": 25072,
         "character": "Duke Leto Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9LsK7R1eFBO2ENdFoZNWHbRHdCo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
       },
       "Jason Momoa": {
         "id": 117642,
@@ -15531,7 +15531,7 @@
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
     "rt_score": "95%",
-    "meta_score": "83/100",
+    "meta_score": "81/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Adam Elliot",
@@ -17501,8 +17501,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "94/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Celine Song",
     "cast": {
       "Greta Lee": {
@@ -18705,7 +18703,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20194,7 +20192,7 @@
         "character": "Susana \"Susy\" Parrado",
         "profile_path": "https://image.tmdb.org/t/p/w1280/btQzRpByqEKTqjcMeqpTAHjAhxd.jpg"
       },
-      "Louta": {
+      "Jaime James": {
         "id": 3008057,
         "character": "Gastón Costemalle",
         "profile_path": "https://image.tmdb.org/t/p/w1280/k2FBP8whhBh2WZRMKg47Pe5RcC1.jpg"
@@ -20868,7 +20866,7 @@
       "Oscar Isaac": {
         "id": 25072,
         "character": "Miguel O'Hara (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9LsK7R1eFBO2ENdFoZNWHbRHdCo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
       },
       "Jason Schwartzman": {
         "id": 17881,
@@ -26165,7 +26163,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
