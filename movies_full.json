@@ -4841,7 +4841,7 @@
       "Masaki Suda": {
         "id": 585211,
         "character": "Gray Heron (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/y2lBCNMMtDS7sFNJW2tslmLeCgC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dYSUOemkmEfwDY2zIMNf2CaXr4q.jpg"
       },
       "Ko Shibasaki": {
         "id": 58593,
@@ -11597,7 +11597,7 @@
       "Yvette Nicole Brown": {
         "id": 111513,
         "character": "Coach Roberts (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p2YJY3GWbCRvOGvsgC13lkWdrTm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg"
       },
       "Ron Funches": {
         "id": 1260038,
@@ -16749,7 +16749,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17363,6 +17363,11 @@
         "id": 3603785,
         "character": "Senator's Assistant (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pCFoh39cpYHeD6fZtSehcKsde5.jpg"
+      },
+      "Aws": {
+        "id": 5434342,
+        "character": "W Character",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
       }
     }
   },
@@ -18693,7 +18698,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20826,7 +20831,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
