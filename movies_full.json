@@ -16561,7 +16561,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18698,7 +18698,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20831,7 +20831,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -25074,15 +25074,15 @@
         "character": "Yaya",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bdWguLfrKPfRVIFvEOsVNMdeqw9.jpg"
       },
-      "Woody Harrelson": {
-        "id": 57755,
-        "character": "The Captain",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
-      },
       "Dolly de Leon": {
         "id": 1513304,
         "character": "Abigail",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uoSUx7tgIDFvhXk90lCMDpu4Cy9.jpg"
+      },
+      "Woody Harrelson": {
+        "id": 57755,
+        "character": "The Captain",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
       },
       "Zlatko Burić": {
         "id": 31960,
@@ -26168,7 +26168,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
