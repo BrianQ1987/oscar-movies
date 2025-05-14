@@ -4075,7 +4075,7 @@
       "Dominique Thorne": {
         "id": 2133996,
         "character": "Riri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nxD1liUaLwdRUR1RsgUv32OwQUR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tuLlp79SfYc4mLzzjdC2ekLI7qd.jpg"
       },
       "Florence Kasumba": {
         "id": 139900,
@@ -11128,7 +11128,7 @@
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actress", "Best International Feature Film"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg",
-    "title": "I'm Still Here",
+    "title": "I’m Still Here",
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
@@ -13412,8 +13412,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "90%",
     "meta_score": "90/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Paul Thomas Anderson",
     "cast": {
       "Alana Haim": {
@@ -18698,7 +18698,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24827,6 +24827,16 @@
         "id": 1046359,
         "character": "Big Roy (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+      },
+      "Jack Kilmer": {
+        "id": 1193604,
+        "character": "Iceman's son (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t3ufi6Zc3YCINV56Bp3AhJgWCBL.jpg"
+      },
+      "Mercedes Kilmer": {
+        "id": 1476566,
+        "character": "Iceman's daughter (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ue1HwEyAtrwVVUXhWXR8V3zZL3v.jpg"
       }
     }
   },
@@ -26158,7 +26168,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
