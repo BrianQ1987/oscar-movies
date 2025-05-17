@@ -4916,7 +4916,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -5221,8 +5221,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "91%",
     "meta_score": "81/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Lukas Dhont",
     "cast": {
       "Eden Dambrine": {
@@ -16749,7 +16749,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17212,7 +17212,7 @@
       "Gustaf Skarsgård": {
         "id": 63764,
         "character": "Hans Bethe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0PW79mr46rvUcHrDogrB69vCgC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bfh0yP6Qr55jg9CGTGScXAw8Ftu.jpg"
       },
       "James Urbaniak": {
         "id": 58528,
@@ -18693,7 +18693,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20826,7 +20826,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26163,7 +26163,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29033,7 +29033,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nms0d0ExYtiOke82oqr3vOb3smF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
