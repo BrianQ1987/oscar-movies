@@ -4916,7 +4916,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -6255,7 +6255,7 @@
       "Victor Sho": {
         "id": 2982844,
         "character": "Texas Prison Working Group #4",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cPo1i9Vqari7gZBWTeX5P5ZQxSS.jpg"
       },
       "Vincent Mp Filliatre": {
         "id": 5148654,
@@ -11022,7 +11022,7 @@
       "Jonathan von Mering": {
         "id": 3297957,
         "character": "ER Doctor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j1ZThWHdsizPsCsgESQ0nr6AfU.jpg"
       },
       "Rena Maliszewski": {
         "id": 1956550,
@@ -11587,7 +11587,7 @@
       "Kyle MacLachlan": {
         "id": 6677,
         "character": "Dad (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ma75y2e18Jl8c6PPOFMEjgwLRaD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
       },
       "Paul Walter Hauser": {
         "id": 1294982,
@@ -26163,7 +26163,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
