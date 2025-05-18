@@ -16749,7 +16749,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20826,7 +20826,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21997,8 +21997,8 @@
     "genres": ["Music", "Drama"],
     "imdb_score": "7.4/10",
     "meta_score": "93/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Todd Field",
     "cast": {
       "Cate Blanchett": {
@@ -23820,7 +23820,7 @@
       "Utkarsh Ambudkar": {
         "id": 929511,
         "character": "Todd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nov3ugFHjzK4VzwIV5UDwLcT9O7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vUW5bFrkjWikNFzh5B6F11r5C3X.jpg"
       },
       "Gizel Jiménez": {
         "id": 1473510,
@@ -29038,7 +29038,7 @@
       "Kit Connor": {
         "id": 1538851,
         "character": "Brightbill (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6BDubD35VfSa0uyPr0UuYznuiM4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xjvVNB4N0p0zZSDzz5Ra8LmAzEy.jpg"
       },
       "Bill Nighy": {
         "id": 2440,
