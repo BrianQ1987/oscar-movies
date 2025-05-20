@@ -2596,7 +2596,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3Y3Xk8jwE1Ju0zIn31zBMuD7Fkn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xJX5ErTizvwu4NLEUgHoahysaJl.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -2621,7 +2621,7 @@
       "Hari Nef": {
         "id": 1611609,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gbInNMRs3hL6JuFDX01cShL8fCo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nNeLyxpeagY1fvbkciwp4zaat79.jpg"
       },
       "Sharon Rooney": {
         "id": 1474028,
@@ -17383,8 +17383,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "96%",
     "meta_score": "88/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Pedro Almodóvar",
     "cast": {
       "Penélope Cruz": {
@@ -20826,7 +20826,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21357,6 +21357,21 @@
         "id": 2141479,
         "character": "Mrs. Chen (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
+      },
+      "Alfred Molina": {
+        "id": 658,
+        "character": "Doc Ock (voice) (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      "Tobey Maguire": {
+        "id": 2219,
+        "character": "Peter Parker (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg"
+      },
+      "Andrew Garfield": {
+        "id": 37625,
+        "character": "Peter Parker (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
       }
     }
   },
@@ -26163,7 +26178,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27255,7 +27270,7 @@
       "Elizabeth Dulau": {
         "id": 3718745,
         "character": "Piebald Deer (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fYVzlUv3a8PnU69oQI4ML9w8yXq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nskb1n8p6LiGivJhcyiHeyVJeth.jpg"
       },
       "Kim Durham": {
         "id": 1763310,
