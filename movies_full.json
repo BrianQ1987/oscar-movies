@@ -6296,6 +6296,11 @@
         "id": 3709069,
         "character": "Folk Festival Stage Manager (Uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/nNh6aDkanJyonuGAF1aQKTIKawu.jpg"
+      },
+      "Henry Baime": {
+        "id": 3385914,
+        "character": "Newport Resident (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
       }
     }
   },
@@ -10538,7 +10543,7 @@
     "released": "2022-11-23",
     "duration": 140,
     "imdb_id": "tt11564570",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
@@ -16561,7 +16566,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16749,7 +16754,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20826,7 +20831,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21372,6 +21377,11 @@
         "id": 37625,
         "character": "Peter Parker (Uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+      },
+      "Denis Leary": {
+        "id": 5724,
+        "character": "Captain Stacy (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9pMR9QhURdJ3xxdHeNVOKF5M81b.jpg"
       }
     }
   },
