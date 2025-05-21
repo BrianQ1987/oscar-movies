@@ -2596,7 +2596,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xJX5ErTizvwu4NLEUgHoahysaJl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nQuwNfGAOARScXWn06Feo2yV2bV.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -4435,7 +4435,7 @@
     "released": "2022-09-16",
     "duration": 167,
     "imdb_id": "tt1655389",
-    "vote_average": "6",
+    "vote_average": "5.9",
     "overview": "From her volatile childhood as Norma Jeane, through her rise to stardom and romantic entanglements, this reimagined fictional portrait of Hollywood legend Marilyn Monroe blurs the lines of fact and fiction to explore the widening split between her public and private selves.",
     "genres": "Drama",
     "imdb_score": "5.5/10",
@@ -6301,6 +6301,16 @@
         "id": 3385914,
         "character": "Newport Resident (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+      },
+      "John F. Kennedy": {
+        "id": 21111,
+        "character": "Self (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/59L7ESQn3PCui8bVluY7H5Qu9Fv.jpg"
+      },
+      "Walter Cronkite": {
+        "id": 83786,
+        "character": "Self (archive footage)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qElSh4qnYifm0uqpeJ3TVoPUJAx.jpg"
       }
     }
   },
@@ -7536,7 +7546,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": "Best Picture",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg",
     "title": "Dune: Part Two",
     "released": "2024-02-27",
     "duration": 167,
@@ -7679,12 +7689,12 @@
       "Omar Elbooz": {
         "id": 4072167,
         "character": "Young Fremen Patrol",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Abdelkarim Hussein Seli Mohamed Hassanin": {
         "id": 4554411,
         "character": "Young Fremen Patrol",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Joseph Beddelem": {
         "id": 59298,
@@ -7694,12 +7704,12 @@
       "Xavier Alba Royo": {
         "id": 3734838,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Rachid Abbad": {
         "id": 1627984,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Affif Ben Badra": {
         "id": 54807,
@@ -7709,42 +7719,42 @@
       "Botond Bóta": {
         "id": 3495288,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Abdelaziz Boumane": {
         "id": 4554420,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Abdellah Echahbi": {
         "id": 4554421,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Zouhair Elakkari": {
         "id": 4554422,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Noureddine Hajoujou": {
         "id": 2990052,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Mohamed Mouraoui": {
         "id": 4554423,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Adil Achraf Sayd": {
         "id": 4554424,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Hamza Sayd": {
         "id": 4554426,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Hopi Grace": {
         "id": 3669713,
@@ -7754,7 +7764,7 @@
       "Havin Fathi": {
         "id": 4554427,
         "character": "Fremen Nun",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Kincsö Pethö": {
         "id": 63007,
@@ -7774,7 +7784,7 @@
       "Remi Fadare": {
         "id": 4554430,
         "character": "Devotee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Amer El-Erwadi": {
         "id": 3012028,
@@ -7784,17 +7794,17 @@
       "Tedroy Newell": {
         "id": 3624711,
         "character": "Fremen Onlooker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Oxa Hazel": {
         "id": 4554432,
         "character": "Fremen Onlooker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Hajiyeva Pakiza": {
         "id": 4554433,
         "character": "Fremen Onlooker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Leon Herbert": {
         "id": 145536,
@@ -7804,12 +7814,12 @@
       "Sima Rostami": {
         "id": 4554435,
         "character": "Female Elder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Yvonne Campbell": {
         "id": 2798670,
         "character": "Elder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Joseph Charles": {
         "id": 2054077,
@@ -7819,7 +7829,7 @@
       "Vic Zander": {
         "id": 4020310,
         "character": "Elder",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Dylan Baldwin": {
         "id": 3237601,
@@ -7829,7 +7839,7 @@
       "Marcia Tucker": {
         "id": 1749388,
         "character": "Old Wounded Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Nicola Brome": {
         "id": 2342156,
@@ -7839,7 +7849,7 @@
       "Kathy Owen": {
         "id": 137229,
         "character": "Wounded Fremen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Huw Novelli": {
         "id": 1901394,
@@ -7869,7 +7879,7 @@
       "Luis Alkmim": {
         "id": 3899921,
         "character": "Sentinel Leader",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Jordan Long": {
         "id": 199529,
@@ -7879,7 +7889,7 @@
       "Omar A.K.": {
         "id": 4558342,
         "character": "Wounded Smuggler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Zdeněk Dvořáček": {
         "id": 1425059,
@@ -7904,17 +7914,17 @@
       "Dominic McHale": {
         "id": 1117371,
         "character": "Harkonnen Commander",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Paul Boyle": {
         "id": 4558343,
         "character": "Harkonnen Commander",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Niall White": {
         "id": 4233589,
         "character": "Ornithopter Military Pilot",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Tony Cook": {
         "id": 109167,
@@ -7924,7 +7934,7 @@
       "Gábor Szemán": {
         "id": 2069517,
         "character": "Harkonnen Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Jonathan Gunning": {
         "id": 2863913,
@@ -7944,7 +7954,7 @@
       "Rex Adams": {
         "id": 4072158,
         "character": "Harpy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Molly Mcowan": {
         "id": 4072157,
@@ -7964,12 +7974,12 @@
       "Sára Bácsfalvi": {
         "id": 4558354,
         "character": "Feyd-Rautha's Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Zsófia Kocsis": {
         "id": 2758109,
         "character": "Feyd-Rautha's Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Matthew Sim": {
         "id": 1434017,
@@ -7989,7 +7999,7 @@
       "Tim Hilborne": {
         "id": 4072170,
         "character": "Imperial Council",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Cecile Sinclair": {
         "id": 1238612,
@@ -7999,12 +8009,12 @@
       "Tracy Coogan": {
         "id": 93089,
         "character": "Imperial Servant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Zoe Kata Kaska": {
         "id": 4558357,
         "character": "Baby Jessica",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Jimmy Walker": {
         "id": 2158768,
@@ -8019,12 +8029,12 @@
       "Fouad Humaidan": {
         "id": 4072163,
         "character": "Male Fremen Fighter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Manaf Irani": {
         "id": 2757115,
         "character": "Male Fremen Fighter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/czembW0Rk1Ke7lCJGahbOhdCuhV.jpg"
       },
       "Dora Kápolnai-Schvab": {
         "id": 3314410,
@@ -8670,7 +8680,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "6.7",
+    "vote_average": "6.6",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "5.4/10",
@@ -14655,7 +14665,7 @@
       "Peter Sarsgaard": {
         "id": 133,
         "character": "Professor Hardy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gYnEJjeHgZVBZh6aGzgfzm4jIHM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
       },
       "Dagmara Dominczyk": {
         "id": 52776,
@@ -16453,7 +16463,7 @@
       "Stephen McHattie": {
         "id": 230,
         "character": "Hobo #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lA1JaHjNEpKEbulFPgJZRlMH5sk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zqOwiEDXYM9AKQgHGJGeIp7QkPh.jpg"
       },
       "James Collins": {
         "id": 2004237,
@@ -16754,7 +16764,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18698,7 +18708,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19684,7 +19694,7 @@
       "Peter Sarsgaard": {
         "id": 133,
         "character": "Roone Arledge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gYnEJjeHgZVBZh6aGzgfzm4jIHM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jOc4VjxPaOkWOqnLCxd8BJy9g5i.jpg"
       },
       "Ben Chaplin": {
         "id": 21343,
@@ -20831,7 +20841,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20841,7 +20851,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tb7zwVSmI2CDLU1Tc39c4ECO3jm.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -26188,7 +26198,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
