@@ -2681,7 +2681,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjz0PEriQqUP3BgJBztKAOXzXXM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hIOklOheEMqabttdpUWt5Aaza0m.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -5808,6 +5808,11 @@
         "id": 2395,
         "character": "Midwife (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+      },
+      "Jessica Ross": {
+        "id": 4510251,
+        "character": "Townsperson (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
       }
     }
   },
@@ -16764,7 +16769,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18708,7 +18713,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26198,7 +26203,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26218,7 +26223,7 @@
       "Reece Shearsmith": {
         "id": 34551,
         "character": "Norbot (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/inEbaUTwSamRwY5ov2d8AegdvG5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cfMuVjvWZcNEoAQkYUWR6B1pM0T.jpg"
       },
       "Diane Morgan": {
         "id": 1543364,
