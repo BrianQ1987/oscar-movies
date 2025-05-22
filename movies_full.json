@@ -597,7 +597,7 @@
       "Adam Brody": {
         "id": 11702,
         "character": "Wiley Valdespino",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2iKOiwAXR1cgPVFHOGpNTpVyVvC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qKBWrohBYegm6AAaLrtxEqqouIK.jpg"
       },
       "Justin Andrew Phillips": {
         "id": 3540394,
@@ -1011,7 +1011,7 @@
       "Ivy Wolk": {
         "id": 3195084,
         "character": "Crystal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/azNBPNOViAlcTaZxUnIntYKnFEv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yDC7Q5NK1rBYvaRYi2ytzeMKgG1.jpg"
       },
       "Vlad Mamai": {
         "id": 4937030,
@@ -5808,11 +5808,6 @@
         "id": 2395,
         "character": "Midwife (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
-      },
-      "Jessica Ross": {
-        "id": 4510251,
-        "character": "Townsperson (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
       }
     }
   },
@@ -11903,7 +11898,7 @@
       "Lily Gladstone": {
         "id": 1183917,
         "character": "Mollie Burkhart",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3DxpEnnNFmJRKAujZYOMEF0TELY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -16769,7 +16764,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20846,7 +20841,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26203,7 +26198,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
