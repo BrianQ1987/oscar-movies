@@ -950,7 +950,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -2681,7 +2681,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hIOklOheEMqabttdpUWt5Aaza0m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjz0PEriQqUP3BgJBztKAOXzXXM.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -5808,6 +5808,11 @@
         "id": 2395,
         "character": "Midwife (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
+      },
+      "Matt Gulbranson": {
+        "id": 4005619,
+        "character": "Domino Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
       }
     }
   },
@@ -7624,7 +7629,7 @@
       "Souheila Yacoub": {
         "id": 2037046,
         "character": "Shishakli",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8GXQwfBQybNDwinJOQF0dGtlITj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zG087seFtSO2duW0ldsfbhFydce.jpg"
       },
       "Roger Yuan": {
         "id": 2974,
@@ -16764,7 +16769,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18708,7 +18713,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20841,7 +20846,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20851,7 +20856,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tb7zwVSmI2CDLU1Tc39c4ECO3jm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oXZhTeg1TlHI8LC8Hv5aQjBjZp1.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
