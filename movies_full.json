@@ -8270,7 +8270,7 @@
       "Xavier Samuel": {
         "id": 109438,
         "character": "Scotty Moore",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/QNLWkOFoZZJ8zvXufSS85Dgk6W.jpg"
       },
       "Adam Dunn": {
         "id": 3430988,
@@ -9814,11 +9814,6 @@
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Steven Spielberg",
     "cast": {
-      "Gabriel LaBelle": {
-        "id": 1476330,
-        "character": "Sammy Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rHVSkVovxmmUPVlaJeMAklbamuv.jpg"
-      },
       "Michelle Williams": {
         "id": 1812,
         "character": "Mitzi Fabelman",
@@ -9834,40 +9829,65 @@
         "character": "Benny Loewy",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2dPFskUtoiG0xafsSEGl9Oz4teA.jpg"
       },
-      "Judd Hirsch": {
-        "id": 6167,
-        "character": "Uncle Boris Podgorny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      "Gabriel LaBelle": {
+        "id": 1476330,
+        "character": "Sammy Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rHVSkVovxmmUPVlaJeMAklbamuv.jpg"
       },
-      "David Lynch": {
-        "id": 5602,
-        "character": "John Ford",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
-      },
-      "Jeannie Berlin": {
-        "id": 124377,
-        "character": "Hadassah Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
-      },
-      "Julia Butters": {
-        "id": 1651362,
-        "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9JqtqDi2hsh3mOq2v5fc5HJB6T9.jpg"
+      "Mateo Zoryan Francis-DeFord": {
+        "id": 3731015,
+        "character": "Younger Sammy Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/g6pXhdeZiZdPOkrQWBxRBlTj3dP.jpg"
       },
       "Keeley Karsten": {
         "id": 3690404,
         "character": "Natalie Fabelman",
         "profile_path": "https://image.tmdb.org/t/p/w1280/tlnhUFQbmR4YVi9w4uJfCUopI0Q.jpg"
       },
+      "Alina Brace": {
+        "id": 3690411,
+        "character": "Young Natalie Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fUMCG3hGyLplPvqsdFk2QVaMqzo.jpg"
+      },
+      "Julia Butters": {
+        "id": 1651362,
+        "character": "Reggie Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9JqtqDi2hsh3mOq2v5fc5HJB6T9.jpg"
+      },
+      "Birdie Borria": {
+        "id": 3690410,
+        "character": "Younger Reggie Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1e8iouPs7g0kXuvWoSu6S4nqdIo.jpg"
+      },
+      "Judd Hirsch": {
+        "id": 6167,
+        "character": "Uncle Boris",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7rJ0TZfMoPLTcO203tHhE6tcPKP.jpg"
+      },
+      "Sophia Kopera": {
+        "id": 3233032,
+        "character": "Lisa Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jutYqJj4cKd0HrojegwtGT0y9Vt.jpg"
+      },
+      "Jeannie Berlin": {
+        "id": 124377,
+        "character": "Hadassah Fabelman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
+      },
+      "Robin Bartlett": {
+        "id": 11902,
+        "character": "Tina Schildkraut",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/94OpCjYBbxIoCtJpFWAlFQornKO.jpg"
+      },
       "Sam Rechner": {
         "id": 3132260,
         "character": "Logan Hall",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cjFwkjJY7G2MxNnTzPuM1rPXG3G.jpg"
       },
-      "Mateo Zoryan Francis-DeFord": {
-        "id": 3731015,
-        "character": "Younger Sammy Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g6pXhdeZiZdPOkrQWBxRBlTj3dP.jpg"
+      "Oakes Fegley": {
+        "id": 1422517,
+        "character": "Chad Thomas",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jDiuzOh12xmrkwtnZWBPEEjpNva.jpg"
       },
       "Chloe East": {
         "id": 1512280,
@@ -9878,31 +9898,6 @@
         "id": 3159120,
         "character": "Claudia Denning",
         "profile_path": "https://image.tmdb.org/t/p/w1280/unWHWnH5iNjdK5FXkJAOWdWeRFj.jpg"
-      },
-      "Robin Bartlett": {
-        "id": 11902,
-        "character": "Tina Schildkraut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/94OpCjYBbxIoCtJpFWAlFQornKO.jpg"
-      },
-      "Oakes Fegley": {
-        "id": 1422517,
-        "character": "Chad Thomas",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jDiuzOh12xmrkwtnZWBPEEjpNva.jpg"
-      },
-      "Sophia Kopera": {
-        "id": 3233032,
-        "character": "Lisa Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jutYqJj4cKd0HrojegwtGT0y9Vt.jpg"
-      },
-      "Birdie Borria": {
-        "id": 3690410,
-        "character": "Younger Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1e8iouPs7g0kXuvWoSu6S4nqdIo.jpg"
-      },
-      "Alina Brace": {
-        "id": 3690411,
-        "character": "Young Natalie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fUMCG3hGyLplPvqsdFk2QVaMqzo.jpg"
       },
       "Chandler Lovelle": {
         "id": 2721347,
@@ -9934,11 +9929,6 @@
         "character": "Angelo",
         "profile_path": "https://image.tmdb.org/t/p/w1280/28YZF6uAzoJbRBEeANQAI9rMuAd.jpg"
       },
-      "Lane Factor": {
-        "id": 2938329,
-        "character": "Dean",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6cabYx0vPuMs7rzkFdV65GfrUIP.jpg"
-      },
       "James Urbaniak": {
         "id": 58528,
         "character": "Grand View High School Principal",
@@ -9959,10 +9949,20 @@
         "character": "Phil Newhart",
         "profile_path": "https://image.tmdb.org/t/p/w1280/tccLxyVboqzeK3Wf2daq1BavVmB.jpg"
       },
+      "Lane Factor": {
+        "id": 2938329,
+        "character": "Dean",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6cabYx0vPuMs7rzkFdV65GfrUIP.jpg"
+      },
       "Greg Grunberg": {
         "id": 17305,
         "character": "Bernie Fein",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ir2QunLf6aTaowpEygbIcjiZLDB.jpg"
+      },
+      "David Lynch": {
+        "id": 5602,
+        "character": "John Ford",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
       },
       "Jan Hoag": {
         "id": 143204,
@@ -12728,7 +12728,7 @@
       "Martin Scorsese": {
         "id": 1032,
         "character": "Radio Show Producer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/52dsh3ZXDgB6HPN5VqNBj3QOnjn.jpg"
       },
       "Marko Costanzo": {
         "id": 92376,
@@ -16581,7 +16581,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16769,7 +16769,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17651,7 +17651,7 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
     "title": "Perfect Days",
     "released": "2023-11-10",
     "duration": 124,
@@ -17709,7 +17709,7 @@
       "Miyako Tanaka": {
         "id": 4500897,
         "character": "Old Lady with Brush",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Ron Mizuma": {
         "id": 2212955,
@@ -17724,22 +17724,22 @@
       "Aoi Iwasaki": {
         "id": 4500899,
         "character": "Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Kisuke Shimazaki": {
         "id": 4500901,
         "character": "Lost Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Yuriko Kawasaki": {
         "id": 1962646,
         "character": "Mother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Aki Kobayashi": {
         "id": 4500902,
         "character": "Baby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Bunmei Harada": {
         "id": 3365720,
@@ -17779,7 +17779,7 @@
       "Makiko Okamoto": {
         "id": 4500906,
         "character": "Old Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Daigo Matsui": {
         "id": 1080183,
@@ -17804,7 +17804,7 @@
       "Naoko Ken": {
         "id": 1057560,
         "character": "Cat Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Mijika Nagai": {
         "id": 2062205,
@@ -17819,17 +17819,17 @@
       "Isao Matsui": {
         "id": 1999004,
         "character": "Old Local",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Aoi Yoshida": {
         "id": 3213323,
         "character": "Dera-Chan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Motoyuki Shibata": {
         "id": 4753651,
         "character": "DPE Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Inuko Inuyama": {
         "id": 936287,
@@ -17849,12 +17849,12 @@
       "Nijika Tonouchi": {
         "id": 4500916,
         "character": "High School Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Yasushi Okuwa": {
         "id": 4219995,
         "character": "Keiko's Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Hairi Katagiri": {
         "id": 123862,
@@ -18532,7 +18532,7 @@
       "Heidi Gardner": {
         "id": 1759221,
         "character": "Last Baker (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bPHmBPny52cQPkZOomxZe0CHrWa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pivHaSYFqB9ghAelkI3UuZKLQwD.jpg"
       },
       "Joel Crawford": {
         "id": 1450348,
@@ -20846,7 +20846,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20901,7 +20901,7 @@
       "Shea Whigham": {
         "id": 74242,
         "character": "George Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/suwW5Gv06Po1RzcSKVAPANrVvo3.jpg"
       },
       "Greta Lee": {
         "id": 1260481,
@@ -24609,8 +24609,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "96%",
     "meta_score": "78/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joseph Kosinski",
     "cast": {
       "Tom Cruise": {
@@ -26170,7 +26170,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Family", "Comedy", "Adventure", "Animation"],
     "imdb_score": "7.5/10",
@@ -28200,7 +28200,7 @@
       "Lee Bridgman": {
         "id": 2535099,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/139JaeuiGiPkc0LPVnjboIKVIVl.jpg"
       },
       "Lillianna Clifton": {
         "id": 5152850,
@@ -28295,7 +28295,7 @@
       "Megan Westpfel": {
         "id": 4002392,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4A56wzW268xk7JIVnZqWzlzLncL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cIKrlbK76cqq3CTqoq93HG9j3F6.jpg"
       },
       "Melody McAvoy": {
         "id": 5152894,
