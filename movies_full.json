@@ -1051,7 +1051,7 @@
       "Ella Rubin": {
         "id": 3307906,
         "character": "Vera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2jvzbFmzMtcSxOkFi3P3Q8fGnw2.jpg"
       },
       "Ross Brodar": {
         "id": 1660692,
@@ -4483,7 +4483,7 @@
       "Xavier Samuel": {
         "id": 109438,
         "character": "Cass Chaplin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/QNLWkOFoZZJ8zvXufSS85Dgk6W.jpg"
       },
       "Caspar Phillipson": {
         "id": 1441919,
@@ -16581,7 +16581,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16769,7 +16769,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18713,7 +18713,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20846,7 +20846,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21372,31 +21372,6 @@
         "id": 1443708,
         "character": "Peni Parker (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
-      },
-      "Peggy Lu": {
-        "id": 2141479,
-        "character": "Mrs. Chen (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
-      },
-      "Alfred Molina": {
-        "id": 658,
-        "character": "Doc Ock (voice) (Uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
-      },
-      "Tobey Maguire": {
-        "id": 2219,
-        "character": "Peter Parker (Uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ncF4HivY2W6SQW5dEP3N3I4mfT0.jpg"
-      },
-      "Andrew Garfield": {
-        "id": 37625,
-        "character": "Peter Parker (Uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
-      },
-      "Denis Leary": {
-        "id": 5724,
-        "character": "Captain Stacy (Uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9pMR9QhURdJ3xxdHeNVOKF5M81b.jpg"
       }
     }
   },
@@ -24671,7 +24646,7 @@
       "Charles Parnell": {
         "id": 124112,
         "character": "Adm. Solomon 'Warlock' Bates",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nBpkNLRm6v6Yw99GxCkHCMwA2Zg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wLywO5xtR97YKtkYb57hXEFpL7j.jpg"
       },
       "Monica Barbaro": {
         "id": 1525043,
@@ -28760,7 +28735,7 @@
       "Taylor Goodridge": {
         "id": 4154770,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zzz8UavqMpCAv1xOO7mHJJHXd7b.jpg"
       },
       "Tegan Browne-Winter": {
         "id": 5153528,
