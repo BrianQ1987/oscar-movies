@@ -950,7 +950,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -1051,7 +1051,7 @@
       "Ella Rubin": {
         "id": 3307906,
         "character": "Vera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2jvzbFmzMtcSxOkFi3P3Q8fGnw2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
       },
       "Ross Brodar": {
         "id": 1660692,
@@ -18713,7 +18713,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19678,7 +19678,7 @@
     "released": "2024-11-07",
     "duration": 94,
     "imdb_id": "tt28082769",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
@@ -26178,7 +26178,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
