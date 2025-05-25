@@ -4453,7 +4453,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "The Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ljvF4lI0KmZYMydDlcOzIAZn2nN.jpg"
       },
       "Bobby Cannavale": {
         "id": 21127,
@@ -4927,7 +4927,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "László Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ljvF4lI0KmZYMydDlcOzIAZn2nN.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
@@ -10646,7 +10646,7 @@
       "Natasha Lyonne": {
         "id": 10871,
         "character": "Natasha Lyonne",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Abtdt76k3oAmag6Femlic4A3zR6.jpg"
       },
       "Kareem Abdul-Jabbar": {
         "id": 14414,
@@ -16581,7 +16581,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18437,7 +18437,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Wolf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7yJVQSXSTOia9y7ShPPuU5pTKFt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -18713,7 +18713,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20846,7 +20846,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
