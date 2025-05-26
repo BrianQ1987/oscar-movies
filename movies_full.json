@@ -2528,12 +2528,12 @@
       "John Carty": {
         "id": 3879013,
         "character": "Older Musician 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eAepZlaeGQC2LTMweNNytLqcPnV.jpg"
       },
       "Oliver Farrelly": {
         "id": 3879015,
         "character": "Older Musician 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xck1VWwqzXIuDngdFN9s51is0Ks.jpg"
       },
       "Lasairfhíona Ní Chonaola": {
         "id": 3795945,
@@ -2543,7 +2543,7 @@
       "James Carty": {
         "id": 4054257,
         "character": "Student Musician 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2wciDayLWumK9cXWLyknzTweuwL.jpg"
       },
       "Conor Connolly": {
         "id": 2419826,
@@ -2554,6 +2554,11 @@
         "id": 2335235,
         "character": "Student Musician 3",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
+      },
+      "Ryan Owen": {
+        "id": 4597450,
+        "character": "Student Musician 3",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tVD6p1G2aC6AZEp4W89LNXZKd1F.jpg"
       }
     }
   },
@@ -4095,7 +4100,7 @@
       "Mabel Cadena": {
         "id": 2213811,
         "character": "Namora",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/907YpaRgHSW5CLJ4DGF9eRPvhEZ.jpg"
       },
       "Michael B. Jordan": {
         "id": 135651,
@@ -5827,7 +5832,7 @@
     "released": "2024-12-18",
     "duration": 140,
     "imdb_id": "tt11563598",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
     "imdb_score": "7.7/10",
@@ -20936,7 +20941,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20946,7 +20951,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oXZhTeg1TlHI8LC8Hv5aQjBjZp1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tb7zwVSmI2CDLU1Tc39c4ECO3jm.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -27042,8 +27047,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "64%",
     "meta_score": "60/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Darren Aronofsky",
     "cast": {
       "Brendan Fraser": {
@@ -29115,7 +29118,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg",
     "title": "The Wild Robot",
     "released": "2024-09-12",
     "duration": 102,
@@ -29233,52 +29236,52 @@
       "Alessandro Beghi": {
         "id": 4967576,
         "character": "Baby Opossum 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Tiago Martinez": {
         "id": 3516191,
         "character": "Baby Opossum 2 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Becca Last": {
         "id": 4967579,
         "character": "Baby Opossum 3 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Madelyn Turpin": {
         "id": 4967581,
         "character": "Baby Opossum 3, 4, 5, 6 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Kayleigh Rayne": {
         "id": 4663825,
         "character": "Baby Opossum 4, 7 / Baby Bunny 2 / Baby Skunk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Isabelle Tupin": {
         "id": 4967583,
         "character": "Baby Opossum 8, 9 / Baby Bunny 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Beckett Blomberg": {
         "id": 4967584,
         "character": "Baby Opossum 10 / Chipmunk / Baby Lynx (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Damon Fung": {
         "id": 4967585,
         "character": "Baby Opossum 11 / Baby Otter (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "King Moore": {
         "id": 4871610,
         "character": "Baby Opossum 12 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       },
       "Collin Erker": {
         "id": 3200942,
         "character": "Skunk (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9w0Vh9eizfBXrcomiaFWTIPdboo.jpg"
       }
     }
   },
