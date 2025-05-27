@@ -3449,7 +3449,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Desi Arnaz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eCBiiPvBfIY7exDQwH0vEM6Bf3c.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -4100,7 +4100,7 @@
       "Mabel Cadena": {
         "id": 2213811,
         "character": "Namora",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/907YpaRgHSW5CLJ4DGF9eRPvhEZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0kAf1LBESLPj4zUaXSngKH7cwg.jpg"
       },
       "Michael B. Jordan": {
         "id": 135651,
@@ -7589,7 +7589,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Stilgar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eCBiiPvBfIY7exDQwH0vEM6Bf3c.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "Josh Brolin": {
         "id": 16851,
@@ -16866,7 +16866,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20182,7 +20182,7 @@
       "Esteban Bigliardi": {
         "id": 1086358,
         "character": "Javier Methol",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s9GB7XRNO8Z75JhomNW4KZoZdMJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cFfdG61kDJDtVeH6LGOqJ8ZwdaQ.jpg"
       },
       "Diego Vegezzi": {
         "id": 1187534,
@@ -20720,7 +20720,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg",
     "title": "Spencer",
     "released": "2021-11-04",
-    "duration": 117,
+    "duration": 116,
     "imdb_id": "tt12536294",
     "vote_average": "6.8",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
@@ -24788,7 +24788,7 @@
       "Greg Tarzan Davis": {
         "id": 2080646,
         "character": "Lt. Javy 'Coyote' Machado",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mRWnRkEeV9lRICrz7DF0wpWxW47.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gy8lrpItJsrGka2U7cj1Ivm24Uu.jpg"
       },
       "Jake Picking": {
         "id": 1456280,
@@ -25914,7 +25914,7 @@
     "released": "2022-03-10",
     "duration": 100,
     "imdb_id": "tt8097030",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
     "genres": ["Animation", "Family", "Comedy", "Fantasy"],
     "imdb_score": "6.9/10",
