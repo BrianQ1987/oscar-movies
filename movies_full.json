@@ -2528,12 +2528,12 @@
       "John Carty": {
         "id": 3879013,
         "character": "Older Musician 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eAepZlaeGQC2LTMweNNytLqcPnV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
       },
       "Oliver Farrelly": {
         "id": 3879015,
         "character": "Older Musician 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xck1VWwqzXIuDngdFN9s51is0Ks.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
       },
       "Lasairfhíona Ní Chonaola": {
         "id": 3795945,
@@ -2543,7 +2543,7 @@
       "James Carty": {
         "id": 4054257,
         "character": "Student Musician 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2wciDayLWumK9cXWLyknzTweuwL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
       },
       "Conor Connolly": {
         "id": 2419826,
@@ -2558,7 +2558,7 @@
       "Ryan Owen": {
         "id": 4597450,
         "character": "Student Musician 3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tVD6p1G2aC6AZEp4W89LNXZKd1F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
       }
     }
   },
@@ -2696,7 +2696,7 @@
       "Helen Mirren": {
         "id": 15735,
         "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lMQnu7lWpMfJJTpXAkmAPrpB3tg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
       },
       "Will Ferrell": {
         "id": 23659,
@@ -6330,7 +6330,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
     "title": "Conclave",
     "released": "2024-10-25",
     "duration": 120,
@@ -6403,7 +6403,7 @@
       "Bruno Novelli": {
         "id": 4935617,
         "character": "Dead Pope",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l4WXg5oQPK6GVlISKQNIUGb8rKJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg"
       },
       "Rony Kramer": {
         "id": 95167,
@@ -7346,7 +7346,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Stilgar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eCBiiPvBfIY7exDQwH0vEM6Bf3c.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "Sharon Duncan-Brewster": {
         "id": 195666,
@@ -10411,6 +10411,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "87/100",
+    "platforms": "Apple TV+",
+    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
     "director": "Gints Zilbalodis",
     "cast": []
   },
@@ -16676,7 +16678,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16864,7 +16866,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -26293,7 +26295,7 @@
       "Reece Shearsmith": {
         "id": 34551,
         "character": "Norbot (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cfMuVjvWZcNEoAQkYUWR6B1pM0T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/inEbaUTwSamRwY5ov2d8AegdvG5.jpg"
       },
       "Diane Morgan": {
         "id": 1543364,
