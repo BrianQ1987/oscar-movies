@@ -11092,7 +11092,7 @@
       "Alexander Cook": {
         "id": 1168858,
         "character": "Priest / Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8araGXyJQREb9Q0X2Ja8N5fSxre.jpg"
       },
       "Liz Bishop": {
         "id": 3225232,
@@ -16671,7 +16671,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18273,8 +18273,8 @@
     "imdb_score": "6.8/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["BBC iPlayer", "Netflix"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": "Jane Campion",
     "cast": {
       "Benedict Cumberbatch": {
@@ -26298,7 +26298,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
