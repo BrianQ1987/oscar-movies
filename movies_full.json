@@ -16671,7 +16671,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18803,7 +18803,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19685,7 +19685,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg",
     "title": "The Seed of the Sacred Fig",
     "released": "2024-09-18",
     "duration": 167,
@@ -19733,27 +19733,27 @@
       "Shiva Ordooie": {
         "id": 2505349,
         "character": "Fatemeh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Amineh Mazrouie Arani": {
         "id": 4277062,
         "character": "Woman in the Car",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Mohammad Kamal Alavi": {
         "id": 2051924,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Parisa Mohyedini": {
         "id": 5200017,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       },
       "Barat Azimi": {
         "id": 5200018,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pxHFHJ2N4BAO5t9vJJyIK0f2Wbf.jpg"
       }
     }
   },
@@ -26298,7 +26298,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
