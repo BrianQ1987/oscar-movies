@@ -4095,7 +4095,7 @@
       "Alex Livinalli": {
         "id": 992386,
         "character": "Attuma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qagXyIZI8oSfpNLuZRChFEwEvNo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
       },
       "Mabel Cadena": {
         "id": 2213811,
@@ -11243,7 +11243,7 @@
     "duration": 138,
     "imdb_id": "tt14961016",
     "vote_average": "8",
-    "overview": "In 1971, military dictatorship in Brazil reaches its height. The Paiva family — Rubens, Eunice, and their five children — live in a beachside house in Rio, open to all their friends. One day, Rubens is taken for questioning and does not return.",
+    "overview": "A woman married to a former politician during the 1971 military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.6/10",
     "meta_score": "85/100",
@@ -16671,7 +16671,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16989,7 +16989,7 @@
       "Nadia Lorencz": {
         "id": 2928977,
         "character": "Nadia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oVFfNSoYs1jOWcj0MH65n42Jqoe.jpg"
       },
       "Marcus Young": {
         "id": 182213,
@@ -17112,7 +17112,7 @@
       "Rami Malek": {
         "id": 17838,
         "character": "David Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zvBCjFmedqXRqa45jlLf6vBd9Nt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ewr46CGOdsx5NzAJdIzEBz2yIQh.jpg"
       },
       "Kenneth Branagh": {
         "id": 11181,
@@ -18803,7 +18803,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20936,7 +20936,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26298,7 +26298,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
