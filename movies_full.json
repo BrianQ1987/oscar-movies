@@ -20936,7 +20936,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24709,6 +24709,11 @@
         "id": 1829039,
         "character": "Young Man (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/flnan3q2KaxRuzIAMZPevZEn2hm.jpg"
+      },
+      "Lincoln Bodin": {
+        "id": 2971101,
+        "character": "Chicken Tender Kid (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg"
       }
     }
   },
@@ -26290,7 +26295,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Family", "Comedy", "Adventure", "Animation"],
     "imdb_score": "7.5/10",
