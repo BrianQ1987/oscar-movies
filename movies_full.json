@@ -5408,7 +5408,7 @@
         "character": "Ms. Simon",
         "profile_path": "https://image.tmdb.org/t/p/w1280/eoGmGe77mgZRfAAMrD3GMlznWpE.jpg"
       },
-      "Molly Beth Thomas": {
+      "Molly B. Thomas": {
         "id": 3204229,
         "character": "Audra",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pDZvlDpuk1pz6sZ7JTYhY6WdEEQ.jpg"
@@ -16859,7 +16859,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18505,8 +18505,8 @@
     "genres": ["Animation", "Adventure", "Fantasy", "Comedy", "Family"],
     "imdb_score": "7.8/10",
     "meta_score": "73/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Joel Crawford",
     "cast": {
       "Antonio Banderas": {
@@ -18803,7 +18803,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20946,7 +20946,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oXZhTeg1TlHI8LC8Hv5aQjBjZp1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tb7zwVSmI2CDLU1Tc39c4ECO3jm.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
