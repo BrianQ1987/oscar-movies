@@ -8726,17 +8726,17 @@
     "cast": {
       "Zoe Saldaña": {
         "id": 8691,
-        "character": "Rita Mora Castro",
+        "character": "Rita",
         "profile_path": "https://image.tmdb.org/t/p/w1280/aGb3JzoumA89gRFwbJYAxFm5Qdk.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
-        "character": "Emilia Pérez / Manitas del Monte",
+        "character": "Emilia / Manitas",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
       },
       "Selena Gomez": {
         "id": 77948,
-        "character": "Jessi del Monte",
+        "character": "Jessi",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xRUoMcqi2AasnoJOjUNncBxrvwY.jpg"
       },
       "Adriana Paz": {
@@ -8879,13 +8879,13 @@
         "character": "Emilia's Maid",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
-      "Monica Ortiz": {
-        "id": 5064124,
+      "Marysol Cordourier": {
+        "id": 5064123,
         "character": "Emilia's Maid",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
-      "Marysol Cordourier": {
-        "id": 5064123,
+      "Monica Ortiz": {
+        "id": 5064124,
         "character": "Emilia's Maid",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
@@ -9006,7 +9006,7 @@
       },
       "Shuuko Calderón": {
         "id": 5419884,
-        "character": "Woman at Club(uncredited)",
+        "character": "Woman at Club (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
       },
       "Rose Harlean": {
@@ -14775,7 +14775,7 @@
       "Dakota Johnson": {
         "id": 118545,
         "character": "Nina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bSfVBJ8S3F1MPpCmIWb8UJcUZGP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
       },
       "Ed Harris": {
         "id": 228,
@@ -16701,7 +16701,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16889,7 +16889,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18833,7 +18833,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18981,7 +18981,7 @@
       "Jesse Eisenberg": {
         "id": 44735,
         "character": "David Kaplan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8BMnXLVJDysMO1E8JCAyOFv2QAb.jpg"
       },
       "Kieran Culkin": {
         "id": 18793,
