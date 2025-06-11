@@ -1111,7 +1111,7 @@
       "Michael Sergio": {
         "id": 1269925,
         "character": "Judge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ooxJvTtl4dGf6bOcI4CBOlwN6U5.jpg"
       },
       "Charlton Lamar": {
         "id": 3650583,
@@ -4498,7 +4498,7 @@
       "Sara Paxton": {
         "id": 60072,
         "character": "Miss Flynn",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/atau2a3BlZaTaWSosp4zU7SAFmt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
       },
       "Lucy DeVito": {
         "id": 139310,
@@ -11293,27 +11293,27 @@
       },
       "Valentina Herszage": {
         "id": 1508719,
-        "character": "Vera \"Veroca\" Paiva",
+        "character": "Veroca",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uJxN1QpU7XJzeg2navvMIQOGAjj.jpg"
       },
       "Bárbara Luz": {
         "id": 1901533,
-        "character": "Ana Lúcia \"Nalu\" Paiva",
+        "character": "Nalu",
         "profile_path": "https://image.tmdb.org/t/p/w1280/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
       },
       "Guilherme Silveira": {
         "id": 4505876,
-        "character": "Marcelo Rubens Paiva",
+        "character": "Marcelo",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lScyb0tcjC52LN7WficCIff3ESA.jpg"
       },
       "Cora Ramalho": {
         "id": 4505877,
-        "character": "Babiu Paiva",
+        "character": "Babiu",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rPlOdnzqSPkA6UD3IShRtlK8DT8.jpg"
       },
       "Luiza Kosovski": {
         "id": 4505878,
-        "character": "Eliana Paiva",
+        "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
       },
       "Pri Helena": {
@@ -11373,27 +11373,27 @@
       },
       "Olívia Torres": {
         "id": 1147279,
-        "character": "Adult Babiu Paiva",
+        "character": "Babiu",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6XbrVESU3odmO2FYDiI8Yi4ABYM.jpg"
       },
       "Antonio Saboia": {
         "id": 129689,
-        "character": "Adult Marcelo Rubens Paiva",
+        "character": "Marcelo",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
       },
       "Maria Manoella": {
         "id": 932970,
-        "character": "Adult Vera Paiva",
+        "character": "Veroca",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2l5OS18iXdT2ju2w95LjX4F682Y.jpg"
       },
       "Marjorie Estiano": {
         "id": 973901,
-        "character": "Adult Eliana Paiva",
+        "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ikBo7msigtKuyrlakK0yPBddlTk.jpg"
       },
       "Gabriela Carneiro da Cunha": {
         "id": 2186407,
-        "character": "Adult Ana Lúcia \"Nalu\" Paiva",
+        "character": "Nalu",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fzjjN0YjKXmlftViA23UMLb4OE8.jpg"
       },
       "Helena Albergaria": {
@@ -17789,7 +17789,7 @@
       "Koji Yakusho": {
         "id": 18056,
         "character": "Hirayama",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/skhlURAPRENT0PK6V5wD7jmh74S.jpg"
       },
       "Tokio Emoto": {
         "id": 1015822,
@@ -18833,7 +18833,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26333,7 +26333,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
