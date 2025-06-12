@@ -11296,110 +11296,85 @@
         "character": "Veroca",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uJxN1QpU7XJzeg2navvMIQOGAjj.jpg"
       },
-      "Bárbara Luz": {
-        "id": 1901533,
-        "character": "Nalu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
-      },
-      "Guilherme Silveira": {
-        "id": 4505876,
-        "character": "Marcelo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lScyb0tcjC52LN7WficCIff3ESA.jpg"
-      },
-      "Cora Ramalho": {
-        "id": 4505877,
-        "character": "Babiu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rPlOdnzqSPkA6UD3IShRtlK8DT8.jpg"
+      "Maria Manoella": {
+        "id": 932970,
+        "character": "Veroca",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2l5OS18iXdT2ju2w95LjX4F682Y.jpg"
       },
       "Luiza Kosovski": {
         "id": 4505878,
         "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
       },
-      "Pri Helena": {
-        "id": 1735633,
-        "character": "Zezé",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
-      },
-      "Luiz Bertazzo": {
-        "id": 142830,
-        "character": "Dr. Schneider",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bhscJpbPsEmsboo1sTBQpzNh4JU.jpg"
-      },
-      "Maeve Jinkings": {
-        "id": 1016242,
-        "character": "Dalva Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s1pZd8CgUIll9ALVcgtUJhsB8uF.jpg"
-      },
-      "Humberto Carrão": {
-        "id": 1475533,
-        "character": "Félix",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xqaUJtNl3XBFMpOF6GVuh3z26hh.jpg"
-      },
-      "Dan Stulbach": {
-        "id": 550453,
-        "character": "Baby Bocayuva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bPO6XErSzMHmmsiyuGisgVTXDJ0.jpg"
-      },
-      "Carla Ribas": {
-        "id": 592668,
-        "character": "Martha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/71JbumRwC4zxSgCdIUHj8QtBKOt.jpg"
-      },
-      "Maitê Padilha": {
-        "id": 1951689,
-        "character": "Cristina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/68QHgitMH9r5mJH0noKk65kkc8P.jpg"
-      },
-      "Camila Márdila": {
-        "id": 1342895,
-        "character": "Dalal Achcar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c2c4wh651nPAhtwD1OfBnG42DYl.jpg"
-      },
-      "Thelmo Fernandes": {
-        "id": 571470,
-        "character": "Lino Machado",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7pml9uBwEwH9e2Ch6BrpuDmK8Zs.jpg"
-      },
-      "Fernanda Montenegro": {
-        "id": 10055,
-        "character": "Older Eunice Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
-      },
-      "Augusto Trainotti": {
-        "id": 3090249,
-        "character": "DOI CODI Soldier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f04BDSHgsq2RuqsyEzXDTcs7Tlh.jpg"
-      },
-      "Olívia Torres": {
-        "id": 1147279,
-        "character": "Babiu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6XbrVESU3odmO2FYDiI8Yi4ABYM.jpg"
-      },
-      "Antonio Saboia": {
-        "id": 129689,
-        "character": "Marcelo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
-      },
-      "Maria Manoella": {
-        "id": 932970,
-        "character": "Veroca",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2l5OS18iXdT2ju2w95LjX4F682Y.jpg"
-      },
       "Marjorie Estiano": {
         "id": 973901,
         "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ikBo7msigtKuyrlakK0yPBddlTk.jpg"
+      },
+      "Bárbara Luz": {
+        "id": 1901533,
+        "character": "Nalu",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/im8iKs98xlvkUjnwt2wVRkzLNm5.jpg"
       },
       "Gabriela Carneiro da Cunha": {
         "id": 2186407,
         "character": "Nalu",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fzjjN0YjKXmlftViA23UMLb4OE8.jpg"
       },
-      "Helena Albergaria": {
-        "id": 1052174,
-        "character": "Beatriz Ryff",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/u6BlaxoUlLgzCOD5wqjJRYJ3Xze.jpg"
+      "Cora Ramalho": {
+        "id": 4505877,
+        "character": "Babiu",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rPlOdnzqSPkA6UD3IShRtlK8DT8.jpg"
+      },
+      "Olívia Torres": {
+        "id": 1147279,
+        "character": "Babiu",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6XbrVESU3odmO2FYDiI8Yi4ABYM.jpg"
+      },
+      "Guilherme Silveira": {
+        "id": 4505876,
+        "character": "Marcelo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lScyb0tcjC52LN7WficCIff3ESA.jpg"
+      },
+      "Antonio Saboia": {
+        "id": 129689,
+        "character": "Marcelo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cjSFDPYxqR1duZjhwGwTr8LNFsj.jpg"
+      },
+      "Pri Helena": {
+        "id": 1735633,
+        "character": "Maria José",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
+      },
+      "Dan Stulbach": {
+        "id": 550453,
+        "character": "Baby Bocayuva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bPO6XErSzMHmmsiyuGisgVTXDJ0.jpg"
+      },
+      "Thelmo Fernandes": {
+        "id": 571470,
+        "character": "Lino Machado",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7pml9uBwEwH9e2Ch6BrpuDmK8Zs.jpg"
+      },
+      "Humberto Carrão": {
+        "id": 1475533,
+        "character": "Felix",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xqaUJtNl3XBFMpOF6GVuh3z26hh.jpg"
+      },
+      "Maeve Jinkings": {
+        "id": 1016242,
+        "character": "Dalva Gasparian",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s1pZd8CgUIll9ALVcgtUJhsB8uF.jpg"
+      },
+      "Carla Ribas": {
+        "id": 592668,
+        "character": "Martha",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/71JbumRwC4zxSgCdIUHj8QtBKOt.jpg"
+      },
+      "Camila Márdila": {
+        "id": 1342895,
+        "character": "Dalal Achcar",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c2c4wh651nPAhtwD1OfBnG42DYl.jpg"
       },
       "Daniel Dantas": {
         "id": 95164,
@@ -11411,35 +11386,25 @@
         "character": "Fernando Gasparian",
         "profile_path": "https://image.tmdb.org/t/p/w1280/8LhyR3pWr8RWx2YPlS8MQcEGgir.jpg"
       },
-      "Lourinelson Vladmir": {
-        "id": 1531689,
-        "character": "Interrogator 1 DOI CODI",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rF733J8owsx2n7BeBIaXfTCL4d1.jpg"
+      "Helena Albergaria": {
+        "id": 1052174,
+        "character": "Beatriz Ryff",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u6BlaxoUlLgzCOD5wqjJRYJ3Xze.jpg"
+      },
+      "Marcelo Várzea": {
+        "id": 1986559,
+        "character": "Ritor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fky0YiZ9n2j13fiEC7RbVKLZ2Sb.jpg"
       },
       "Caio Horowicz": {
         "id": 1522735,
         "character": "Pimpão",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qc8zLNuTo1B6tRlAN3uLILcxC03.jpg"
       },
-      "Bernardo Bibancos": {
-        "id": 2460585,
-        "character": "Juca",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2wN4C6RnOxExd7Tpm9cDN7ijKMk.jpg"
-      },
-      "Aguida Aguiar": {
-        "id": 4096776,
-        "character": "Carla Escrevente Fórum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
-      },
-      "Daniel Ericsson": {
-        "id": 2098428,
-        "character": "Vinicius Equipe Schneider",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
-      },
-      "Renan Lima": {
-        "id": 5165966,
-        "character": "Team Schneider 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bAWq9HPe26kwBY97k3ymX2ro9CL.jpg"
+      "Maitê Padilha": {
+        "id": 1951689,
+        "character": "Cristina",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/68QHgitMH9r5mJH0noKk65kkc8P.jpg"
       },
       "Luana Nastas": {
         "id": 1750208,
@@ -11449,6 +11414,41 @@
       "Isadora Ruppert": {
         "id": 3466387,
         "character": "Laura Gasparian",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pFzB54w8OJoNEtnxM9r1XApQEsj.jpg"
+      },
+      "Luiz Bertazzo": {
+        "id": 142830,
+        "character": "Dr Schneider",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bhscJpbPsEmsboo1sTBQpzNh4JU.jpg"
+      },
+      "Lourinelson Vladmir": {
+        "id": 1531689,
+        "character": "Interrogator 1 DOI CODI",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rF733J8owsx2n7BeBIaXfTCL4d1.jpg"
+      },
+      "Alexandre Mello": {
+        "id": 5187812,
+        "character": "Interrogador 2 DOI CODI",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+      },
+      "Augusto Trainotti": {
+        "id": 3090249,
+        "character": "DOI CODI Soldier",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/f04BDSHgsq2RuqsyEzXDTcs7Tlh.jpg"
+      },
+      "Alan Rocha": {
+        "id": 2490904,
+        "character": "Jornalista Manchete",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
+      },
+      "Fernanda Montenegro": {
+        "id": 10055,
+        "character": "Older Eunice Paiva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+      },
+      "Felipe Barreto": {
+        "id": 5498398,
+        "character": "Reinaldo",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
       "Antonio Furtado": {
@@ -11461,6 +11461,11 @@
         "character": "Chico",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
+      "Bernardo Bibancos": {
+        "id": 2460585,
+        "character": "Juca",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2wN4C6RnOxExd7Tpm9cDN7ijKMk.jpg"
+      },
       "Matheus Canto": {
         "id": 5187780,
         "character": "Daniel",
@@ -11468,28 +11473,28 @@
       },
       "Pedro Passarelli": {
         "id": 5187781,
-        "character": "Familiar Paiva 01",
+        "character": "familiar Paiva 01",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
       "Mônica Braga": {
         "id": 5187783,
-        "character": "Familiar Paiva 02",
+        "character": "familiar Paiva 02",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
       "Giulia Passarelli": {
         "id": 5187785,
-        "character": "Familiar Paiva 03",
+        "character": "familiar Paiva 03",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
       "Angela Chieregati Passarelli": {
         "id": 5187786,
-        "character": "Familiar Paiva 04",
+        "character": "familiar Paiva 04",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
       "Lucas Santos": {
-        "id": 5187791,
+        "id": 1478115,
         "character": "Edu Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uECbvS0Nn3rubYyY3TqDvopmqKo.jpg"
       },
       "Felipe Nehab": {
         "id": 5187793,
@@ -11521,10 +11526,20 @@
         "character": "Amigo 3",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
-      "Alexandre Mello": {
-        "id": 5187812,
-        "character": "Interrogador 2 DOI CODI",
+      "Aguida Aguiar": {
+        "id": 4096776,
+        "character": "Carla Escrevente Fórum",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+      },
+      "Daniel Ericsson": {
+        "id": 2098428,
+        "character": "Vinicius Equipe Schneider",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+      },
+      "Renan Lima": {
+        "id": 5165966,
+        "character": "Team Schneider 1",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bAWq9HPe26kwBY97k3ymX2ro9CL.jpg"
       },
       "Thadeu Matos": {
         "id": 2628135,
@@ -11561,20 +11576,10 @@
         "character": "PE Blitz 2",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
-      "Marcelo Várzea": {
-        "id": 1986559,
-        "character": "Ritor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fky0YiZ9n2j13fiEC7RbVKLZ2Sb.jpg"
-      },
       "Daniel de Almeida": {
         "id": 2655897,
         "character": "Marlon Segurança Fórum",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
-      },
-      "Alan Rocha": {
-        "id": 2490904,
-        "character": "Jornalista Manchete",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
       },
       "Philipp Lavra": {
         "id": 2404026,
@@ -11616,24 +11621,14 @@
         "character": "Bancária",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hg2IYstHFyRyWRsFR0mv2uBnhhb.jpg"
       },
-      "Daniel Pereira": {
-        "id": 4082297,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
-      },
-      "Tainá Andrade": {
-        "id": 5035522,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
-      },
       "Cid Moreira": {
         "id": 2567602,
-        "character": "Locução TVs (voice)",
+        "character": "Locução TV (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sT3CiCWYnwTogfAm8sohyFvWZ7g.jpg"
       },
       "Carolina Borelli": {
         "id": 2227294,
-        "character": "Locução TVs (voice)",
+        "character": "Locução TV (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sgyYxXoP79tILTRSDKDkn72YWQa.jpg"
       }
     }
@@ -16701,7 +16696,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16889,7 +16884,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18475,7 +18470,7 @@
       "Vadim Ledogorov": {
         "id": 96510,
         "character": "Older Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wgLcf6RCZeU3iB0PvUdqUxiViKC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vWMvY5Vf7vrQFcJxV4V3sC8shDm.jpg"
       },
       "Julie Forsyth": {
         "id": 218254,
@@ -18833,7 +18828,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20966,7 +20961,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
