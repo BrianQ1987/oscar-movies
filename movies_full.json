@@ -2162,7 +2162,7 @@
       "Justina Ovejero": {
         "id": 4255944,
         "character": "Pasajera del avión",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hXYJWYNzNrMrm7T2cTkIUTc0YKi.jpg"
       },
       "Fernando Contigiani García": {
         "id": 1803969,
@@ -10761,7 +10761,7 @@
       "Natasha Lyonne": {
         "id": 10871,
         "character": "Natasha Lyonne",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Abtdt76k3oAmag6Femlic4A3zR6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
       },
       "Kareem Abdul-Jabbar": {
         "id": 14414,
@@ -11529,7 +11529,7 @@
       "Daniel Ericsson": {
         "id": 2098428,
         "character": "Vinicius Equipe Schneider",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xSeWFaVFGre8M2qjty1OBCHMPvb.jpg"
       },
       "Renan Lima": {
         "id": 5165966,
@@ -16691,7 +16691,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
