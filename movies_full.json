@@ -2496,8 +2496,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "87/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Disney Plus", "Channel 4"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -16879,7 +16879,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18823,7 +18823,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21687,7 +21687,7 @@
       "Philip Schurer": {
         "id": 1179888,
         "character": "Screaming Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7fGa2ESs2wg7540VsOZnf4F3r56.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fVC2tOp44gVsrGzUqB745PzgZzk.jpg"
       },
       "Christian Bourmier": {
         "id": 5002624,
