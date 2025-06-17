@@ -4456,6 +4456,11 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
+      },
+      "Chadwick Boseman": {
+        "id": 172069,
+        "character": "T'Challa / Black Panther (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
       }
     }
   },
@@ -15992,7 +15997,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tqaQpBvvYxm5uL7ckPJlvT4Govb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uLvFWd8pslM7E8x7vJeEUvubYFe.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -18823,7 +18828,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20956,7 +20961,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -27168,7 +27173,7 @@
       "Jonathan Bailey": {
         "id": 80860,
         "character": "Fiyero",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mZNzekZo8eaHMuXKgDTNLp0EvYM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg"
       },
       "Ethan Slater": {
         "id": 2271410,
@@ -27203,7 +27208,7 @@
       "Bronwyn James": {
         "id": 1587577,
         "character": "Shenshen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gdsJPeMjkdwPAbsX4K8GUNvVI5Y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/clD8t9Oqu8mCTLsqjSTNWi6sSZC.jpg"
       },
       "Aaron Teoh": {
         "id": 3636639,
