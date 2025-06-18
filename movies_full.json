@@ -685,7 +685,7 @@
     "vote_average": "7.5",
     "overview": "A woman is suspected of her husband's murder, and their blind son faces a moral dilemma as the sole witness.",
     "genres": ["Thriller", "Mystery", "Crime"],
-    "imdb_score": "7.7/10",
+    "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "86/100",
     "platforms": "Netflix",
@@ -7201,8 +7201,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ryūsuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -9351,7 +9351,7 @@
       "Michelle Yeoh": {
         "id": 1620,
         "character": "Evelyn Wang",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v74Mkt4dml2LhUv7IfPvBfZFTrV.jpg"
       },
       "Stephanie Hsu": {
         "id": 1381186,
@@ -15459,6 +15459,16 @@
         "id": 3979387,
         "character": "Shell Family (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/thcHcYOK7s9bblSaL4oG1EQJUgj.jpg"
+      },
+      "Conan O'Brien": {
+        "id": 81200,
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/deRbViPut0t80miscBpP2DhBJU5.jpg"
+      },
+      "Brian Williams": {
+        "id": 459062,
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j4HKMHXBNU4os4n25d2DxutBiAI.jpg"
       }
     }
   },
@@ -15997,7 +16007,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uLvFWd8pslM7E8x7vJeEUvubYFe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mnYHjEHYKD1VXqvJxdvibf4NaCu.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -18828,7 +18838,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26318,7 +26328,7 @@
       "Reece Shearsmith": {
         "id": 34551,
         "character": "Norbot (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/inEbaUTwSamRwY5ov2d8AegdvG5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg"
       },
       "Diane Morgan": {
         "id": 1543364,
