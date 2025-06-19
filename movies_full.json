@@ -2200,7 +2200,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aGb3JzoumA89gRFwbJYAxFm5Qdk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -8727,7 +8727,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aGb3JzoumA89gRFwbJYAxFm5Qdk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -10007,7 +10007,7 @@
       "Ezra Buzzington": {
         "id": 59285,
         "character": "Camera Store Clerk #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j3kJRKgQdHAMXvJUtPHXJsGGW5X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vnkdumEom4lVAqdh7Odsf2nZpjB.jpg"
       },
       "Paul Chepikian": {
         "id": 3570734,
@@ -16182,7 +16182,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": "Drama",
     "imdb_score": "7.0/10",
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18838,7 +18838,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18888,7 +18888,7 @@
       "Dichen Lachman": {
         "id": 94797,
         "character": "General Atitaya / Spine Warrior (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ySRHqthzU1gcEhV5rt7awZCzcwd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
       },
       "Patti Harrison": {
         "id": 2079729,
@@ -19809,6 +19809,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "93%",
     "meta_score": "76/100",
+    "platforms": "Paramount Plus",
+    "logo_paths": "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg",
     "director": "Tim Fehlbaum",
     "cast": {
       "John Magaro": {
@@ -20971,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26308,7 +26310,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
