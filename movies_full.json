@@ -2255,7 +2255,7 @@
       "Jamie Flatters": {
         "id": 1729393,
         "character": "Neteyam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iOuYlzkBHpU5VcSyO0gQz0QbJTJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4us0bbdSOPayvw3N1gT0wtap4fc.jpg"
       },
       "Trinity Bliss": {
         "id": 1895788,
@@ -10678,7 +10678,7 @@
     "released": "2022-11-23",
     "duration": 140,
     "imdb_id": "tt11564570",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.",
     "genres": ["Comedy", "Crime", "Mystery"],
     "imdb_score": "7.1/10",
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29183,7 +29183,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nms0d0ExYtiOke82oqr3vOb3smF.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
