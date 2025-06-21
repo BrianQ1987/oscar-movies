@@ -730,7 +730,7 @@
       "Camille Rutherford": {
         "id": 1033745,
         "character": "Zoé Solidor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8Iq8Gi1YsGNQ3gnxaVptXj68zVY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4a3W1JWJNosNgGxQ22gbuY9daJ1.jpg"
       },
       "Anne Rotger": {
         "id": 2670733,
@@ -10751,7 +10751,7 @@
       "Ethan Hawke": {
         "id": 569,
         "character": "Efficient Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a7rgJl8TYUWAfJuM4fxbLHgD7BL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
       },
       "Hugh Grant": {
         "id": 3291,
@@ -16355,7 +16355,7 @@
       "Daveed Diggs": {
         "id": 1652371,
         "character": "Adult Elwood",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v4VmQP0iFFW7SU2ouE2Qhu27Hgy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/codalhZzB4LvJTSGOnOyrTEsqsF.jpg"
       },
       "Rachel Whitman Groves": {
         "id": 1485159,
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18973,7 +18973,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.1/10",
@@ -24744,8 +24744,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "96%",
     "meta_score": "78/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Joseph Kosinski",
     "cast": {
       "Tom Cruise": {
@@ -26313,7 +26313,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
