@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20971,7 +20971,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21111,7 +21111,7 @@
       "Atsuko Okatsuka": {
         "id": 932639,
         "character": "Yuri (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iHMzMqLfiKcyOvXcR4KekkS6vII.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1dPNDZSjimfjKasmgX7RYKJsCB1.jpg"
       },
       "Peter Sohn": {
         "id": 21198,
