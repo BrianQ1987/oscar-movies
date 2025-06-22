@@ -10432,7 +10432,7 @@
     "imdb_id": "tt4772188",
     "vote_average": "8.2",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-    "genres": ["Animation", "Fantasy", "Adventure"],
+    "genres": ["Animation", "Adventure", "Fantasy"],
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "87/100",
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17142,7 +17142,7 @@
       "Casey Affleck": {
         "id": 1893,
         "character": "Boris Pash",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7Sn4vA1l9KHIXDT1PH1luSV25KA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/304ilSygaCRWykoBWAL67TOw8g9.jpg"
       },
       "Rami Malek": {
         "id": 17838,
@@ -26305,7 +26305,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Family", "Comedy", "Adventure", "Animation"],
     "imdb_score": "7.5/10",
