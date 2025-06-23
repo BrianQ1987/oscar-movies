@@ -2275,7 +2275,7 @@
       "Bailey Bass": {
         "id": 1140237,
         "character": "Tsireya",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tG25FetSljxRnFivPO4yA8rdUgU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jgDeNfX6PEAoMdpXmThZxM7drvn.jpg"
       },
       "Filip Geljo": {
         "id": 1632658,
@@ -2716,7 +2716,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mjz0PEriQqUP3BgJBztKAOXzXXM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -7233,7 +7233,7 @@
       "Jin Dae-yeon": {
         "id": 3154128,
         "character": "Gong Yoon-su",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yK1gIDCgoM4dE4332h9cpqp5WrP.jpg"
       },
       "Sonia Yuan": {
         "id": 2547327,
@@ -15366,8 +15366,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "98%",
     "meta_score": "80/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Dean Fleischer Camp",
     "cast": {
       "Jenny Slate": {
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20971,7 +20971,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26313,7 +26313,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
