@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -24751,7 +24751,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2IrMDoNrl5l4KxbXYEROpIIWcJr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
