@@ -730,7 +730,7 @@
       "Camille Rutherford": {
         "id": 1033745,
         "character": "Zoé Solidor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4a3W1JWJNosNgGxQ22gbuY9daJ1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Iq8Gi1YsGNQ3gnxaVptXj68zVY.jpg"
       },
       "Anne Rotger": {
         "id": 2670733,
@@ -8704,7 +8704,7 @@
       },
       "Elvis Presley": {
         "id": 21457,
-        "character": "Self (archive footage)",
+        "character": "Self (archive footage) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
       }
     }
@@ -13552,8 +13552,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "90%",
     "meta_score": "90/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Thomas Anderson",
     "cast": {
       "Alana Haim": {
@@ -18077,7 +18077,7 @@
       "Hanna Schygulla": {
         "id": 3734,
         "character": "Martha Von Kurtzroc",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fxH98JLkAYB2vSpo7bT5OHhoQ42.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hAZVxNCVzYBq3ToWzE01LXK6Oum.jpg"
       },
       "Margaret Qualley": {
         "id": 1392137,
@@ -26318,7 +26318,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
