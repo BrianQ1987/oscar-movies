@@ -2600,7 +2600,7 @@
     "categories": ["Best Picture", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
     "title": "Barbie",
-    "released": "2023-07-19",
+    "released": "2023-06-18",
     "duration": 114,
     "imdb_id": "tt1517268",
     "vote_average": "7",
@@ -18843,7 +18843,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20981,7 +20981,7 @@
       "Shameik Moore": {
         "id": 587506,
         "character": "Miles Morales (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gaSgfLOp9PiKVYmAEuLrcnwP7gV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mGF5ihrMt1MCxDvEOK2MO6YcNLt.jpg"
       },
       "Hailee Steinfeld": {
         "id": 130640,
