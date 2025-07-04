@@ -950,7 +950,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -1001,7 +1001,7 @@
       "Aleksey Serebryakov": {
         "id": 113332,
         "character": "Nikolai Zakharov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AaxxJEBqhajmyCPalnrFgsPJ3cM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ch67oszo5D7lK64xnDp9JFcmGLp.jpg"
       },
       "Anton Bitter": {
         "id": 4937028,
@@ -4488,7 +4488,7 @@
       "Ana de Armas": {
         "id": 224513,
         "character": "Norma Jeane / Marilyn Monroe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3vxvsmYLTf4jnr163SUlBIw51ee.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg"
       },
       "Adrien Brody": {
         "id": 3490,
@@ -6351,6 +6351,11 @@
         "id": 83786,
         "character": "Self (archive footage)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qElSh4qnYifm0uqpeJ3TVoPUJAx.jpg"
+      },
+      "Zack Walker": {
+        "id": 5537685,
+        "character": "Newport Resident (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fKxu160jwgU8ciaTTBjQRkurgtF.jpg"
       }
     }
   },
@@ -8084,7 +8089,7 @@
       "Anya Taylor-Joy": {
         "id": 1397778,
         "character": "Alia Atreides (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
       },
       "Peter Sztojanov, Jr.": {
         "id": 2372075,
@@ -16711,7 +16716,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16899,7 +16904,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17641,6 +17646,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "94/100",
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": "Celine Song",
     "cast": {
       "Greta Lee": {
@@ -18843,7 +18850,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19695,7 +19702,7 @@
       "Dan Stevens": {
         "id": 221018,
         "character": "Admiral Hornagold (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6ioq5zfiwSZbPRWY8fVUO8bWRBC.jpg"
       },
       "Rajia Baroudi": {
         "id": 1069734,
@@ -20976,7 +20983,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24598,7 +24605,7 @@
       "Stephen Root": {
         "id": 17401,
         "character": "Dutch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ihcP1Bbnj9QkC9tEoDA4IkmV2tX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
       },
       "James Landry Hébert": {
         "id": 1170659,
@@ -25084,7 +25091,7 @@
       "Stephen Root": {
         "id": 17401,
         "character": "Porter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ihcP1Bbnj9QkC9tEoDA4IkmV2tX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
       },
       "Robert Gilbert": {
         "id": 1941216,
@@ -26318,7 +26325,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26461,7 +26468,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uyUkplCwcqwHZQe1vleg0dUezdZ.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
