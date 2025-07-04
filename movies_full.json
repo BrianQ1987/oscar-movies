@@ -4260,7 +4260,7 @@
       "Lake Bell": {
         "id": 25703,
         "character": "Dr. Graham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iWXMpMjfEWhCwPDosWbeCexw9D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tpBmxNKBebx04vQGnnQ3QNs6nvV.jpg"
       },
       "Judd Wild": {
         "id": 1554064,
@@ -8223,8 +8223,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "77%",
     "meta_score": "64/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Baz Luhrmann",
     "cast": {
       "Austin Butler": {
@@ -16711,7 +16711,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17127,7 +17127,7 @@
       "Matt Damon": {
         "id": 1892,
         "character": "Leslie Groves",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4KAxONjmVq7qcItdXo38SYtnpul.jpg"
       },
       "Robert Downey Jr.": {
         "id": 3223,
@@ -18713,8 +18713,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -26318,7 +26318,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -26424,6 +26424,11 @@
         "id": 52842,
         "character": "Zookeeper (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zl6ZWijGySSIYJRFalleAiGkxyQ.jpg"
+      },
+      "Matthew Drummond": {
+        "id": 5542206,
+        "character": "Additional Voices (Voice) (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6BxK38ehxuX2dJmZIMpJcVNbYks.jpg"
       }
     }
   },
