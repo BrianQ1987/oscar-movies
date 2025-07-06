@@ -5870,7 +5870,7 @@
     "vote_average": "7.1",
     "overview": "New York, early 1960s. Against the backdrop of a vibrant music scene and tumultuous cultural upheaval, an enigmatic 19-year-old from Minnesota arrives in the West Village with his guitar and revolutionary talent, destined to change the course of American music.",
     "genres": ["Drama", "Music"],
-    "imdb_score": "7.3/10",
+    "imdb_score": "7.7/10",
     "rt_score": "82%",
     "meta_score": "70/100",
     "platforms": "Disney Plus",
@@ -7649,7 +7649,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7JAUieStGsHZAy6ed2WuFy4CJjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bAIvEBxYfENqgqbxz0Gz5C2Zh2b.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -16716,7 +16716,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16904,7 +16904,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
