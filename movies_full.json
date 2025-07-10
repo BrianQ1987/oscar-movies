@@ -2490,7 +2490,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -29499,7 +29499,7 @@
       "Herbert Nordrum": {
         "id": 1083266,
         "character": "Eivind",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/92nrjh1G9DvoVyp9GAAoNVLWXV1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
       },
       "Hans Olav Brenner": {
         "id": 574243,
