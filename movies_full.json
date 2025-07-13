@@ -2265,7 +2265,7 @@
       "Jack Champion": {
         "id": 1895760,
         "character": "Miles 'Spider' Socorro",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8PXFKzhjFJ0oYP60Bj1kA44XBjY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aYY3C75ZwbQxGSSan9Uft4mGE9w.jpg"
       },
       "Brendan Cowell": {
         "id": 129527,
@@ -6145,7 +6145,7 @@
       "Lorin Doctor": {
         "id": 2935367,
         "character": "Spacey Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vs0fOlHIF1sk6E40PUvThFLjKb0.jpg"
       },
       "Aidan Close": {
         "id": 5148620,
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -16966,7 +16966,7 @@
         "character": "Diana, Age 14",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6ruP4J8BO7sdF5kGXqSgPeabIMp.jpg"
       },
-      "Hanler Rodriguez": {
+      "Hanler Rodríguez": {
         "id": 4471629,
         "character": "Miguel",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ydSqUhKFvg5cZ5OwImmf3K1R6SS.jpg"
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20166,7 +20166,7 @@
         "character": "Charlie",
         "profile_path": "https://image.tmdb.org/t/p/w1280/s0TPyI8QlMiktEiq3JVhea0zFhM.jpg"
       },
-      "John Divine G Whitfield": {
+      "John \"Divine G\" Whitfield": {
         "id": 4178065,
         "character": "The Book Fan",
         "profile_path": "https://image.tmdb.org/t/p/w1280/923IkblPanYe5xueobjfTz3MSvM.jpg"
