@@ -2631,7 +2631,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nQuwNfGAOARScXWn06Feo2yV2bV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xJX5ErTizvwu4NLEUgHoahysaJl.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -6383,7 +6383,7 @@
       "Ralph Fiennes": {
         "id": 5469,
         "character": "Lawrence",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gHxnrVCS2DzZg43szHuzYANwYZi.jpg"
       },
       "Stanley Tucci": {
         "id": 2283,
@@ -13521,7 +13521,7 @@
       "Tristan Nokes": {
         "id": 3319026,
         "character": "Audience Member",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jgpniQ6JClz7cfB69AnPypkHYwq.jpg"
       },
       "Dan Sachoff": {
         "id": 1408766,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17112,7 +17112,7 @@
       "Cillian Murphy": {
         "id": 2037,
         "character": "J. Robert Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ycZpLjHxsNPvsB6ndu2D9qsx94X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
       },
       "Emily Blunt": {
         "id": 5081,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
