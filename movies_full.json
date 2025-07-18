@@ -6575,7 +6575,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g08BKZKbQbfY6MOPFHLwL1q1NJl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mffPvD0utzVm1rFAuWpMPwrfsYG.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27175,12 +27175,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g08BKZKbQbfY6MOPFHLwL1q1NJl.jpg"
-      },
-      "Jeff Goldblum": {
-        "id": 4785,
-        "character": "The Wonderful Wizard of Oz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mffPvD0utzVm1rFAuWpMPwrfsYG.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
@@ -27201,6 +27196,11 @@
         "id": 3102321,
         "character": "Nessarose",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uqifog9p62A6dW9T4yivfWnSFXQ.jpg"
+      },
+      "Jeff Goldblum": {
+        "id": 4785,
+        "character": "The Wonderful Wizard of Oz",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ceSmXnD0FUSTaq2WIrnZu9caL0t.jpg"
       },
       "Peter Dinklage": {
         "id": 22970,
@@ -29115,32 +29115,12 @@
       "Winnie Holzman": {
         "id": 1222194,
         "character": "Wiz-O-Mania Audience Member (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hSAGxvsLB1kUFMDAdgWCHdfNQus.jpg"
-      },
-      "Terence Hughes": {
-        "id": 3097986,
-        "character": "Munchkin Dignitary (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
-      },
-      "Jason Lines": {
-        "id": 1959432,
-        "character": "Teacher (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yR7ItKgT63yD2p5LzBdeBJlRxeo.jpg"
-      },
-      "Marvin Montoute": {
-        "id": 4075975,
-        "character": "Munchkin (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xxw8xfEaZUClPJEHTGYv0b72LyS.jpg"
       },
       "Stephen Schwartz": {
         "id": 42910,
         "character": "Emerald City Guard (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qpW74Zt3IpAGArMQigQz0vK0pR0.jpg"
-      },
-      "Ricardo Ludgero Souza": {
-        "id": 4362767,
-        "character": "Munchkin (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4cvnEpdTzhfc0sKYHAYiYMCVbKD.jpg"
       },
       "Alfredo Tavares": {
         "id": 2317714,
