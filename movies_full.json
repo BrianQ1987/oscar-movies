@@ -12033,7 +12033,7 @@
       "Jesse Plemons": {
         "id": 88124,
         "character": "Tom White",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nx5BJs7anBcuZiqvXC9nInMwMSM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/og4I51GsuwohdPgoELOHVMMqMre.jpg"
       },
       "Tantoo Cardinal": {
         "id": 7863,
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18332,7 +18332,7 @@
       "Jesse Plemons": {
         "id": 88124,
         "character": "George Burbank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nx5BJs7anBcuZiqvXC9nInMwMSM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/og4I51GsuwohdPgoELOHVMMqMre.jpg"
       },
       "Thomasin McKenzie": {
         "id": 1356758,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
