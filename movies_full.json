@@ -3368,10 +3368,10 @@
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iWFEx7xetu6MAjPI05yCTvsQdnE.jpg"
       },
-      "Alex Sturman": {
-        "id": 1557066,
+      "Alex J Sturman": {
+        "id": 2711395,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6lOUzD0WvCgdYmSEcIG0p2wUjx6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6nx2QvE8Qf0JguMCbSNERhfJmoP.jpg"
       },
       "Callum Sterling": {
         "id": 3563416,
@@ -5890,7 +5890,7 @@
       "Elle Fanning": {
         "id": 18050,
         "character": "Sylvie Russo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fP47sExdo4l1jrbh9jycr5fG6TG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg"
       },
       "Monica Barbaro": {
         "id": 1525043,
@@ -10447,7 +10447,18 @@
     "rt_score": "97%",
     "meta_score": "87/100",
     "director": "Gints Zilbalodis",
-    "cast": []
+    "cast": {
+      "Gints Zilbalodis": {
+        "id": 1328012,
+        "character": "导演",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
+      },
+      "Matīss Kaža": {
+        "id": 1105426,
+        "character": "编剧",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gOKxbIW0cJJyIiZrnT7iOxXWtX5.jpg"
+      }
+    }
   },
   "The Girl with the Needle": {
     "id": "1232827",
@@ -16706,7 +16717,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16905,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18975,7 +18986,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.1/10",
