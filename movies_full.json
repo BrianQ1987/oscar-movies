@@ -2490,7 +2490,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -4936,7 +4936,7 @@
       "Kaoru Kobayashi": {
         "id": 20332,
         "character": "Noble Pelican (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pJSt6nRgcIsli0hw2aOCzc2l622.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lCkNafdZvef32HBQQFr2SNNAkn3.jpg"
       },
       "Shōhei Hino": {
         "id": 72453,
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17417,7 +17417,7 @@
       "James Remar": {
         "id": 1736,
         "character": "Henry Stimson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/56LwfMaMge2LmWYI46O6R2Wm0YX.jpg"
       },
       "Will Roberts": {
         "id": 30791,
@@ -21043,7 +21043,7 @@
       "Amandla Stenberg": {
         "id": 561869,
         "character": "Margo Kess: Spider-Byte (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5blEjiO4zA8x2AFPyfVds7J3yhq.jpg"
       },
       "Jharrel Jerome": {
         "id": 1664716,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
