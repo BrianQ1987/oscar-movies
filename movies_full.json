@@ -2137,7 +2137,7 @@
       "Natalia Santiago": {
         "id": 2374414,
         "character": "Periodista Programa TV2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gzkZO8yo0YM17iIdDudyFEHwGLk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/37Gt3EZ6rSnMeNB0WAm2OdDbiQt.jpg"
       },
       "María Laura Cali": {
         "id": 1508184,
@@ -2250,7 +2250,7 @@
       "Britain Dalton": {
         "id": 1663672,
         "character": "Lo'ak",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zB42Yop5X3CPLzguun11XqdcLkW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/asX3eJr9oHNs1ZgRYGwsZRAntqS.jpg"
       },
       "Jamie Flatters": {
         "id": 1729393,
@@ -2265,7 +2265,7 @@
       "Jack Champion": {
         "id": 1895760,
         "character": "Miles 'Spider' Socorro",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aYY3C75ZwbQxGSSan9Uft4mGE9w.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8PXFKzhjFJ0oYP60Bj1kA44XBjY.jpg"
       },
       "Brendan Cowell": {
         "id": 129527,
@@ -2275,7 +2275,7 @@
       "Bailey Bass": {
         "id": 1140237,
         "character": "Tsireya",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jgDeNfX6PEAoMdpXmThZxM7drvn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2l5UJZb1EaM7J3MvsP6iLlopJ93.jpg"
       },
       "Filip Geljo": {
         "id": 1632658,
@@ -6575,7 +6575,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iZo9BtLHPDUtELGicghDZN5kqaS.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -16007,7 +16007,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v76kH7Cc8n6HHYCC7pa4qyeo7dy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/afMsmyXm8VJA20LfKhRKyuUoRRq.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19805,7 +19805,7 @@
     "released": "2024-11-07",
     "duration": 94,
     "imdb_id": "tt28082769",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24364,8 +24364,8 @@
         "character": "Susan Company Dancer #3",
         "profile_path": "https://image.tmdb.org/t/p/w1280/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
       },
-      "Ayo Janeen Jackson": {
-        "id": 3318125,
+      "Ayo Jackson": {
+        "id": 2080068,
         "character": "Susan Company Dancer #4",
         "profile_path": "https://image.tmdb.org/t/p/w1280/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
       },
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27175,7 +27175,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iZo9BtLHPDUtELGicghDZN5kqaS.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
