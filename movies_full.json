@@ -2230,7 +2230,7 @@
       "CCH Pounder": {
         "id": 30485,
         "character": "Mo'at",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8IBLs1BkLZpOTVREt5yDusW1nim.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJ5Swy2WDBC46zJrbJmwsGgTPJ2.jpg"
       },
       "Edie Falco": {
         "id": 36190,
@@ -2490,7 +2490,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -2631,7 +2631,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8xrCTYP8PuHixWzkiX6onJNfw8k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -4085,7 +4085,7 @@
       "Danai Gurira": {
         "id": 82104,
         "character": "Okoye",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wpvo1vZosUOSRONP5u8SxrCY18s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gjTMEc5bl5iA1aO9KweIQ1vcuWp.jpg"
       },
       "Winston Duke": {
         "id": 1447932,
@@ -14572,7 +14572,7 @@
       "Aimee Lou Wood": {
         "id": 2201317,
         "character": "Margaret Harris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sbNoAk4RYHMXoHK0khnMl5c1oj6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9z36ueBIBXoNTW9QQPQBw9QtlRI.jpg"
       },
       "Alex Sharp": {
         "id": 136127,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19174,7 +19174,7 @@
       "CCH Pounder": {
         "id": 30485,
         "character": "Dr. Anna Hedgeman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8IBLs1BkLZpOTVREt5yDusW1nim.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vJ5Swy2WDBC46zJrbJmwsGgTPJ2.jpg"
       },
       "Michael Potts": {
         "id": 167566,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
