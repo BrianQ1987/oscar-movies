@@ -4057,7 +4057,7 @@
     "released": "2022-11-09",
     "duration": 162,
     "imdb_id": "tt9114286",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
     "genres": ["Action", "Adventure", "Science Fiction"],
     "imdb_score": "6.6/10",
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24575,7 +24575,7 @@
       "Marc Maron": {
         "id": 1231717,
         "character": "Sweeney",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tnRWhwizXf3TEtrWmHhE8ByNLfj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2ENNRs7lgbyLfrUN622zRqkYJWL.jpg"
       },
       "Andre Royo": {
         "id": 74957,
