@@ -15290,7 +15290,7 @@
       "Sam Nivola": {
         "id": 3153829,
         "character": "Alexander Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jfZgfD7tNYHarutgQiKRkvJZKGS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg"
       },
       "Alexa Swinton": {
         "id": 2380384,
@@ -16706,7 +16706,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16894,7 +16894,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17796,7 +17796,7 @@
       "Koji Yakusho": {
         "id": 18056,
         "character": "Hirayama",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
       },
       "Tokio Emoto": {
         "id": 1015822,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20983,7 +20983,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4oPFuk1T9jzlGzsWr3qaRbltEPF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ev7Vs8XdjehzAxlHIw4YB6FDTsM.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -21028,7 +21028,7 @@
       "Shea Whigham": {
         "id": 74242,
         "character": "George Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/suwW5Gv06Po1RzcSKVAPANrVvo3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qsKe5oze7fdS96BrXDTc5bcxyEl.jpg"
       },
       "Greta Lee": {
         "id": 1260481,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29324,8 +29324,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "90%",
     "meta_score": "77/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sarah Polley",
     "cast": {
       "Rooney Mara": {
