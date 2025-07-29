@@ -14,7 +14,7 @@
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between miniDV footage as she tries to reconcile the father she knew with the man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
-    "rt_score": "95%",
+    "rt_score": "96%",
     "meta_score": "95/100",
     "platforms": ["BBC iPlayer", "Plex"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
@@ -191,7 +191,7 @@
       "Thibault de Montalembert": {
         "id": 19361,
         "character": "General Ferdinand Foch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rlmatSXCig3KrEeTh1yKVTOZnMc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfPsfqRmuxXlVmZUTfsOXf9nwGA.jpg"
       },
       "Devid Striesow": {
         "id": 6086,
@@ -4563,7 +4563,7 @@
       "Tygh Runyan": {
         "id": 55591,
         "character": "Norma Jeane's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8mMiOuq4jf6lT9wBT2wiRZcwxBT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/59Ny2pG5R2aXDUJvTvyDqHI8sCW.jpg"
       },
       "David Warshofsky": {
         "id": 37204,
@@ -9599,7 +9599,7 @@
       "Louis Cancelmi": {
         "id": 163731,
         "character": "Richard Fletcher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tS7a5Awukc316J08teF2yGGOd6A.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eGN2dtjIuzlVw2qjfpfkm9oqIb2.jpg"
       },
       "Gabriel Olds": {
         "id": 106435,
@@ -12078,7 +12078,7 @@
       "Louis Cancelmi": {
         "id": 163731,
         "character": "Kelsie Morrison",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tS7a5Awukc316J08teF2yGGOd6A.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eGN2dtjIuzlVw2qjfpfkm9oqIb2.jpg"
       },
       "Scott Shepherd": {
         "id": 1475960,
@@ -15486,7 +15486,7 @@
     "vote_average": "6.6",
     "overview": "Twenty years after their notorious tabloid romance gripped the nation, a married couple buckles under the pressure when an actress arrives to do research for a film about their past.",
     "genres": "Drama",
-    "imdb_score": "6.8/10",
+    "imdb_score": "6.7/10",
     "rt_score": "91%",
     "meta_score": "86/100",
     "platforms": "Plex",
@@ -18020,7 +18020,7 @@
     "overview": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
     "genres": ["Science Fiction", "Romance", "Comedy"],
     "imdb_score": "7.8/10",
-    "rt_score": "93%",
+    "rt_score": "92%",
     "meta_score": "88/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
@@ -18532,7 +18532,7 @@
     "watched": true,
     "nominated": 2023,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/aV1KGO9X3S4kzqEptVDAvGjccql.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
     "title": "Puss in Boots: The Last Wish",
     "released": "2022-12-07",
     "duration": 103,
@@ -18569,7 +18569,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/f8e41Oon18FiEZr4zgyJDVUqOeh.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -18679,7 +18679,7 @@
       "Natalia Cronembold": {
         "id": 2008023,
         "character": "Waitress / Baker's Dozen Gang Member (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aV1KGO9X3S4kzqEptVDAvGjccql.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kuf6dutpsT0vSVehic3EZIqkOBt.jpg"
       },
       "Paul Fisher": {
         "id": 934181,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19809,7 +19809,7 @@
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
-    "rt_score": "93%",
+    "rt_score": "92%",
     "meta_score": "76/100",
     "director": "Tim Fehlbaum",
     "cast": {
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
