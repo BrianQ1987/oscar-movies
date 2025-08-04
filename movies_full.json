@@ -2490,7 +2490,7 @@
     "released": "2022-10-20",
     "duration": 114,
     "imdb_id": "tt11813216",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -13621,7 +13621,7 @@
       "Joseph Cross": {
         "id": 33528,
         "character": "Matthew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/exxcI1BPy7BFQvXWM5DiH7xpwPO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gQoRzWwHTTI614l0DETXeeVf4kD.jpg"
       },
       "Danielle Haim": {
         "id": 1741368,
@@ -16475,7 +16475,7 @@
       "Holt McCallany": {
         "id": 7497,
         "character": "Anderson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tnXVshv7CD9b53BRjYrLjVJvnDS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iRo9YUNMwZg4UCq7dapo0HydDmI.jpg"
       },
       "Paul Anderson": {
         "id": 220448,
@@ -16708,7 +16708,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16896,7 +16896,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17219,7 +17219,7 @@
       "Scott Grimes": {
         "id": 35091,
         "character": "Counsel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oB0xperEt45g8Ti6lpObpi6c5XV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
       },
       "Kurt Koehler": {
         "id": 1519972,
@@ -19334,7 +19334,7 @@
       "Cotter Smith": {
         "id": 115858,
         "character": "Chief Wells",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9ZQLunOdMJXVkrwV5flMw0Fq3wa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dmz3uYC2XLMulmvQYzqGVaqLmRw.jpg"
       },
       "Ivan Moore": {
         "id": 1614445,
@@ -24793,7 +24793,7 @@
       "Lewis Pullman": {
         "id": 1700685,
         "character": "Lt. Robert 'Bob' Floyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jAo0Rxl9EYVxLnhUlBww5Uxl89v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
       },
       "Jay Ellis": {
         "id": 151680,
@@ -24818,7 +24818,7 @@
       "Manny Jacinto": {
         "id": 1368795,
         "character": "Lt. Billy 'Fritz' Avalone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cjkZzaVR5StB4fqnl58NAOSsH0o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8PENhKW8wG7LwBaJfGvskOXtlKR.jpg"
       },
       "Kara Wang": {
         "id": 236598,
@@ -26315,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
