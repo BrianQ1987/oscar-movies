@@ -2701,7 +2701,7 @@
       "Ncuti Gatwa": {
         "id": 1475239,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mr5xF5oPULqQ1kPpURFc4NpXoSq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vLFh9kdB2G06ugwYmRNpxiXhbN0.jpg"
       },
       "Scott Evans": {
         "id": 1427684,
@@ -5632,6 +5632,11 @@
         "id": 3876864,
         "character": "Bass Boy",
         "profile_path": "https://image.tmdb.org/t/p/w1280/BzVjmm8l23rPsijLiNLUzuQtyd.jpg"
+      },
+      "Charles Coan": {
+        "id": 2886542,
+        "character": "Schoolteacher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pzWpMBph9mvrvgMnl2zXY9TGr8G.jpg"
       }
     }
   },
@@ -7644,7 +7649,7 @@
       "Christopher Walken": {
         "id": 4690,
         "character": "Emperor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wShPFtq1fjTH4zx7W6SeKsO9Npz.jpg"
       },
       "Léa Seydoux": {
         "id": 121529,
@@ -8240,7 +8245,7 @@
       "Tom Hanks": {
         "id": 31,
         "character": "Colonel Tom Parker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
       },
       "Olivia DeJonge": {
         "id": 1385063,
@@ -13188,7 +13193,7 @@
       "Noah Bean": {
         "id": 111945,
         "character": "PV CC Tennis Pro",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tp5khe5mm2XddjDbRTSFhTzQMF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p9lW9bx07VN3ndEn6xWL75Y66yv.jpg"
       },
       "Josiah Cross": {
         "id": 3318577,
@@ -16708,7 +16713,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16896,7 +16901,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18079,7 +18084,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9bfJ5jHKDEuBWxiH0s6MSxIkOPn.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -18569,7 +18574,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v06H7af46ClPgPdTA8klaO0DpLi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -19214,7 +19219,7 @@
       "Grantham Coleman": {
         "id": 1666985,
         "character": "Blyden",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eMxsmosOUiL5HDpr7Ze5HyP03kn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eSZo2DPPQZ5lCjkoq7Th26MH88b.jpg"
       },
       "Jamilah Rosemond": {
         "id": 4499206,
@@ -19861,7 +19866,7 @@
       "Benjamin Walker": {
         "id": 239996,
         "character": "Peter Jennings",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jwM8BZ1hVcbzfs9jNndVmaocULF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xFsDf4v6WYtz07huJvIwJVD05t6.jpg"
       },
       "Ferdinand Dörfler": {
         "id": 2425216,
@@ -21534,7 +21539,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9bfJ5jHKDEuBWxiH0s6MSxIkOPn.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
