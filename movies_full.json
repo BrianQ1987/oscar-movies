@@ -5637,6 +5637,11 @@
         "id": 2886542,
         "character": "Schoolteacher (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pzWpMBph9mvrvgMnl2zXY9TGr8G.jpg"
+      },
+      "Susan Halsey Singer": {
+        "id": 2886479,
+        "character": "Parent (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fMjstpMIQgW6YHhS6gl91s9zx0e.jpg"
       }
     }
   },
@@ -10788,7 +10793,7 @@
       "Kareem Abdul-Jabbar": {
         "id": 14414,
         "character": "Kareem Abdul-Jabbar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aRRm0k5aeekUelEDboIONgU8KWo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aMbhI6nWjU3MkUhw9IIKnJz7UiX.jpg"
       },
       "Serena Williams": {
         "id": 1214573,
@@ -11744,7 +11749,7 @@
       "Paul Walter Hauser": {
         "id": 1294982,
         "character": "Embarrassment (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nhjefgcPcOTa0p4aprajsXPDERw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hV2oiKF2xlDMXtuq3Si1TA4b6DA.jpg"
       },
       "Yvette Nicole Brown": {
         "id": 111513,
@@ -16713,7 +16718,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18034,7 +18039,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -18084,7 +18089,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9bfJ5jHKDEuBWxiH0s6MSxIkOPn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -26320,7 +26325,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29168,7 +29173,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
