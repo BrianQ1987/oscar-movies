@@ -5642,6 +5642,11 @@
         "id": 2886479,
         "character": "Parent (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fMjstpMIQgW6YHhS6gl91s9zx0e.jpg"
+      },
+      "Brian Tobin": {
+        "id": 2886475,
+        "character": "Dock Worker (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5EQOBQl3K9JuDVDmJ9H3tak4NDy.jpg"
       }
     }
   },
@@ -7644,7 +7649,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v06H7af46ClPgPdTA8klaO0DpLi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -9904,7 +9909,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jkpdX2kg8jlSYJYH3lDg0wP72fo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uWwwXvhcQDULR2zyi4Np5T10Viz.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -13096,8 +13101,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -16906,7 +16911,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17144,7 +17149,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v06H7af46ClPgPdTA8klaO0DpLi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -27180,12 +27185,12 @@
       "Cynthia Erivo": {
         "id": 1765068,
         "character": "Elphaba",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oQcFwHu50upW6Soz4Ycc9iHge1k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gIAXqZwZCBqkh2ppfAV4xcnMxki.jpg"
       },
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iZo9BtLHPDUtELGicghDZN5kqaS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ojr2zF46BmPe7EALds7WQf6Ro4O.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
@@ -28370,7 +28375,7 @@
       "Lukas McFarlane": {
         "id": 4959071,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nY61W9rxN3QK80W41ixgEgA8HKP.jpg"
       },
       "Luke Jackson": {
         "id": 2769567,
