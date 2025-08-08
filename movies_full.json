@@ -16723,7 +16723,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16911,7 +16911,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18855,7 +18855,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19164,7 +19164,7 @@
       "Aml Ameen": {
         "id": 78062,
         "character": "Martin Luther King, Jr.",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wQ5zWlzmhvp2wG6gJiqoocEYHPJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/46V5p1lIsWu1A1nCiJAFJ5dOiPq.jpg"
       },
       "Glynn Turman": {
         "id": 114674,
@@ -21098,7 +21098,7 @@
       "Donald Glover": {
         "id": 119589,
         "character": "Aaron Davis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nilV7NtnML6PDa9VrvxD79F85K9.jpg"
       },
       "Elizabeth Perkins": {
         "id": 20,
@@ -26129,7 +26129,7 @@
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cvf1pX4t6ZzDPsRi9J2xGrGj78c.jpg"
       },
-      "Alison Fernandez": {
+      "Alison Fernández": {
         "id": 1472792,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3L5tZZzoo422CmLvSEA88PaBrNb.jpg"
@@ -26468,7 +26468,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qMnOchTbOfMbuYAfdo51CMLEfbI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nebktiw6nz8UjpwhjO11M8X0pN0.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
