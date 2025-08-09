@@ -16911,7 +16911,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20767,7 +20767,7 @@
     "released": "2021-11-04",
     "duration": 116,
     "imdb_id": "tt12536294",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.5/10",
@@ -25056,7 +25056,7 @@
       "Harry Melling": {
         "id": 10982,
         "character": "Malcolm",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pecqrci8S0yROqyd80K5s8LTaAR.jpg"
       },
       "Miles Anderson": {
         "id": 65885,
