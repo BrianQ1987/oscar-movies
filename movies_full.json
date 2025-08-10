@@ -2609,8 +2609,8 @@
     "imdb_score": "6.8/10",
     "rt_score": "88%",
     "meta_score": "80/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Greta Gerwig",
     "cast": {
       "Margot Robbie": {
@@ -7411,7 +7411,7 @@
       "David Dastmalchian": {
         "id": 83854,
         "character": "Piter de Vries",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sF7yHISn8kuBy7T39gB5dMpObpk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -9909,7 +9909,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uWwwXvhcQDULR2zyi4Np5T10Viz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jkpdX2kg8jlSYJYH3lDg0wP72fo.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -16723,7 +16723,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18074,7 +18074,7 @@
       "Jerrod Carmichael": {
         "id": 1400880,
         "character": "Harry Astley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wOD90yYicNoBEoK3hMXqMcEGOQL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v1i5xodXbPw3blXYg4v0HmH3PGK.jpg"
       },
       "Kathryn Hunter": {
         "id": 72309,
@@ -26330,7 +26330,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
