@@ -4641,9 +4641,9 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/tSHW9pmdaHCGxbzdqkNtAedMcbL.jpg"
       },
       "Christopher Kriesa": {
-        "id": 1297931,
+        "id": 37255,
         "character": "Joe E. Brown",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x63NKyzA7smylyHk18T4HZSMRS7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/x8mQj9GPKXc7B75u3cpjBpaLn48.jpg"
       },
       "Eric Matheny": {
         "id": 1175744,
@@ -9909,7 +9909,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jkpdX2kg8jlSYJYH3lDg0wP72fo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j0qv8nDfRTZN2MI6Qr3x7PnKlBX.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -16911,7 +16911,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20988,7 +20988,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -25026,7 +25026,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Macbeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tRYHzK6WmxOCrqeO3OnEUAF5ied.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
       },
       "Frances McDormand": {
         "id": 3910,
@@ -27160,6 +27160,11 @@
         "id": 3948074,
         "character": "Liam (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wWhYBZgCPcgoWhJfrkXRW1bn7AI.jpg"
+      },
+      "Cedric Henderson": {
+        "id": 1865754,
+        "character": "Jerk",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ha1JX5SngNKJGKsShKmUABiie2m.jpg"
       }
     }
   },
