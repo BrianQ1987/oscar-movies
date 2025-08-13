@@ -700,7 +700,7 @@
       "Swann Arlaud": {
         "id": 145120,
         "character": "Maître Vincent Renzi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/38iX2NHO7pMdQH1ygoGEJ8E82WV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4f0uzg6eIekIhCuihvqYeVlxf6B.jpg"
       },
       "Milo Machado-Graner": {
         "id": 3302971,
@@ -4543,7 +4543,7 @@
       "Toby Huss": {
         "id": 18271,
         "character": "Whitey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lFW4D9TgMgtHPTD4SM3eKFpMT67.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fVN6B8eAnr3DJKcdj2KuWh6sT5E.jpg"
       },
       "Catherine Dent": {
         "id": 65797,
@@ -4959,7 +4959,7 @@
     "vote_average": "7",
     "overview": "When a visionary architect and his wife flee post-war Europe in 1947 to rebuild their legacy and witness the birth of modern United States, their lives are changed forever by a mysterious, wealthy client.",
     "genres": ["Drama", "History"],
-    "imdb_score": "7.4/10",
+    "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "90/100",
     "director": "Brady Corbet",
@@ -6354,23 +6354,8 @@
       },
       "Jon Gennari": {
         "id": 3709069,
-        "character": "Folk Festival Stage Manager (Uncredited)",
+        "character": "Folk Festival Stage Manager (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/nNh6aDkanJyonuGAF1aQKTIKawu.jpg"
-      },
-      "John F. Kennedy": {
-        "id": 21111,
-        "character": "Self (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/59L7ESQn3PCui8bVluY7H5Qu9Fv.jpg"
-      },
-      "Walter Cronkite": {
-        "id": 83786,
-        "character": "Self (archive footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qElSh4qnYifm0uqpeJ3TVoPUJAx.jpg"
-      },
-      "Zack Walker": {
-        "id": 5537685,
-        "character": "Newport Resident (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fKxu160jwgU8ciaTTBjQRkurgtF.jpg"
       }
     }
   },
@@ -9909,7 +9894,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j0qv8nDfRTZN2MI6Qr3x7PnKlBX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ia6cVECXXGQBo5jve6jbuYZXyD1.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -16911,7 +16896,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19707,7 +19692,7 @@
       "Dan Stevens": {
         "id": 221018,
         "character": "Admiral Hornagold (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6ioq5zfiwSZbPRWY8fVUO8bWRBC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fFsgginZKH527o38ZfdDxuzx7Ew.jpg"
       },
       "Rajia Baroudi": {
         "id": 1069734,
@@ -20988,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26330,7 +26315,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
