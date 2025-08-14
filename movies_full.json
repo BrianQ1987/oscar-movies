@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -25041,7 +25041,7 @@
       "Harry Melling": {
         "id": 10982,
         "character": "Malcolm",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pecqrci8S0yROqyd80K5s8LTaAR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
       },
       "Miles Anderson": {
         "id": 65885,
