@@ -950,7 +950,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -15267,7 +15267,7 @@
       "John Kroft": {
         "id": 2857728,
         "character": "Young Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9HrExsg8F15MwGwhGdGCJ3Ab3R.jpg"
       },
       "Scott Drummond": {
         "id": 2041832,
@@ -16896,7 +16896,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
