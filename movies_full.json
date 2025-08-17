@@ -4100,7 +4100,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "Everett Ross",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLG7mmxBXXTVAgzXvQl0ap3qlJU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/amUYpgHEn2evMo3QfRIoy0ATQza.jpg"
       },
       "Julia Louis-Dreyfus": {
         "id": 15886,
@@ -5250,7 +5250,7 @@
     "watched": false,
     "nominated": 2023,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg",
     "title": "Close",
     "released": "2022-11-01",
     "duration": 104,
@@ -5318,17 +5318,17 @@
       "Herman van Slambrouck": {
         "id": 3885596,
         "character": "Mark",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Iven Deduytschaver": {
         "id": 3885597,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Jeffrey Vanhaeren": {
         "id": 3885600,
         "character": "Ice Hockey Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Hélène Theunissen": {
         "id": 1933416,
@@ -5338,17 +5338,17 @@
       "Baptiste Bataille": {
         "id": 3885604,
         "character": "Baptiste's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Pieter Piron": {
         "id": 1937781,
         "character": "Doctor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Freya De Corte": {
         "id": 3885616,
         "character": "Teacher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       },
       "Cachou Kirsch": {
         "id": 1367117,
@@ -5363,7 +5363,7 @@
       "Hervé Guerrisi": {
         "id": 2921901,
         "character": "Master of Ceremony",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kpcuqR7nJIYJs5isEwRVDTNF8wd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
       }
     }
   },
@@ -16896,7 +16896,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -28075,7 +28075,7 @@
       "Jacqui Jameson": {
         "id": 1803563,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/53TvNq2sW3oboIjDvdd4hNIzmHa.jpg"
       },
       "Jade Joan": {
         "id": 5152719,
@@ -29461,7 +29461,7 @@
     "released": "2021-10-13",
     "duration": 128,
     "imdb_id": "tt10370710",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is.",
     "genres": ["Drama", "Romance", "Comedy"],
     "imdb_score": "7.7/10",
