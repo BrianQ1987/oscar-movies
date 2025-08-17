@@ -4175,7 +4175,7 @@
       "Shawn Roberts": {
         "id": 81097,
         "character": "WDG Scientist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vrA6GKTV7TuRHYlNFGLuqmCweBu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uTuz1fSq0iYyNsqfSUdvSdHQd87.jpg"
       },
       "Zola Williams": {
         "id": 1979176,
@@ -6145,7 +6145,7 @@
       "Charlie Tahan": {
         "id": 49918,
         "character": "Al Kooper",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sr50dwXp0V6UVBsmvuBILd4pFKD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/isCdDBAxrSOjugK3HjgESi6rXcn.jpg"
       },
       "Ian Kagey": {
         "id": 5148619,
@@ -16708,7 +16708,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20973,7 +20973,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
