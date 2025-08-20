@@ -950,7 +950,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -16896,7 +16896,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -27155,6 +27155,11 @@
         "id": 1865754,
         "character": "Jerk",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ha1JX5SngNKJGKsShKmUABiie2m.jpg"
+      },
+      "Renton Aguirre": {
+        "id": 5637281,
+        "character": "Looby Gub",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jQ0gylJMxWSL490sy0RrPj1Lj7e.jpg"
       }
     }
   },
@@ -27265,7 +27270,7 @@
       "Colin Michael Carmichael": {
         "id": 1512263,
         "character": "Professor Nikidik",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tN9Cux68bQNCbGkT3QQSzcCL46o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3k4K1t5JcZMy8nCL0roJxVnmpDG.jpg"
       },
       "Lexi Lancaster": {
         "id": 3909949,
@@ -29141,6 +29146,11 @@
         "id": 4718217,
         "character": "Girls Brigade (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
+      },
+      "Shelby Young": {
+        "id": 25113,
+        "character": "Shiz Student (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
       }
     }
   },
