@@ -18840,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24726,6 +24726,11 @@
         "id": 2971101,
         "character": "Chicken Tender Kid (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg"
+      },
+      "James Hunter": {
+        "id": 590804,
+        "character": "Middle Management (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3MjWHo2W561N7iRu7O9qrmNhh8y.jpg"
       }
     }
   },
@@ -25982,7 +25987,7 @@
       "Hyein Park": {
         "id": 2719558,
         "character": "Abby (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aud7tBslfKn2qIrKCbltxpXoOTi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dDGYpMSGoo18k2xj0ydaN1JHIMR.jpg"
       },
       "Maitreyi Ramakrishnan": {
         "id": 2602879,
