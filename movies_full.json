@@ -10418,16 +10418,6 @@
         "id": 2271809,
         "character": "Mexican Soap Opera Man (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg"
-      },
-      "Jean-Pierre Pernaut": {
-        "id": 2570598,
-        "character": "Self (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aVAszauBCfuJR9UvKneQr7wdxHV.jpg"
-      },
-      "Mohammad Najibullah": {
-        "id": 2870592,
-        "character": "Self (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg"
       }
     }
   },
@@ -18840,7 +18830,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20752,7 +20742,7 @@
     "released": "2021-11-04",
     "duration": 116,
     "imdb_id": "tt12536294",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.5/10",
