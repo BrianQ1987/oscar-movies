@@ -4461,6 +4461,11 @@
         "id": 172069,
         "character": "T'Challa / Black Panther (archive footage) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+      },
+      "Noah Pierre": {
+        "id": 5642194,
+        "character": "Haitian Taxi Passenger",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
       }
     }
   },
@@ -16698,7 +16703,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17569,11 +17574,6 @@
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jsfN4Msf33MjGymxK4xfJgyPduE.jpg"
       },
-      "Carmen Flores": {
-        "id": 1179690,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hVUjPwHLDVKOxd68th0A4ROdOcy.jpg"
-      },
       "Trinidad Iglesias": {
         "id": 1497032,
         "character": "",
@@ -17608,6 +17608,11 @@
         "id": 952,
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ciY5icxyNekGwD3taLvzOprp2w5.jpg"
+      },
+      "Carmen Flores Sandoval": {
+        "id": 3070858,
+        "character": "Dolores",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/geVHwjv5ke2ySrkVoOFaSYZ5SSa.jpg"
       }
     }
   },
@@ -27140,16 +27145,6 @@
         "id": 3948074,
         "character": "Liam (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wWhYBZgCPcgoWhJfrkXRW1bn7AI.jpg"
-      },
-      "Cedric Henderson": {
-        "id": 1865754,
-        "character": "Jerk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ha1JX5SngNKJGKsShKmUABiie2m.jpg"
-      },
-      "Renton Aguirre": {
-        "id": 5637281,
-        "character": "Looby Gub",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8NpKjHrtbOTNr5oW8qiaAxOo0MT.jpg"
       }
     }
   },
