@@ -26478,7 +26478,7 @@
       "Corey Stoll": {
         "id": 74541,
         "character": "Lieutenant Schrank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l4nHocghACgGibZyCKLUj3GmzaX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
       },
       "Rita Moreno": {
         "id": 13299,
@@ -27145,6 +27145,11 @@
         "id": 3948074,
         "character": "Liam (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wWhYBZgCPcgoWhJfrkXRW1bn7AI.jpg"
+      },
+      "Renton Aguirre": {
+        "id": 5637281,
+        "character": "Looby Gub (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8NpKjHrtbOTNr5oW8qiaAxOo0MT.jpg"
       }
     }
   },
@@ -29329,8 +29334,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "90%",
     "meta_score": "77/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Sarah Polley",
     "cast": {
       "Rooney Mara": {
