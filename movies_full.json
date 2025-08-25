@@ -3452,6 +3452,11 @@
         "id": 5186434,
         "character": "Retro Nurse Barbie (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ecQyo220IHuI13jemTyLEqyqCiI.jpg"
+      },
+      "Lulu Fitzgerald": {
+        "id": 5647113,
+        "character": "Barbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
       }
     }
   },
@@ -4608,7 +4613,7 @@
       "Dominic Leeder": {
         "id": 1969540,
         "character": "Bugs Bunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mEeHqtnWOR44vLCutEFku2WK6ou.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1eUqRAahr8Tnq9vcNS833ejGwAj.jpg"
       },
       "Skip Pipo": {
         "id": 1506248,
@@ -9355,7 +9360,7 @@
     "released": "2022-03-24",
     "duration": 140,
     "imdb_id": "tt6710474",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "An aging Chinese immigrant is swept up in an insane adventure, where she alone can save what's important to her by connecting with the lives she could have led in other universes.",
     "genres": ["Action", "Adventure", "Science Fiction"],
     "imdb_score": "7.8/10",
@@ -16004,7 +16009,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v76kH7Cc8n6HHYCC7pa4qyeo7dy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jNvn6HWhkvotesQYUx5QxSzZVJ2.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16119,7 +16124,7 @@
       "Ashley Peldon": {
         "id": 82630,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1J0NI37PIz8ZZhviSXaTn8EAuEL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l9Wl2VTPuWf9TqNRU7XnQz85qHq.jpg"
       },
       "Jim Pirri": {
         "id": 1225592,
@@ -18835,7 +18840,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -29164,7 +29169,7 @@
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
     "genres": ["Animation", "Science Fiction", "Family"],
     "imdb_score": "8.2/10",
-    "rt_score": "96%",
+    "rt_score": "97%",
     "meta_score": "85/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
