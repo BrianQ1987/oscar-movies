@@ -1122,6 +1122,11 @@
         "id": 1483293,
         "character": "Divorce Center Clerk",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sfX7WO2kx0mQOBICJLpcUFHpjb7.jpg"
+      },
+      "Renton Aguirre": {
+        "id": 5637281,
+        "character": "Stripper (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8NpKjHrtbOTNr5oW8qiaAxOo0MT.jpg"
       }
     }
   },
@@ -4461,11 +4466,6 @@
         "id": 172069,
         "character": "T'Challa / Black Panther (archive footage) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
-      },
-      "Noah Pierre": {
-        "id": 5642194,
-        "character": "Haitian Taxi Passenger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vwGLAsWnpjG6x9uxTFB1ZcdjDkf.jpg"
       }
     }
   },
@@ -16703,7 +16703,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16891,7 +16891,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18835,7 +18835,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20968,7 +20968,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
