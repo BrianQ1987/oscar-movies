@@ -5647,11 +5647,6 @@
         "id": 2886479,
         "character": "Parent (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fMjstpMIQgW6YHhS6gl91s9zx0e.jpg"
-      },
-      "Brian Tobin": {
-        "id": 2886475,
-        "character": "Dock Worker (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5EQOBQl3K9JuDVDmJ9H3tak4NDy.jpg"
       }
     }
   },
@@ -10139,7 +10134,7 @@
       "Orion Hunter": {
         "id": 3778119,
         "character": "Boy Scout (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3LgePKoE1XNxAfEvU3xfa6M4us9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg"
       },
       "Samantha Rose Gomez": {
         "id": 3778120,
@@ -14609,7 +14604,7 @@
       "Patsy Ferran": {
         "id": 1600085,
         "character": "Fiona",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uhgCMwn6IHxeuvmnhAtQcp8qvvG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1GnM9R90XUsENcY0IEZOUryeS13.jpg"
       },
       "Michael Cochrane": {
         "id": 30037,
@@ -16703,7 +16698,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16891,7 +16886,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18024,7 +18019,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -27064,11 +27059,6 @@
         "id": 2621973,
         "character": "Pachanga Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/etXSpx6iKoS7DF4FkQIJtzfPqtC.jpg"
-      },
-      "Samantha Seawolf": {
-        "id": 5055932,
-        "character": "Puerto Rican (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg"
       }
     }
   },
