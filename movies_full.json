@@ -5171,7 +5171,7 @@
     "overview": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond.",
     "genres": "Drama",
     "imdb_score": "6.6/10",
-    "rt_score": "85%",
+    "rt_score": "84%",
     "meta_score": "66/100",
     "platforms": "Apple TV+",
     "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
@@ -10731,7 +10731,7 @@
       "Madelyn Cline": {
         "id": 1642789,
         "character": "Whiskey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qUUfTmpZPhy4zIs8oVk7OINLQqu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9pVpUGJdOEmQKhJy1IPqGoVB3Q7.jpg"
       },
       "Noah Segan": {
         "id": 48312,
@@ -16880,11 +16880,11 @@
     "overview": "Athlete Diana Nyad sets out at 60 to achieve a nearly impossible lifelong dream: to swim from Cuba to Florida across more than 100 miles of open ocean.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.1/10",
-    "rt_score": "85%",
+    "rt_score": "86%",
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20738,7 +20738,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg",
     "title": "Spencer",
     "released": "2021-11-04",
-    "duration": 116,
+    "duration": 117,
     "imdb_id": "tt12536294",
     "vote_average": "6.7",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
