@@ -4941,7 +4941,7 @@
       "Kaoru Kobayashi": {
         "id": 20332,
         "character": "Noble Pelican (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lCkNafdZvef32HBQQFr2SNNAkn3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zpnQ8L6SpyT8pI5vgbpKqXyMYoj.jpg"
       },
       "Shōhei Hino": {
         "id": 72453,
@@ -5200,7 +5200,7 @@
       "Stephen McKinley Henderson": {
         "id": 196179,
         "character": "Dr. Lucas",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/utsApLREJWm13jyCLMkFwPYYU0M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
       },
       "Russell Harvard": {
         "id": 221082,
@@ -7206,8 +7206,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ryūsuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -7366,7 +7366,7 @@
       "Stephen McKinley Henderson": {
         "id": 196179,
         "character": "Thufir Hawat",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/utsApLREJWm13jyCLMkFwPYYU0M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
       },
       "Josh Brolin": {
         "id": 16851,
@@ -8709,7 +8709,7 @@
       },
       "Elvis Presley": {
         "id": 21457,
-        "character": "Self (uncredited)",
+        "character": "Self (archive footage) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
       }
     }
@@ -9230,7 +9230,7 @@
       "Lorenzo Zurzolo": {
         "id": 1526594,
         "character": "Vito",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2UbxY8M2YKIblBcNQcmM7Pd6L68.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yoeUvAcXXxy0fY1EOk9D1Qp7zsO.jpg"
       },
       "Mateusz Kościukiewicz": {
         "id": 1482162,
@@ -9356,8 +9356,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "94%",
     "meta_score": "81/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -15653,7 +15651,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -16886,7 +16884,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18965,7 +18963,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.1/10",
@@ -20267,7 +20265,7 @@
       "Simón Hempe": {
         "id": 3084635,
         "character": "José Luis \"Coche\" Inciarte",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wbqCu30AEJWPNb0FwmgW03dQvA8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MNcy5FQ6qN7R2dIKNlYoKnmCZa.jpg"
       },
       "Luciano Chattón": {
         "id": 3330826,
@@ -20742,7 +20740,7 @@
     "released": "2021-11-04",
     "duration": 116,
     "imdb_id": "tt12536294",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.5/10",
@@ -25196,7 +25194,7 @@
     "released": "2022-09-18",
     "duration": 147,
     "imdb_id": "tt7322224",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.3/10",
