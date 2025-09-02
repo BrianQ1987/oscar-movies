@@ -4901,7 +4901,7 @@
       "Yoshino Kimura": {
         "id": 72764,
         "character": "Natsuko (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oGf2V7K4wYGXnqDaldtz8LGw1rv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fI0ALURUC3CO96fEb33f4iijlF.jpg"
       },
       "Takuya Kimura": {
         "id": 12670,
@@ -11644,7 +11644,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -16696,7 +16696,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18698,8 +18698,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -18963,7 +18963,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.1/10",
@@ -25194,7 +25194,7 @@
     "released": "2022-09-18",
     "duration": 147,
     "imdb_id": "tt7322224",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.3/10",
@@ -27087,7 +27087,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
