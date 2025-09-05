@@ -688,8 +688,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "86/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Justine Triet",
     "cast": {
       "Sandra Hüller": {
@@ -1066,7 +1064,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hdysuMplvJZdT1SFEkHRNG6TgbU.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1096,17 +1094,17 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9cQWvL43jJbwJorluHtF5I1m0Hd.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xoVb2KfxVgcsUgyfpGJNiORL7BK.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dYBp2L5mqSQlsrYigX6BBikKZQv.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
@@ -10684,8 +10682,6 @@
     "imdb_score": "7.1/10",
     "rt_score": "91%",
     "meta_score": "81/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Rian Johnson",
     "cast": {
       "Daniel Craig": {
@@ -15910,8 +15906,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "81/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mike Rianda",
     "cast": {
       "Abbi Jacobson": {
@@ -20961,7 +20955,7 @@
     "meta_score": "86/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -23883,8 +23877,6 @@
     "imdb_score": "7.5/10",
     "rt_score": "88%",
     "meta_score": "74/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Lin-Manuel Miranda",
     "cast": {
       "Andrew Garfield": {
@@ -25004,7 +24996,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Macbeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/393wX9AGWpseVqojQDPLy3bTBia.jpg"
       },
       "Frances McDormand": {
         "id": 3910,
@@ -26308,7 +26300,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
