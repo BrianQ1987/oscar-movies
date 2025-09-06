@@ -149,8 +149,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Edward Berger",
     "cast": {
       "Felix Kammerer": {
@@ -4484,8 +4482,6 @@
     "imdb_score": "5.4/10",
     "rt_score": "43%",
     "meta_score": "50/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Andrew Dominik",
     "cast": {
       "Ana de Armas": {
@@ -4872,8 +4868,6 @@
     "imdb_score": "7.4/10",
     "rt_score": "96%",
     "meta_score": "91/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Hayao Miyazaki",
     "cast": {
       "Soma Santoki": {
@@ -6516,8 +6510,6 @@
     "genres": ["Comedy", "Science Fiction"],
     "imdb_score": "7.2/10",
     "meta_score": "49/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Adam McKay",
     "cast": {
       "Leonardo DiCaprio": {
@@ -8728,8 +8720,6 @@
     "genres": ["Drama", "Thriller"],
     "imdb_score": "5.4/10",
     "meta_score": "70/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
     "cast": {
       "Zoe Saldaña": {
@@ -10888,8 +10878,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "27%",
     "meta_score": "79/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Mark Gustafson", "Guillermo del Toro"],
     "cast": {
       "Ewan McGregor": {
@@ -14749,8 +14737,6 @@
     "imdb_score": "6.7/10",
     "rt_score": "94%",
     "meta_score": "86/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Maggie Gyllenhaal",
     "cast": {
       "Olivia Colman": {
@@ -15019,8 +15005,6 @@
     "genres": ["Drama", "Romance", "Music"],
     "imdb_score": "6.5/10",
     "meta_score": "77/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Bradley Cooper",
     "cast": {
       "Carey Mulligan": {
@@ -15647,7 +15631,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -16688,8 +16672,6 @@
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
@@ -16876,9 +16858,9 @@
     "imdb_score": "7.1/10",
     "rt_score": "86%",
     "meta_score": "63/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17089,8 +17071,8 @@
     "imdb_score": "8.3/10",
     "rt_score": "93%",
     "meta_score": "90/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Christopher Nolan",
     "cast": {
       "Cillian Murphy": {
@@ -18292,8 +18274,6 @@
     "imdb_score": "6.8/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jane Campion",
     "cast": {
       "Benedict Cumberbatch": {
@@ -19119,8 +19099,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "83%",
     "meta_score": "68/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "George C. Wolfe",
     "cast": {
       "Colman Domingo": {
@@ -19577,8 +19557,6 @@
     "imdb_score": "7.0/10",
     "rt_score": "94%",
     "meta_score": "74/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Chris Williams",
     "cast": {
       "Karl Urban": {
@@ -20172,8 +20150,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "90%",
     "meta_score": "72/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "J.A. Bayona",
     "cast": {
       "Enzo Vogrincic": {
@@ -20953,8 +20931,6 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
@@ -24888,7 +24864,7 @@
       "Landon Gordon": {
         "id": 2891225,
         "character": "Kid in Truck Stop",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k5b706EBoP2Ftew6tb6VJ0fAU3H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b42gno6TRrTSYwR5OmPltprnQR8.jpg"
       },
       "Margaret Strabala": {
         "id": 3600047,
@@ -26298,8 +26274,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
-    "platforms": ["BBC iPlayer", "Netflix"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
@@ -28430,7 +28406,7 @@
       "Michael Naylor": {
         "id": 4610758,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kV63piHYCAuXHwaMlMcbfjACeqX.jpg"
       },
       "Michele Zanette": {
         "id": 5152896,
