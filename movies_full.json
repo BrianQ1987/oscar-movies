@@ -686,6 +686,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "86/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Justine Triet",
     "cast": {
       "Sandra Hüller": {
@@ -4979,7 +4981,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kJwPrHrVCG21LNsVTURIRZow5kq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qoCcJFFHE7VtoEbA1IUGErzZwdn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -20931,7 +20933,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20941,7 +20943,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oXZhTeg1TlHI8LC8Hv5aQjBjZp1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -25162,7 +25164,7 @@
     "released": "2022-09-18",
     "duration": 147,
     "imdb_id": "tt7322224",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A celebrity model couple are invited on a luxury cruise for the uber-rich, helmed by an unhinged, alcoholic captain. What first appears Instagrammable ends catastrophically, leaving the survivors stranded on a desert island in a struggle of hierarchy.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.3/10",
@@ -26276,7 +26278,7 @@
     "meta_score": "83/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
