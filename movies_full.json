@@ -149,6 +149,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "90%",
     "meta_score": "76/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Edward Berger",
     "cast": {
       "Felix Kammerer": {
@@ -4484,6 +4486,8 @@
     "imdb_score": "5.4/10",
     "rt_score": "43%",
     "meta_score": "50/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Andrew Dominik",
     "cast": {
       "Ana de Armas": {
@@ -4870,6 +4874,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "96%",
     "meta_score": "91/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Hayao Miyazaki",
     "cast": {
       "Soma Santoki": {
@@ -6512,6 +6518,8 @@
     "genres": ["Comedy", "Science Fiction"],
     "imdb_score": "7.2/10",
     "meta_score": "49/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Adam McKay",
     "cast": {
       "Leonardo DiCaprio": {
@@ -8722,6 +8730,8 @@
     "genres": ["Drama", "Thriller"],
     "imdb_score": "5.4/10",
     "meta_score": "70/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Jacques Audiard",
     "cast": {
       "Zoe Saldaña": {
@@ -10882,6 +10892,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "27%",
     "meta_score": "79/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Mark Gustafson", "Guillermo del Toro"],
     "cast": {
       "Ewan McGregor": {
@@ -15011,6 +15023,8 @@
     "genres": ["Drama", "Romance", "Music"],
     "imdb_score": "6.5/10",
     "meta_score": "77/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Bradley Cooper",
     "cast": {
       "Carey Mulligan": {
@@ -15896,6 +15910,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "81/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mike Rianda",
     "cast": {
       "Abbi Jacobson": {
@@ -16678,6 +16694,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
@@ -17077,8 +17095,8 @@
     "imdb_score": "8.3/10",
     "rt_score": "93%",
     "meta_score": "90/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Christopher Nolan",
     "cast": {
       "Cillian Murphy": {
@@ -18810,7 +18828,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19107,8 +19125,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "83%",
     "meta_score": "68/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "George C. Wolfe",
     "cast": {
       "Colman Domingo": {
@@ -20941,6 +20959,8 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
@@ -26288,9 +26308,9 @@
     "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
-    "platforms": "BBC iPlayer",
-    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "platforms": ["BBC iPlayer", "Netflix"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
