@@ -4987,7 +4987,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qoCcJFFHE7VtoEbA1IUGErzZwdn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qtpsreyKKo2hRco5FAXWoXa4tLt.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7649,7 +7649,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7JAUieStGsHZAy6ed2WuFy4CJjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1LUzpfSkNluSW8EhdkMaCGRUrTz.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -11644,7 +11644,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -15997,7 +15997,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rfylsfgBL0YpququO6qKDOXPuCr.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16696,7 +16696,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16884,7 +16884,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18067,7 +18067,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9bfJ5jHKDEuBWxiH0s6MSxIkOPn.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -21510,8 +21510,6 @@
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
-    "platforms": "Paramount Plus",
-    "logo_paths": "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg",
     "director": "Coralie Fargeat",
     "cast": {
       "Demi Moore": {
@@ -21522,7 +21520,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9bfJ5jHKDEuBWxiH0s6MSxIkOPn.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
@@ -26308,7 +26306,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
