@@ -2600,7 +2600,7 @@
     "categories": ["Best Picture", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
     "title": "Barbie",
-    "released": "2023-06-18",
+    "released": "2023-07-19",
     "duration": 114,
     "imdb_id": "tt1517268",
     "vote_average": "7",
@@ -11727,7 +11727,7 @@
       "Paul Walter Hauser": {
         "id": 1294982,
         "character": "Embarrassment (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hV2oiKF2xlDMXtuq3Si1TA4b6DA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nmBdzJpfHMRHsT3VrjyXAxMFLZA.jpg"
       },
       "Yvette Nicole Brown": {
         "id": 111513,
@@ -13604,7 +13604,7 @@
       "Harriet Sansom Harris": {
         "id": 538,
         "character": "Mary Grady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/N4qI8Z7dl1pbEgzGtQCw39cJmn.jpg"
       },
       "Joseph Cross": {
         "id": 33528,
@@ -15997,7 +15997,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfylsfgBL0YpququO6qKDOXPuCr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -20959,7 +20959,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26306,7 +26306,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
