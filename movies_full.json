@@ -487,7 +487,7 @@
       "Patrick Fischler": {
         "id": 52801,
         "character": "Mandel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z5et9sdI57E9VRYbCbivqbDt523.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
       },
       "Carmen Cusack": {
         "id": 2220239,
@@ -4548,7 +4548,7 @@
       "Toby Huss": {
         "id": 18271,
         "character": "Whitey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fVN6B8eAnr3DJKcdj2KuWh6sT5E.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lFW4D9TgMgtHPTD4SM3eKFpMT67.jpg"
       },
       "Catherine Dent": {
         "id": 65797,
@@ -7649,7 +7649,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1LUzpfSkNluSW8EhdkMaCGRUrTz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2ZyK2a1fKvUXlhKBORpqcMd4Uot.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -13604,7 +13604,7 @@
       "Harriet Sansom Harris": {
         "id": 538,
         "character": "Mary Grady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/N4qI8Z7dl1pbEgzGtQCw39cJmn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1ShvYCWkZycAGb27ZivGrLx1PhS.jpg"
       },
       "Joseph Cross": {
         "id": 33528,
@@ -16884,7 +16884,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20959,7 +20959,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26306,7 +26306,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
