@@ -11644,7 +11644,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -18828,7 +18828,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20959,7 +20959,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -22322,7 +22322,7 @@
       "Rose Knox-Peebles": {
         "id": 3965516,
         "character": "Eleanor's Mother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6b0IliFhrf2Sp9XkxPh0UKHI6k3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4ObmK5X3jtO665yZWIveSv655Mg.jpg"
       },
       "Frank Röth": {
         "id": 36470,
