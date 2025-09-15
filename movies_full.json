@@ -3452,6 +3452,11 @@
         "id": 5647113,
         "character": "Barbie (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      },
+      "Noah Pierre Daniel": {
+        "id": 5689825,
+        "character": "Alex",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xfBqEGvmim0fb7OabTpdGhgREQe.jpg"
       }
     }
   },
@@ -5396,7 +5401,7 @@
       "Emilia Jones": {
         "id": 1331023,
         "character": "Ruby Rossi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/piE17wX2Y9esqXCFlPDUHWjP9gX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQHfiR6bSKf7bJcYyDvfUSXlB9Q.jpg"
       },
       "Marlee Matlin": {
         "id": 19797,
@@ -11272,7 +11277,7 @@
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
-    "vote_average": "7.9",
+    "vote_average": "8",
     "overview": "A woman married to a former politician during the 1971 military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.2/10",
@@ -11644,7 +11649,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -16696,7 +16701,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18828,7 +18833,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26306,7 +26311,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27181,7 +27186,7 @@
       "Marissa Bode": {
         "id": 3102321,
         "character": "Nessarose",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uqifog9p62A6dW9T4yivfWnSFXQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3ZoBNPpXsM35HrGMkRxU9Ez5YR0.jpg"
       },
       "Jeff Goldblum": {
         "id": 4785,
@@ -27261,7 +27266,7 @@
       "Bea Ward": {
         "id": 4789954,
         "character": "Munchkinland Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lfRiU4ZEADq4qPxmUFJ1XtVRRyt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lJ1zRxtdg6fT5J8W5TtLs6AFH2X.jpg"
       },
       "Dereke Oladele": {
         "id": 4886372,
@@ -29460,7 +29465,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kALtr5vmBizuNFGt44jEsfNAlsR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
