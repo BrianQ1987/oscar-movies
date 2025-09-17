@@ -8147,7 +8147,7 @@
       "Catherine O'Hara": {
         "id": 11514,
         "character": "Brook (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xjthrsXA31PVX91ByIQzORKSD0E.jpg"
       },
       "Mason Wertheimer": {
         "id": 3983226,
@@ -8725,7 +8725,7 @@
     "released": "2024-08-21",
     "duration": 132,
     "imdb_id": "tt20221436",
-    "vote_average": "6.5",
+    "vote_average": "6.6",
     "overview": "Rita, an underrated lawyer working for a large law firm more interested in getting criminals out of jail than bringing them to justice, is hired by the leader of a criminal organization.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "5.4/10",
@@ -16696,7 +16696,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16884,7 +16884,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20961,7 +20961,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26323,7 +26323,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
