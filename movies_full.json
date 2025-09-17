@@ -22147,8 +22147,8 @@
     "genres": ["Music", "Drama"],
     "imdb_score": "7.4/10",
     "meta_score": "93/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Todd Field",
     "cast": {
       "Cate Blanchett": {
