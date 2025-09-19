@@ -2503,7 +2503,7 @@
       "Colin Farrell": {
         "id": 72466,
         "character": "Pádraic Súilleabháin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nqcU2IEpKbZlpmPsVQMbTN46psI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lZ3dU4uFEV4BccAEvjJUBIY2OaB.jpg"
       },
       "Brendan Gleeson": {
         "id": 2039,
@@ -8747,7 +8747,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xRUoMcqi2AasnoJOjUNncBxrvwY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kEGPpTVNBFD25cgyEEsoOZSmaMv.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -13644,7 +13644,7 @@
       "Nate Mann": {
         "id": 3029979,
         "character": "Brian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/acpalKJGl7SpW6UPNgwEj1XPmLV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ncBkTgXv2Wv0Wv82JEpE5OqwnzG.jpg"
       },
       "Isabelle Kusman": {
         "id": 3159120,
@@ -16696,7 +16696,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16884,7 +16884,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18828,7 +18828,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21487,6 +21487,36 @@
         "id": 1443708,
         "character": "Peni Parker (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+      },
+      "Peggy Lu": {
+        "id": 2141479,
+        "character": "Mrs. Chen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
+      },
+      "Tobey Maguire": {
+        "id": 2219,
+        "character": "Peter Parker (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+      },
+      "Cliff Robertson": {
+        "id": 19153,
+        "character": "Uncle Ben (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+      },
+      "Alfred Molina": {
+        "id": 658,
+        "character": "Doc Ock (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+      },
+      "Andrew Garfield": {
+        "id": 37625,
+        "character": "Peter Parker (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+      },
+      "Denis Leary": {
+        "id": 5724,
+        "character": "Captain Stacy (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9pMR9QhURdJ3xxdHeNVOKF5M81b.jpg"
       }
     }
   },
@@ -24781,7 +24811,7 @@
       "Lewis Pullman": {
         "id": 1700685,
         "character": "Lt. Robert 'Bob' Floyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/axcp6FswcSS1YPzO43BbyXIh2B2.jpg"
       },
       "Jay Ellis": {
         "id": 151680,
