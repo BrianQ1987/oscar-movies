@@ -3452,6 +3452,11 @@
         "id": 5647113,
         "character": "Barbie (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      },
+      "Noah Pierre": {
+        "id": 5702216,
+        "character": "Alexis",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xfBqEGvmim0fb7OabTpdGhgREQe.jpg"
       }
     }
   },
@@ -16696,7 +16701,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18991,7 +18996,7 @@
       "Jennifer Grey": {
         "id": 722,
         "character": "Marcia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wxEmUKB5gQSrKyrOosIvZ7sh5VU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nFjdCB9uKbhJ6QYCSF7UDdC6FBK.jpg"
       },
       "Kurt Egyiawan": {
         "id": 1526130,
@@ -20961,7 +20966,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
