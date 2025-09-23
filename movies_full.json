@@ -26338,7 +26338,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27893,7 +27893,7 @@
       "Emily Haygarth": {
         "id": 3563423,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ip6AhGkbJvummUWyhHHPxdnmWnb.jpg"
       },
       "Emily Kenwright": {
         "id": 5152670,
