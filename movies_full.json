@@ -3316,7 +3316,7 @@
       "Redmand Rance": {
         "id": 2677086,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eJehylAGbMfyl2TNjOkdk4z9qxr.jpg"
       },
       "Zara Richards": {
         "id": 4182636,
@@ -9386,7 +9386,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Deirdre Beaubeirdre",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yMEUL7DyesV4Kp3TAniiGq7y8s5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg"
       },
       "Tallie Medel": {
         "id": 1071151,
@@ -20966,7 +20966,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26338,7 +26338,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
