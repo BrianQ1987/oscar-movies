@@ -16889,7 +16889,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18833,7 +18833,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19061,7 +19061,7 @@
     "watched": true,
     "nominated": 2024,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/vSzOobYVu16MogSALNg1bjTaGc.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
     "title": "Robot Dreams",
     "released": "2023-12-06",
     "duration": 102,
@@ -19084,22 +19084,22 @@
       "Tito Trifol": {
         "id": 4529554,
         "character": "Various (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vSzOobYVu16MogSALNg1bjTaGc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
       },
       "Rafa Calvo": {
         "id": 4529555,
         "character": "Various (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vSzOobYVu16MogSALNg1bjTaGc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
       },
       "José García Tos": {
         "id": 4324061,
         "character": "Various (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vSzOobYVu16MogSALNg1bjTaGc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
       },
       "José Luis Mediavilla": {
         "id": 4324062,
         "character": "Various (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vSzOobYVu16MogSALNg1bjTaGc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
       },
       "Graciela Molina": {
         "id": 1073466,
@@ -19109,7 +19109,7 @@
       "Esther Solans": {
         "id": 4324064,
         "character": "Various (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vSzOobYVu16MogSALNg1bjTaGc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg"
       }
     }
   },
@@ -20966,7 +20966,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -20976,7 +20976,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vhGGQn8TTqMrqxHhsUmA8RIYV9a.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3Zfp2akzycKEgUotP4DEJgOPqVj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -26338,7 +26338,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
