@@ -668,6 +668,66 @@
         "id": 3310723,
         "character": "Gaby (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/djsxVZbPn9IBExKj77qvJg5yXU5.jpg"
+      },
+      "Anu Bamidele": {
+        "id": 5653972,
+        "character": "Teen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Russell J. Gannon": {
+        "id": 2129853,
+        "character": "Man At Book Fair (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Heidi Garza": {
+        "id": 5337864,
+        "character": "Coffee Customer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Josh Habib": {
+        "id": 5337866,
+        "character": "Lunch Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Ian Dylan Hunt": {
+        "id": 5337867,
+        "character": "Book-signing Guest / Awards Dinner Guest (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Nahna James": {
+        "id": 5117506,
+        "character": "Book Convention Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Emily Kokidko": {
+        "id": 2343050,
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iIX9l4jjuteXkMYt7KRQr3Ic1d.jpg"
+      },
+      "Erin McAnespie": {
+        "id": 5259219,
+        "character": "College Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Adrian M. Mompoint": {
+        "id": 1702790,
+        "character": "Jeff (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Kevin Pitcairn": {
+        "id": 2826257,
+        "character": "Boston Restaurant Patron (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Anne Reardon": {
+        "id": 5610054,
+        "character": "Waitress (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+      },
+      "Cheryl Lee Thorup": {
+        "id": 1581387,
+        "character": "Personal Assistant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tLvbF4AYJkZJpPSrbIc4KFWTjx1.jpg"
       }
     }
   },
@@ -8116,7 +8176,7 @@
     "imdb_id": "tt15789038",
     "vote_average": "7.6",
     "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-    "genres": ["Animation", "Comedy", "Family", "Fantasy", "Romance"],
+    "genres": ["Family", "Fantasy", "Comedy", "Romance", "Animation"],
     "imdb_score": "7.0/10",
     "rt_score": "73%",
     "meta_score": "58/100",
@@ -16889,7 +16949,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18833,7 +18893,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20966,7 +21026,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26308,7 +26368,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
