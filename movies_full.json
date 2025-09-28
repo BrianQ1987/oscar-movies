@@ -2315,7 +2315,7 @@
       "Kevin Dorman": {
         "id": 91443,
         "character": "Recom Mansk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jByqQyo6VsnbtXwKGidaadSBOPb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nKxnaK0vfps0HHpnUfvfMgWA6Qh.jpg"
       },
       "Alicia Vela-Bailey": {
         "id": 1186027,
@@ -14529,7 +14529,7 @@
       "Charlotte Townsend": {
         "id": 1578406,
         "character": "Fairgoer #3 (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c8La5QmSMKVl7KkuHirSNKKy4oX.jpg"
       },
       "Jeff Willy": {
         "id": 2905434,
@@ -17094,7 +17094,7 @@
     "released": "2023-07-19",
     "duration": 181,
     "imdb_id": "tt15398776",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.3/10",
@@ -18833,7 +18833,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
