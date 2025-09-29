@@ -2786,7 +2786,7 @@
       "Helen Mirren": {
         "id": 15735,
         "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qfaMWmaQYDmNbLjC1wtWnhfmPL9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
       },
       "Will Ferrell": {
         "id": 23659,
@@ -5726,7 +5726,7 @@
     "released": "2023-12-25",
     "duration": 141,
     "imdb_id": "tt1200263",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "A decades-spanning tale of love and resilience and of one woman's journey to independence. Celie faces many hardships in her life, but ultimately finds extraordinary strength and hope in the unbreakable bonds of sisterhood.",
     "genres": "Drama",
     "imdb_score": "6.8/10",
@@ -5747,7 +5747,7 @@
       "Danielle Brooks": {
         "id": 1075037,
         "character": "Sofia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pPSG2Vmq24cwAL5XGK1NLs3KEoZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7MJfl9jiTNbquJBM2CIxVCneCN9.jpg"
       },
       "Colman Domingo": {
         "id": 91671,
@@ -7436,7 +7436,7 @@
       "Josh Brolin": {
         "id": 16851,
         "character": "Gurney Halleck",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -7689,7 +7689,7 @@
       "Josh Brolin": {
         "id": 16851,
         "character": "Gurney Halleck",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
       },
       "Austin Butler": {
         "id": 86654,
@@ -10519,7 +10519,7 @@
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.5/10",
-    "rt_score": "93%",
+    "rt_score": "92%",
     "meta_score": "82/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -16766,7 +16766,7 @@
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yjvE3aovyTvebAOalNaI3t6KkjQ.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -16949,7 +16949,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18893,7 +18893,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21026,7 +21026,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
