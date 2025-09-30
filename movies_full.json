@@ -5747,7 +5747,7 @@
       "Danielle Brooks": {
         "id": 1075037,
         "character": "Sofia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MJfl9jiTNbquJBM2CIxVCneCN9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pPSG2Vmq24cwAL5XGK1NLs3KEoZ.jpg"
       },
       "Colman Domingo": {
         "id": 91671,
@@ -14279,7 +14279,7 @@
       "Cassandra Kulukundis": {
         "id": 4772,
         "character": "Tail o' the Cock Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7F8v5IzhgZSfyTSXpIxXE8d1u8v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tme1wMcOan6onCErTdZbyjHmELh.jpg"
       },
       "Danielle Miller": {
         "id": 933335,
@@ -17154,7 +17154,7 @@
     "released": "2023-07-19",
     "duration": 181,
     "imdb_id": "tt15398776",
-    "vote_average": "8",
+    "vote_average": "8.1",
     "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.3/10",
@@ -18893,7 +18893,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19793,7 +19793,7 @@
       "Soheila Golestani": {
         "id": 1574748,
         "character": "Najmeh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lBoGDXEEInw4z0nHwdqT4xDXqBb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yAXsXFxVbuNXr9c9FS54n2H9XGs.jpg"
       },
       "Misagh Zare": {
         "id": 1698967,
@@ -21026,7 +21026,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
