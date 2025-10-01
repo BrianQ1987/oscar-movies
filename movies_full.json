@@ -7271,8 +7271,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ryūsuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -12363,7 +12363,7 @@
       "Beau Smith": {
         "id": 131426,
         "character": "Photos Hustler #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7QEmMKpa8UJ50sNe8IazhdD36c.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
       },
       "Victor McCay": {
         "id": 155030,
@@ -14835,7 +14835,7 @@
       "Dakota Johnson": {
         "id": 118545,
         "character": "Nina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bSfVBJ8S3F1MPpCmIWb8UJcUZGP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
       },
       "Ed Harris": {
         "id": 228,
@@ -16280,7 +16280,7 @@
       "Jimmie Fails": {
         "id": 1774398,
         "character": "Mr. Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jwULlwdSkz2JfiMfa9A8tOHjLec.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ulq5j9k1TNUVmMegoxfR81Kf2na.jpg"
       },
       "Luke Tennie": {
         "id": 2101951,
@@ -16949,7 +16949,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
