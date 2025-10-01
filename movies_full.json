@@ -3512,11 +3512,6 @@
         "id": 5647113,
         "character": "Barbie (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-      },
-      "Noah Pierre": {
-        "id": 5702216,
-        "character": "Alexis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xfBqEGvmim0fb7OabTpdGhgREQe.jpg"
       }
     }
   },
@@ -5331,8 +5326,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "91%",
     "meta_score": "81/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Lukas Dhont",
     "cast": {
       "Eden Dambrine": {
@@ -5933,6 +5928,11 @@
         "id": 4005619,
         "character": "Domino Player (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
+      },
+      "Latasha Bryant": {
+        "id": 5413694,
+        "character": "Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6eTOPxnb4il76MW0y244r65MEbH.jpg"
       }
     }
   },
@@ -6755,7 +6755,7 @@
       "Liev Schreiber": {
         "id": 23626,
         "character": "Bash Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gTHvDnTN52iTdnQPVPu6LhirUHc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
       },
       "Samsara Yett": {
         "id": 2861577,
@@ -10533,7 +10533,7 @@
       "Trine Dyrholm": {
         "id": 4460,
         "character": "Dagmar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xtp6ipplRTHGirCgOlboojPwZmv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ntUn5eKFlQxbjPci5A99qJOjulY.jpg"
       },
       "Besir Zeciri": {
         "id": 1458362,
@@ -16949,7 +16949,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18893,7 +18893,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
