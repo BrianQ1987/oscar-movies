@@ -447,6 +447,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "81/100",
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": "Cord Jefferson",
     "cast": {
       "Jeffrey Wright": {
@@ -1224,7 +1226,7 @@
       "Maria Bakalova": {
         "id": 2408703,
         "character": "Ivana Trump",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sFW4NI7yGvrruzDVY4viSeUgYJh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vCz0ycZr1PgJVOAeS29fIiZE8pN.jpg"
       },
       "Catherine McNally": {
         "id": 185185,
@@ -10846,7 +10848,7 @@
       "Yo-Yo Ma": {
         "id": 173729,
         "character": "Yo-Yo Ma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3qa5GTwmV99kZLLNvKom4CHCnyO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4cFMSniCsO8uVXx4LVcpcbYTjlE.jpg"
       },
       "Joseph Gordon-Levitt": {
         "id": 24045,
@@ -21026,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24806,7 +24808,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
@@ -25307,7 +25309,7 @@
       "Jean-Christophe Folly": {
         "id": 559648,
         "character": "Nelson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z7BnkThx3Et0ByplxDQWqFdHHH4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/75KkhPqt8cc9e4F7SutU2asisCw.jpg"
       },
       "Amanda Walker": {
         "id": 108620,
