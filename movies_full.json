@@ -7701,7 +7701,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -16064,7 +16064,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfylsfgBL0YpququO6qKDOXPuCr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hnCnwHxMNAs5abWsYZvsfBHklIR.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16763,7 +16763,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17189,7 +17189,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -18624,7 +18624,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -21028,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -27149,7 +27149,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -29202,7 +29202,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family"],
+    "genres": ["Animation", "Science Fiction", "Family", "Drama"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
