@@ -1007,7 +1007,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/davwb31ZFhBUrZuRlxk8meRfATI.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1143,7 +1143,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/davwb31ZFhBUrZuRlxk8meRfATI.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -9886,7 +9886,7 @@
       "Jay Leno": {
         "id": 14991,
         "character": "Self (archive Footage)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cplpY6q2VFtR7c1gMHM50wPzdU3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2MOktVN65K8x3cn3eRp8XYb9X9x.jpg"
       },
       "Ronald Reagan": {
         "id": 18802,
@@ -15977,8 +15977,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "81/100",
-    "platforms": ["Netflix", "ITVX"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": "Mike Rianda",
     "cast": {
       "Abbi Jacobson": {
@@ -18895,7 +18895,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
