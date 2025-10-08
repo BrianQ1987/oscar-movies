@@ -1012,7 +1012,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -9448,7 +9448,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Deirdre Beaubeirdre",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
       },
       "Tallie Medel": {
         "id": 1071151,
@@ -11729,7 +11729,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/abroQsos8bGN0ATm8j05z2THoOw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wzRfh5JMZcSRV7Oc7GtfrYSBrGU.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -14629,7 +14629,7 @@
       "Aimee Lou Wood": {
         "id": 2201317,
         "character": "Margaret Harris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9z36ueBIBXoNTW9QQPQBw9QtlRI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlAIE8CjXX1W3cqHDHkGLCPxDpj.jpg"
       },
       "Alex Sharp": {
         "id": 136127,
@@ -15307,7 +15307,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Jamie Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/abroQsos8bGN0ATm8j05z2THoOw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wzRfh5JMZcSRV7Oc7GtfrYSBrGU.jpg"
       },
       "Scott Ellis": {
         "id": 4479655,
@@ -21568,7 +21568,7 @@
     "released": "2024-09-07",
     "duration": 141,
     "imdb_id": "tt17526714",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
     "genres": ["Drama", "Horror", "Science Fiction"],
     "imdb_score": "7.2/10",
@@ -25055,7 +25055,7 @@
     "imdb_id": "tt10095582",
     "vote_average": "6.9",
     "overview": "Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.",
-    "genres": ["Drama", "War"],
+    "genres": ["Drama", "Action", "Fantasy"],
     "imdb_score": "7.1/10",
     "rt_score": "93%",
     "meta_score": "87/100",
@@ -26370,7 +26370,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
