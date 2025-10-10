@@ -4565,7 +4565,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "The Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Bobby Cannavale": {
         "id": 21127,
@@ -5039,7 +5039,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "László Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
@@ -5355,7 +5355,7 @@
       "Léa Drucker": {
         "id": 19360,
         "character": "Nathalie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4U0MBN3uJFJqWhBQ3DoeDkDvQvO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pWHeXliKhtNw0ATyaXisrXUSCHo.jpg"
       },
       "Igor van Dessel": {
         "id": 1553327,
@@ -21033,7 +21033,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21573,7 +21573,7 @@
     "released": "2024-09-07",
     "duration": 141,
     "imdb_id": "tt17526714",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
     "genres": ["Drama", "Horror", "Science Fiction"],
     "imdb_score": "7.2/10",
@@ -26375,7 +26375,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
