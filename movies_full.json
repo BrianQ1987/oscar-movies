@@ -9089,7 +9089,7 @@
       "Shuuko Calderón": {
         "id": 5419884,
         "character": "Woman at Club (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8AbFISoHFRRNIaOiXkO4dd4xw7g.jpg"
       },
       "Rose Harlean": {
         "id": 2802738,
@@ -11905,8 +11905,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -16768,7 +16768,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17229,7 +17229,7 @@
       "Dylan Arnold": {
         "id": 1039523,
         "character": "Frank Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ipmcpPccYlVqBDiKnE3LGhaePuP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aeEErE7FcRbGkpxRRkGVdObB7j1.jpg"
       },
       "Tom Conti": {
         "id": 71010,
@@ -21033,7 +21033,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21573,7 +21573,7 @@
     "released": "2024-09-07",
     "duration": 141,
     "imdb_id": "tt17526714",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
     "genres": ["Drama", "Horror", "Science Fiction"],
     "imdb_score": "7.2/10",
@@ -24806,8 +24806,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "96%",
     "meta_score": "78/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Paramount Plus", "Channel 4", "Plex"],
+    "logo_paths": ["/h5DcR0J2EESLitnhR8xLG1QymTE.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joseph Kosinski",
     "cast": {
       "Tom Cruise": {
@@ -26375,7 +26375,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29529,7 +29529,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kALtr5vmBizuNFGt44jEsfNAlsR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
