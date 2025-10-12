@@ -1012,7 +1012,7 @@
     "released": "2024-10-14",
     "duration": 139,
     "imdb_id": "tt28607951",
-    "vote_average": "7",
+    "vote_average": "7.1",
     "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.5/10",
@@ -3882,8 +3882,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "86%",
     "meta_score": "75/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Kenneth Branagh",
     "cast": {
       "Jude Hill": {
@@ -16545,7 +16545,7 @@
       "Lara Jean Chorostecki": {
         "id": 1102260,
         "character": "Louise Hoatley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gBuEZfohaCyZS8FeOUYeJEqLpRY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kvucXHcIBCcOa7eml2uUA3I2oLP.jpg"
       },
       "Jim Beaver": {
         "id": 29862,
@@ -16768,7 +16768,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21033,7 +21033,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
