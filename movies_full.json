@@ -1007,7 +1007,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/davwb31ZFhBUrZuRlxk8meRfATI.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1143,7 +1143,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/davwb31ZFhBUrZuRlxk8meRfATI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -16956,7 +16956,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21033,7 +21033,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26375,7 +26375,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
