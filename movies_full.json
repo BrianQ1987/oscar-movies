@@ -2246,7 +2246,7 @@
     "imdb_id": "tt1630029",
     "vote_average": "7.6",
     "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
-    "genres": ["Action", "Adventure", "Fantasy", "Science Fiction"],
+    "genres": ["Action", "Adventure", "Science Fiction"],
     "imdb_score": "7.5/10",
     "rt_score": "76%",
     "meta_score": "67/100",
@@ -2778,7 +2778,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -16768,7 +16768,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18089,7 +18089,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -18900,7 +18900,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19800,7 +19800,7 @@
       "Soheila Golestani": {
         "id": 1574748,
         "character": "Najmeh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yAXsXFxVbuNXr9c9FS54n2H9XGs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lBoGDXEEInw4z0nHwdqT4xDXqBb.jpg"
       },
       "Misagh Zare": {
         "id": 1698967,
@@ -21559,6 +21559,11 @@
         "id": 1443708,
         "character": "Peni Parker (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+      },
+      "Peggy Lu": {
+        "id": 2141479,
+        "character": "Mrs. Chen (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
       }
     }
   },
@@ -22211,7 +22216,7 @@
       "Nina Hoss": {
         "id": 681,
         "character": "Sharon Goodnow",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j4j3eenfrg0XgW0dVReFAdPNPE0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qVmgHUAPWAAUEtZ4s4asd9xK0hZ.jpg"
       },
       "Noémie Merlant": {
         "id": 1385600,
@@ -26375,7 +26380,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
