@@ -9639,8 +9639,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "67%",
     "meta_score": "55/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Channel 4", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Michael Showalter",
     "cast": {
       "Jessica Chastain": {
@@ -11026,7 +11026,7 @@
       "Tilda Swinton": {
         "id": 3063,
         "character": "Wood Sprite / Death (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vJwKUaxQHuMxwr8FOg5OjpEwGMb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9FPPOP8KEWD3PTNXJcZJYN4quU4.jpg"
       },
       "Tom Kenny": {
         "id": 78798,
@@ -16467,7 +16467,7 @@
     "watched": true,
     "nominated": 2022,
     "categories": "Best Picture",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg",
     "title": "Nightmare Alley",
     "released": "2021-12-02",
     "duration": 151,
@@ -16575,12 +16575,12 @@
       "Sarah Mennell": {
         "id": 1890153,
         "character": "Abigail",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Mike Hill": {
         "id": 1674252,
         "character": "Dogboy Jojo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Caleb Ellsworth-Clark": {
         "id": 1838242,
@@ -16600,12 +16600,12 @@
       "Matthew MacCallum": {
         "id": 3244329,
         "character": "Human Skeleton",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Samantha Rodes": {
         "id": 3388019,
         "character": "Zizi the Pinhead",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Jesse Buck": {
         "id": 88613,
@@ -16630,7 +16630,7 @@
       "Catherine McGregor": {
         "id": 2271510,
         "character": "Copa Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Martin Julien": {
         "id": 185127,
@@ -16645,7 +16645,7 @@
       "Daniel Falk": {
         "id": 1849371,
         "character": "Patron #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Tim Post": {
         "id": 7009,
@@ -16670,7 +16670,7 @@
       "Lili Connor": {
         "id": 2098769,
         "character": "Woman in Floral Dress",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Danny Waugh": {
         "id": 1470381,
@@ -16680,12 +16680,12 @@
       "Walter Rinaldi": {
         "id": 2845213,
         "character": "Drunk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Andrew Locke": {
         "id": 3497607,
         "character": "Train Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Calvin Desautels": {
         "id": 1833006,
@@ -16695,7 +16695,7 @@
       "Derrick Moore": {
         "id": 3497609,
         "character": "Stagehand",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Linden Porco": {
         "id": 1552843,
@@ -16705,7 +16705,7 @@
       "Grant Bradley": {
         "id": 3497611,
         "character": "Deputy #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Dani Klupsch": {
         "id": 3334647,
@@ -16715,27 +16715,27 @@
       "Vikki Ring": {
         "id": 3497615,
         "character": "Geek Pit Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Vanessa Botbyl": {
         "id": 3497616,
         "character": "Geek Pit Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Michael Bridgeman": {
         "id": 3497617,
         "character": "Geek Pit Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Charles Langille": {
         "id": 3497620,
         "character": "Geek Pit Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Paul Taylor": {
         "id": 3497621,
         "character": "Geek Pit Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oLc7krhmzXKTJPtfj7Sg9dZBIGR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       },
       "Clyde Whitham": {
         "id": 1669510,
@@ -16961,7 +16961,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21038,7 +21038,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26385,7 +26385,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
