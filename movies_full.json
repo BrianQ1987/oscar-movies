@@ -4620,7 +4620,7 @@
       "Toby Huss": {
         "id": 18271,
         "character": "Whitey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lFW4D9TgMgtHPTD4SM3eKFpMT67.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dUqygHlDDnOBZLnE51MPJHkHWvQ.jpg"
       },
       "Catherine Dent": {
         "id": 65797,
@@ -5252,7 +5252,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k6CsASaySnS3ag0Y2Ns2vqPahVn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -6607,7 +6607,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k6CsASaySnS3ag0Y2Ns2vqPahVn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -10813,7 +10813,7 @@
       "Noah Segan": {
         "id": 48312,
         "character": "Derol",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rDYUvVbBCJJxIQKooBN0fyAhNQC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u79VlwA8Pg5jXrZbTqQAPmfbIMb.jpg"
       },
       "Jackie Hoffman": {
         "id": 5385,
@@ -10991,7 +10991,7 @@
       "Burn Gorman": {
         "id": 39659,
         "character": "Priest (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nl5V2mpfTnp8YSShtVYjgNjnv4M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -16961,7 +16961,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21038,7 +21038,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24182,7 +24182,7 @@
       "Renée Elise Goldsberry": {
         "id": 87932,
         "character": "\"Sunday\" Legend #3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p4Rjbr8ZpQ7l3qVCGvNqrLlPs4M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xlcw1r2ieUlaDLK6CIs5MQ9HIgK.jpg"
       },
       "Joel Grey": {
         "id": 6748,
@@ -25111,7 +25111,7 @@
       "Harry Melling": {
         "id": 10982,
         "character": "Malcolm",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b0pHwi2MeqxEpeWnF4Llihu53aJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pecqrci8S0yROqyd80K5s8LTaAR.jpg"
       },
       "Miles Anderson": {
         "id": 65885,
@@ -26385,7 +26385,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
