@@ -5972,7 +5972,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -6642,7 +6642,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7418,7 +7418,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -7681,7 +7681,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -16773,7 +16773,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18905,7 +18905,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
