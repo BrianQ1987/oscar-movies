@@ -6667,7 +6667,7 @@
       "Melanie Lynskey": {
         "id": 15091,
         "character": "June Mindy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kzrWI1sTgnA0H7TCIKzDOUtOW4n.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4raNiD71caQXKKqIBZS1FDsvtkd.jpg"
       },
       "Michael Chiklis": {
         "id": 19654,
@@ -10502,7 +10502,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Animated Feature Film", "Best International Feature Film"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/imKSymKBK7o73sajciEmndJoVkR.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg",
     "title": "Flow",
     "released": "2024-08-29",
     "duration": 85,
@@ -16773,7 +16773,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17861,7 +17861,7 @@
       "Koji Yakusho": {
         "id": 18056,
         "character": "Hirayama",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r2WyVRyl6EJgyPKUJCB7D9cKYPE.jpg"
       },
       "Tokio Emoto": {
         "id": 1015822,
@@ -18905,7 +18905,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21038,7 +21038,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26385,7 +26385,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
