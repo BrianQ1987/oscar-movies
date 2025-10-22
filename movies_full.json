@@ -23,7 +23,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Calum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pjCmH4YVRYXd4zpErxpdwDgaK2L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Frankie Corio": {
         "id": 3515419,
@@ -5982,7 +5982,7 @@
       "Elle Fanning": {
         "id": 18050,
         "character": "Sylvie Russo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cbFVl9NWREa0xD2vW9Z3J4ursiu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e8CUyxQSE99y5IOfzSLtHC0B0Ch.jpg"
       },
       "Monica Barbaro": {
         "id": 1525043,
@@ -10793,7 +10793,7 @@
       "Kate Hudson": {
         "id": 11661,
         "character": "Birdie Jay",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/etLphQpogWncXwq6CEYNsi9Qo27.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s79lH1QzEg2fkXULKBxRmU9aNr8.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -12100,7 +12100,7 @@
       "Jesse Plemons": {
         "id": 88124,
         "character": "Tom White",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ckTthGclQE0y6b7gR0RpRo7LskL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/og4I51GsuwohdPgoELOHVMMqMre.jpg"
       },
       "Tantoo Cardinal": {
         "id": 7863,
@@ -13641,7 +13641,7 @@
       "Sean Penn": {
         "id": 2228,
         "character": "Jack Holden",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ntbrVhRwa77NCTUPTK3qt01b3n4.jpg"
       },
       "Tom Waits": {
         "id": 2887,
@@ -14842,7 +14842,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sreHqDq6AAujGDf7VsDzYPdxVlM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -14857,7 +14857,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pjCmH4YVRYXd4zpErxpdwDgaK2L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Peter Sarsgaard": {
         "id": 133,
@@ -16773,7 +16773,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16961,7 +16961,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18382,7 +18382,7 @@
       "Benedict Cumberbatch": {
         "id": 71580,
         "character": "Phil Burbank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fJmHuBDkEGKGyFxv5wONIt5OoB3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
       },
       "Kodi Smit-McPhee": {
         "id": 113505,
@@ -18397,7 +18397,7 @@
       "Jesse Plemons": {
         "id": 88124,
         "character": "George Burbank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ckTthGclQE0y6b7gR0RpRo7LskL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/og4I51GsuwohdPgoELOHVMMqMre.jpg"
       },
       "Thomasin McKenzie": {
         "id": 1356758,
@@ -21038,7 +21038,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29411,7 +29411,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sreHqDq6AAujGDf7VsDzYPdxVlM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
