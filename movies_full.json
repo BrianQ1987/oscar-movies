@@ -9969,7 +9969,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j0qv8nDfRTZN2MI6Qr3x7PnKlBX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uWwwXvhcQDULR2zyi4Np5T10Viz.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -10359,7 +10359,7 @@
     "released": "2021-06-17",
     "duration": 89,
     "imdb_id": "tt8430054",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
     "genres": ["Documentary", "Animation"],
     "imdb_score": "7.9/10",
@@ -15362,7 +15362,7 @@
       "Alexa Swinton": {
         "id": 2380384,
         "character": "Nina Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n1wra3BZqLEiVrdHZlvLrm6taZP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Ao5ONLeTJ8M6fqefj3MqzlqkQYp.jpg"
       },
       "Mike Mitarotondo": {
         "id": 4479664,
@@ -16961,7 +16961,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18905,7 +18905,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21038,7 +21038,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
