@@ -16773,7 +16773,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -26385,7 +26385,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -27250,7 +27250,7 @@
       "Jonathan Bailey": {
         "id": 80860,
         "character": "Fiyero",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mZNzekZo8eaHMuXKgDTNLp0EvYM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kMtZtavkXIXYA0CnhaWqbNo6uFV.jpg"
       },
       "Ethan Slater": {
         "id": 2271410,
