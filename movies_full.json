@@ -3551,7 +3551,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6HPtgxF8RBFiGJSkvc4TZGERNXN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -18905,7 +18905,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19040,7 +19040,7 @@
     "released": "2024-11-01",
     "duration": 90,
     "imdb_id": "tt21823606",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "Mismatched cousins David and Benji reunite for a tour through Poland to honor their beloved grandmother. The adventure takes a turn when the pair's old tensions resurface against the backdrop of their family history.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.0/10",
