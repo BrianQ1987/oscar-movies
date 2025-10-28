@@ -2262,7 +2262,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -5972,7 +5972,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -6642,7 +6642,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7418,7 +7418,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -7681,7 +7681,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -7711,7 +7711,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nuRLGEBCfUVXTjq9guz9OlTGjtL.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8814,7 +8814,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -8824,7 +8824,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kEGPpTVNBFD25cgyEEsoOZSmaMv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o6YXy5km1R41hRu7xzWB7fl8h8I.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -11721,7 +11721,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -16773,7 +16773,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18905,7 +18905,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26385,7 +26385,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
