@@ -8824,7 +8824,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/o6YXy5km1R41hRu7xzWB7fl8h8I.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sOxhTZWWzYWpPJcYKHsPiW4vI3D.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -9468,7 +9468,7 @@
       "Jenny Slate": {
         "id": 213001,
         "character": "Big Nose",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hqLygFKiylb1hchgu113NP5r7iM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aqH8MCnT3O5Od3OfZR8LClSP7UB.jpg"
       },
       "Harry Shum Jr.": {
         "id": 232499,
@@ -11721,7 +11721,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -16773,7 +16773,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16961,7 +16961,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17204,7 +17204,7 @@
       "Josh Hartnett": {
         "id": 2299,
         "character": "Ernest Lawrence",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8nTEioiir92fGHcASarPxkjF6kG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
       },
       "Casey Affleck": {
         "id": 1893,
@@ -21038,7 +21038,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -27134,6 +27134,11 @@
         "id": 2621973,
         "character": "Pachanga Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/etXSpx6iKoS7DF4FkQIJtzfPqtC.jpg"
+      },
+      "Jessica Marza": {
+        "id": 5781001,
+        "character": "Shark (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1eswCResEeQHA7v4TZs32jeN5bi.jpg"
       }
     }
   },
