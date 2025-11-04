@@ -1009,7 +1009,7 @@
       "Mark Eydelshteyn": {
         "id": 3051936,
         "character": "Ivan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7t3IHfpcgMDw5Q88Tr587I4o73v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1M4zBlIRCdsQtJfi9Yn6uStGtsK.jpg"
       },
       "Yura Borisov": {
         "id": 1266686,
@@ -9228,7 +9228,7 @@
       "Agata Sasinowska": {
         "id": 2060188,
         "character": "Kaja",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hFGTKY2u2Zrz6EWf6bDHojf1M76.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg"
       },
       "Anna Rokita": {
         "id": 3764431,
@@ -15816,7 +15816,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
     "title": "The Mitchells vs. the Machines",
     "released": "2021-04-22",
-    "duration": 109,
+    "duration": 110,
     "imdb_id": "tt7979580",
     "vote_average": "7.9",
     "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
@@ -16253,7 +16253,7 @@
       "Daveed Diggs": {
         "id": 1652371,
         "character": "Adult Elwood",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1LLtCpfMOsumo42iIzr1djkesGM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xiMp9VhiCWIeODPGHrQ3zt6qgw8.jpg"
       },
       "Rachel Whitman Groves": {
         "id": 1485159,
@@ -16598,7 +16598,7 @@
     "genres": ["Animation", "Family", "Action", "Science Fiction", "Adventure", "Fantasy", "Drama", "Comedy"],
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18625,7 +18625,7 @@
       },
       "Carolyn Bracken": {
         "id": 1800020,
-        "character": "The Woman",
+        "character": "Woman",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7b334UCJPr5qtS8gcTpGwdFRAO0.jpg"
       },
       "Pádraig Ó Se": {
@@ -18660,7 +18660,7 @@
       },
       "Jessica Joannides": {
         "id": 3843686,
-        "character": "Leathchupla Cháit",
+        "character": "Cháit's Half-Brother",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Roise Crowley": {
@@ -18675,7 +18675,7 @@
       },
       "Norette Leahy": {
         "id": 3648337,
-        "character": "Múinteoir Deirdre",
+        "character": "Deirdre",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Rian Bairéad": {
@@ -26122,7 +26122,7 @@
     "genres": ["Family", "Comedy", "Adventure", "Animation"],
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
