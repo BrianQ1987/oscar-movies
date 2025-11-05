@@ -5050,7 +5050,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kJwPrHrVCG21LNsVTURIRZow5kq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5963,7 +5963,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -6633,7 +6633,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7409,7 +7409,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -7672,7 +7672,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -11377,7 +11377,7 @@
       "Marjorie Estiano": {
         "id": 973901,
         "character": "Eliana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ikBo7msigtKuyrlakK0yPBddlTk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3affZ1HBujLZkIzLgs8kgdsPV8v.jpg"
       },
       "Bárbara Luz": {
         "id": 1901533,
@@ -16764,7 +16764,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
