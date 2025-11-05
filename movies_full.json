@@ -1054,7 +1054,7 @@
       "Darya Ekamasova": {
         "id": 1163599,
         "character": "Galina Zakharov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dfZXPxLvWy8OSi3FyQPhc3VWvFX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ehOZQn0EcYe0m7Qf59Bo6A8niIq.jpg"
       },
       "Aleksey Serebryakov": {
         "id": 113332,
@@ -5237,7 +5237,7 @@
     "rt_score": "84%",
     "meta_score": "66/100",
     "platforms": "Apple TV+",
-    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
+    "logo_paths": "/kd7Y56rUFjk6EgEsJ5sMCUasvBd.jpg",
     "director": "Lila Neugebauer",
     "cast": {
       "Jennifer Lawrence": {
@@ -12070,7 +12070,7 @@
     "rt_score": "93%",
     "meta_score": "89/100",
     "platforms": "Apple TV+",
-    "logo_paths": "/2E03IAZsX4ZaUqM7tXlctEPMGWS.jpg",
+    "logo_paths": "/kd7Y56rUFjk6EgEsJ5sMCUasvBd.jpg",
     "director": "Martin Scorsese",
     "cast": {
       "Leonardo DiCaprio": {
@@ -16764,7 +16764,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21029,7 +21029,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26376,7 +26376,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
