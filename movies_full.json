@@ -5452,8 +5452,6 @@
     "imdb_score": "8.0/10",
     "rt_score": "94%",
     "meta_score": "72/100",
-    "platforms": "Apple TV+",
-    "logo_paths": "/kd7Y56rUFjk6EgEsJ5sMCUasvBd.jpg",
     "director": "Sian Heder",
     "cast": {
       "Emilia Jones": {
@@ -6608,7 +6606,7 @@
       "Cate Blanchett": {
         "id": 112,
         "character": "Brie Evantee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
       },
       "Rob Morgan": {
         "id": 1281250,
@@ -11002,7 +11000,7 @@
       "Cate Blanchett": {
         "id": 112,
         "character": "Spazzatura (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
       },
       "Tim Blake Nelson": {
         "id": 1462,
@@ -16481,7 +16479,7 @@
       "Cate Blanchett": {
         "id": 112,
         "character": "Dr. Lilith Ritter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
       },
       "Toni Collette": {
         "id": 3051,
@@ -16952,7 +16950,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21029,7 +21027,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -22207,7 +22205,7 @@
       "Cate Blanchett": {
         "id": 112,
         "character": "Lydia Tár",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mXpe59YDxcvAJS6EtshsvsRvLZP.jpg"
       },
       "Nina Hoss": {
         "id": 681,
@@ -25065,8 +25063,6 @@
     "imdb_score": "7.1/10",
     "rt_score": "93%",
     "meta_score": "87/100",
-    "platforms": "Apple TV+",
-    "logo_paths": "/kd7Y56rUFjk6EgEsJ5sMCUasvBd.jpg",
     "director": "Joel Coen",
     "cast": {
       "Denzel Washington": {
