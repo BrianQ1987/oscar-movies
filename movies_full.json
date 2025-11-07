@@ -993,7 +993,7 @@
       "Messi": {
         "id": 5038850,
         "character": "Snoop",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/97zaKSswKHDfMRu9OH78t4riomI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9z915OTvx0aKYzS3fdo7UOItrKG.jpg"
       }
     }
   },
@@ -5236,8 +5236,6 @@
     "imdb_score": "6.6/10",
     "rt_score": "84%",
     "meta_score": "66/100",
-    "platforms": "Apple TV+",
-    "logo_paths": "/kd7Y56rUFjk6EgEsJ5sMCUasvBd.jpg",
     "director": "Lila Neugebauer",
     "cast": {
       "Jennifer Lawrence": {
@@ -12067,8 +12065,6 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "89/100",
-    "platforms": "Apple TV+",
-    "logo_paths": "/kd7Y56rUFjk6EgEsJ5sMCUasvBd.jpg",
     "director": "Martin Scorsese",
     "cast": {
       "Leonardo DiCaprio": {
@@ -16762,7 +16758,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16950,7 +16946,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17832,7 +17828,7 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg",
     "title": "Perfect Days",
     "released": "2023-11-10",
     "duration": 124,
@@ -17890,7 +17886,7 @@
       "Miyako Tanaka": {
         "id": 4500897,
         "character": "Old Lady with Brush",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Ron Mizuma": {
         "id": 2212955,
@@ -17905,22 +17901,22 @@
       "Aoi Iwasaki": {
         "id": 4500899,
         "character": "Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Kisuke Shimazaki": {
         "id": 4500901,
         "character": "Lost Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Yuriko Kawasaki": {
         "id": 1962646,
         "character": "Mother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Aki Kobayashi": {
         "id": 4500902,
         "character": "Baby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Bunmei Harada": {
         "id": 3365720,
@@ -17960,7 +17956,7 @@
       "Makiko Okamoto": {
         "id": 4500906,
         "character": "Old Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Daigo Matsui": {
         "id": 1080183,
@@ -17985,7 +17981,7 @@
       "Naoko Ken": {
         "id": 1057560,
         "character": "Cat Lady",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Mijika Nagai": {
         "id": 2062205,
@@ -18000,17 +17996,17 @@
       "Isao Matsui": {
         "id": 1999004,
         "character": "Old Local",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Aoi Yoshida": {
         "id": 3213323,
         "character": "Dera-Chan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Motoyuki Shibata": {
         "id": 4753651,
         "character": "DPE Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Inuko Inuyama": {
         "id": 936287,
@@ -18030,12 +18026,12 @@
       "Nijika Tonouchi": {
         "id": 4500916,
         "character": "High School Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Yasushi Okuwa": {
         "id": 4219995,
         "character": "Keiko's Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tvUHVSTJV9ITON3oyHaWp7oaAc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mjEk5Wwx6TYVqw29zSaUHclMIgp.jpg"
       },
       "Hairi Katagiri": {
         "id": 123862,
@@ -21027,7 +21023,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21082,7 +21078,7 @@
       "Shea Whigham": {
         "id": 74242,
         "character": "George Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qsKe5oze7fdS96BrXDTc5bcxyEl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
       },
       "Greta Lee": {
         "id": 1260481,
@@ -23996,7 +23992,7 @@
       "Bradley Whitford": {
         "id": 11367,
         "character": "Stephen Sondheim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg"
       },
       "Judith Light": {
         "id": 80415,
@@ -26372,7 +26368,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
