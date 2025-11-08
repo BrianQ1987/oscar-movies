@@ -7398,8 +7398,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
-    "platforms": ["ITVX", "Plex"],
-    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Denis Villeneuve",
     "cast": {
       "Timothée Chalamet": {
@@ -9112,6 +9112,11 @@
         "id": 5419887,
         "character": "Court Policeman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fko8fTfL6BcAqOUh6BZYUjt4SQP.jpg"
+      },
+      "Pablo Martinez": {
+        "id": 5802085,
+        "character": "Narco-trafiquant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/SQytKCFiRM42NwRtNtIygsANNf.jpg"
       }
     }
   },
@@ -9956,7 +9961,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uWwwXvhcQDULR2zyi4Np5T10Viz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/w1Ts3eNM7wUhoYtGwsTG7OQGUIb.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -16946,7 +16951,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21023,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26368,7 +26373,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
