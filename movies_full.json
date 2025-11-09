@@ -9961,7 +9961,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w1Ts3eNM7wUhoYtGwsTG7OQGUIb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jkpdX2kg8jlSYJYH3lDg0wP72fo.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -11902,8 +11902,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -16064,7 +16064,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pHrlMDpCwWZtUOtZnao77YTGJZa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mpYRnWa0wtKqQ8WOi95LZxscz5z.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16763,7 +16763,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16951,7 +16951,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18084,7 +18084,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hoZ3PTt4GvrLp15eFmi4TOy1dr5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -18159,7 +18159,7 @@
       "Anders Grundberg": {
         "id": 3804308,
         "character": "Kid in London Street",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uhBbtl1qLbMNtzzz5dQGntqYAOY.jpg"
       },
       "Attila Kecskeméthy": {
         "id": 4230744,
@@ -18895,7 +18895,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26373,7 +26373,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
