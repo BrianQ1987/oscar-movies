@@ -1200,8 +1200,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "83%",
     "meta_score": "64/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ali Abbasi",
     "cast": {
       "Sebastian Stan": {
@@ -5027,7 +5027,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 215,
+    "duration": 201,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
@@ -5045,7 +5045,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Erzsébet Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/35KdWSfTldNEdsn4MUGFIRoxJEu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61vOLUiibva5lX7HYMmdjFFWEi3.jpg"
       },
       "Guy Pearce": {
         "id": 529,
@@ -9966,7 +9966,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fLUgR3eFSiK965bb9BulTOKzRGm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6eEdbwN2P3Uye4FCm2kKlYwF5Uc.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -16069,7 +16069,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mpYRnWa0wtKqQ8WOi95LZxscz5z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16768,12 +16768,12 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yjvE3aovyTvebAOalNaI3t6KkjQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j9d4i2xsLGUhwpuy5y0fkx1qAcz.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
