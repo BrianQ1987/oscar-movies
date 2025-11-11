@@ -2315,7 +2315,7 @@
         "character": "Neteyam",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4us0bbdSOPayvw3N1gT0wtap4fc.jpg"
       },
-      "Trinity Bliss": {
+      "Trinity Jo-Li Bliss": {
         "id": 1895788,
         "character": "Tuktirey 'Tuk'",
         "profile_path": "https://image.tmdb.org/t/p/w1280/a3WQPKhMHOZ5TjdnqStTfquzVB7.jpg"
@@ -3515,11 +3515,6 @@
         "id": 5745228,
         "character": "Octavio Galizzi (Self)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
-      },
-      "Noah Pierre": {
-        "id": 5807545,
-        "character": "Alexis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v9T1qyCw7KQKim5xXvx0PyfegtV.jpg"
       }
     }
   },
@@ -16956,7 +16951,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17179,7 +17174,7 @@
       "Emily Blunt": {
         "id": 5081,
         "character": "Kitty Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kqsEGTXC1GATSIUVnE8lRggCZPp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
       },
       "Matt Damon": {
         "id": 1892,
@@ -21033,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26142,7 +26137,7 @@
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vtjvZGvxzyfH8NHDYzd16ZHkRyz.jpg"
       },
-      "Trinity Bliss": {
+      "Trinity Jo-Li Bliss": {
         "id": 1895788,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/a3WQPKhMHOZ5TjdnqStTfquzVB7.jpg"
@@ -26378,7 +26373,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
