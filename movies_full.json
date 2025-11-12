@@ -3817,7 +3817,7 @@
       "Jenna Johnson": {
         "id": 2384933,
         "character": "Ciro's Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oztBLWdRk5gApYmNdADXvXkLT5m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4Rr6EIYkrwdJ35dLxdDJG2Re4Cf.jpg"
       },
       "James Patrick Duffy": {
         "id": 2884650,
@@ -16735,7 +16735,7 @@
       "Romina Power": {
         "id": 565447,
         "character": "Party Guest (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ohcEmWLK2J7g4RSNTtWle0vW0ki.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xPzxm8mTNVx9EBFxGPsvByuHD2t.jpg"
       },
       "Keith Lukowski": {
         "id": 4684327,
@@ -16757,13 +16757,13 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Action", "Science Fiction", "Adventure", "Fantasy", "Drama", "Comedy"],
+    "genres": ["Animation", "Family", "Action", "Science Fiction", "Adventure", "Fantasy", "Comedy"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16951,7 +16951,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18895,7 +18895,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21028,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26373,7 +26373,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29210,7 +29210,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Drama"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
