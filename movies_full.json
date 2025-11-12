@@ -5022,7 +5022,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 201,
+    "duration": 215,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
@@ -10993,7 +10993,7 @@
       "John Turturro": {
         "id": 1241,
         "character": "Dottore (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
       },
       "Finn Wolfhard": {
         "id": 1442069,
@@ -16064,7 +16064,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hnYLSHi3dAmzgMiDAUbhyTr3EQt.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -21028,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26373,7 +26373,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
