@@ -4203,7 +4203,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1ZuljeZSIDnS3EJSfwX0Gck9fAc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -5022,7 +5022,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 215,
+    "duration": 201,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
@@ -5050,7 +5050,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -9638,7 +9638,7 @@
       "Jessica Chastain": {
         "id": 83002,
         "character": "Tammy Faye Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xRvRzxiiHhgUErl0yf9w8WariRE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bXFXSlfCzoE5Py7KBP9P0Y0Ot1v.jpg"
       },
       "Andrew Garfield": {
         "id": 37625,
@@ -16763,7 +16763,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20807,7 +20807,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg",
     "title": "Spencer",
     "released": "2021-11-04",
-    "duration": 117,
+    "duration": 116,
     "imdb_id": "tt12536294",
     "vote_average": "6.8",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
@@ -21028,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -23942,7 +23942,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg",
     "title": "tick, tick... BOOM!",
     "released": "2021-11-11",
-    "duration": 115,
+    "duration": 120,
     "imdb_id": "tt8721424",
     "vote_average": "7.6",
     "overview": "On the brink of turning 30, a promising theater composer navigates love, friendship and the pressure to create something great before time runs out.",
