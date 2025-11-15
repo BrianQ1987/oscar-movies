@@ -9961,7 +9961,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6eEdbwN2P3Uye4FCm2kKlYwF5Uc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uVlPm7s3J1pLg6pLa5rYg43wd1.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -16763,7 +16763,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16951,7 +16951,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -27121,7 +27121,7 @@
       "Isaias Badilla": {
         "id": 2621973,
         "character": "Pachanga Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/etXSpx6iKoS7DF4FkQIJtzfPqtC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2HOaKmIYLxVg0Cd3S4Fm3ZdCaBd.jpg"
       },
       "Jessica Marza": {
         "id": 5781001,
@@ -29754,7 +29754,7 @@
     "imdb_id": "tt7160372",
     "vote_average": "7",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-    "genres": ["Drama", "History", "War"],
+    "genres": ["Drama", "History"],
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "92/100",
