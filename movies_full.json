@@ -1715,7 +1715,7 @@
       "Alejandra Flechner": {
         "id": 239252,
         "character": "Silvia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e9lwUZ09yysS6wOVVIe6tJDy2o2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d6ocIFKYdauO6sxL3SDBHKLc1O4.jpg"
       },
       "Paula Ransenberg": {
         "id": 3118549,
@@ -1755,12 +1755,12 @@
       "Alejo Garcia Pintos": {
         "id": 1196556,
         "character": "Juez",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uYjSyJ4NauxtGGGJkmUAv6o7Qo7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
       },
       "Claudio Da Passano": {
         "id": 1064372,
         "character": "Somi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6LSgmcYc3BaIWAZFmfrUdocK5iI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
       },
       "Gina Mastronicola": {
         "id": 3228322,
@@ -2674,7 +2674,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -11341,7 +11341,7 @@
     "released": "2024-09-19",
     "duration": 138,
     "imdb_id": "tt14961016",
-    "vote_average": "8",
+    "vote_average": "7.9",
     "overview": "A woman married to a former politician during the 1971 military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.2/10",
@@ -11473,7 +11473,7 @@
       "Maitê Padilha": {
         "id": 1951689,
         "character": "Cristina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/68QHgitMH9r5mJH0noKk65kkc8P.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6uLAdLi2g22xjjpIAwCz5V9CbuV.jpg"
       },
       "Luana Nastas": {
         "id": 1750208,
@@ -11563,7 +11563,7 @@
       "Lucas Santos": {
         "id": 1478115,
         "character": "Edu Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uECbvS0Nn3rubYyY3TqDvopmqKo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/quSUoX9zBrK7abP20fRf4d5YlXA.jpg"
       },
       "Felipe Nehab": {
         "id": 5187793,
@@ -18895,7 +18895,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21028,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29210,7 +29210,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
