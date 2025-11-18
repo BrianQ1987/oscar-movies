@@ -4168,7 +4168,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "Everett Ross",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLG7mmxBXXTVAgzXvQl0ap3qlJU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
       },
       "Julia Louis-Dreyfus": {
         "id": 15886,
@@ -5040,7 +5040,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Erzsébet Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61vOLUiibva5lX7HYMmdjFFWEi3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
       },
       "Guy Pearce": {
         "id": 529,
@@ -10506,48 +10506,7 @@
     "rt_score": "97%",
     "meta_score": "87/100",
     "director": "Gints Zilbalodis",
-    "cast": {
-      "Gints Zilbalodis": {
-        "id": 1328012,
-        "character": "Flow (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
-      },
-      "Alexander David Bobson": {
-        "id": 5820027,
-        "character": "Flow (voice: English version)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      },
-      "Isabella Krieke": {
-        "id": 5820030,
-        "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      },
-      "Thomas Oldman": {
-        "id": 5820035,
-        "character": "Narrator (voice: English version)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      },
-      "Kellia Metúx": {
-        "id": 5820040,
-        "character": "Secretary Bird (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      },
-      "Giselle Konas": {
-        "id": 5820041,
-        "character": "Secretary Bird (voice: English version)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      },
-      "Maxíme Gundeo": {
-        "id": 5820043,
-        "character": "Labrador Retriever (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      },
-      "Billy Clancsen": {
-        "id": 5820045,
-        "character": "Lemur (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zME0Ul0w48MKkYBnFRn40M5qgLh.jpg"
-      }
-    }
+    "cast": []
   },
   "The Girl with the Needle": {
     "id": "1232827",
@@ -12951,7 +12910,7 @@
       "Martin Scorsese": {
         "id": 1032,
         "character": "Radio Show Producer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
       },
       "Marko Costanzo": {
         "id": 92376,
@@ -16591,7 +16550,7 @@
       "Clifton Collins Jr.": {
         "id": 5365,
         "character": "Funhouse Jack",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qG3doVXFax1EmYR1EqMvLbx5wwz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iUQGHVSAA48q1QMnj7hnBFVq3jK.jpg"
       },
       "Tim Blake Nelson": {
         "id": 1462,
@@ -17260,7 +17219,7 @@
       "Jason Clarke": {
         "id": 76512,
         "character": "Roger Robb",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jGMOmi7LxpSO6842gJOZKt1gs9N.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ma1BPr7pjzgxmYkHFlkMJLQDPC5.jpg"
       },
       "Dylan Arnold": {
         "id": 1039523,
@@ -20280,7 +20239,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/2e853FDVSIso600RqAMunPxiZjq.jpg",
     "title": "Society of the Snow",
     "released": "2023-12-15",
-    "duration": 144,
+    "duration": 143,
     "imdb_id": "tt16277242",
     "vote_average": "8",
     "overview": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
@@ -21069,7 +21028,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
