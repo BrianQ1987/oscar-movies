@@ -16936,7 +16936,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -17169,7 +17169,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Lewis Strauss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4SLDzrd8C0evBJTy9nVbFeogjXV.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -18880,7 +18880,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21013,7 +21013,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26358,7 +26358,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29311,7 +29311,7 @@
       "Tiago Martinez": {
         "id": 3516191,
         "character": "Baby Opossum 2 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hqbi17NIqvNmBhI2KiazHtdpS8j.jpg"
       },
       "Becca Last": {
         "id": 4967579,
