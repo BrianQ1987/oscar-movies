@@ -1755,7 +1755,7 @@
       "Alejo Garcia Pintos": {
         "id": 1196556,
         "character": "Juez",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mUle6xP2j073OBWem4bf7KxSxPP.jpg"
       },
       "Claudio Da Passano": {
         "id": 1064372,
@@ -6432,7 +6432,7 @@
       "Ralph Fiennes": {
         "id": 5469,
         "character": "Lawrence",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yOkUvQ7mPwLSqK6lTpg1PpVfOW9.jpg"
       },
       "Stanley Tucci": {
         "id": 2283,
@@ -6584,7 +6584,7 @@
       "Meryl Streep": {
         "id": 5064,
         "character": "President Orlean",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g5cVxQBAQ3AXt3LhdBXtbbN47Uc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -10745,7 +10745,7 @@
       "Daniel Craig": {
         "id": 8784,
         "character": "Benoit Blanc",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7njtBW7fv3x2avMM18milvPmKCh.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -10810,7 +10810,7 @@
       "Hugh Grant": {
         "id": 3291,
         "character": "Phillip",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/74c4wDc4rDCYR4kA7O5kYpXEObI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
       },
       "Stephen Sondheim": {
         "id": 52154,
@@ -10998,7 +10998,7 @@
       "Christoph Waltz": {
         "id": 27319,
         "character": "Count Volpe (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hrSWzM1IGbj9OfohFPTX0HcLecz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tXPVj6QYEDieEJgziJY2CYfLXVa.jpg"
       },
       "Tilda Swinton": {
         "id": 3063,
@@ -11345,6 +11345,11 @@
         "character": "Rubens Paiva",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sBVDTAAEDJuVBTKzVGA0PrqeD17.jpg"
       },
+      "Fernanda Montenegro": {
+        "id": 10055,
+        "character": "Older Eunice Paiva",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
+      },
       "Valentina Herszage": {
         "id": 1508719,
         "character": "Veroca",
@@ -11494,11 +11499,6 @@
         "id": 2490904,
         "character": "Jornalista Manchete",
         "profile_path": "https://image.tmdb.org/t/p/w1280/9Vc1TJtnF70SEC0oKZ99w20rhqf.jpg"
-      },
-      "Fernanda Montenegro": {
-        "id": 10055,
-        "character": "Older Eunice Paiva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
       },
       "Felipe Barreto": {
         "id": 5498398,
@@ -13153,7 +13153,7 @@
       "Jon Bernthal": {
         "id": 19498,
         "character": "Rick Macci",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pEDKAsy1zO9dgSeBjohqklOXRUQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
       },
       "Mikayla LaShae Bartholomew": {
         "id": 2988968,
@@ -16748,7 +16748,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17169,7 +17169,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Lewis Strauss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4SLDzrd8C0evBJTy9nVbFeogjXV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -26358,7 +26358,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29211,7 +29211,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
