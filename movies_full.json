@@ -2273,7 +2273,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zIiU5mOcinbkpHWCxuDigucsyZC.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -5007,7 +5007,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 201,
+    "duration": 215,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
@@ -11771,7 +11771,7 @@
       "Diane Lane": {
         "id": 2882,
         "character": "Mom (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/o9pPS52JrleScO4Qq6q1nYlaxWz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
       },
       "Kyle MacLachlan": {
         "id": 6677,
@@ -16748,7 +16748,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18880,7 +18880,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21989,7 +21989,7 @@
       "Jonathan Jenvrin": {
         "id": 5039188,
         "character": "Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nhbrTZHf6yIZNO0eP0VMobzz7lF.jpg"
       },
       "Mimi Maury": {
         "id": 5039192,
@@ -26358,7 +26358,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
