@@ -2647,6 +2647,11 @@
         "id": 4597450,
         "character": "Student Musician 3",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
+      },
+      "Richard Birdloft": {
+        "id": 5830559,
+        "character": "Higgis Cole",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
       }
     }
   },
@@ -4188,7 +4193,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qkCKv6EJuFevxNOditTzUikp9v9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -6599,7 +6604,7 @@
       "Jonah Hill": {
         "id": 21007,
         "character": "Jason Orlean",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5aE4GgJADHzN1QsS6zkzElZSEYq.jpg"
       },
       "Mark Rylance": {
         "id": 40900,
@@ -10998,7 +11003,7 @@
       "Christoph Waltz": {
         "id": 27319,
         "character": "Count Volpe (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tXPVj6QYEDieEJgziJY2CYfLXVa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
       },
       "Tilda Swinton": {
         "id": 3063,
@@ -16049,7 +16054,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hnYLSHi3dAmzgMiDAUbhyTr3EQt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vdd0a58A1272zB6lvYuK5OEjO6.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16748,7 +16753,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18880,7 +18885,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
