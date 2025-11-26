@@ -2694,7 +2694,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -5017,7 +5017,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 201,
+    "duration": 215,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
@@ -6394,7 +6394,7 @@
       "James Archie Worley": {
         "id": 2819379,
         "character": "Vendor Sings Opera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/llWl3GtNoXosbvYboelmoT459NM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rdY3aajvSaPmoW1uXSOIGDG5oTd.jpg"
       },
       "Stephen Carter Carlsen": {
         "id": 5189292,
@@ -16758,7 +16758,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
