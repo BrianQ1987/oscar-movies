@@ -26368,7 +26368,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29189,11 +29189,6 @@
         "id": 25113,
         "character": "Shiz Student (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
-      },
-      "Tyne Burgess": {
-        "id": 4584529,
-        "character": "Munchkinland Kid",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dfdvUzj4nLZpZ37BoefqvevCMI1.jpg"
       }
     }
   },
