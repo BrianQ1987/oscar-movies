@@ -2258,7 +2258,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -2754,7 +2754,7 @@
       "Simu Liu": {
         "id": 1489211,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xc7I32luBZfJgx9lm92aT9xiI6T.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cCx2OghLj9KN73oyRZe92i2p3Ih.jpg"
       },
       "Kingsley Ben-Adir": {
         "id": 1417352,
@@ -5012,7 +5012,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg",
     "title": "The Brutalist",
     "released": "2024-12-20",
-    "duration": 215,
+    "duration": 201,
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
@@ -5030,7 +5030,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Erzsébet Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61vOLUiibva5lX7HYMmdjFFWEi3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
       },
       "Guy Pearce": {
         "id": 529,
@@ -5040,7 +5040,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8816,7 +8816,7 @@
       "Mark Ivanir": {
         "id": 6696,
         "character": "Wasserman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1kxGAsP4YRiR7LgmlM9KgtekMLk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/biVPUjq1BbX3YWpvXv5OZjEuJI0.jpg"
       },
       "Eduardo Aladro": {
         "id": 3337577,
@@ -16753,7 +16753,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18885,7 +18885,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26363,7 +26363,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
