@@ -11311,7 +11311,7 @@
       "Bhanu Gopal": {
         "id": 4107721,
         "character": "Boston Streeter / Pedestrian (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yjszDf7LrYJSAjYorcloZe4Cwds.jpg"
       },
       "Quinn Stone": {
         "id": 5272031,
@@ -16753,7 +16753,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16941,7 +16941,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18885,7 +18885,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -29744,7 +29744,7 @@
     "imdb_id": "tt7160372",
     "vote_average": "7",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-    "genres": ["Drama", "History"],
+    "genres": ["Drama", "History", "War"],
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "92/100",
