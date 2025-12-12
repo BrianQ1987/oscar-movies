@@ -5035,7 +5035,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/249N9PX4jaQH5fIe0Lb9geEMyO7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8138,7 +8138,7 @@
       "Anya Taylor-Joy": {
         "id": 1397778,
         "character": "Alia Atreides (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg"
       },
       "Peter Sztojanov, Jr.": {
         "id": 2372075,
@@ -16936,7 +16936,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18377,7 +18377,7 @@
       "Thomasin McKenzie": {
         "id": 1356758,
         "character": "Lola",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/of8zI5FA5cNBbZK8KdgTSw0znXK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
       },
       "Geneviève Lemon": {
         "id": 10760,
@@ -26358,7 +26358,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
