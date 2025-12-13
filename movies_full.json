@@ -7420,7 +7420,7 @@
       "Josh Brolin": {
         "id": 16851,
         "character": "Gurney Halleck",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -7673,7 +7673,7 @@
       "Josh Brolin": {
         "id": 16851,
         "character": "Gurney Halleck",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7QpneI3HoZCCDVPyWx3p3t7yeo7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
       },
       "Austin Butler": {
         "id": 86654,
@@ -11698,7 +11698,7 @@
     "released": "2024-06-11",
     "duration": 97,
     "imdb_id": "tt22022452",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
     "genres": ["Animation", "Adventure", "Comedy", "Family"],
     "imdb_score": "7.5/10",
@@ -16748,7 +16748,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21013,7 +21013,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26358,7 +26358,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
