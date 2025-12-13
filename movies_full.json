@@ -4138,7 +4138,7 @@
       "Danai Gurira": {
         "id": 82104,
         "character": "Okoye",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gjTMEc5bl5iA1aO9KweIQ1vcuWp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
       },
       "Winston Duke": {
         "id": 1447932,
@@ -5035,7 +5035,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5312,8 +5312,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "91%",
     "meta_score": "81/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Lukas Dhont",
     "cast": {
       "Eden Dambrine": {
@@ -16091,7 +16091,7 @@
         "character": "Sean (Unboxer) (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/PyoUSDPm4AiGcp6W2WTBD2zSMt.jpg"
       },
-      "Grey DeLisle-Griffin": {
+      "Grey DeLisle": {
         "id": 15761,
         "character": "Stagehand (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vrUHaXe1pG56yZkgH7Hs3LGRLTT.jpg"
@@ -16748,7 +16748,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21013,7 +21013,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
