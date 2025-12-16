@@ -16325,9 +16325,9 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
       },
       "Ellison Booker": {
-        "id": 5113351,
+        "id": 4648890,
         "character": "Older Guy (Protest)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tcih1p41VmBTGphbBIti8CEOp3y.jpg"
       },
       "Taraja Ramsess": {
         "id": 1327850,
@@ -16748,7 +16748,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18069,7 +18069,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -18880,7 +18880,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
