@@ -4918,7 +4918,7 @@
     "imdb_id": "tt6587046",
     "vote_average": "7.4",
     "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
-    "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama"],
+    "genres": ["Animation", "Adventure", "Fantasy", "Drama"],
     "imdb_score": "7.4/10",
     "rt_score": "96%",
     "meta_score": "91/100",
@@ -9410,6 +9410,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "93%",
     "meta_score": "81/100",
+    "platforms": "Channel 4",
+    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -21560,7 +21562,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Drama", "Horror", "Science Fiction"],
+    "genres": ["Horror", "Science Fiction", "Thriller"],
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
