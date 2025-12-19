@@ -1195,8 +1195,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "83%",
     "meta_score": "64/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ali Abbasi",
     "cast": {
       "Sebastian Stan": {
@@ -2253,7 +2253,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -2556,7 +2556,7 @@
       "Colin Farrell": {
         "id": 72466,
         "character": "Pádraic Súilleabháin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oyQVfpowL9eSudYhwoPGkd9WxS7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3iHqlaeSAQwJ0KraRKD1A4vBaCS.jpg"
       },
       "Brendan Gleeson": {
         "id": 2039,
@@ -5035,7 +5035,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/249N9PX4jaQH5fIe0Lb9geEMyO7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1YmfEbOJ6elTKqjMS05PM5E1mzF.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8786,7 +8786,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -16051,7 +16051,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aYgtCwXNFmizvTQRTi4fOcXjv7y.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -24815,7 +24815,7 @@
       "Jennifer Connelly": {
         "id": 6161,
         "character": "Penny Benjamin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xawknXaXQBtUEATM3Qx2PV3SeZv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
       },
       "Bashir Salahuddin": {
         "id": 1241330,
@@ -25252,8 +25252,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "72%",
     "meta_score": "63/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ruben Östlund",
     "cast": {
       "Harris Dickinson": {
