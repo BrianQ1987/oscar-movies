@@ -2774,7 +2774,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -4546,7 +4546,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "The Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
       },
       "Bobby Cannavale": {
         "id": 21127,
@@ -4918,7 +4918,7 @@
     "imdb_id": "tt6587046",
     "vote_average": "7.4",
     "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
-    "genres": ["Animation", "Adventure", "Fantasy", "Drama"],
+    "genres": ["Animation", "Adventure", "Fantasy", "Drama", "Family"],
     "imdb_score": "7.4/10",
     "rt_score": "96%",
     "meta_score": "91/100",
@@ -5020,7 +5020,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "László Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBc7ahQrpVpcllaZ5hkivsOEb3C.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
@@ -5731,7 +5731,7 @@
       "Colman Domingo": {
         "id": 91671,
         "character": "Mister",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
       },
       "Corey Hawkins": {
         "id": 1154054,
@@ -6574,7 +6574,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Dr. Randall Mindy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mf7ICvtSNgbLsNiyt2qwhCZKxJ.jpg"
       },
       "Jennifer Lawrence": {
         "id": 72129,
@@ -7235,6 +7235,11 @@
         "id": 2148697,
         "character": "Reporter with Big Hair (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dPMHEvsqwBHSiFaSIUNCMmA2wOC.jpg"
+      },
+      "Luan Gallagher": {
+        "id": 5886339,
+        "character": "Boy Looking at the Meteor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nifGy0C68YR9UF6jIh7r30MRBWo.jpg"
       }
     }
   },
@@ -11314,6 +11319,11 @@
         "id": 5272031,
         "character": "Student",
         "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+      },
+      "Lily Steven": {
+        "id": 3158242,
+        "character": "Kristy (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
       }
     }
   },
@@ -11778,7 +11788,7 @@
       "Kyle MacLachlan": {
         "id": 6677,
         "character": "Dad (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ooI51tWwL5qVHV6KrOdbi01s2ib.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ma75y2e18Jl8c6PPOFMEjgwLRaD.jpg"
       },
       "Paul Walter Hauser": {
         "id": 1294982,
@@ -12062,7 +12072,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Ernest Burkhart",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mf7ICvtSNgbLsNiyt2qwhCZKxJ.jpg"
       },
       "Robert De Niro": {
         "id": 380,
@@ -13165,7 +13175,7 @@
       "Tony Goldwyn": {
         "id": 3417,
         "character": "Paul Cohen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
       },
       "Susie Abromeit": {
         "id": 108696,
@@ -16051,7 +16061,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aYgtCwXNFmizvTQRTi4fOcXjv7y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -17241,7 +17251,7 @@
       "Tony Goldwyn": {
         "id": 3417,
         "character": "Gordon Gray",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
       },
       "Jefferson Hall": {
         "id": 109322,
@@ -18752,8 +18762,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -19186,7 +19196,7 @@
       "Colman Domingo": {
         "id": 91671,
         "character": "Bayard Rustin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
       },
       "Aml Ameen": {
         "id": 78062,
@@ -20098,7 +20108,7 @@
       "Colman Domingo": {
         "id": 91671,
         "character": "John 'Divine G' Whitfield",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
       },
       "Clarence Maclin": {
         "id": 4178063,
@@ -21015,7 +21025,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
