@@ -5035,7 +5035,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k7T6q4WZe1xsgXJ7k8ccomtDWZx.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5215,7 +5215,7 @@
     "released": "2022-10-28",
     "duration": 96,
     "imdb_id": "tt10192406",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "A US soldier suffers a traumatic brain injury while fighting in Afghanistan and struggles to adjust to life back home in New Orleans. When she meets local mechanic James, the pair begin to forge an unexpected bond.",
     "genres": "Drama",
     "imdb_score": "6.6/10",
@@ -7395,7 +7395,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BE2sdjpgsa2rNTFa66f7upkaOP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -16760,7 +16760,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16948,7 +16948,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
