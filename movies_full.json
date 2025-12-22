@@ -2253,7 +2253,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6cM5eNNZgOQPpxJEeYqJhS8svD4.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -3857,7 +3857,7 @@
     "released": "2021-11-12",
     "duration": 98,
     "imdb_id": "tt12789558",
-    "vote_average": "7.1",
+    "vote_average": "7",
     "overview": "Buddy is a young boy on the cusp of adolescence, whose life is filled with familial love, childhood hijinks, and a blossoming romance. Yet, with his beloved hometown caught up in increasing turmoil, his family faces a momentous choice: hope the conflict will pass or leave everything they know behind for a new life.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.2/10",
@@ -5075,7 +5075,7 @@
       "Jonathan Hyde": {
         "id": 8537,
         "character": "Leslie Woodrow",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iNLNW7tH8GRpCP9INLXGmwVU1hK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1uhT5uzPkBRCb57RtR6C9MvgteC.jpg"
       },
       "Peter Polycarpou": {
         "id": 78019,
@@ -8791,7 +8791,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6cM5eNNZgOQPpxJEeYqJhS8svD4.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -16061,7 +16061,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aYgtCwXNFmizvTQRTi4fOcXjv7y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16760,7 +16760,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16948,7 +16948,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18907,7 +18907,7 @@
       "Gemma Chan": {
         "id": 97576,
         "character": "Namaari (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lm2FKwj2zO8ZsqMNFHm4KMtlNlM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5AQjYz189dbWFsD93KUVG5YpaY9.jpg"
       },
       "Alan Tudyk": {
         "id": 21088,
@@ -21025,7 +21025,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26370,7 +26370,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
