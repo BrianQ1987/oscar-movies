@@ -2248,7 +2248,7 @@
       "Sam Worthington": {
         "id": 65731,
         "character": "Jake Sully",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
       },
       "Zoe Saldaña": {
         "id": 8691,
@@ -4313,7 +4313,7 @@
       "Lake Bell": {
         "id": 25703,
         "character": "Dr. Graham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/WJl7WEQvYdt5RphngAavmhHndq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sITVdq39jtR1l3VohWYDyxorx1v.jpg"
       },
       "Judd Wild": {
         "id": 1554064,
@@ -10985,7 +10985,7 @@
       "John Turturro": {
         "id": 1241,
         "character": "Dottore (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wmcWO1WS0DCQrisECrcjYLIR8V4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
       },
       "Finn Wolfhard": {
         "id": 1442069,
@@ -14839,7 +14839,7 @@
       "Ed Harris": {
         "id": 228,
         "character": "Lyle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aAu9lJ02jlg0GAvv2vVnpJSDV1Y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -16760,7 +16760,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21020,12 +21020,12 @@
     "duration": 140,
     "imdb_id": "tt9362722",
     "vote_average": "8.3",
-    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21572,7 +21572,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction", "Thriller"],
+    "genres": ["Horror", "Science Fiction", "Thriller", "Drama"],
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
@@ -24910,7 +24910,7 @@
       "Ed Harris": {
         "id": 228,
         "character": "Radm. Chester 'Hammer' Cain",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aAu9lJ02jlg0GAvv2vVnpJSDV1Y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
       },
       "Chelsea Harris": {
         "id": 207116,
@@ -29378,7 +29378,7 @@
     "released": "2022-12-23",
     "duration": 104,
     "imdb_id": "tt13669038",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
     "genres": "Drama",
     "imdb_score": "6.9/10",
