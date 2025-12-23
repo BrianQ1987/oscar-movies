@@ -2253,7 +2253,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6cM5eNNZgOQPpxJEeYqJhS8svD4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -5030,7 +5030,7 @@
       "Guy Pearce": {
         "id": 529,
         "character": "Harrison Lee Van Buren Sr",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3ijvoBqPaIIQsb5QTTGB485nqn.jpg"
       },
       "Joe Alwyn": {
         "id": 1496392,
@@ -8791,7 +8791,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6cM5eNNZgOQPpxJEeYqJhS8svD4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -16465,8 +16465,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "80%",
     "meta_score": "70/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Channel 4", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Guillermo del Toro",
     "cast": {
       "Bradley Cooper": {
@@ -16948,7 +16948,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18892,7 +18892,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21035,7 +21035,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fItdOWdrHNRGGRRD9NFQWtO5L1t.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3Zfp2akzycKEgUotP4DEJgOPqVj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -21572,7 +21572,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction", "Thriller", "Drama"],
+    "genres": ["Horror", "Science Fiction", "Thriller"],
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
@@ -26370,7 +26370,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
