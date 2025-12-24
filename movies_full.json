@@ -9973,7 +9973,7 @@
       "Jeannie Berlin": {
         "id": 124377,
         "character": "Hadassah Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sT1o2nVecNUgysnHV7g6KYTciXb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gfYHrwgBruseG1V5Zq6t1xWu75t.jpg"
       },
       "Robin Bartlett": {
         "id": 11902,
@@ -11015,7 +11015,7 @@
       "Tom Kenny": {
         "id": 78798,
         "character": "Mussolini / Right Hand Man / Sea Captain (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
       },
       "Alfie Tempest": {
         "id": 3815640,
@@ -16445,6 +16445,11 @@
         "id": 4648890,
         "character": "Older Guy (Protest)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/tcih1p41VmBTGphbBIti8CEOp3y.jpg"
+      },
+      "Alexander Bello": {
+        "id": 2479433,
+        "character": "Boy (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jDcdsfP7r6oqWNGPZumFwITtKpu.jpg"
       }
     }
   },
@@ -18892,7 +18897,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20824,7 +20829,7 @@
       "Timothy Spall": {
         "id": 9191,
         "character": "Major Alistair Gregorys",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dEhBrDYNVpfWMDx8vpcrp4pXDwl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zDXpquJ2lmXh9rYlyzIL9L7REfw.jpg"
       },
       "Jack Nielen": {
         "id": 3262411,
@@ -21025,7 +21030,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
