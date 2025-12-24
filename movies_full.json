@@ -13663,7 +13663,7 @@
       "Christine Ebersole": {
         "id": 4003,
         "character": "Lucille Doolittle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qmv7UOmmQLwL0K4Et0R7m2Hg5vK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
       },
       "Harriet Sansom Harris": {
         "id": 538,
@@ -16765,7 +16765,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18897,7 +18897,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26353,6 +26353,11 @@
         "id": 1452946,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sBxfuNnJMHq60KJP1HRYxLSRBR6.jpg"
+      },
+      "Aaron Hardy": {
+        "id": 5891476,
+        "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
       }
     }
   },
@@ -29383,7 +29388,7 @@
     "released": "2022-12-23",
     "duration": 104,
     "imdb_id": "tt13669038",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
     "genres": "Drama",
     "imdb_score": "6.9/10",
