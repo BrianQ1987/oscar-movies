@@ -2248,12 +2248,12 @@
       "Sam Worthington": {
         "id": 65731,
         "character": "Jake Sully",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
       },
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -2263,7 +2263,7 @@
       "Stephen Lang": {
         "id": 32747,
         "character": "Colonel Miles Quaritch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hdRiM73H2mpJws559TWHCAia7qJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
       },
       "Kate Winslet": {
         "id": 204,
@@ -5030,7 +5030,7 @@
       "Guy Pearce": {
         "id": 529,
         "character": "Harrison Lee Van Buren Sr",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3ijvoBqPaIIQsb5QTTGB485nqn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
       },
       "Joe Alwyn": {
         "id": 1496392,
@@ -8791,7 +8791,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -16953,7 +16953,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21030,7 +21030,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26380,7 +26380,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
