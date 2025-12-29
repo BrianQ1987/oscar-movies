@@ -5025,7 +5025,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Erzsébet Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gsrb1CuyAQtTVZILtNA5tRnhHbs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fyhWRmxpTEYl5d8DnkIo6i8RdWJ.jpg"
       },
       "Guy Pearce": {
         "id": 529,
@@ -5035,7 +5035,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8143,7 +8143,7 @@
       "Anya Taylor-Joy": {
         "id": 1397778,
         "character": "Alia Atreides (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
       },
       "Peter Sztojanov, Jr.": {
         "id": 2372075,
@@ -16765,7 +16765,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18151,7 +18151,7 @@
       "Attila Dobai": {
         "id": 3622317,
         "character": "Hapless Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hllVOq3CbDbLYCpvAfpQLQHz7GN.jpg"
       },
       "Emma Hindle": {
         "id": 4230743,
@@ -18181,7 +18181,7 @@
       "Angela Paula Stander": {
         "id": 4230747,
         "character": "Arguing Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yu92vhAt70dd5QUpFUL2nzdu1mO.jpg"
       },
       "Gustavo Gomes": {
         "id": 4574849,
@@ -18599,8 +18599,8 @@
     "genres": ["Animation", "Adventure", "Fantasy", "Comedy", "Family"],
     "imdb_score": "7.8/10",
     "meta_score": "73/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joel Crawford",
     "cast": {
       "Antonio Banderas": {
@@ -27166,7 +27166,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tEHNLdwPmxu3Ikkvq8I6FUfGdZL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
