@@ -11788,7 +11788,7 @@
       "Kyle MacLachlan": {
         "id": 6677,
         "character": "Dad (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ma75y2e18Jl8c6PPOFMEjgwLRaD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
       },
       "Paul Walter Hauser": {
         "id": 1294982,
@@ -16953,7 +16953,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18897,7 +18897,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
