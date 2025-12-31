@@ -3500,6 +3500,11 @@
         "id": 4182688,
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/mKSNngq6CXDBEmwq2y0NOoikko1.jpg"
+      },
+      "Kelsey Toussant": {
+        "id": 5874987,
+        "character": "Miss Universe Jamaica (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sXGJ61bdNudR6qlq1ZGwHbljUYX.jpg"
       }
     }
   },
@@ -5035,7 +5040,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7235,6 +7240,11 @@
         "id": 2148697,
         "character": "Reporter with Big Hair (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dPMHEvsqwBHSiFaSIUNCMmA2wOC.jpg"
+      },
+      "Luan Gallagher": {
+        "id": 5886339,
+        "character": "Boy Looking At The Meteor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nifGy0C68YR9UF6jIh7r30MRBWo.jpg"
       }
     }
   },
@@ -7683,7 +7693,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -9279,7 +9289,7 @@
       "Isabelle Huppert": {
         "id": 17882,
         "character": "The Countess",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3YQwWkpNKQeV5NUmdCH76Ne1gDP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg"
       },
       "Lorenzo Zurzolo": {
         "id": 1526594,
@@ -16465,8 +16475,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "80%",
     "meta_score": "70/100",
-    "platforms": ["Disney Plus", "Channel 4", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Guillermo del Toro",
     "cast": {
       "Bradley Cooper": {
@@ -16760,7 +16770,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17186,7 +17196,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -18621,7 +18631,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -18892,7 +18902,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -29529,8 +29539,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
     "cast": {
       "Renate Reinsve": {
