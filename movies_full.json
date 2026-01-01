@@ -4193,7 +4193,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qkCKv6EJuFevxNOditTzUikp9v9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -8287,8 +8287,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "77%",
     "meta_score": "64/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Baz Luhrmann",
     "cast": {
       "Austin Butler": {
@@ -10503,7 +10503,13 @@
     "rt_score": "97%",
     "meta_score": "87/100",
     "director": "Gints Zilbalodis",
-    "cast": []
+    "cast": {
+      "Gints Zilbalodis": {
+        "id": 1328012,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fP44KcwJLGK3or7T7bImWBSDKo8.jpg"
+      }
+    }
   },
   "The Girl with the Needle": {
     "id": "1232827",
@@ -11359,7 +11365,7 @@
       },
       "Fernanda Montenegro": {
         "id": 10055,
-        "character": "Older Eunice Paiva",
+        "character": "Eunice Paiva (Older)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bja0rn1BjAnA5Z5VbEvL2apvMT5.jpg"
       },
       "Selton Mello": {
@@ -16770,7 +16776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18091,7 +18097,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -18902,7 +18908,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -20834,7 +20840,7 @@
       "Timothy Spall": {
         "id": 9191,
         "character": "Major Alistair Gregorys",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zDXpquJ2lmXh9rYlyzIL9L7REfw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
       },
       "Jack Nielen": {
         "id": 3262411,
@@ -21037,7 +21043,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
