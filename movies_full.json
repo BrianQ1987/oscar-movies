@@ -7465,7 +7465,7 @@
       "Charlotte Rampling": {
         "id": 44079,
         "character": "Reverend Mother Mohiam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7fhg5FCcl0VfYERP5D0unpybqgx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
       },
       "Babs Olusanmokun": {
         "id": 205923,
@@ -7718,7 +7718,7 @@
       "Charlotte Rampling": {
         "id": 44079,
         "character": "Reverend Mother Mohiam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7fhg5FCcl0VfYERP5D0unpybqgx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
       },
       "Souheila Yacoub": {
         "id": 2037046,
@@ -18902,7 +18902,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24815,8 +24815,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "96%",
     "meta_score": "78/100",
-    "platforms": ["Paramount Plus", "Plex"],
-    "logo_paths": ["/h5DcR0J2EESLitnhR8xLG1QymTE.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Joseph Kosinski",
     "cast": {
       "Tom Cruise": {
@@ -26387,7 +26387,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
