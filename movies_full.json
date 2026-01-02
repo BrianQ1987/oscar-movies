@@ -2556,7 +2556,7 @@
       "Colin Farrell": {
         "id": 72466,
         "character": "Pádraic Súilleabháin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3iHqlaeSAQwJ0KraRKD1A4vBaCS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oyQVfpowL9eSudYhwoPGkd9WxS7.jpg"
       },
       "Brendan Gleeson": {
         "id": 2039,
@@ -5826,7 +5826,7 @@
       "Jeffrey Marcus": {
         "id": 1340662,
         "character": "Immigration Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s4eLYSdP9RhuURZWqMG203NhKtE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
       },
       "Jamaal Avery Jr.": {
         "id": 2187321,
@@ -16776,7 +16776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -18908,7 +18908,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21043,7 +21043,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
