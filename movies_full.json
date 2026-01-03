@@ -2253,7 +2253,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -2268,7 +2268,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9xDnfZrWhM67wJlQJEsOOjQzDUQ.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -8796,7 +8796,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -16776,7 +16776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16964,7 +16964,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18906,8 +18906,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "74/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Disney Plus", "Channel 4"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
@@ -21043,7 +21043,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -27408,7 +27408,7 @@
       "Kirsty Anne Shaw": {
         "id": 4850927,
         "character": "Skeptical Munchkin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qx1JdkJ7TM3g5LFa26Z5rWqmSnJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aKW3VdZ1utIiTLUz2BmTn61Lvgk.jpg"
       },
       "Karis Musongole": {
         "id": 4716775,
@@ -28265,7 +28265,7 @@
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/an9dSLvSOQhYUGXHsC4JNJaRbE.jpg"
       },
-      "Jorge Antonio": {
+      "Jorge Antonio Fujizaki": {
         "id": 5152801,
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2E1x1qcHqGZcYuYi4PzVZjzg8IV.jpg"
