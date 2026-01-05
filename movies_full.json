@@ -2919,7 +2919,7 @@
       "Luke Mullen": {
         "id": 1965108,
         "character": "Guy at the Beach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l26Y8LORdeHMjrAr5074NtcRfGH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xq91bRdOepwCYOHqR5WHqkTu3qB.jpg"
       },
       "Patrick Luwis": {
         "id": 2209431,
@@ -8765,11 +8765,6 @@
         "id": 64948,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
-      },
-      "Elvis Presley": {
-        "id": 21457,
-        "character": "Self (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
       }
     }
   },
@@ -16776,7 +16771,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16964,7 +16959,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18647,7 +18642,7 @@
       "Ray Winstone": {
         "id": 5538,
         "character": "Papa Bear (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kDShEv6zPfArgcwXliGWKR65Mmo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
       },
       "Samson Kayo": {
         "id": 1346535,
@@ -19961,7 +19956,7 @@
       "Sebastian Jehkul": {
         "id": 2550885,
         "character": "Police Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rqHWWNRQzLAJyci0BJOEKaLsnL0.jpg"
       },
       "Rony Herman": {
         "id": 1329178,
@@ -26050,7 +26045,7 @@
       "Ava Morse": {
         "id": 1373681,
         "character": "Miriam (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e3bkf5MHPzqvSrJALr78pp0DCWt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uDCawh9aBAwuBnn9MFMFaxlCwaJ.jpg"
       },
       "Hyein Park": {
         "id": 2719558,
@@ -26115,12 +26110,12 @@
       "Topher Ngo": {
         "id": 3313617,
         "character": "Aaron T. (4*Town) (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4JsWlzRTkeL9cnmRdU0Nhnee7YA.jpg"
       },
       "Grayson Villanueva": {
         "id": 3313615,
         "character": "Tae Young (4*Town) (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3FpN5Ea32q6D4vmCzyXduzLuG3Z.jpg"
       },
       "Josh Levi": {
         "id": 1938898,
@@ -26393,7 +26388,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
