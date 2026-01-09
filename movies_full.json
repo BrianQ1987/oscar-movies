@@ -5736,7 +5736,7 @@
       "Colman Domingo": {
         "id": 91671,
         "character": "Mister",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
       },
       "Corey Hawkins": {
         "id": 1154054,
@@ -6569,7 +6569,7 @@
     "imdb_id": "tt11286314",
     "vote_average": "7.1",
     "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
-    "genres": ["Comedy", "Science Fiction"],
+    "genres": ["Comedy", "Science Fiction", "Drama"],
     "imdb_score": "7.1/10",
     "meta_score": "49/100",
     "platforms": "Netflix",
@@ -10991,7 +10991,7 @@
       "Finn Wolfhard": {
         "id": 1442069,
         "character": "Candlewick (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dQ1Fj2gCwko0Jnt3QEj1GLseXSh.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -13139,8 +13139,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -16062,7 +16062,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aYgtCwXNFmizvTQRTi4fOcXjv7y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vNFFleZFrvksAKKHRFO2hLEKGkB.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -16760,7 +16760,7 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Action", "Science Fiction", "Adventure", "Fantasy", "Comedy"],
+    "genres": ["Animation", "Family", "Action", "Adventure", "Fantasy", "Comedy"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
@@ -16954,7 +16954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18898,7 +18898,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19202,7 +19202,7 @@
       "Colman Domingo": {
         "id": 91671,
         "character": "Bayard Rustin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
       },
       "Aml Ameen": {
         "id": 78062,
@@ -20114,7 +20114,7 @@
       "Colman Domingo": {
         "id": 91671,
         "character": "John 'Divine G' Whitfield",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2tu6T9ugnf82qIMGVKWSb0dvvq5.jpg"
       },
       "Clarence Maclin": {
         "id": 4178063,
