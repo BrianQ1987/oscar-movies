@@ -11729,7 +11729,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wzRfh5JMZcSRV7Oc7GtfrYSBrGU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ugcqfRTi1pw3aGrEtGdXOEXHmqK.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -15305,7 +15305,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Jamie Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wzRfh5JMZcSRV7Oc7GtfrYSBrGU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ugcqfRTi1pw3aGrEtGdXOEXHmqK.jpg"
       },
       "Scott Ellis": {
         "id": 4479655,
@@ -16766,7 +16766,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16954,7 +16954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18362,7 +18362,7 @@
     "released": "2021-10-25",
     "duration": 127,
     "imdb_id": "tt10293406",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "A domineering but charismatic rancher wages a war of intimidation on his brother's new wife and her teen son, until long-hidden secrets come to light.",
     "genres": ["Drama", "Western"],
     "imdb_score": "6.8/10",
@@ -21033,7 +21033,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -21043,7 +21043,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3Zfp2akzycKEgUotP4DEJgOPqVj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fItdOWdrHNRGGRRD9NFQWtO5L1t.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
