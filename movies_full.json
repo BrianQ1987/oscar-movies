@@ -2571,7 +2571,7 @@
       "Barry Keoghan": {
         "id": 1290466,
         "character": "Dominic Kearney",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/15xPjrzSbtXlbQUhmLpQUil4tCN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mLEd5v9rUZqalyWnXBDAWRQZtwK.jpg"
       },
       "Gary Lydon": {
         "id": 93209,
@@ -5040,7 +5040,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6gq7cAXlkHJ2uzf7ax651aqyH9M.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -10338,7 +10338,7 @@
     "released": "2021-06-17",
     "duration": 89,
     "imdb_id": "tt8430054",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
     "genres": ["Documentary", "Animation"],
     "imdb_score": "7.9/10",
@@ -11636,7 +11636,7 @@
       "Aguida Aguiar": {
         "id": 2175164,
         "character": "Carla Escrevente Fórum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hpuUB6ZNlRQVf3ZLT4D4ZLCBB8S.jpg"
       },
       "Daniel de Almeida": {
         "id": 2655897,
@@ -11653,10 +11653,10 @@
         "character": "Fotógrafo Manchete",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2I9X4qW9xGLLA5MCPyFTI3gMRb2.jpg"
       },
-      "Ângela Ribeiro": {
-        "id": 1869762,
+      "Angela Ribeiro": {
+        "id": 2786940,
         "character": "Manuela",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1YBHkG94T0pOzB3JTH371o3T7cm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zqdiHcW0jstkGKU32Fr22oUD7Jv.jpg"
       },
       "Camilla Flores": {
         "id": 5187850,
@@ -13612,8 +13612,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "90%",
     "meta_score": "90/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Paul Thomas Anderson",
     "cast": {
       "Alana Haim": {
@@ -18898,7 +18898,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19680,7 +19680,7 @@
       "Benjamin Plessala": {
         "id": 3463959,
         "character": "Child 1 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3oNMQLeIglUl8mSfBvyUW9F8Tc4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0MzRPtYwviecYYx8zVIoXrxDII.jpg"
       },
       "Somali Rose": {
         "id": 3412706,
@@ -19858,7 +19858,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": "Best Original Screenplay",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg",
     "title": "September 5",
     "released": "2024-11-07",
     "duration": 94,
@@ -19946,7 +19946,7 @@
       "Leif Eduard Eisenberg": {
         "id": 3293042,
         "character": "Camera Assistant Ben",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Sebastian Jehkul": {
         "id": 2550885,
@@ -19961,42 +19961,42 @@
       "Jeff Book": {
         "id": 5148716,
         "character": "Berger's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Robert Porter Templeton": {
         "id": 2425318,
         "character": "Director's Assistant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Stephen Fraser": {
         "id": 5148717,
         "character": "Communicator",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Leon Dragoi": {
         "id": 5148718,
         "character": "Lighting Technician",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Doris Meier": {
         "id": 5148719,
         "character": "Content Assistant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Mark Ruppel": {
         "id": 5148720,
         "character": "Sound Engineer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Christine Ulrich": {
         "id": 1180059,
         "character": "Camera Control Technician",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Günther Wernhard": {
         "id": 5148721,
         "character": "Content Manager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Antje Westermann": {
         "id": 1012300,
@@ -20006,62 +20006,62 @@
       "Harry Waterstone": {
         "id": 5148722,
         "character": "Stage Assistant Larry",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Andreas Honold": {
         "id": 5148723,
         "character": "Stage Runner JJ",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Stefan Mittermaier": {
         "id": 5148724,
         "character": "VTR Tech Chuck",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Miguel Abrantes Ostrowski": {
         "id": 1897928,
         "character": "Hans Klein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Kim Hanfland": {
         "id": 5148725,
         "character": "Ulrike Meyfarth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "David Iselin": {
         "id": 5148726,
         "character": "Mark Spitz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Nikita Borisov": {
         "id": 5148727,
         "character": "Werner Lampe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Karolina Gabinger": {
         "id": 5148728,
         "character": "Anneliese Graess",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Robert Glade": {
         "id": 5148730,
         "character": "Hans-Dietrich Genscher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Immanuel Rahman": {
         "id": 5148731,
         "character": "Terrorist Issa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Paul Böhme": {
         "id": 5148732,
         "character": "Masked Man / German Athlete",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Brendan Todd": {
         "id": 5148734,
         "character": "American Interviewer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Dirk Schepanek": {
         "id": 5148735,
@@ -20071,22 +20071,22 @@
       "Saeid Yazdani": {
         "id": 5148736,
         "character": "Mohamed Tarabulsi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Matthias Schum": {
         "id": 5148737,
         "character": "Jim McKay Double",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Stiev Neubert": {
         "id": 5148738,
         "character": "Tuvia Sokolsky Double",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       },
       "Rafael Peña": {
         "id": 5148739,
         "character": "Translator Double",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ghPlECtzmbhZ236uxnTfpDAKtAZ.jpg"
       }
     }
   },
@@ -21033,7 +21033,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -24823,7 +24823,7 @@
       "Val Kilmer": {
         "id": 5576,
         "character": "Adm. Tom 'Iceman' Kazansky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7m7DgwglglZV8LKEDUHPqAzUrD5.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -26290,7 +26290,7 @@
       "Benjamin Plessala": {
         "id": 3463959,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3oNMQLeIglUl8mSfBvyUW9F8Tc4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0MzRPtYwviecYYx8zVIoXrxDII.jpg"
       },
       "Tsang Pui-Yee": {
         "id": 3463960,
@@ -26383,7 +26383,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
