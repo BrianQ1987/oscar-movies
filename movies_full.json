@@ -5040,7 +5040,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6gq7cAXlkHJ2uzf7ax651aqyH9M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7C2WgUIRCvdZmfBwYxVQUtAHVZ2.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5781,7 +5781,7 @@
       "Louis Gossett Jr.": {
         "id": 20959,
         "character": "Ol' Mister",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/27SplfxhM8Do78mYOyi43t1G3fy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gNdTmckVFDz5M9k9zMiwCFb2cl9.jpg"
       },
       "Tamela Mann": {
         "id": 78738,
@@ -16954,7 +16954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18898,7 +18898,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
