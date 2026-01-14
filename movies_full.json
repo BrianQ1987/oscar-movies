@@ -5040,7 +5040,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hanwpDlmSx3etcAGhIdtmfrvZTw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sRXx2tJkWrvS1THVG0h2OGlnTNm.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -9968,7 +9968,7 @@
       "Jeannie Berlin": {
         "id": 124377,
         "character": "Hadassah Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gfYHrwgBruseG1V5Zq6t1xWu75t.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tZ0n99LpnTmZFF0UrypLmJJ6W45.jpg"
       },
       "Robin Bartlett": {
         "id": 11902,
@@ -16029,7 +16029,7 @@
         "character": "Jim Posey (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cCv0YBy2YFFWp9h3kvNPmwWwrCD.jpg"
       },
-      "Charlyne Yi": {
+      "Lo Mutuc": {
         "id": 93285,
         "character": "Abbey Posey (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1lNDk1RfiGlGdgLEF5E35PpEc22.jpg"
@@ -16766,7 +16766,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16816,7 +16816,7 @@
       "Sarah Sherman": {
         "id": 2198504,
         "character": "Coriander Cadaverish (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
       },
       "ND Stevenson": {
         "id": 1907841,
@@ -16954,7 +16954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -18898,7 +18898,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -21033,7 +21033,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
