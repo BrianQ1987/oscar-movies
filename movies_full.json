@@ -2674,7 +2674,7 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5MzzwS5z3lcbmnbJrPepr1HFcli.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/asoKC7CLCqpZKZDL6iovNurQUdf.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -13633,7 +13633,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Joel Wachs",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d1LVZAt1W2Wg6yTWRWkDkkyyGI.jpg"
       },
       "Skyler Gisondo": {
         "id": 61263,
@@ -14771,7 +14771,7 @@
       "David Summer": {
         "id": 246688,
         "character": "Distinguished Gentleman #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q59qcgtX4xkveJZH7Y5IUaWWVcK.jpg"
       },
       "Nicky Goldie": {
         "id": 1620025,
@@ -16755,7 +16755,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17206,7 +17206,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Edward Teller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d1LVZAt1W2Wg6yTWRWkDkkyyGI.jpg"
       },
       "Jason Clarke": {
         "id": 76512,
@@ -18076,7 +18076,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8NwSfyYWIIUE1cI9Xhz92b0w7WD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s7PVcnnA05JcRiMtplwgK49Z2UU.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -18887,7 +18887,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
