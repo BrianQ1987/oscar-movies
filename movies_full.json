@@ -989,6 +989,11 @@
         "id": 4507376,
         "character": "The Tribunal",
         "profile_path": "https://image.tmdb.org/t/p/w1280/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
+      },
+      "Messi": {
+        "id": 5946371,
+        "character": "Snoop",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
       }
     }
   },
@@ -9405,8 +9410,6 @@
     "imdb_score": "7.7/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -14819,7 +14822,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vx49N2pa7hYbEc2hrpA3ZoCGtME.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -16755,7 +16758,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17196,7 +17199,7 @@
       "Rami Malek": {
         "id": 17838,
         "character": "David Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ewr46CGOdsx5NzAJdIzEBz2yIQh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zvBCjFmedqXRqa45jlLf6vBd9Nt.jpg"
       },
       "Kenneth Branagh": {
         "id": 11181,
@@ -18887,7 +18890,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -18989,10 +18992,10 @@
         "character": "Merchant #2 (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5nVhgCzxKbK47OLIKxCR1syulOn.jpg"
       },
-      "Jonathan Park": {
+      "Jonnie Park": {
         "id": 1074677,
         "character": "Chai (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/paliqJI5KaBuSMitzlFng2Uh11Q.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lcIPg223TayLkrDvaizIOwSADQY.jpg"
       },
       "Vincent Rodriguez III": {
         "id": 1485094,
@@ -26372,7 +26375,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -29403,7 +29406,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vx49N2pa7hYbEc2hrpA3ZoCGtME.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
