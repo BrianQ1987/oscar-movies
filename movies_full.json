@@ -2789,7 +2789,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Mattel CEO",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vL1QjMdMtuM2f8fQZzei6WAvicZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sXT9uCw7ceIxTdmL9XqtuYdNmgM.jpg"
       },
       "Connor Swindells": {
         "id": 2112439,
@@ -2844,7 +2844,7 @@
       "Marisa Abela": {
         "id": 2673762,
         "character": "Teen Talk Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jmrlbz43kUk4H0bcRGVLdJ4RsDl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3Elkvhu5duFlwaH4vtdizPyZDNQ.jpg"
       },
       "Lucy Boynton": {
         "id": 86232,
@@ -3532,7 +3532,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n1xlczx1w44DqUkJvJtAGJf9fyx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -16758,7 +16758,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20810,8 +20810,8 @@
     "imdb_score": "6.5/10",
     "rt_score": "83%",
     "meta_score": "76/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Pablo Larraín",
     "cast": {
       "Kristen Stewart": {
