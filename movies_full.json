@@ -23,7 +23,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Calum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p4HOSwF9yUyP0x0H18LaKzsS476.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Frankie Corio": {
         "id": 3515419,
@@ -13105,7 +13105,7 @@
       "Eric Parkinson": {
         "id": 63789,
         "character": "Deputy Marshal (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rG26Xee49xMnC0jCorkTIygYbwj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
       },
       "Craig 'Radio Man' Castaldo": {
         "id": 1116907,
@@ -14837,7 +14837,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p4HOSwF9yUyP0x0H18LaKzsS476.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Peter Sarsgaard": {
         "id": 133,
@@ -15959,7 +15959,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
     "title": "The Mitchells vs. the Machines",
     "released": "2021-04-22",
-    "duration": 110,
+    "duration": 114,
     "imdb_id": "tt7979580",
     "vote_average": "7.9",
     "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
@@ -16758,7 +16758,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -16946,7 +16946,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -23708,7 +23708,7 @@
     "released": "2023-05-04",
     "duration": 98,
     "imdb_id": "tt26612950",
-    "vote_average": "7.2",
+    "vote_average": "7.3",
     "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
