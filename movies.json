@@ -701,7 +701,7 @@
     },
     "The Secret Agent": {
         "id": "1220564",
-        "plex": false,
+        "plex": true,
         "watched": false,   
         "nominated": 2026,
         "categories": ["Best Picture", "Best Actor", "Best International Feature Film"]
@@ -743,14 +743,14 @@
     },
     "Song Sung Blue": {
         "id": "1371185",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best Actress"]
     },
     "Weapons": {
         "id": "1078605",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best Supporting Actress"]
@@ -778,7 +778,7 @@
     },
     "Little Amélie or the Character of Rain": {
         "id": "682012",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best Animated Feature Film"]
@@ -792,14 +792,14 @@
     },
     "It Was Just an Accident": {
         "id": "1456349",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best International Feature Film", "Best Original Screenplay"]
     },
     "Sirāt": {
         "id": "1151272",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best International Feature Film"]
