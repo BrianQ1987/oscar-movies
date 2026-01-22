@@ -736,7 +736,7 @@
     },
     "If I Had Legs I'd Kick You": {
         "id": "1160360",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best Actress"]
