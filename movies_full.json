@@ -13435,7 +13435,7 @@
   },
   "It Was Just an Accident": {
     "id": "1456349",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": ["Best International Feature Film", "Best Original Screenplay"],
@@ -13447,6 +13447,8 @@
     "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Jafar Panahi",
     "cast": {
       "Vahid Mobasseri": {
@@ -16408,7 +16410,7 @@
   },
   "Little Amélie or the Character of Rain": {
     "id": "682012",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best Animated Feature Film",
@@ -16420,6 +16422,8 @@
     "vote_average": "8",
     "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
     "genres": ["Animation", "Drama", "Family"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": ["Maïlys Vallade", "Liane-Cho Han Jin Kuang"],
     "cast": {
       "Loïse Charpentier": {
@@ -22797,7 +22801,7 @@
   },
   "The Secret Agent": {
     "id": "1220564",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Actor", "Best International Feature Film"],
@@ -22809,6 +22813,8 @@
     "vote_average": "7.7",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Crime", "Drama", "Thriller"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Kleber Mendonça Filho",
     "cast": {
       "Wagner Moura": {
@@ -24060,7 +24066,7 @@
   },
   "Sirāt": {
     "id": "1151272",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best International Feature Film",
@@ -24072,6 +24078,8 @@
     "vote_average": "6.9",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller", "Music"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Oliver Laxe",
     "cast": {
       "Sergi López": {
@@ -24693,7 +24701,7 @@
   },
   "Song Sung Blue": {
     "id": "1371185",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best Actress",
@@ -24705,6 +24713,8 @@
     "vote_average": "7.7",
     "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
     "genres": ["Drama", "Music", "Romance"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Craig Brewer",
     "cast": {
       "Hugh Jackman": {
@@ -30802,7 +30812,7 @@
   },
   "Weapons": {
     "id": "1078605",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best Supporting Actress",
@@ -30814,6 +30824,8 @@
     "vote_average": "7.3",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": ["Horror", "Mystery"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Zach Cregger",
     "cast": {
       "Julia Garner": {
