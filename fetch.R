@@ -4,18 +4,18 @@ library(httr)
 library(dplyr)
 
 # Configuration
-api_key <- '85341e3acb2ca904010924317b75aecc'
-api_base_url <- 'https://api.themoviedb.org/3/'
-image_base_url <- 'https://image.tmdb.org/t/p/w1280'
+api_key <- "85341e3acb2ca904010924317b75aecc"
+api_base_url <- "https://api.themoviedb.org/3/"
+image_base_url <- "https://image.tmdb.org/t/p/w1280"
 
-services <- c("Amazon Prime Video", "Netflix", "ITVX", "Disney Plus", "Apple TV+", 
-              "Channel 4", "Paramount Plus", "BBC iPlayer", "My5", "Freevee")
+services <- c("Amazon Prime Video", "Netflix", "ITVX", "Disney Plus",
+              "Apple TV", "Channel 4", "Paramount Plus", "BBC iPlayer", "My5")
 
 # Function to sort objects by title
 sort_object <- function(o) {
   sorted <- list()
   keys <- names(o)
-  
+
   # Adjust keys for sorting (remove prefixes)
   adjust_key <- function(key) {
     if (startsWith(key, "A ")) {
@@ -28,15 +28,15 @@ sort_object <- function(o) {
       return(key)
     }
   }
-  
+
   sorted_keys <- sapply(keys, adjust_key)
   sorted_keys <- sort(sorted_keys)
-  
+
   for (key in sorted_keys) {
     original_key <- keys[sapply(keys, adjust_key) == key]
     sorted[[original_key]] <- o[[original_key]]
   }
-  
+
   return(sorted)
 }
 
@@ -55,7 +55,7 @@ movies <- sort_object(movies)
 for (movie_name in names(movies)) {
   movie <- movies[[movie_name]]
   id <- movie$id
-  
+
   # Fetch movie details from TMDB
   data <- list()
   tryCatch({
@@ -64,7 +64,7 @@ for (movie_name in names(movies)) {
   }, error = function(e) {
     cat("Error fetching movie details:\n", e$message, "\n")
   })
-  
+
   movie$poster_path <- paste0(image_base_url, data$poster_path)
   movie$title <- data$title
   movie$released <- data$release_date
@@ -72,7 +72,7 @@ for (movie_name in names(movies)) {
   movie$imdb_id <- data$imdb_id
   movie$vote_average <- as.character(round(data$vote_average, 1))
   movie$overview <- data$overview
-  
+
   movie$genres <- c()
   for (genre in data$genres) {
     movie$genres <- c(movie$genres, genre$name)
@@ -86,7 +86,7 @@ for (movie_name in names(movies)) {
   }, error = function(e) {
     cat("Error fetching OMDB ratings:\n", e$message, "\n")
   })
-  
+
   if (!is.null(ratings)) {
     for (rating in ratings) {
       if (rating$Source == "Internet Movie Database") {
@@ -106,7 +106,7 @@ for (movie_name in names(movies)) {
   }, error = function(e) {
     cat("Error fetching watch providers:\n", e$message, "\n")
   })
-  
+
   platforms <- c()
   logo_paths <- c()
 
@@ -182,4 +182,3 @@ for (movie_name in names(movies)) {
 write_json(movies, "movies_full.json", auto_unbox = TRUE, pretty = TRUE)
 
 cat("Movies have been successfully written to movies_full.json\n")
-

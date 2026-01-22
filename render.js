@@ -6,9 +6,7 @@ back_btn = document.getElementById("back-btn");
 next_btn = document.getElementById("next-btn");
 prev_btn = document.getElementById("prev-btn");
 back_link = document.getElementById("back-link");
-sorting = document.getElementById("sorting");
 can = document.getElementById("can");
-// sort_menu = document.getElementById("sort-menu");
 filter_menu = document.getElementById("filter-menu");
 back_to_start = document.getElementById("back-to-start");
 
@@ -131,7 +129,6 @@ async function renderMovies() {
                 back_btn.style.display = "none";
                 buttons.style.display = "flex";
                 showing.removeAttribute("style");
-                sorting.removeAttribute("style");
             
                 if ([...filter_show_all.classList].includes("clicked")) {
                     filter_show_all.click();
@@ -143,8 +140,6 @@ async function renderMovies() {
 
             buttons.style.display = "none";
             showing.style.display = "none";
-            sorting.style.display = "none";
-            // sort_menu.style.display = "none";
             filter_menu.style.display = "none";
             document.getElementById("movie-info").style.display = "flex";
 
@@ -365,22 +360,31 @@ async function renderMovies() {
 
             castLinks();
 
-                      
+                
+            let year_movies = {};
+            for (let j = 0; j < Object.keys(movies).length; j ++) {
+                if (movies[Object.keys(movies)[j]].nominated == movie.nominated) {
+                    year_movies[Object.keys(movies)[j]] = movies[Object.keys(movies)[j]];
+                }
+            }
+
+            const year_index = Object.keys(year_movies).indexOf(Object.keys(movies)[i]);
             
-            if (i == Object.keys(movies).length - 1) {
+            if (year_index == Object.keys(year_movies).length - 1) {
                 next_btn.style.display = "none";
             } else {
-                let next_id  = movies[Object.keys(movies)[i + 1]].id;
+
+                let next_id  = year_movies[Object.keys(year_movies)[year_index + 1]].id;
 
                 next_btn.onclick = function() {
                     document.getElementById(next_id).click()
                 }
             }
 
-            if (i == 0) {
+            if (year_index == 0) {
                 prev_btn.style.display = "none";
             } else {
-                let prev_id  = movies[Object.keys(movies)[i - 1]].id;
+                let prev_id  = year_movies[Object.keys(year_movies)[year_index - 1]].id;
 
                 prev_btn.onclick = function() {
                     document.getElementById(prev_id).click()
@@ -430,7 +434,6 @@ function castLinks () {
             prev_btn.style.display = "none";
             buttons.style.display = "flex";
             showing.removeAttribute("style");
-            sorting.removeAttribute("style");
             filter_btn.classList.add("clicked");
 
             let count = 0;
@@ -489,7 +492,6 @@ const handleOnScroll = () => {
     
     if (scrollElement().scrollTop > 0) {
         filter_menu.style.display = "none";
-        sort_menu.style.display = "none";
     }
 }
 

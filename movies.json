@@ -656,5 +656,159 @@
         "watched": true,
         "nominated": 2025,
         "categories": ["Best International Feature Film"]
+    },
+    "Bugonia": {
+        "id": "701387",
+        "plex": true,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Actress", "Best Adapted Screenplay"]
+    },
+    "F1": {
+        "id": "911430",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture"]
+    },
+    "Frankenstein": {
+        "id": "1062722",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Supporting Actor", "Best Adapted Screenplay"]
+    },
+    "Hamnet": {
+        "id": "858024",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"]
+    },
+    "Marty Supreme": {
+        "id": "1317288",
+        "plex": false,
+        "watched": false, 
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Original Screenplay"]
+    },
+    "One Battle After Another": {
+        "id": "1054867",
+        "plex": true,
+        "watched": true,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Adapted Screenplay"]
+    },
+    "The Secret Agent": {
+        "id": "1220564",
+        "plex": false,
+        "watched": false,   
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Actor", "Best International Feature Film"]
+    },
+    "Sentimental Value": {
+        "id": "1124566",
+        "plex": true,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Supporting Actress", "Best International Feature Film", "Best Original Screenplay"]
+    },
+    "Sinners": {
+        "id": "1233413",
+        "plex": true,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"]
+    },
+    "Train Dreams": {
+        "id": "1241983",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Picture", "Best Adapted Screenplay"]
+    },
+    "Blue Moon": {
+        "id": "1299655",
+        "plex": true,
+        "watched": true,
+        "nominated": 2026,
+        "categories": ["Best Actor", "Best Original Screenplay"]
+    },
+    "If I Had Legs I'd Kick You": {
+        "id": "1160360",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Actress"]
+    },
+    "Song Sung Blue": {
+        "id": "1371185",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Actress"]
+    },
+    "Weapons": {
+        "id": "1078605",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Supporting Actress"]
+    },
+    "Arco": {
+        "id": "804370",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "Elio": {
+        "id": "1022787",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "KPop Demon Hunters": {
+        "id": "803796",
+        "plex": false,
+        "watched": true,
+        "nominated": 2026,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "Little Amélie or the Character of Rain": {
+        "id": "682012",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "Zootopia 2": {
+        "id": "1084242",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best Animated Feature Film"]
+    },
+    "It Was Just an Accident": {
+        "id": "1456349",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best International Feature Film", "Best Original Screenplay"]
+    },
+    "Sirāt": {
+        "id": "1151272",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best International Feature Film"]
+    },
+    "The Voice of Hind Rajab": {
+        "id": "1480382",
+        "plex": false,
+        "watched": false,
+        "nominated": 2026,
+        "categories": ["Best International Feature Film"]
     }
 }
