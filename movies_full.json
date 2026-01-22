@@ -2704,7 +2704,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
       },
       "Emma Mackey": {
         "id": 2201315,
@@ -9435,7 +9435,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Deirdre Beaubeirdre",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hOQXeDjTlPoTKc0TvJuNue7ZIuG.jpg"
       },
       "Tallie Medel": {
         "id": 1071151,
@@ -9616,8 +9616,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "67%",
     "meta_score": "55/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Channel 4", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Michael Showalter",
     "cast": {
       "Jessica Chastain": {
@@ -16758,7 +16758,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -17174,7 +17174,7 @@
       "Matt Damon": {
         "id": 1892,
         "character": "Leslie Groves",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/elSlNgV8xVifsbHpFsqrPGxJToZ.jpg"
       },
       "Robert Downey Jr.": {
         "id": 3223,
@@ -18890,7 +18890,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -19777,7 +19777,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -20093,7 +20093,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -23959,7 +23959,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Susan Wilson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
       },
       "Robin de Jesús": {
         "id": 110505,
