@@ -7578,7 +7578,7 @@
     "genres": "Drama",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
-    "director": "Ryūsuke Hamaguchi",
+    "director": "Ryusuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
         "id": 13250,
@@ -12199,7 +12199,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -12984,7 +12984,7 @@
       "Rose Byrne": {
         "id": 9827,
         "character": "Linda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6YauDiiTBwRGC1xnwspPmNvPWUu.jpg"
       },
       "Conan O'Brien": {
         "id": 81200,
@@ -15129,7 +15129,7 @@
     "genres": ["Fantasy", "Music", "Comedy", "Animation"],
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18107,7 +18107,7 @@
       "Natalie Portman": {
         "id": 524,
         "character": "Elizabeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2YFc38KnhSlkw5tj372JdRtu5Um.jpg"
       },
       "Julianne Moore": {
         "id": 1231,
@@ -23115,7 +23115,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Nora Borg",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4MGaghr6uXw6xc2lNCGIYy5aAwE.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -34032,7 +34032,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4MGaghr6uXw6xc2lNCGIYy5aAwE.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
