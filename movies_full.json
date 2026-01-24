@@ -4278,7 +4278,7 @@
       "Martin Freeman": {
         "id": 7060,
         "character": "Everett Ross",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/amUYpgHEn2evMo3QfRIoy0ATQza.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
       },
       "Julia Louis-Dreyfus": {
         "id": 15886,
@@ -5239,7 +5239,7 @@
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
-    "genres": ["Drama", "History"],
+    "genres": "Drama",
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "90/100",
@@ -8674,7 +8674,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11734,6 +11734,11 @@
         "id": 5895962,
         "character": "Museum Bookshop Patron",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4qM3WdJw4bfF9vYuGbsqQRu9Xgi.jpg"
+      },
+      "Luca Mehta": {
+        "id": 3962721,
+        "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kgHLMOdfTNMlSGpMW3EGow1fAid.jpg"
       }
     }
   },
@@ -11999,7 +12004,7 @@
       "Janelle Monáe": {
         "id": 1005852,
         "character": "Andi Brand",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xavjGiGltQEDWqNdbe0zd1lO0UR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/axTIbPz6ZbqlcCwkNBgD59gY3lx.jpg"
       },
       "Kathryn Hahn": {
         "id": 17696,
@@ -12322,7 +12327,7 @@
     "released": "2025-11-26",
     "duration": 126,
     "imdb_id": "tt14905854",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
     "genres": ["Drama", "Romance"],
     "imdb_score": "8.1/10",
@@ -17575,7 +17580,7 @@
     "released": "2025-12-19",
     "duration": 150,
     "imdb_id": "tt32916440",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
     "genres": "Drama",
     "imdb_score": "8.3/10",
@@ -19509,7 +19514,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20436,8 +20441,8 @@
     "imdb_score": "8.3/10",
     "rt_score": "93%",
     "meta_score": "90/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Christopher Nolan",
     "cast": {
       "Cillian Murphy": {
@@ -34371,7 +34376,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4MGaghr6uXw6xc2lNCGIYy5aAwE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eepHWTjtKRdGcrtchFb3axdp2eL.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
