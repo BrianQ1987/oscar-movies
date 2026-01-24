@@ -674,7 +674,7 @@
     "Frankenstein": {
         "id": "1062722",
         "plex": false,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Picture", "Best Supporting Actor", "Best Adapted Screenplay"]
     },
