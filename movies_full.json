@@ -5263,7 +5263,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kJwPrHrVCG21LNsVTURIRZow5kq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rfXaXxAZ5UhCFZVCeZLKuODOcsj.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8098,7 +8098,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2ZyK2a1fKvUXlhKBORpqcMd4Uot.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4rPkyPPCOH8PNPAY6RhhScHFcZ1.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -9294,7 +9294,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eNuKic9TY7GNiIzEIfF9vuv3IH7.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -12329,7 +12329,7 @@
     "imdb_id": "tt14905854",
     "vote_average": "7.9",
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-    "genres": ["Drama", "Romance"],
+    "genres": ["Drama", "Romance", "History"],
     "imdb_score": "8.1/10",
     "rt_score": "87%",
     "meta_score": "85/100",
@@ -12353,7 +12353,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9EZAyviSmaYGLzUcnD7fyioIWML.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rfXaXxAZ5UhCFZVCeZLKuODOcsj.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15292,7 +15292,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17581,7 +17581,7 @@
     "duration": 150,
     "imdb_id": "tt32916440",
     "vote_average": "8",
-    "overview": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
+    "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": "Drama",
     "imdb_score": "8.3/10",
     "rt_score": "94%",
@@ -18201,12 +18201,42 @@
       "Shane Fleming": {
         "id": 2882774,
         "character": "Ping Pong Misfit (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s4vVYtypOyggiGOGuSG1sGP4IR6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
       },
-      "Jeffrey Epstein": {
-        "id": 2607708,
+      "Gwyneth Paltrow": {
+        "id": 12052,
+        "character": "Kay Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
+      },
+      "Tyler, The Creator": {
+        "id": 1133834,
+        "character": "Wally",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
+      },
+      "Odessa A'zion": {
+        "id": 1972166,
+        "character": "Rachel Mizler",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fGgP2Ik5PbWlDVQNp6SN8oPsu0P.jpg"
+      },
+      "Kevin O'Leary": {
+        "id": 1240877,
+        "character": "Milton Rockwell",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uvTv976u2wgrl9RqxSfBeTlE1Wz.jpg"
+      },
+      "Fran Drescher": {
+        "id": 53122,
+        "character": "Rebecca Mauser",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kQzvZ4ksLunfs3QZQtzRhzLJPBY.jpg"
+      },
+      "Emory Cohen": {
+        "id": 1041440,
+        "character": "Ira Mizler",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
+      },
+      "Abel Ferrara": {
+        "id": 39104,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xYotfVAMFVQWMrBEEGLAyqNaAOx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
       }
     }
   },
@@ -19449,7 +19479,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19637,7 +19667,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20768,7 +20798,7 @@
       "Gary Oldman": {
         "id": 64,
         "character": "Harry Truman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4HxoaJ8619S6eHOO901FMuxQ1FE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
       },
       "Hap Lawrence": {
         "id": 101661,
@@ -29025,7 +29055,7 @@
       "Allison Janney": {
         "id": 19,
         "character": "Nancy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
       },
       "Stephen Root": {
         "id": 17401,
@@ -30907,7 +30937,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.2",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": "Drama",
+    "genres": ["Drama", "Documentary"],
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "84/100",
@@ -30959,7 +30989,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
