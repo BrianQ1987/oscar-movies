@@ -5445,7 +5445,7 @@
     "imdb_id": "tt12300742",
     "vote_average": "7.4",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-    "genres": ["Science Fiction", "Thriller", "Crime"],
+    "genres": ["Science Fiction", "Thriller", "Crime", "Comedy"],
     "imdb_score": "7.5/10",
     "rt_score": "87%",
     "meta_score": "72/100",
@@ -8666,7 +8666,7 @@
     "released": "2025-06-18",
     "duration": 98,
     "imdb_id": "tt4900148",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
     "genres": ["Family", "Comedy", "Adventure", "Animation", "Science Fiction"],
     "imdb_score": "6.7/10",
@@ -15292,7 +15292,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17593,35 +17593,80 @@
         "character": "Marty Mauser",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
-      "Sandra Bernhard": {
-        "id": 3664,
-        "character": "Judy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3S93MgFQtXH4eO3oCxx1BA13nBj.jpg"
+      "Gwyneth Paltrow": {
+        "id": 12052,
+        "character": "Kay Stone",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
       },
-      "David Mamet": {
-        "id": 1255,
-        "character": "Glenn Nordmann",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3Hfebpi4fRSY0lciWUc355ylP6j.jpg"
+      "Odessa A'zion": {
+        "id": 1972166,
+        "character": "Rachel Mizler",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fGgP2Ik5PbWlDVQNp6SN8oPsu0P.jpg"
       },
-      "Koto Kawaguchi": {
-        "id": 5848473,
-        "character": "Koto Endo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aTR2fKtjr2mTXTtU5ywNAKJv1jG.jpg"
+      "Kevin O'Leary": {
+        "id": 1240877,
+        "character": "Milton Rockwell",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uvTv976u2wgrl9RqxSfBeTlE1Wz.jpg"
+      },
+      "Tyler, The Creator": {
+        "id": 1133834,
+        "character": "Wally",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
+      },
+      "Fran Drescher": {
+        "id": 53122,
+        "character": "Rebecca Mauser",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kQzvZ4ksLunfs3QZQtzRhzLJPBY.jpg"
+      },
+      "Abel Ferrara": {
+        "id": 39104,
+        "character": "Ezra Mishkin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
+      },
+      "Emory Cohen": {
+        "id": 1041440,
+        "character": "Ira Mizler",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
       },
       "Géza Röhrig": {
         "id": 1454942,
         "character": "Béla Kletzki",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3XrYcL5wC1wQnmqJautgZK3XuiM.jpg"
       },
-      "Pico Iyer": {
-        "id": 4402301,
-        "character": "Ram Sethi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yF2tyk6m8xgcBy9inA6VOLNPWGu.jpg"
+      "Penn Jillette": {
+        "id": 37221,
+        "character": "Hoff",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lxMpWaVKyeqZCxENRo1wu13iSTS.jpg"
+      },
+      "Sandra Bernhard": {
+        "id": 3664,
+        "character": "Judy",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3S93MgFQtXH4eO3oCxx1BA13nBj.jpg"
+      },
+      "Koto Kawaguchi": {
+        "id": 5848473,
+        "character": "Koto Endo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aTR2fKtjr2mTXTtU5ywNAKJv1jG.jpg"
+      },
+      "Larry Sloman": {
+        "id": 61327,
+        "character": "Murray Norkin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/enSAk6TAQYApYPBo5fVQUf26wcP.jpg"
       },
       "Luke Manley": {
         "id": 5431193,
         "character": "Dion Galanis",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xseCUIslZFDykrgxRV6k7tuzlsF.jpg"
+      },
+      "David Mamet": {
+        "id": 1255,
+        "character": "Glenn Nordmann",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3Hfebpi4fRSY0lciWUc355ylP6j.jpg"
+      },
+      "Pico Iyer": {
+        "id": 4402301,
+        "character": "Ram Sethi",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yF2tyk6m8xgcBy9inA6VOLNPWGu.jpg"
       },
       "George Gervin": {
         "id": 1286311,
@@ -18178,11 +18223,6 @@
         "character": "Stagehands (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dLSmHD0Oc0fBrd2ejLGY6gyFMkC.jpg"
       },
-      "Daniel Cioffoletti": {
-        "id": 5230995,
-        "character": "Audience Member (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pppGAQd9f4mWS9MH7FUDXKFV8Dn.jpg"
-      },
       "Toree Hill": {
         "id": 1686289,
         "character": "Pedestrian (uncredited)",
@@ -18202,41 +18242,6 @@
         "id": 2882774,
         "character": "Ping Pong Misfit (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
-      },
-      "Gwyneth Paltrow": {
-        "id": 12052,
-        "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
-      },
-      "Tyler, The Creator": {
-        "id": 1133834,
-        "character": "Wally",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
-      },
-      "Odessa A'zion": {
-        "id": 1972166,
-        "character": "Rachel Mizler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fGgP2Ik5PbWlDVQNp6SN8oPsu0P.jpg"
-      },
-      "Kevin O'Leary": {
-        "id": 1240877,
-        "character": "Milton Rockwell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uvTv976u2wgrl9RqxSfBeTlE1Wz.jpg"
-      },
-      "Fran Drescher": {
-        "id": 53122,
-        "character": "Rebecca Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kQzvZ4ksLunfs3QZQtzRhzLJPBY.jpg"
-      },
-      "Emory Cohen": {
-        "id": 1041440,
-        "character": "Ira Mizler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mtummZcNxmcJQ1JIoQUcV3Fwb3.jpg"
-      },
-      "Abel Ferrara": {
-        "id": 39104,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wdOxXWyxE3HjrtdeOJvc9xB5eUv.jpg"
       }
     }
   },
@@ -19479,7 +19484,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19667,7 +19672,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -23021,7 +23026,7 @@
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Actor", "Best International Feature Film"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg",
     "title": "The Secret Agent",
     "released": "2025-07-23",
     "duration": 161,
@@ -23133,7 +23138,7 @@
       "Fafa Dantas": {
         "id": 4800288,
         "character": "Das Dores",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Suzy Lopes": {
         "id": 2346581,
@@ -23143,7 +23148,7 @@
       "Gregorio Graziosi": {
         "id": 1267496,
         "character": "Salvatore",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Joálisson Cunha": {
         "id": 3295590,
@@ -23173,17 +23178,17 @@
       "Enzo Nunes": {
         "id": 5366812,
         "character": "Fernando",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Márcio De Paula": {
         "id": 4480963,
         "character": "Police Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Fabiana Pirro": {
         "id": 2483247,
         "character": "Doctor Inês",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Rubens Santos": {
         "id": 1677905,
@@ -23208,12 +23213,12 @@
       "Robson Andrade": {
         "id": 5366816,
         "character": "Clóvis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Albert Tenorio": {
         "id": 1016256,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Edilson Silva": {
         "id": 1723409,
@@ -23223,22 +23228,22 @@
       "Nivaldo Nascimento": {
         "id": 1016257,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Cely Farias": {
         "id": 3618755,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Beto Quirino": {
         "id": 1694028,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       },
       "Mariza Moreira": {
         "id": 5957569,
         "character": "Mulher Possuída",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ovn2eHUXwEaYwB9owrg8gY4awpj.jpg"
       }
     }
   },
@@ -24000,7 +24005,7 @@
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Supporting Actor", "Best Supporting Actress", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
     "title": "Sinners",
     "released": "2025-04-16",
     "duration": 138,
@@ -24133,7 +24138,7 @@
       "Kai Thompson": {
         "id": 3475232,
         "character": "Young Girl in Annie's Shop",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Nathaniel Arcand": {
         "id": 60722,
@@ -24143,7 +24148,7 @@
       "Mark L. Patrick": {
         "id": 5384801,
         "character": "Mississippi Choctaw Horseback Scout",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Gralen Bryant Banks": {
         "id": 557804,
@@ -24183,52 +24188,52 @@
       "Kendalyn Dene Breakfield": {
         "id": 5578299,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Airelle Brooks": {
         "id": 5578300,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Gabriel Cavallini": {
         "id": 5578301,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Jeremy Denzel": {
         "id": 2003391,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Le'Andre Douglas": {
         "id": 5578302,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Akeem J. Edwards": {
         "id": 5578303,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Arouna Guindo": {
         "id": 5578304,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Jarrell Hamilton": {
         "id": 5578305,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Leroy Harris Jr.": {
         "id": 5578306,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Jeoffrey Harris Jr.": {
         "id": 5578307,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Alex Huynh": {
         "id": 1096373,
@@ -24238,67 +24243,67 @@
       "Ritho Johnson": {
         "id": 5578309,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Donald Jones Jr.": {
         "id": 2575308,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Breonna Jordan": {
         "id": 5578313,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Trinity Jaden Mitchell": {
         "id": 5578314,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Ian Monroe": {
         "id": 5578315,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Cuso Mora": {
         "id": 5578316,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Winnie Mu": {
         "id": 5578318,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Jahaira Myers": {
         "id": 5578319,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Andrea Peoples": {
         "id": 5578320,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Phyouture": {
         "id": 5578322,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Faith Rockward": {
         "id": 5578323,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Ahmari Vaughn": {
         "id": 4451957,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       },
       "Tyler Wilson": {
         "id": 3632144,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOfjeJMKS7cOaaTn6q3J0y2ypiA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/705nQHqe4JGdEisrQmVYmXyjs1U.jpg"
       }
     }
   },
@@ -25438,7 +25443,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -30932,12 +30937,12 @@
     "categories": "Best International Feature Film",
     "poster_path": "https://image.tmdb.org/t/p/w1280/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg",
     "title": "The Voice of Hind Rajab",
-    "released": "2025-09-25",
+    "released": "2025-09-10",
     "duration": 89,
     "imdb_id": "tt36943034",
     "vote_average": "8.2",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": ["Drama", "Documentary"],
+    "genres": "Drama",
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "84/100",
@@ -31302,7 +31307,7 @@
     "released": "2021-12-08",
     "duration": 156,
     "imdb_id": "tt3581652",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "Two youngsters from rival New York City gangs fall in love, but tensions between their respective friends build toward tragedy.",
     "genres": ["Drama", "Romance", "Crime"],
     "imdb_score": "7.1/10",
@@ -34905,7 +34910,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/bjUWGw0Ao0qVWxagN3VCwBJHVo6.jpg",
     "title": "Zootopia 2",
     "released": "2025-11-26",
-    "duration": 107,
+    "duration": 108,
     "imdb_id": "tt26443597",
     "vote_average": "7.6",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
@@ -35083,7 +35088,7 @@
       "Michael J. Fox": {
         "id": 521,
         "character": "Michael J. The Fox (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8i9xGL9XpDAuAL3wy9pAQQLW1y.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
       },
       "Dwayne Johnson": {
         "id": 18918,
