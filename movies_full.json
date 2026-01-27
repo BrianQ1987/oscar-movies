@@ -5445,7 +5445,7 @@
     "imdb_id": "tt12300742",
     "vote_average": "7.4",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-    "genres": ["Science Fiction", "Thriller", "Crime", "Comedy"],
+    "genres": ["Science Fiction", "Thriller", "Comedy"],
     "imdb_score": "7.5/10",
     "rt_score": "87%",
     "meta_score": "72/100",
@@ -12353,7 +12353,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rfXaXxAZ5UhCFZVCeZLKuODOcsj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iAZIHEfWISXex2G8XJZEALYjB79.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15292,7 +15292,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15568,6 +15568,11 @@
         "id": 1875653,
         "character": "Self (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/50xrC5pnYU6E6uSonOa8hIy2rH7.jpg"
+      },
+      "Sean Tadlock": {
+        "id": 4097974,
+        "character": "Shirt Switching Fan (voice) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
       }
     }
   },
@@ -17580,7 +17585,7 @@
     "released": "2025-12-19",
     "duration": 150,
     "imdb_id": "tt32916440",
-    "vote_average": "8",
+    "vote_average": "7.9",
     "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": "Drama",
     "imdb_score": "8.3/10",
@@ -19672,7 +19677,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -28557,7 +28562,7 @@
       "Andrew Bancroft": {
         "id": 472390,
         "character": "Building Parking Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z4vaEArM9G53ghOJWk8IXNQp6jS.jpg"
       },
       "Chris Sullivan": {
         "id": 1246110,
@@ -30994,7 +30999,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
