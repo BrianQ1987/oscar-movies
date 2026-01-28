@@ -2829,7 +2829,7 @@
       "Emma Mackey": {
         "id": 2201315,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/y8nDoKXpyNViFL8Eam4Ey1PkgQ6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nVcW3khbrOdCZrsmx1VeTxQGQSv.jpg"
       },
       "Hari Nef": {
         "id": 1611609,
@@ -7019,7 +7019,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cFSiAYIjA89J4VZIrI3DYSGxVP9.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -9797,7 +9797,7 @@
       "Mateusz Kościukiewicz": {
         "id": 1482162,
         "character": "Mateo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vkeykOvvGQsFuHwVBGnneQDuPZz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n6QFRFcZkHZvSVFt5Qc0jILTXEl.jpg"
       },
       "Tomasz Organek": {
         "id": 3511048,
@@ -16582,7 +16582,7 @@
   "Little Amélie or the Character of Rain": {
     "id": "682012",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": "Best Animated Feature Film",
     "poster_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg",
@@ -18785,7 +18785,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vNFFleZFrvksAKKHRFO2hLEKGkB.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -29820,6 +29820,46 @@
         "id": 5799959,
         "character": "Pilot",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+      },
+      "Keith Cox": {
+        "id": 2100053,
+        "character": "Ruffian in Store / Model T Driver (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hQkpvjH3ZmhNIEzDPcFTmFwjHyU.jpg"
+      },
+      "Bonne Vejou-Dorrell": {
+        "id": 3399755,
+        "character": "Kootenai Indian (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+      },
+      "Ron Ford": {
+        "id": 98712,
+        "character": "Mr. Pinkham (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gIDdGVmC9zBNmVGQuJBzcMRXmbB.jpg"
+      },
+      "Frank A. Gaimari": {
+        "id": 4198299,
+        "character": "Church Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+      },
+      "Miles Glew": {
+        "id": 5920919,
+        "character": "Fair Attendee (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+      },
+      "Pamela Kingsley": {
+        "id": 3189269,
+        "character": "Chapel Congregant (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+      },
+      "Jennifer Simmons": {
+        "id": 2317156,
+        "character": "Mrs. Pinkham (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+      },
+      "Eric David Wallace": {
+        "id": 5816540,
+        "character": "Logger (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       }
     }
   },
@@ -30999,7 +31039,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32052,7 +32092,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cFSiAYIjA89J4VZIrI3DYSGxVP9.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
