@@ -5263,7 +5263,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hhEIxePQnRx8zTxdTHnJ6BDQFvi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iAZIHEfWISXex2G8XJZEALYjB79.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7019,7 +7019,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cFSiAYIjA89J4VZIrI3DYSGxVP9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pwawoyEc6XK7IBKwWHwMO5WfBED.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -8674,7 +8674,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12353,7 +12353,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hhEIxePQnRx8zTxdTHnJ6BDQFvi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iAZIHEfWISXex2G8XJZEALYjB79.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15292,7 +15292,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15600,7 +15600,7 @@
       "Alana Haim": {
         "id": 1741367,
         "character": "Alana Kane",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5c8zq41exvPUd7ph1tNeoBmaPgj.jpg"
       },
       "Cooper Hoffman": {
         "id": 2764542,
@@ -18247,6 +18247,11 @@
         "id": 2882774,
         "character": "Ping Pong Misfit (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+      },
+      "Hailey Benton Gates": {
+        "id": 1599899,
+        "character": "Trish",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/be1Cix161AsFJLlCGatMZLa2igZ.jpg"
       }
     }
   },
@@ -19975,7 +19980,7 @@
       "Alana Haim": {
         "id": 1741367,
         "character": "Mae West",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5c8zq41exvPUd7ph1tNeoBmaPgj.jpg"
       },
       "Shayna McHayle": {
         "id": 1810763,
@@ -22149,7 +22154,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23872,7 +23877,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -25446,9 +25451,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "platforms": "BBC iPlayer",
-    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31017,6 +31020,11 @@
         "id": 5740784,
         "character": "Leila",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg"
+      },
+      "Hind Rajab": {
+        "id": 5971511,
+        "character": "Self (Voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg"
       }
     }
   },
@@ -31039,7 +31047,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32092,7 +32100,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cFSiAYIjA89J4VZIrI3DYSGxVP9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pwawoyEc6XK7IBKwWHwMO5WfBED.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
