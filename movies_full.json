@@ -2829,7 +2829,7 @@
       "Emma Mackey": {
         "id": 2201315,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
       },
       "Hari Nef": {
         "id": 1611609,
@@ -2854,7 +2854,7 @@
       "Dua Lipa": {
         "id": 1959397,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aCZmliGT5oDGiF8aKvxFbct5JQm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/82ZEdOoWZcRQbOawXbZ1EDTO85K.jpg"
       },
       "Nicola Coughlan": {
         "id": 1267240,
@@ -7850,7 +7850,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1hVh9d3hbD5LVX0IAF5LTQleOFf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tylFh0K48CZIIhvKlA7WA1XBAtE.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8058,7 +8058,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1hVh9d3hbD5LVX0IAF5LTQleOFf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -19687,7 +19687,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19930,7 +19930,7 @@
       "Teyana Taylor": {
         "id": 964679,
         "character": "Perfidia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/foj8l6GGlZxZXcW6pU5wnNxDjSx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yC6w0SERmCxUTTu6KYXDxhtkj0j.jpg"
       },
       "Wood Harris": {
         "id": 65829,
@@ -21883,7 +21883,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Wolf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -22159,7 +22159,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23058,7 +23058,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Armando / Marcelo / Adult Fernando",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg"
       },
       "Carlos Francisco": {
         "id": 2346588,
@@ -23343,7 +23343,7 @@
   "Sentimental Value": {
     "id": "1124566",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Supporting Actress", "Best International Feature Film", "Best Original Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
@@ -28224,7 +28224,7 @@
     "released": "2023-05-04",
     "duration": 98,
     "imdb_id": "tt26612950",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -34193,7 +34193,7 @@
       "Bill Nighy": {
         "id": 2440,
         "character": "Longneck (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xrMzXXR201n5u32OCS1UTLjGrQv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
       },
       "Stephanie Hsu": {
         "id": 1381186,
@@ -34727,7 +34727,7 @@
       "Sandra Hüller": {
         "id": 7152,
         "character": "Hedwig Höss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
       },
       "Johann Karthaus": {
         "id": 4072267,
