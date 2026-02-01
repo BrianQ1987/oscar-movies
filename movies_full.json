@@ -15598,8 +15598,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "90%",
     "meta_score": "90/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Thomas Anderson",
     "cast": {
       "Alana Haim": {
