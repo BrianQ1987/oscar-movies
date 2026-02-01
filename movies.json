@@ -709,7 +709,7 @@
     "Sentimental Value": {
         "id": "1124566",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Supporting Actress", "Best International Feature Film", "Best Original Screenplay"]
     },
