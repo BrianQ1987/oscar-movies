@@ -6842,7 +6842,7 @@
       "Isabella Rossellini": {
         "id": 6588,
         "character": "Sister Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r1AnjYgzwwxnSSVjrjE1gLbF1kW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
       },
       "Lucian Msamati": {
         "id": 1240427,
@@ -7850,7 +7850,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tylFh0K48CZIIhvKlA7WA1XBAtE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -15297,7 +15297,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17500,7 +17500,7 @@
       "Isabella Rossellini": {
         "id": 6588,
         "character": "Connie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r1AnjYgzwwxnSSVjrjE1gLbF1kW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
       },
       "Joe Gabler": {
         "id": 3979379,
@@ -20443,7 +20443,7 @@
       "Matt Damon": {
         "id": 1892,
         "character": "Leslie Groves",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/andBr2Vvf5Gj54gFyoz7ctBKLBj.jpg"
       },
       "Robert Downey Jr.": {
         "id": 3223,
@@ -21861,8 +21861,8 @@
     "genres": ["Animation", "Adventure", "Fantasy", "Comedy", "Family"],
     "imdb_score": "7.8/10",
     "meta_score": "73/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Joel Crawford",
     "cast": {
       "Antonio Banderas": {
@@ -21883,7 +21883,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Wolf (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Vs0d8js1uJV0WDPwMFU3zO2n3m.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -22159,7 +22159,7 @@
     "meta_score": "74/100",
     "platforms": ["Disney Plus", "Channel 4"],
     "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23058,7 +23058,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Armando / Marcelo / Adult Fernando",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6gcfwvOueJKhDpTP9KLGuWz0Hk4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Vs0d8js1uJV0WDPwMFU3zO2n3m.jpg"
       },
       "Carlos Francisco": {
         "id": 2346588,
@@ -23967,7 +23967,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -25541,7 +25541,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -34344,8 +34344,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "90%",
     "meta_score": "77/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sarah Polley",
     "cast": {
       "Rooney Mara": {
