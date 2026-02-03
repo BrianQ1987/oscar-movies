@@ -1694,7 +1694,7 @@
     "imdb_id": "tt14883538",
     "vote_average": "7.8",
     "overview": "Arco, ten years old, lives in a far future. During his first flight in his rainbow suit, he loses control and falls in the past. Iris, a little girl his age from 2075, saw him fall. She rescues him and tries by all means to send him back to his era.",
-    "genres": ["Animation", "Adventure", "Science Fiction", "Fantasy"],
+    "genres": ["Animation", "Adventure", "Science Fiction", "Fantasy", "Family"],
     "imdb_score": "7.2/10",
     "rt_score": "91%",
     "director": "Ugo Bienvenu",
@@ -2378,7 +2378,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eNuKic9TY7GNiIzEIfF9vuv3IH7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -2671,7 +2671,7 @@
     "vote_average": "7.5",
     "overview": "Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them.",
     "genres": ["Drama", "Comedy"],
-    "imdb_score": "7.7/10",
+    "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "87/100",
     "platforms": "Disney Plus",
@@ -5446,7 +5446,7 @@
     "vote_average": "7.4",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
     "genres": ["Science Fiction", "Thriller", "Comedy"],
-    "imdb_score": "7.5/10",
+    "imdb_score": "7.4/10",
     "rt_score": "87%",
     "meta_score": "72/100",
     "platforms": "Plex",
@@ -8689,7 +8689,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Olga Solís (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eNuKic9TY7GNiIzEIfF9vuv3IH7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Brad Garrett": {
         "id": 18,
@@ -9294,7 +9294,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eNuKic9TY7GNiIzEIfF9vuv3IH7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -12327,7 +12327,7 @@
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
     "title": "Hamnet",
     "released": "2025-11-26",
     "duration": 126,
@@ -12443,22 +12443,22 @@
       "Eva Wishart": {
         "id": 5293318,
         "character": "Joan's Girl 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Effie Linnen": {
         "id": 5719518,
         "character": "Joan's Girl 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Hera Gibson": {
         "id": 5293320,
         "character": "Francisco",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Zac Wishart": {
         "id": 5293321,
         "character": "Thomas",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "James Lintern": {
         "id": 5681745,
@@ -12478,7 +12478,7 @@
       "Clay Milner-Russell": {
         "id": 2995946,
         "character": "Laertes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Chloé Zhao": {
         "id": 1395183,
@@ -17483,8 +17483,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "98%",
     "meta_score": "80/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Dean Fleischer Camp",
     "cast": {
       "Jenny Slate": {
@@ -17827,6 +17827,11 @@
         "id": 1454347,
         "character": "Haneda Greeter",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dsqMQDzf7Gj4xugdQl1mxEYKusp.jpg"
+      },
+      "Hailey Benton Gates": {
+        "id": 1599899,
+        "character": "Trish",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/be1Cix161AsFJLlCGatMZLa2igZ.jpg"
       },
       "J. Christian Ingvordsen": {
         "id": 54804,
@@ -18252,11 +18257,6 @@
         "id": 2882774,
         "character": "Ping Pong Misfit (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rQ1VWEPQmzXi0AaDeiiGxwFVEOq.jpg"
-      },
-      "Hailey Benton Gates": {
-        "id": 1599899,
-        "character": "Trish",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/be1Cix161AsFJLlCGatMZLa2igZ.jpg"
       }
     }
   },
@@ -19499,7 +19499,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -23354,7 +23354,7 @@
     "vote_average": "7.6",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
     "genres": "Drama",
-    "imdb_score": "7.9/10",
+    "imdb_score": "7.8/10",
     "rt_score": "97%",
     "meta_score": "86/100",
     "platforms": "Plex",
@@ -25541,7 +25541,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
