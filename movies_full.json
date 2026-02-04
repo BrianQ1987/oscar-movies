@@ -10414,7 +10414,7 @@
       "Brad Pitt": {
         "id": 287,
         "character": "Sonny Hayes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n7HMim8RVpwsDqECprpeYzZggrR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
       },
       "Damson Idris": {
         "id": 1837297,
@@ -12232,7 +12232,7 @@
       "Finn Wolfhard": {
         "id": 1442069,
         "character": "Candlewick (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x7B4U4sRMBH1HHwB34K7Jtmxjnw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -12327,7 +12327,7 @@
     "released": "2025-11-26",
     "duration": 126,
     "imdb_id": "tt14905854",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
     "genres": ["Drama", "Romance", "History"],
     "imdb_score": "8.1/10",
@@ -15292,7 +15292,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17606,7 +17606,7 @@
       "Odessa A'zion": {
         "id": 1972166,
         "character": "Rachel Mizler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/meS7AUhkbybFiDtQyeczQ6rxO0F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nCDGUHEzQd1aQ6QDP7hRaJqzNI.jpg"
       },
       "Kevin O'Leary": {
         "id": 1240877,
@@ -19494,7 +19494,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22154,7 +22154,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -30728,7 +30728,7 @@
       "Rosalie Chiang": {
         "id": 3156344,
         "character": "Meilin Lee (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cbEWkQM0FS9vzv07JFErCk0YKkx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/28OpCs7KvaODQo2ubxngXxleKVw.jpg"
       },
       "Sandra Oh": {
         "id": 25540,
@@ -30738,7 +30738,7 @@
       "Ava Morse": {
         "id": 1373681,
         "character": "Miriam (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e3bkf5MHPzqvSrJALr78pp0DCWt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xHTaD3IIRRFJzkCuauFbcRbXuC2.jpg"
       },
       "Hyein Park": {
         "id": 2719558,
@@ -34706,7 +34706,7 @@
     "imdb_id": "tt7160372",
     "vote_average": "7",
     "overview": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
-    "genres": ["Drama", "History", "War"],
+    "genres": ["Drama", "History"],
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "92/100",
