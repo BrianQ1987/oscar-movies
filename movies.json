@@ -723,7 +723,7 @@
     "Train Dreams": {
         "id": "1241983",
         "plex": false,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Picture", "Best Adapted Screenplay"]
     },
