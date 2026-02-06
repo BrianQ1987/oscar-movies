@@ -8078,7 +8078,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8669,7 +8669,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13237,6 +13237,21 @@
         "id": 2103599,
         "character": "Nurse",
         "profile_path": "https://image.tmdb.org/t/p/w1280/houswxaXkKiRL5exygwcOYj2L7o.jpg"
+      },
+      "J. Alan Scott": {
+        "id": 1400337,
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg"
+      },
+      "Jason Matthews": {
+        "id": 5989448,
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg"
+      },
+      "Victor Broadley": {
+        "id": 5989451,
+        "character": "Puppeteer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg"
       }
     }
   },
@@ -15134,7 +15149,7 @@
       "George Ketsios": {
         "id": 1452949,
         "character": "Pro Match Tournament Staff",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iU40VAycPnPiHEc2vIcpscraid6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg"
       },
       "Valerie Davidson": {
         "id": 1677824,
@@ -20423,7 +20438,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -21858,7 +21873,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -25521,7 +25536,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -28234,7 +28249,7 @@
     "released": "2023-05-04",
     "duration": 98,
     "imdb_id": "tt26612950",
-    "vote_average": "7.2",
+    "vote_average": "7.3",
     "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -31096,6 +31111,11 @@
     "meta_score": "84/100",
     "director": "Kaouther Ben Hania",
     "cast": {
+      "Hind Rajab": {
+        "id": 5971511,
+        "character": "Self (Voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fBvts2i8DT6hF6pLSIO1G9eFhPQ.jpg"
+      },
       "Motaz Malhees": {
         "id": 3120512,
         "character": "Omar A. Alqam",
@@ -31119,11 +31139,6 @@
       "Nesbat Serhan": {
         "id": 5740784,
         "character": "Leila",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg"
-      },
-      "Hind Rajab": {
-        "id": 5971511,
-        "character": "Self (Voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fBcBY8kdBiPsRdtkbldwg3ThlyJ.jpg"
       }
     }
