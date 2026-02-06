@@ -8669,7 +8669,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19484,7 +19484,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -29791,7 +29791,7 @@
   "Train Dreams": {
     "id": "1241983",
     "plex": false,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Adapted Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
@@ -29819,16 +29819,6 @@
         "character": "Gladys Grainier",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fyhWRmxpTEYl5d8DnkIo6i8RdWJ.jpg"
       },
-      "William H. Macy": {
-        "id": 3905,
-        "character": "Arn Peeples",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
-      },
-      "Kerry Condon": {
-        "id": 62105,
-        "character": "Claire Thompson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
-      },
       "Nathaniel Arcand": {
         "id": 60722,
         "character": "Ignatius Jack",
@@ -29848,6 +29838,16 @@
         "id": 15684,
         "character": "Apostle Frank",
         "profile_path": "https://image.tmdb.org/t/p/w1280/69tLX644rRr1RT9gxajsWlNrf0Y.jpg"
+      },
+      "Kerry Condon": {
+        "id": 62105,
+        "character": "Claire Thompson",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+      },
+      "William H. Macy": {
+        "id": 3905,
+        "character": "Arn Peeples",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
       },
       "Will Patton": {
         "id": 883,
@@ -29896,12 +29896,12 @@
       },
       "Rick Rivera": {
         "id": 2665931,
-        "character": "Foreman",
+        "character": "Foreman. New Cut",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       },
       "Taylor McKinley": {
         "id": 5799957,
-        "character": "Logger New Cut",
+        "character": "Logger. New Cut",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       },
       "Ashton Singer": {
@@ -29911,7 +29911,7 @@
       },
       "Zoe Rose Short": {
         "id": 5799958,
-        "character": "Kate",
+        "character": "Kate. Returned",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       },
       "Sean San Jose": {
@@ -29926,7 +29926,7 @@
       },
       "Cisco Keanu Hoberock": {
         "id": 3225994,
-        "character": "Wolf Boy",
+        "character": "Wolfboy",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       },
       "Clark Sandford": {
@@ -29934,7 +29934,7 @@
         "character": "Pilot's Father",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       },
-      "Amelia Hilson": {
+      "Amelia Hilsen": {
         "id": 5799959,
         "character": "Pilot",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
