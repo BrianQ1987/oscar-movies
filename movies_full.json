@@ -4686,7 +4686,7 @@
       "Julianne Nicholson": {
         "id": 86034,
         "character": "Gladys",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2RJ30pPSQQxteuoMjhN1FWTwxlZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AqlEWaBfrqwb6St5qrL1yJ9d6VS.jpg"
       },
       "Scoot McNairy": {
         "id": 59233,
@@ -6101,6 +6101,8 @@
     "imdb_score": "6.8/10",
     "rt_score": "81%",
     "meta_score": "72/100",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Blitz Bazawule",
     "cast": {
       "Fantasia Barrino": {
@@ -23243,7 +23245,7 @@
     "released": "2024-09-18",
     "duration": 167,
     "imdb_id": "tt32178949",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
     "imdb_score": "7.6/10",
@@ -31073,7 +31075,7 @@
     "watched": false,
     "nominated": 2026,
     "categories": "Best International Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/4Vu8VbxKqrOQg6gCrNoli0eAyvf.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
     "title": "The Voice of Hind Rajab",
     "released": "2025-09-10",
     "duration": 89,
@@ -31114,7 +31116,7 @@
       "Nesbat Serhan": {
         "id": 5740784,
         "character": "Leila",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Vu8VbxKqrOQg6gCrNoli0eAyvf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q7M8kQB46T11vmDMD6E239jsqTz.jpg"
       }
     }
   },
@@ -32200,7 +32202,7 @@
       "Jonathan Bailey": {
         "id": 80860,
         "character": "Fiyero",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mZNzekZo8eaHMuXKgDTNLp0EvYM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg"
       },
       "Ethan Slater": {
         "id": 2271410,
