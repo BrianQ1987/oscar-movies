@@ -5263,7 +5263,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gxDvuXG9osdvPCgtnVokg8ftrid.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5435,7 +5435,7 @@
   "Bugonia": {
     "id": "701387",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Actress", "Best Adapted Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg",
@@ -8676,7 +8676,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13462,8 +13462,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -15319,7 +15319,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17607,7 +17607,7 @@
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
     "title": "Marty Supreme",
     "released": "2025-12-19",
     "duration": 150,
@@ -17643,7 +17643,7 @@
       "Tyler, The Creator": {
         "id": 1133834,
         "character": "Wally",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1jr8XMXd9C6yRk2VitXIum0FGSy.jpg"
       },
       "Fran Drescher": {
         "id": 53122,
@@ -17698,7 +17698,7 @@
       "Devorah Shubowitz": {
         "id": 5830234,
         "character": "Norkin Customer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "George Gervin": {
         "id": 1286311,
@@ -17708,7 +17708,7 @@
       "Marinel Tinnirello": {
         "id": 5830235,
         "character": "Not Marty's Messenger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Sandra Bernhard": {
         "id": 3664,
@@ -17723,7 +17723,7 @@
       "Nick Waplington": {
         "id": 3822596,
         "character": "Wembley Photographer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Nikhil Kumar": {
         "id": 1698948,
@@ -17733,17 +17733,17 @@
       "Keith Kirkwood": {
         "id": 5453532,
         "character": "Wembley Round 1 Umpire",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Conn Horgan": {
         "id": 2008160,
         "character": "Angry British Bailey Fan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Joshua Bennett": {
         "id": 5830240,
         "character": "Ted Bailey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Timo Boll": {
         "id": 1915671,
@@ -17763,37 +17763,37 @@
       "Ed Malone": {
         "id": 4647991,
         "character": "The Sun Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Roddy O'Hehir": {
         "id": 4642758,
         "character": "The Star Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Michael Cummings": {
         "id": 5897188,
         "character": "Irish Times Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Harvey Shield": {
         "id": 2253661,
         "character": "Ritz Maître D'",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Diego Schaaf": {
         "id": 5897189,
         "character": "Wembley Finals Umpire",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Sho Miyazaki": {
         "id": 5897190,
         "character": "Japanese Coach",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Andy Kai Nagashima": {
         "id": 5563626,
         "character": "Japanese Team Member",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Dennis Creaghan": {
         "id": 169848,
@@ -17823,7 +17823,7 @@
       "Marius Tanase": {
         "id": 5897207,
         "character": "Coach Abe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Philippe Petit": {
         "id": 81425,
@@ -17833,37 +17833,37 @@
       "Donato P. Daddario": {
         "id": 5897208,
         "character": "Officer Sal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Frankie Carbone": {
         "id": 5897211,
         "character": "Officer Frank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Lizzi Bougatsos": {
         "id": 133513,
         "character": "Pet Store Customer Mom",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Lucas Z. Heinrich": {
         "id": 5758721,
         "character": "Pet Store Customer Son",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Johnny Engle": {
         "id": 5897215,
         "character": "Bruised Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Jimmy Lindquist": {
         "id": 5897216,
         "character": "Halsey Desk Clerk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Todd Vulpio": {
         "id": 2487816,
         "character": "Pissed Off Neighbor at Halsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Johnny Zito": {
         "id": 3406446,
@@ -17873,27 +17873,27 @@
       "Stephen Dachtera": {
         "id": 5739781,
         "character": "Halsey Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Brian Marks": {
         "id": 5739785,
         "character": "Paramedic",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Kevin Eccleston": {
         "id": 5023085,
         "character": "Paramedic",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Richard Schlossbach": {
         "id": 3256946,
         "character": "Fox's Employee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Emilio El Kilani": {
         "id": 5830254,
         "character": "Boyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Isaac Simon": {
         "id": 5758715,
@@ -17908,7 +17908,7 @@
       "George J. Katsiavos": {
         "id": 5830253,
         "character": "Overalls",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Levon Hawke": {
         "id": 3560034,
@@ -17928,7 +17928,7 @@
       "Patrick Wiki Morales": {
         "id": 5897331,
         "character": "Lawrence's Dirtbag",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Ted Williams": {
         "id": 1773095,
@@ -17953,7 +17953,7 @@
       "Jake Braff": {
         "id": 4102105,
         "character": "Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Bill Buell": {
         "id": 76764,
@@ -17963,7 +17963,7 @@
       "Naomi Fry": {
         "id": 3605348,
         "character": "Assistant to Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Paul Grimstad": {
         "id": 239580,
@@ -17973,7 +17973,7 @@
       "Barry Daniels": {
         "id": 5074295,
         "character": "Hotel Edison Custodian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Roman Persits": {
         "id": 2487814,
@@ -17983,7 +17983,7 @@
       "Garrett Hermann": {
         "id": 5897333,
         "character": "Gas Station Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Penn Jillette": {
         "id": 37221,
@@ -17993,7 +17993,7 @@
       "Linda Malamy": {
         "id": 5897334,
         "character": "Ira's Grandmother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Mitchell Wenig": {
         "id": 2487846,
@@ -18008,12 +18008,12 @@
       "Edward Puydak": {
         "id": 5897335,
         "character": "Blarney Stone Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Hector Diaz": {
         "id": 5897336,
         "character": "Park Hero",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Isaac Mizrahi": {
         "id": 56696,
@@ -18028,12 +18028,12 @@
       "Joseph Cappiello": {
         "id": 5897337,
         "character": "Patrolman Cap",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Joseph Jankauskas": {
         "id": 5897338,
         "character": "Patrolman Joey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Joris Stuyck": {
         "id": 1249286,
@@ -18043,72 +18043,72 @@
       "Dante Fiallo": {
         "id": 2908219,
         "character": "Partygoer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Nancy Shankman": {
         "id": 5897340,
         "character": "Kay's Mom",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Chris Nelson": {
         "id": 5897341,
         "character": "Milton's Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Eric Rampulla": {
         "id": 5758716,
         "character": "Milton's Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Randy Credico": {
         "id": 2911173,
         "character": "Milton's Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Bob Rubin": {
         "id": 193939,
         "character": "Robert",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Michael A. Sollecito": {
         "id": 2487839,
         "character": "Reuben",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Cheryl Flowers-Briggs": {
         "id": 5897342,
         "character": "E.R. Nurse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Rory Gevis": {
         "id": 5897343,
         "character": "E.R. Nurse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Mia Humberd-Hilf": {
         "id": 5897344,
         "character": "Flight Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Brian Sexton": {
         "id": 5897345,
         "character": "Rockwell Executive",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Rick Garlick": {
         "id": 5897346,
         "character": "Rockwell Executive",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Shingo Aiba": {
         "id": 5897347,
         "character": "Haneda Ramp Agent",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Yasu Suzuki": {
         "id": 1738970,
         "character": "Japanese Rockwell Executive",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Tatsuo Ichikawa": {
         "id": 1454347,
@@ -18123,62 +18123,62 @@
       "Joe Matsumura": {
         "id": 5897348,
         "character": "Japanese Show Worker & Translator",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Rei Ogaki": {
         "id": 5897349,
         "character": "Japanese Challenger #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Anna Melody": {
         "id": 4827885,
         "character": "Japanese Usher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Ryuku Kina": {
         "id": 5897350,
         "character": "Ueno Ball Boy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Jota Ito": {
         "id": 5897351,
         "character": "Japanese Coach from JTTA",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Hideyuki Yamashiro": {
         "id": 3727401,
         "character": "Japanese Show Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Tony Crosbie": {
         "id": 2498931,
         "character": "IATT Representative",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Mahmoud Osfour": {
         "id": 5897352,
         "character": "IATT Representative",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Kojun Natsu": {
         "id": 5897353,
         "character": "IATT Japanese Peer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Sadaharu Matsushita": {
         "id": 1749540,
         "character": "IATT Japanese Peer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Gao Ogawa": {
         "id": 2740417,
         "character": "IATT Japanese Peer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Tomoki Urabe": {
         "id": 5897354,
         "character": "Japanese Challenger #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Charles Glover": {
         "id": 2734494,
@@ -18188,37 +18188,37 @@
       "Etsuko Enami": {
         "id": 5897355,
         "character": "Japanese Scorekeeper",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Koji Oribe": {
         "id": 5897356,
         "character": "Japanese Ping Pong Umpire",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Johnnie Yamamoto": {
         "id": 5897357,
         "character": "Man in Ueno Crowd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Nick Wood": {
         "id": 5897358,
         "character": "Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Susan Lazarus": {
         "id": 1814632,
         "character": "Bellevue Phone Operator",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Rae Maddren": {
         "id": 4667539,
         "character": "Bellevue Maternity Reception",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Carolyn Gershenson": {
         "id": 5897359,
         "character": "Newborn Nursery Nurse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Robert Pattinson": {
         "id": 11288,
@@ -19466,7 +19466,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22131,7 +22131,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25518,7 +25518,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31087,7 +31087,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.2",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": "Drama",
+    "genres": ["Drama", "History"],
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "84/100",
@@ -31149,7 +31149,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
