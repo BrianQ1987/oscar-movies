@@ -793,7 +793,7 @@
     "It Was Just an Accident": {
         "id": "1456349",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best International Feature Film", "Best Original Screenplay"]
     },
