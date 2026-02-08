@@ -17628,7 +17628,7 @@
       "Odessa A'zion": {
         "id": 1972166,
         "character": "Rachel Mizler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w5HuKyEMDP3tK38KtVtJfGUcSa4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tciOWQRprtwLTJDACA6AKuE8wj3.jpg"
       },
       "Kevin O'Leary": {
         "id": 1240877,
@@ -19461,7 +19461,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -31116,6 +31116,11 @@
       "Nesbat Serhan": {
         "id": 5740784,
         "character": "Leila",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q7M8kQB46T11vmDMD6E239jsqTz.jpg"
+      },
+      "Ramy Brahem": {
+        "id": 5993243,
+        "character": "Mahdi's Assistant",
         "profile_path": "https://image.tmdb.org/t/p/w1280/q7M8kQB46T11vmDMD6E239jsqTz.jpg"
       }
     }
