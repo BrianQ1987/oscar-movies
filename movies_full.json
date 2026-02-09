@@ -15319,7 +15319,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17612,7 +17612,7 @@
     "released": "2025-12-19",
     "duration": 150,
     "imdb_id": "tt32916440",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -31046,7 +31046,7 @@
   },
   "The Voice of Hind Rajab": {
     "id": "1480382",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best International Feature Film",
@@ -31061,6 +31061,8 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "84/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Kaouther Ben Hania",
     "cast": {
       "Hind Rajab": {
