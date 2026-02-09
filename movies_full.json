@@ -2909,7 +2909,7 @@
       "Will Ferrell": {
         "id": 23659,
         "character": "Mattel CEO",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sXT9uCw7ceIxTdmL9XqtuYdNmgM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yjGbyQzVjpQl8xFkFGa7JxKZWQb.jpg"
       },
       "Connor Swindells": {
         "id": 2112439,
@@ -8676,7 +8676,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13133,7 +13133,7 @@
     "vote_average": "6.6",
     "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
     "genres": "Drama",
-    "imdb_score": "6.6/10",
+    "imdb_score": "6.7/10",
     "rt_score": "92%",
     "meta_score": "77/100",
     "platforms": "Plex",
@@ -15319,7 +15319,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17505,8 +17505,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "98%",
     "meta_score": "80/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Dean Fleischer Camp",
     "cast": {
       "Jenny Slate": {
@@ -19654,7 +19654,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22131,7 +22131,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25518,7 +25518,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26049,36 +26049,6 @@
         "id": 2141479,
         "character": "Mrs. Chen (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
-      },
-      "Andrew Garfield": {
-        "id": 37625,
-        "character": "Peter Parker (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
-      },
-      "Denis Leary": {
-        "id": 5724,
-        "character": "George Stacy (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
-      },
-      "Tobey Maguire": {
-        "id": 2219,
-        "character": "Peter Parker (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
-      },
-      "Cliff Robertson": {
-        "id": 19153,
-        "character": "Uncle Ben (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
-      },
-      "Alfred Molina": {
-        "id": 658,
-        "character": "Doctor Octopus (voice) (archive sound) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
-      },
-      "Frank Welker": {
-        "id": 15831,
-        "character": "Pter Ptarker (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
       }
     }
   },
