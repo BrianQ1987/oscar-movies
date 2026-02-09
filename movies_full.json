@@ -2809,7 +2809,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dDWCPj49vpD7RWv32uT6nQJ6Juu.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -5263,7 +5263,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gxDvuXG9osdvPCgtnVokg8ftrid.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -19654,7 +19654,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22893,7 +22893,7 @@
       "Karl Urban": {
         "id": 1372,
         "character": "Jacob Holland (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
       },
       "Zaris-Angel Hator": {
         "id": 2127280,
@@ -31149,7 +31149,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
