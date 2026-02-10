@@ -1207,7 +1207,7 @@
       "Sebastian Stan": {
         "id": 60898,
         "character": "Donald Trump",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v20RLWst39klatsqUgSrwHxhwee.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s3Vgj07nlQO5JUP36JSvNE7AeN4.jpg"
       },
       "Jeremy Strong": {
         "id": 239271,
@@ -15319,7 +15319,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16612,7 +16612,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
     "title": "Little Amélie or the Character of Rain",
     "released": "2025-06-25",
     "duration": 78,
@@ -16628,12 +16628,12 @@
       "Loïse Charpentier": {
         "id": 4109899,
         "character": "Amélie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg"
       },
       "Victoria Grobois": {
         "id": 5404403,
         "character": "Nishio-San (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg"
       },
       "Yumi Fujimori": {
         "id": 1758849,
@@ -16653,17 +16653,17 @@
       "Laëtitia Coryn": {
         "id": 3722071,
         "character": "Daniele, the mother (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg"
       },
       "Haylee Issembourg": {
         "id": 5404404,
         "character": "Juliette (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg"
       },
       "Isaac Schoumsky": {
         "id": 5404405,
         "character": "André (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/smasJY24MYsQ6JMxW817KmCimVt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg"
       },
       "François Raison": {
         "id": 2436895,
@@ -17112,7 +17112,7 @@
       "Mimi Maynard": {
         "id": 1219797,
         "character": "Pinuccia Aragosta (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qcxzpi9ly4AsmtjqYmobDkAifbR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
       },
       "Sacha Baron Cohen": {
         "id": 6730,
@@ -19466,7 +19466,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -23944,7 +23944,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -28201,7 +28201,7 @@
     "released": "2023-05-04",
     "duration": 98,
     "imdb_id": "tt26612950",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.",
     "genres": "Drama",
     "imdb_score": "7.4/10",
@@ -31121,7 +31121,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
