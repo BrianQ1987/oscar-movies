@@ -7797,7 +7797,7 @@
       "Rebecca Ferguson": {
         "id": 933238,
         "character": "Lady Jessica Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jTbJwrYqbralarBBh55eaWPoGbv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
       },
       "Oscar Isaac": {
         "id": 25072,
@@ -8065,7 +8065,7 @@
       "Rebecca Ferguson": {
         "id": 933238,
         "character": "Jessica",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jTbJwrYqbralarBBh55eaWPoGbv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -8676,7 +8676,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -8894,7 +8894,7 @@
       "Shannon Sanders": {
         "id": 3866155,
         "character": "Pentecostal Pastor / Pentecostal Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5CdaHXTgo8gYHaj0FIE4CtAEupQ.jpg"
       },
       "Charles Grounds": {
         "id": 1520527,
@@ -12334,7 +12334,7 @@
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
     "title": "Hamnet",
     "released": "2025-11-26",
     "duration": 126,
@@ -12435,7 +12435,7 @@
       "James Skinner": {
         "id": 6000950,
         "character": "Gilbert",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Elliot Baxter": {
         "id": 2850899,
@@ -12465,12 +12465,12 @@
       "Albert McCormick": {
         "id": 6000951,
         "character": "Boy in Window",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Eliah Arnstjerna": {
         "id": 6000952,
         "character": "Drum Player",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
       },
       "Edward Anderson": {
         "id": 4324445,
@@ -13165,7 +13165,7 @@
     "released": "2025-10-10",
     "duration": 113,
     "imdb_id": "tt18382850",
-    "vote_average": "6.6",
+    "vote_average": "6.5",
     "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
     "genres": "Drama",
     "imdb_score": "6.7/10",
@@ -19689,7 +19689,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22168,7 +22168,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23981,7 +23981,7 @@
     "released": "2024-07-12",
     "duration": 107,
     "imdb_id": "tt28479262",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Divine G, imprisoned at Sing Sing for a crime he didn't commit, finds purpose by acting in a theatre group alongside other incarcerated men in this story of resilience, humanity, and the transformative power of art.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -25555,7 +25555,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31494,7 +31494,7 @@
       "Ariana DeBose": {
         "id": 1437491,
         "character": "Anita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hEamSutadgLbVNHch3KhJ5LfPdp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AmIwSIkFN7qMd2mTKswTfapY6Gd.jpg"
       },
       "David Alvarez": {
         "id": 2225865,
