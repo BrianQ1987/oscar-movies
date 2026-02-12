@@ -2794,7 +2794,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jWzN6U6gHkOSkuXfzS3P8dteJDo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fz4hVgsJEeAgJCA9EcEfVJHVaud.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -2809,7 +2809,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dDWCPj49vpD7RWv32uT6nQJ6Juu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -12377,25 +12377,70 @@
         "character": "Hamlet",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sOsr4SgcnVqpLofasvy0B6dxPuf.jpg"
       },
-      "Bodhi Rae Breathnach": {
-        "id": 4088089,
-        "character": "Susanna",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sONxErk3r0xfoESAmU3GVTxoPDe.jpg"
-      },
       "Olivia Lynes": {
         "id": 4945576,
         "character": "Judith",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rixOc0eAICCG5l2rtY42kcSoBjm.jpg"
+      },
+      "Justine Mitchell": {
+        "id": 207040,
+        "character": "Joan",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
       },
       "David Wilmot": {
         "id": 73287,
         "character": "John",
         "profile_path": "https://image.tmdb.org/t/p/w1280/epb46N0iJyAmSOguMdFn6qQGSsy.jpg"
       },
-      "Justine Mitchell": {
-        "id": 207040,
-        "character": "Joan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/b8dmEYP6RbwLPL3HdKRcBTfEUPw.jpg"
+      "Louisa Harland": {
+        "id": 1723014,
+        "character": "Rowan",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8uH0t3Y7saXoPTYiSGy8ZQn6s8B.jpg"
+      },
+      "Freya Hannan-Mills": {
+        "id": 2500901,
+        "character": "Eliza",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eV70wCE8cte5KwXoLiJ1HzsQOuT.jpg"
+      },
+      "Bodhi Rae Breathnach": {
+        "id": 4088089,
+        "character": "Susanna",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sONxErk3r0xfoESAmU3GVTxoPDe.jpg"
+      },
+      "Zac Wishart": {
+        "id": 5293321,
+        "character": "Joan's Boy 1",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7LI4kKI8EW25kewuLmysr75HFXO.jpg"
+      },
+      "James Lintern": {
+        "id": 5681745,
+        "character": "Joan's Boy 2",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uHxdsxwMfwXcceTZk3EF5NYqtFa.jpg"
+      },
+      "Eva Wishart": {
+        "id": 5293318,
+        "character": "Joan's Girl 1",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/crJKaRMn8UOnQQrUaxsuhjmIL4B.jpg"
+      },
+      "Effie Linnen": {
+        "id": 5719518,
+        "character": "Joan's Girl 2",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/robiv7ZQzPDwZLdCyF5dwsFVQQT.jpg"
+      },
+      "Dainton Anderson": {
+        "id": 2041194,
+        "character": "Edmond",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pvW9RFi5uxOatW16dxYarGpn5rG.jpg"
+      },
+      "James Skinner": {
+        "id": 6000950,
+        "character": "Gilbert",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+      },
+      "Elliot Baxter": {
+        "id": 2850899,
+        "character": "Richard",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gKkEF8ZgN8TFbltGmpU4Ry0WkSb.jpg"
       },
       "Faith Delaney": {
         "id": 4526195,
@@ -12407,85 +12452,75 @@
         "character": "Young Bartholomew",
         "profile_path": "https://image.tmdb.org/t/p/w1280/azBE4R2mDUFo14IQaSRALWl5mso.jpg"
       },
-      "El Simons": {
-        "id": 5936193,
-        "character": "Ophelia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nKOkm7OeVttAwH158PDelZYT1xO.jpg"
-      },
-      "Freya Hannan-Mills": {
-        "id": 2500901,
-        "character": "Eliza",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eV70wCE8cte5KwXoLiJ1HzsQOuT.jpg"
-      },
-      "Dainton Anderson": {
-        "id": 2041194,
-        "character": "Edmond",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pvW9RFi5uxOatW16dxYarGpn5rG.jpg"
-      },
-      "Sam Woolf": {
-        "id": 1794806,
-        "character": "Bernardo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k00sXOByDD1X1vmvpNdm997ZhBq.jpg"
-      },
-      "Jack Shalloo": {
-        "id": 1119416,
-        "character": "Marcellus",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nnllU5Uiif7a2Txmy3cNVJztXNG.jpg"
-      },
       "Laura Guest": {
         "id": 4822186,
         "character": "Midwife",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bzMZHfmZXYr43bt1isanIRFoMkb.jpg"
-      },
-      "Elliot Baxter": {
-        "id": 2850899,
-        "character": "Richard",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gKkEF8ZgN8TFbltGmpU4Ry0WkSb.jpg"
-      },
-      "Louisa Harland": {
-        "id": 1723014,
-        "character": "Rowan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8uH0t3Y7saXoPTYiSGy8ZQn6s8B.jpg"
-      },
-      "Eva Wishart": {
-        "id": 5293318,
-        "character": "Joan's Girl 1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
-      },
-      "Effie Linnen": {
-        "id": 5719518,
-        "character": "Joan's Girl 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
-      },
-      "Hera Gibson": {
-        "id": 5293320,
-        "character": "Francisco",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
-      },
-      "Zac Wishart": {
-        "id": 5293321,
-        "character": "Thomas",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
-      },
-      "James Lintern": {
-        "id": 5681745,
-        "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uHxdsxwMfwXcceTZk3EF5NYqtFa.jpg"
-      },
-      "Matthew Tennyson": {
-        "id": 1477827,
-        "character": "Gertrude",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gh5dY6p7NtQTUEfu6KZuzrHGC6O.jpg"
       },
       "John Mackay": {
         "id": 2019290,
         "character": "Priest",
         "profile_path": "https://image.tmdb.org/t/p/w1280/9xguSSaWEUE8XpYmARZpGpmiAAQ.jpg"
       },
-      "Clay Milner-Russell": {
+      "Albert McCormick": {
+        "id": 6000951,
+        "character": "Boy in Window",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+      },
+      "Eliah Arnstjerna": {
+        "id": 6000952,
+        "character": "Drum Player",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+      },
+      "Edward Anderson": {
+        "id": 4324445,
+        "character": "Flute Player",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sn8FYGIr5KESiIk2BQKipr1dbjk.jpg"
+      },
+      "El Simons": {
+        "id": 5936193,
+        "character": "Ophelia",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pMdnCEWRM827PHpsFTm1S8d5SE3.jpg"
+      },
+      "Sam Woolf": {
+        "id": 1794806,
+        "character": "Bernardo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k00sXOByDD1X1vmvpNdm997ZhBq.jpg"
+      },
+      "Hera Gibson": {
+        "id": 5293320,
+        "character": "Francisco",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n7Q2NFUA5Sr6BupMQyUdWR3vaCX.jpg"
+      },
+      "Jack Shalloo": {
+        "id": 1119416,
+        "character": "Marcellus",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nnllU5Uiif7a2Txmy3cNVJztXNG.jpg"
+      },
+      "Raphael Goold": {
+        "id": 5308820,
+        "character": "Horatio",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iA1Jrr0liMD4nJjXzoz9mpmAHMI.jpg"
+      },
+      "Shaun Mason": {
+        "id": 1108142,
+        "character": "Claudius",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6JDlkUjE9tsWwLYbxoMStnYMMB4.jpg"
+      },
+      "Matthew Tennyson": {
+        "id": 1477827,
+        "character": "Gertrude",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gh5dY6p7NtQTUEfu6KZuzrHGC6O.jpg"
+      },
+      "Clay Milner Russell": {
         "id": 2995946,
         "character": "Laertes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/54LVKsZFWJ7rLUfA7jikDMYVaVS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/y4aKzfLLEvwNT4mcv2PXmuSZCgB.jpg"
+      },
+      "Javier Marzan": {
+        "id": 1502433,
+        "character": "Fool",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3o4k7IKjPbjcJr0bzfe3Wgx0gxo.jpg"
       },
       "Chloé Zhao": {
         "id": 1395183,
@@ -15319,7 +15354,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19466,7 +19501,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -31754,7 +31789,7 @@
       "Talia Ryder": {
         "id": 2475409,
         "character": "Tessa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hvXlIhrMhz3bBoqulD40LT1Xctm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3trxCJU7R5QKjhN7KuxTaKKLBVF.jpg"
       },
       "Maddie Ziegler": {
         "id": 1483976,
