@@ -1069,7 +1069,7 @@
       "Ivy Wolk": {
         "id": 3195084,
         "character": "Crystal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yDC7Q5NK1rBYvaRYi2ytzeMKgG1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/azNBPNOViAlcTaZxUnIntYKnFEv.jpg"
       },
       "Vlad Mamai": {
         "id": 4937030,
@@ -2794,7 +2794,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fz4hVgsJEeAgJCA9EcEfVJHVaud.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -5263,7 +5263,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/frJdfimh4N6hph0vt7mJYPxxj47.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -12365,7 +12365,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/frJdfimh4N6hph0vt7mJYPxxj47.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -13208,7 +13208,7 @@
       "Ivy Wolk": {
         "id": 3195084,
         "character": "Diana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yDC7Q5NK1rBYvaRYi2ytzeMKgG1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/azNBPNOViAlcTaZxUnIntYKnFEv.jpg"
       },
       "Mark Stolzenberg": {
         "id": 1064935,
@@ -13657,7 +13657,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg",
     "title": "It Was Just an Accident",
     "released": "2025-09-27",
-    "duration": 103,
+    "duration": 104,
     "imdb_id": "tt36491653",
     "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
@@ -15354,7 +15354,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18797,7 +18797,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vNFFleZFrvksAKKHRFO2hLEKGkB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -19501,7 +19501,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22013,11 +22013,6 @@
         "id": 2017052,
         "character": "Additional Baker's Dozen Gang Member (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/kOVApwJxys8bCZUshVOCew8lFLV.jpg"
-      },
-      "Frank Welker": {
-        "id": 15831,
-        "character": "The Phoenix (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
       }
     }
   },
