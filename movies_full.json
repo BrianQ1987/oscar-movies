@@ -8676,7 +8676,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12330,7 +12330,7 @@
   },
   "Hamnet": {
     "id": "858024",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"],
@@ -12345,6 +12345,8 @@
     "imdb_score": "8.1/10",
     "rt_score": "87%",
     "meta_score": "84/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Chloé Zhao",
     "cast": {
       "Jessie Buckley": {
@@ -15677,7 +15679,7 @@
       "Tom Waits": {
         "id": 2887,
         "character": "Rex Blau",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uxDkURjzHnaglIH2YRWUMJjoDx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kmPOnRmxUgL0rjIUF98uToQrQKB.jpg"
       },
       "Bradley Cooper": {
         "id": 51329,
@@ -17638,7 +17640,7 @@
   },
   "Marty Supreme": {
     "id": "1317288",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actor", "Best Original Screenplay"],
@@ -17653,6 +17655,8 @@
     "imdb_score": "8.1/10",
     "rt_score": "94%",
     "meta_score": "89/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Josh Safdie",
     "cast": {
       "Timothée Chalamet": {
@@ -19501,12 +19505,12 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yjvE3aovyTvebAOalNaI3t6KkjQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -19689,7 +19693,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20820,7 +20824,7 @@
       "Gary Oldman": {
         "id": 64,
         "character": "Harry Truman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2v9FVVBUrrkW2m3QOcYkuhq9A6o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
       },
       "Hap Lawrence": {
         "id": 101661,
