@@ -680,14 +680,14 @@
     },
     "Hamnet": {
         "id": "858024",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"]
     },
     "Marty Supreme": {
         "id": "1317288",
-        "plex": false,
+        "plex": true,
         "watched": false, 
         "nominated": 2026,
         "categories": ["Best Picture", "Best Director", "Best Actor", "Best Original Screenplay"]
