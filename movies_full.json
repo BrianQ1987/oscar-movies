@@ -8676,7 +8676,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -9270,6 +9270,11 @@
         "id": 64948,
         "character": "Pentecostal Singer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/9sThx5Ajdy1aBJSppQDbTkmANlA.jpg"
+      },
+      "Elvis Presley": {
+        "id": 21457,
+        "character": "Self (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
       }
     }
   },
@@ -11500,7 +11505,7 @@
       "Mia Goth": {
         "id": 1137824,
         "character": "Elizabeth / Claire Frankenstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rwko7XVaKFcJH1dtAIIsrgLMzHb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/371WiQYe2mGlsZj5f7AZHSGgnFV.jpg"
       },
       "Felix Kammerer": {
         "id": 3631223,
@@ -12555,7 +12560,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ayEWNIXLVNYOrZQsNXrtlZTIZM8.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -19505,7 +19510,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22167,7 +22172,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25072,7 +25077,7 @@
     "released": "2025-12-25",
     "duration": 133,
     "imdb_id": "tt30343021",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
     "genres": ["Music", "Romance", "Drama"],
     "imdb_score": "7.5/10",
@@ -33285,7 +33290,7 @@
       "Kate Ivory Jordan": {
         "id": 2601812,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fcoBigb46FecVkrgnvPPapau8D8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bp5epDvRvxD06F0Jr5KptJik04B.jpg"
       },
       "Kaylor Lomas-Kirton": {
         "id": 2728794,
