@@ -3620,11 +3620,6 @@
         "id": 4182688,
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/mKSNngq6CXDBEmwq2y0NOoikko1.jpg"
-      },
-      "Chanel Stewart": {
-        "id": 5976805,
-        "character": "1960 Nurse Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zXvI0hanbXrIAJQaxDT1i5HhcBa.jpg"
       }
     }
   },
@@ -7632,11 +7627,6 @@
         "id": 2148697,
         "character": "Reporter with Big Hair (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dPMHEvsqwBHSiFaSIUNCMmA2wOC.jpg"
-      },
-      "Luan Gallagher": {
-        "id": 5886339,
-        "character": "Boy Looking At The Meteor (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nifGy0C68YR9UF6jIh7r30MRBWo.jpg"
       }
     }
   },
@@ -9935,7 +9925,7 @@
       "Michelle Yeoh": {
         "id": 1620,
         "character": "Evelyn Wang",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ekmfUPeS9NtH56vCDJFlDFYB99O.jpg"
       },
       "Stephanie Hsu": {
         "id": 1381186,
@@ -19382,7 +19372,7 @@
       "Daniel Falk": {
         "id": 1849371,
         "character": "Patron #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tn8xZnAOHl2fR9JIxVO7Pbgz163.jpg"
       },
       "Tim Post": {
         "id": 7009,
@@ -28255,7 +28245,7 @@
       "Leonie Benesch": {
         "id": 119065,
         "character": "Carla Nowak",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hIRRfgggHgz07HBLyEHVpCXldYX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dXs2srrTNOTOZXNa0UOaO9xx2QL.jpg"
       },
       "Eva Löbau": {
         "id": 7161,
@@ -31162,7 +31152,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
