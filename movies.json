@@ -702,7 +702,7 @@
     "The Secret Agent": {
         "id": "1220564",
         "plex": true,
-        "watched": false,   
+        "watched": true,   
         "nominated": 2026,
         "categories": ["Best Picture", "Best Actor", "Best International Feature Film"]
     },
