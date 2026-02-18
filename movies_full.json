@@ -758,7 +758,7 @@
       "Swann Arlaud": {
         "id": 145120,
         "character": "Maître Vincent Renzi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4f0uzg6eIekIhCuihvqYeVlxf6B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/khUOZImR7Uxt7LmW5ezS73UOuz2.jpg"
       },
       "Milo Machado-Graner": {
         "id": 3302971,
@@ -1722,7 +1722,7 @@
       "Swann Arlaud": {
         "id": 145120,
         "character": "Tom / Mikki  (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4f0uzg6eIekIhCuihvqYeVlxf6B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/khUOZImR7Uxt7LmW5ezS73UOuz2.jpg"
       },
       "Vincent Macaigne": {
         "id": 992623,
@@ -5258,7 +5258,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gxDvuXG9osdvPCgtnVokg8ftrid.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -12834,6 +12834,11 @@
         "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
       },
+      "Pri Helena": {
+        "id": 1735633,
+        "character": "Zezé",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
+      },
       "Marjorie Estiano": {
         "id": 973901,
         "character": "Eliana",
@@ -12859,11 +12864,6 @@
         "character": "Babiu",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6XbrVESU3odmO2FYDiI8Yi4ABYM.jpg"
       },
-      "Pri Helena": {
-        "id": 1735633,
-        "character": "Maria José",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
-      },
       "Humberto Carrão": {
         "id": 1475533,
         "character": "Felix",
@@ -12874,15 +12874,15 @@
         "character": "Fernando Gasparian",
         "profile_path": "https://image.tmdb.org/t/p/w1280/o8xgIzjMC3pU6yKe4dqO8Cn59yx.jpg"
       },
-      "Maeve Jinkings": {
-        "id": 1016242,
-        "character": "Dalva Gasparian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s1pZd8CgUIll9ALVcgtUJhsB8uF.jpg"
-      },
       "Luana Nastas": {
         "id": 1750208,
         "character": "Helena Gasparian",
         "profile_path": "https://image.tmdb.org/t/p/w1280/l5gdUz64w8GBz1FHrcAJqUdqu7m.jpg"
+      },
+      "Maeve Jinkings": {
+        "id": 1016242,
+        "character": "Dalva Gasparian",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s1pZd8CgUIll9ALVcgtUJhsB8uF.jpg"
       },
       "Isadora Ruppert": {
         "id": 3466387,
@@ -18796,7 +18796,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aij4hjlZPtWS6SNG3dKqnwT0A5e.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -19500,7 +19500,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19688,7 +19688,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25549,7 +25549,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -25619,7 +25619,7 @@
       "Amandla Stenberg": {
         "id": 561869,
         "character": "Margo Kess: Spider-Byte (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dGqTcwLVoVOqU6Ckp8igV3wD0CW.jpg"
       },
       "Jharrel Jerome": {
         "id": 1664716,
@@ -31150,8 +31150,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["BBC iPlayer", "Netflix"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
