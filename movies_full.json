@@ -5258,7 +5258,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bDzbfSDnL8aM8Nv1nPfZ07UyKtk.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -12357,7 +12357,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lpkLUUcuLNO4KPswRwG2MF8Wobn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bDzbfSDnL8aM8Nv1nPfZ07UyKtk.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -12834,15 +12834,15 @@
         "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/zu3oHbqfqfc6u72wkWq5FCirmgS.jpg"
       },
-      "Pri Helena": {
-        "id": 1735633,
-        "character": "Zezé",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
-      },
       "Marjorie Estiano": {
         "id": 973901,
         "character": "Eliana",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3affZ1HBujLZkIzLgs8kgdsPV8v.jpg"
+      },
+      "Pri Helena": {
+        "id": 1735633,
+        "character": "Zezé",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7IX1aFRFIGOVuNb5hDYlBv5HMLu.jpg"
       },
       "Guilherme Silveira": {
         "id": 4505876,
@@ -15621,7 +15621,7 @@
       "JIHYO": {
         "id": 1875653,
         "character": "Self (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r96ptYtu4ZZB4bsaXRJPoS73o9z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/50xrC5pnYU6E6uSonOa8hIy2rH7.jpg"
       },
       "Sean Tadlock": {
         "id": 4097974,
@@ -16644,7 +16644,7 @@
     "released": "2025-06-25",
     "duration": 78,
     "imdb_id": "tt29313285",
-    "vote_average": "8",
+    "vote_average": "7.9",
     "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
     "genres": ["Animation", "Drama", "Family"],
     "rt_score": "98%",
@@ -19495,7 +19495,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22027,8 +22027,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -25544,7 +25544,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31062,11 +31062,6 @@
         "id": 1452946,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sBxfuNnJMHq60KJP1HRYxLSRBR6.jpg"
-      },
-      "Aaron Hardy": {
-        "id": 5891476,
-        "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
       }
     }
   },
@@ -31147,7 +31142,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
