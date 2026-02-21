@@ -5288,7 +5288,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bDzbfSDnL8aM8Nv1nPfZ07UyKtk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5481,7 +5481,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6K21G4V1KTXQ0DtS0NkMmIanYaE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9wRt3XkxwoIoRjvnrc3LKWGHnI9.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -7657,6 +7657,11 @@
         "id": 2148697,
         "character": "Reporter with Big Hair (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dPMHEvsqwBHSiFaSIUNCMmA2wOC.jpg"
+      },
+      "Luan Gallagher": {
+        "id": 6020307,
+        "character": "Boy looking at the meteor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9dAwHrrgXD3oiHBPhqn60KeZIzp.jpg"
       }
     }
   },
@@ -12329,7 +12334,7 @@
       "Ariana Molkara": {
         "id": 1393238,
         "character": "Older Girl (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iiCKWn09sAziALHkE519xw3zyEe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4UdZyMzs9XFh9a1aRmV81zGnCZL.jpg"
       },
       "Roy Halo": {
         "id": 3806714,
@@ -12387,7 +12392,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bDzbfSDnL8aM8Nv1nPfZ07UyKtk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -19713,7 +19718,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20469,7 +20474,7 @@
       "Matt Damon": {
         "id": 1892,
         "character": "Leslie Groves",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4KAxONjmVq7qcItdXo38SYtnpul.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/At3JgvaNeEN4Z4ESKlhhes85Xo3.jpg"
       },
       "Robert Downey Jr.": {
         "id": 3223,
@@ -21376,7 +21381,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6K21G4V1KTXQ0DtS0NkMmIanYaE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9wRt3XkxwoIoRjvnrc3LKWGHnI9.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -23384,7 +23389,7 @@
     "released": "2025-08-20",
     "duration": 133,
     "imdb_id": "tt27714581",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
     "genres": "Drama",
     "imdb_score": "7.8/10",
@@ -25574,7 +25579,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31172,7 +31177,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35388,7 +35393,7 @@
       "Josh Gad": {
         "id": 54415,
         "character": "Paul Moledebrandt (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bgRWcrD9hfaa2f7RUWJzxmJaWuD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
       },
       "Peter Mansbridge": {
         "id": 1374597,
