@@ -5481,7 +5481,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9wRt3XkxwoIoRjvnrc3LKWGHnI9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6K21G4V1KTXQ0DtS0NkMmIanYaE.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -7046,7 +7046,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xqbaZ8POtjuDzHZKuggwvtpYCje.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -8701,7 +8701,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -9300,6 +9300,11 @@
         "id": 21457,
         "character": "Self (archive footage) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/psf1wJUw48ALsfV3tN31FX0mDW5.jpg"
+      },
+      "Bianca Wallace": {
+        "id": 3043226,
+        "character": "Script Supervisor (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4SNehmA66o6PEFTT7MBGqEhAdd8.jpg"
       }
     }
   },
@@ -13192,7 +13197,7 @@
     "released": "2025-10-10",
     "duration": 113,
     "imdb_id": "tt18382850",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
     "genres": "Drama",
     "imdb_score": "6.7/10",
@@ -15381,7 +15386,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -21381,7 +21386,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9wRt3XkxwoIoRjvnrc3LKWGHnI9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6K21G4V1KTXQ0DtS0NkMmIanYaE.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -25579,7 +25584,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31300,7 +31305,7 @@
     "vote_average": "7.3",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": ["Horror", "Mystery"],
-    "imdb_score": "7.5/10",
+    "imdb_score": "7.4/10",
     "rt_score": "93%",
     "meta_score": "81/100",
     "platforms": "Plex",
@@ -34378,7 +34383,7 @@
     "released": "2022-12-23",
     "duration": 104,
     "imdb_id": "tt13669038",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A group of women in an isolated religious colony struggle to reconcile their faith with a series of sexual assaults committed by the colony's men.",
     "genres": "Drama",
     "imdb_score": "6.9/10",
