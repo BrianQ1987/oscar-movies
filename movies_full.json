@@ -5039,7 +5039,7 @@
     "vote_average": "6.7",
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["History", "Drama", "Comedy"],
-    "imdb_score": "7.1/10",
+    "imdb_score": "6.8/10",
     "rt_score": "90%",
     "meta_score": "78/100",
     "platforms": "Plex",
@@ -5288,7 +5288,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Avo928rzU4WczRzqgq9FwdoXwKd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -6366,7 +6366,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -7036,7 +7036,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -8701,7 +8701,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10451,7 +10451,7 @@
     "vote_average": "7.8",
     "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
     "genres": ["Action", "Drama"],
-    "imdb_score": "7.7/10",
+    "imdb_score": "7.6/10",
     "rt_score": "82%",
     "meta_score": "68/100",
     "platforms": "Apple TV",
@@ -12397,7 +12397,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Avo928rzU4WczRzqgq9FwdoXwKd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15386,7 +15386,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -22197,7 +22197,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25102,7 +25102,7 @@
     "released": "2025-12-25",
     "duration": 133,
     "imdb_id": "tt30343021",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
     "genres": ["Music", "Romance", "Drama"],
     "imdb_score": "7.3/10",
@@ -31119,16 +31119,16 @@
     "vote_average": "8.2",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
     "genres": ["Drama", "History"],
-    "imdb_score": "8.5/10",
+    "imdb_score": "8.4/10",
     "rt_score": "95%",
-    "meta_score": "84/100",
+    "meta_score": "81/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Kaouther Ben Hania",
     "cast": {
       "Hind Rajab": {
         "id": 5971511,
-        "character": "Self (Voice)",
+        "character": "Self (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fBvts2i8DT6hF6pLSIO1G9eFhPQ.jpg"
       },
       "Motaz Malhees": {
