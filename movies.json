@@ -744,7 +744,7 @@
     "Song Sung Blue": {
         "id": "1371185",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Actress"]
     },
