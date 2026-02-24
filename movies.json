@@ -751,7 +751,7 @@
     "Weapons": {
         "id": "1078605",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Supporting Actress"]
     },
