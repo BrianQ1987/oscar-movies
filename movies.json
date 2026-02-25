@@ -757,7 +757,7 @@
     },
     "Arco": {
         "id": "804370",
-        "plex": false,
+        "plex": true,
         "watched": false,
         "nominated": 2026,
         "categories": ["Best Animated Feature Film"]
