@@ -1683,7 +1683,7 @@
   },
   "Arco": {
     "id": "804370",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best Animated Feature Film",
@@ -1698,6 +1698,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "91%",
     "meta_score": "73/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ugo Bienvenu",
     "cast": {
       "Margot Ringard Oldra": {
@@ -5289,7 +5291,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/netHasgH0P6d51WUalpClCX9T81.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pjajRZochCcC3KARFcofO3MOkik.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -12423,7 +12425,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/netHasgH0P6d51WUalpClCX9T81.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -14964,7 +14966,7 @@
       "Jon Bernthal": {
         "id": 19498,
         "character": "Rick Macci",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pEDKAsy1zO9dgSeBjohqklOXRUQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
       },
       "Mikayla LaShae Bartholomew": {
         "id": 2988968,
@@ -16762,6 +16764,11 @@
         "id": 2436895,
         "character": "Doctor / Radio Voice (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/o4n99SNAkhlSejN8awJklFwstkd.jpg"
+      },
+      "Emmylou Homs": {
+        "id": 1554015,
+        "character": "Amélie (additional voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aTyFBfFP1VBgaG4vrg3KW9ZHOoD.jpg"
       }
     }
   },
@@ -17705,7 +17712,7 @@
     "released": "2025-12-19",
     "duration": 150,
     "imdb_id": "tt32916440",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": "Drama",
     "imdb_score": "8.1/10",
@@ -19749,7 +19756,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22223,7 +22230,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31208,7 +31215,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
