@@ -681,7 +681,7 @@
     "Hamnet": {
         "id": "858024",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"]
     },
