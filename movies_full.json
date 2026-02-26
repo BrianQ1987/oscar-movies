@@ -23,7 +23,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Calum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Frankie Corio": {
         "id": 3515419,
@@ -5039,7 +5039,7 @@
     "released": "2025-10-17",
     "duration": 100,
     "imdb_id": "tt32536315",
-    "vote_average": "6.7",
+    "vote_average": "6.8",
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["History", "Drama", "Comedy"],
     "imdb_score": "6.8/10",
@@ -5291,7 +5291,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pjajRZochCcC3KARFcofO3MOkik.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8704,7 +8704,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12415,7 +12415,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Emily Watson": {
         "id": 1639,
@@ -12425,7 +12425,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pjajRZochCcC3KARFcofO3MOkik.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -17019,7 +17019,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
       },
       "Peter Sarsgaard": {
         "id": 133,
@@ -19568,7 +19568,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19756,7 +19756,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22235,7 +22235,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23138,7 +23138,7 @@
     "cast": {
       "Wagner Moura": {
         "id": 52583,
-        "character": "Armando / Marcelo / Adult Fernando",
+        "character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5Vs0d8js1uJV0WDPwMFU3zO2n3m.jpg"
       },
       "Carlos Francisco": {
@@ -23153,17 +23153,17 @@
       },
       "Robério Diógenes": {
         "id": 2375667,
-        "character": "Euclides",
+        "character": "Euclides Cavalcante",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dLYYDd4FwB8fMb5A7Q54UOfxdet.jpg"
       },
       "Roney Villela": {
         "id": 143500,
-        "character": "Augusto",
+        "character": "Augusto Borba",
         "profile_path": "https://image.tmdb.org/t/p/w1280/y0S7k8ahQF8FAJ0ZCzK2BfTKbz0.jpg"
       },
       "Gabriel Leone": {
         "id": 1475555,
-        "character": "Bobbi",
+        "character": "Bobbi Borba",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
       },
       "Alice Carvalho": {
@@ -23183,7 +23183,7 @@
       },
       "Maria Fernanda Cândido": {
         "id": 228057,
-        "character": "Elza",
+        "character": "Elza / Sara Guébert",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg"
       },
       "Thomás Aquino": {
@@ -23223,7 +23223,7 @@
       },
       "Luciano Chirolli": {
         "id": 1010666,
-        "character": "Ghirotti",
+        "character": "Henrique Ghirotti",
         "profile_path": "https://image.tmdb.org/t/p/w1280/aIRTY6gQBmvpaRBGM5z6wAxyQlm.jpg"
       },
       "Geane Albuquerque": {
@@ -23339,6 +23339,16 @@
       "Mariza Moreira": {
         "id": 5957569,
         "character": "Mulher Possuída",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
+      },
+      "Alexis Geller": {
+        "id": 6033456,
+        "character": "Susan Schaffer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
+      },
+      "Anjoum Noorani": {
+        "id": 6033457,
+        "character": "Sanjay Jasieen",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
       }
     }
@@ -32197,7 +32207,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jEjYUVUZjnDDQyy6iNs1l9PJokp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
