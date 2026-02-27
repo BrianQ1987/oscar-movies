@@ -23,7 +23,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Calum",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
       },
       "Frankie Corio": {
         "id": 3515419,
@@ -1212,7 +1212,7 @@
       "Jeremy Strong": {
         "id": 239271,
         "character": "Roy Cohn",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jZ3sZhgqRSxT07WvxvfdSR7oWJA.jpg"
       },
       "Martin Donovan": {
         "id": 42993,
@@ -1792,7 +1792,7 @@
         "character": "Journaliste (voix)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg"
       },
-      "Benoit Galland": {
+      "Benoît Galland": {
         "id": 5813806,
         "character": "Journaliste (voix)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ipE3XiHqbSQm3HS0tJ09CDaJ2Fs.jpg"
@@ -2797,7 +2797,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8WC12YJltY2H0TdRs9f4Uu8T6Sx.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -5039,7 +5039,7 @@
     "released": "2025-10-17",
     "duration": 100,
     "imdb_id": "tt32536315",
-    "vote_average": "6.8",
+    "vote_average": "6.7",
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["History", "Drama", "Comedy"],
     "imdb_score": "6.8/10",
@@ -5291,7 +5291,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pjajRZochCcC3KARFcofO3MOkik.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5471,7 +5471,7 @@
     "released": "2025-10-23",
     "duration": 119,
     "imdb_id": "tt12300742",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
     "genres": ["Science Fiction", "Thriller", "Comedy"],
     "imdb_score": "7.4/10",
@@ -8704,7 +8704,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10910,6 +10910,11 @@
         "id": 5884689,
         "character": "Woman in audience (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
+      },
+      "Jackie Stewart": {
+        "id": 567278,
+        "character": "Man in audience (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fhtd10e0xnLYN527vemKwyt1xYF.jpg"
       }
     }
   },
@@ -12302,7 +12307,7 @@
       "Finn Wolfhard": {
         "id": 1442069,
         "character": "Candlewick (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dQ1Fj2gCwko0Jnt3QEj1GLseXSh.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -12415,7 +12420,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
       },
       "Emily Watson": {
         "id": 1639,
@@ -12425,7 +12430,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3gNC1HFj78wAyvTAz4AoCyFaUKP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pjajRZochCcC3KARFcofO3MOkik.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15414,7 +15419,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17019,7 +17024,7 @@
       "Paul Mescal": {
         "id": 2326151,
         "character": "Will",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vrzZ41TGNAFgfmZjC2sOJySzBLd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hPcyXGZ0qNL9Sm2LKlDzO54Pa8g.jpg"
       },
       "Peter Sarsgaard": {
         "id": 133,
@@ -18864,7 +18869,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aij4hjlZPtWS6SNG3dKqnwT0A5e.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/879UsTwK8ljcjYNz25fpP0PnDQC.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -19350,7 +19355,7 @@
       "Jim Beaver": {
         "id": 29862,
         "character": "Sheriff Jedediah Judd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3Cqp1XAdcyeUZKkcrdQsPwb010.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mvawGDw5ge5rxgMKhTSggasOyin.jpg"
       },
       "Clifton Collins Jr.": {
         "id": 5365,
@@ -19568,7 +19573,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19756,7 +19761,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22235,7 +22240,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23670,7 +23675,7 @@
       "Deniz Kaya": {
         "id": 2570814,
         "character": "Actor Ensemble (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p34LLqd9EGzXhtI7qX7MKlQ0wgT.jpg"
       },
       "Liv Bernhoft Osa": {
         "id": 1409503,
@@ -31230,7 +31235,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31561,7 +31566,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6PE96FktpNPXhPkwyejyg4byavt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1HpUUQgDygOBVdxLRt9BEYJyivd.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
@@ -31576,7 +31581,7 @@
       "Mike Faist": {
         "id": 1423520,
         "character": "Riff",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xRl1Pa8a80L3QUT7LrTtlTZv1l4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/x9lTvlseMJwoeooPAkuPGtDwyTl.jpg"
       },
       "Brian d'Arcy James": {
         "id": 175829,
@@ -32207,7 +32212,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jEjYUVUZjnDDQyy6iNs1l9PJokp.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -34637,7 +34642,7 @@
       "Deniz Kaya": {
         "id": 2570814,
         "character": "Adil",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p34LLqd9EGzXhtI7qX7MKlQ0wgT.jpg"
       },
       "Eia Skjønsberg": {
         "id": 3267208,
