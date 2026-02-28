@@ -5471,7 +5471,7 @@
     "released": "2025-10-23",
     "duration": 119,
     "imdb_id": "tt12300742",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
     "genres": ["Science Fiction", "Thriller", "Comedy"],
     "imdb_score": "7.4/10",
@@ -5484,7 +5484,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -13222,7 +13222,7 @@
   "If I Had Legs I'd Kick You": {
     "id": "1160360",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": "Best Actress",
     "poster_path": "https://image.tmdb.org/t/p/w1280/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg",
@@ -15419,7 +15419,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15747,7 +15747,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Jon Peters",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
       },
       "Benny Safdie": {
         "id": 227564,
@@ -17279,7 +17279,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Leonard Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
       },
       "Matt Bomer": {
         "id": 66743,
@@ -19285,7 +19285,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Stanton Carlisle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -19573,7 +19573,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19761,7 +19761,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21429,7 +21429,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -25637,7 +25637,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
