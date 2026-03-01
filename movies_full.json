@@ -25642,7 +25642,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -35151,7 +35151,7 @@
   },
   "Zootopia 2": {
     "id": "1084242",
-    "plex": false,
+    "plex": true,
     "watched": false,
     "nominated": 2026,
     "categories": "Best Animated Feature Film",
@@ -35166,6 +35166,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": ["Jared Bush", "Byron Howard"],
     "cast": {
       "Ginnifer Goodwin": {
