@@ -800,7 +800,7 @@
     "Sirāt": {
         "id": "1151272",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best International Feature Film"]
     },
