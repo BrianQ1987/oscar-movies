@@ -2812,7 +2812,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -2832,7 +2832,7 @@
       "Emma Mackey": {
         "id": 2201315,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg"
       },
       "Hari Nef": {
         "id": 1611609,
@@ -5484,7 +5484,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/erYRVpgj0XfIOeHXijDBIl2hBgN.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -8704,7 +8704,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12134,7 +12134,7 @@
       "Hugh Grant": {
         "id": 3291,
         "character": "Phillip",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tUHkXYdwm405DjBm2IpPxGjYkjj.jpg"
       },
       "Stephen Sondheim": {
         "id": 52154,
@@ -13308,7 +13308,7 @@
       "Daniel Zolghadri": {
         "id": 1375795,
         "character": "Stephen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9AjNU6Z2bhimaGiWAZneoTgfSin.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xaWmwBLJNQhm8Nis0Etce5QBF1U.jpg"
       },
       "Josh Pais": {
         "id": 6181,
@@ -15419,7 +15419,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18331,6 +18331,11 @@
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/8A4PS5iG7GWEAVFftyqMZKl3qcr.jpg"
+      },
+      "Veronica Hein": {
+        "id": 4514752,
+        "character": "Usher (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       }
     }
   },
@@ -22240,7 +22245,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24506,7 +24511,7 @@
   "Sirāt": {
     "id": "1151272",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": "Best International Feature Film",
     "poster_path": "https://image.tmdb.org/t/p/w1280/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg",
@@ -24517,9 +24522,9 @@
     "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller", "Music"],
-    "imdb_score": "7.3/10",
+    "imdb_score": "7.0/10",
     "rt_score": "94%",
-    "meta_score": "82/100",
+    "meta_score": "85/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Oliver Laxe",
@@ -25637,7 +25642,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31235,7 +31240,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34281,7 +34286,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cuhkTL3MezjArl80MnYl6QJQ4PQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
