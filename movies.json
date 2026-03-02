@@ -786,7 +786,7 @@
     "Zootopia 2": {
         "id": "1084242",
         "plex": true,
-        "watched": false,
+        "watched": true,
         "nominated": 2026,
         "categories": ["Best Animated Feature Film"]
     },
