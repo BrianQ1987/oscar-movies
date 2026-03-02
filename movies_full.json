@@ -8874,7 +8874,7 @@
         "character": "Vernon Presley",
         "profile_path": "https://image.tmdb.org/t/p/w1280/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
       },
-      "Kelvin Harrison, Jr.": {
+      "Kelvin Harrison Jr.": {
         "id": 1344361,
         "character": "B.B. King",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uRViX11fZQGmO9p91ZH7QVh2l5y.jpg"
@@ -9364,7 +9364,7 @@
       "Karla Sofía Gascón": {
         "id": 1505938,
         "character": "Emilia / Manitas",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vmg6gqpaXnoRFP7NWdSTrsr1CED.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kD1HfsMqALsge15QY8PxL3de2t4.jpg"
       },
       "Selena Gomez": {
         "id": 77948,
@@ -10494,7 +10494,7 @@
       "Damson Idris": {
         "id": 1837297,
         "character": "Joshua Pearce",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4jKOg4jCqNwXyrYd3coqgmCqkMy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -11373,8 +11373,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "98%",
     "meta_score": "91/100",
-    "platforms": ["BBC iPlayer", "Disney Plus", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Jonas Poher Rasmussen",
     "cast": {
       "Amin Nawabi": {
@@ -12402,7 +12402,7 @@
     "released": "2025-11-26",
     "duration": 126,
     "imdb_id": "tt14905854",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
     "genres": ["Drama", "Romance", "History"],
     "imdb_score": "8.1/10",
@@ -12415,7 +12415,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -15419,7 +15419,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17009,7 +17009,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -18393,7 +18393,7 @@
       "Piper Curda": {
         "id": 1308818,
         "character": "Honor Atherton-Yoo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/676V1iFGRUaCIRe8aUpMbFWxFs5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/84jifQn4WO5boQaeYsqy7P9rO7c.jpg"
       },
       "D.W. Moffett": {
         "id": 87956,
@@ -19766,7 +19766,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22245,7 +22245,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -34270,7 +34270,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
+    "genres": ["Animation", "Science Fiction", "Family"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
@@ -34464,7 +34464,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i8IlkFbZqKUgkypZKpdhrw00uqw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
@@ -35152,7 +35152,7 @@
   "Zootopia 2": {
     "id": "1084242",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": "Best Animated Feature Film",
     "poster_path": "https://image.tmdb.org/t/p/w1280/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
