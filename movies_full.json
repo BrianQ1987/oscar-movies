@@ -2832,7 +2832,7 @@
       "Emma Mackey": {
         "id": 2201315,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
       },
       "Hari Nef": {
         "id": 1611609,
@@ -6369,7 +6369,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/djPgzGMlv9mNzcd4uXBRImjWgBb.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -7039,7 +7039,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/djPgzGMlv9mNzcd4uXBRImjWgBb.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7820,7 +7820,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/djPgzGMlv9mNzcd4uXBRImjWgBb.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8083,7 +8083,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/djPgzGMlv9mNzcd4uXBRImjWgBb.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -17700,12 +17700,12 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/djPgzGMlv9mNzcd4uXBRImjWgBb.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mLarlXA8G02AdIMKptZmUzQluqF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -18498,7 +18498,7 @@
     "released": "2024-10-17",
     "duration": 94,
     "imdb_id": "tt23770030",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
     "genres": ["Animation", "Drama", "Comedy"],
     "imdb_score": "7.8/10",
@@ -22215,7 +22215,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24044,8 +24044,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "83/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Greg Kwedar",
     "cast": {
       "Colman Domingo": {
@@ -25143,7 +25141,7 @@
       "Hugh Jackman": {
         "id": 6968,
         "character": "Mike Sardina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
       },
       "Kate Hudson": {
         "id": 11661,
@@ -25395,7 +25393,7 @@
     "imdb_id": "tt12536294",
     "vote_average": "6.7",
     "overview": "During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.",
-    "genres": ["Drama", "History"],
+    "genres": "Drama",
     "imdb_score": "6.5/10",
     "rt_score": "83%",
     "meta_score": "76/100",
@@ -25612,7 +25610,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31210,7 +31208,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32187,7 +32185,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jEjYUVUZjnDDQyy6iNs1l9PJokp.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -34240,7 +34238,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family"],
+    "genres": ["Animation", "Science Fiction", "Family", "Drama", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
