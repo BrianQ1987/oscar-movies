@@ -3655,7 +3655,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Desi Arnaz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -5863,7 +5863,7 @@
       "Emilia Jones": {
         "id": 1331023,
         "character": "Ruby Rossi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQHfiR6bSKf7bJcYyDvfUSXlB9Q.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rnvwYNLkwur5VYHvbMuFny2aXyM.jpg"
       },
       "Marlee Matlin": {
         "id": 19797,
@@ -10784,7 +10784,7 @@
       "Charles Leclerc": {
         "id": 2380350,
         "character": "Charles Leclerc",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2A0peZPl0oqUtCFYQUjR0tX3l80.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p3m3qc9ZZAIFrTXO3kwOpcp7XGf.jpg"
       },
       "Kevin Magnussen": {
         "id": 1458453,
@@ -12807,7 +12807,7 @@
       },
       "Quinn Stone": {
         "id": 5272031,
-        "character": "Student",
+        "character": "Student (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
       },
       "Lily Steven": {
@@ -15391,7 +15391,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19550,7 +19550,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20534,7 +20534,7 @@
       "Jason Clarke": {
         "id": 76512,
         "character": "Roger Robb",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ma1BPr7pjzgxmYkHFlkMJLQDPC5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
       },
       "Dylan Arnold": {
         "id": 1039523,
@@ -20880,11 +20880,6 @@
         "id": 3603785,
         "character": "Senator's Assistant (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pCFoh39cpYHeD6fZtSehcKsde5.jpg"
-      },
-      "Nathan Roach": {
-        "id": 5653445,
-        "character": "Police Booking Officer (Uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2dxM9Nv8d8CAi8LNgv0Ews9L3B.jpg"
       }
     }
   },
@@ -22217,7 +22212,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23437,7 +23432,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Nora Borg",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wAXYfmwSWBb885WYejXcVqNBBHO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kv2XhFxDeHtQIqnmMrjgVo7Je9h.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -26007,7 +26002,7 @@
       "Phil Lord": {
         "id": 107446,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yGLAUCnWwB0cQM0Ivb5FKzv3tr4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2MagibFHZxky3FmMubyABUnf4lw.jpg"
       },
       "Richard Miro": {
         "id": 64448,
@@ -31210,7 +31205,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34562,7 +34557,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wAXYfmwSWBb885WYejXcVqNBBHO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kv2XhFxDeHtQIqnmMrjgVo7Je9h.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
