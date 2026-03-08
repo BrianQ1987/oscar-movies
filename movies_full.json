@@ -4306,7 +4306,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a2226q3H6RJhCLx2ZQGsVagBpZM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -5148,11 +5148,6 @@
         "id": 4325267,
         "character": "Waiter (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/theU7ZyxaRPnMIbsjKRsZM1qlOz.jpg"
-      },
-      "Ray Weafer": {
-        "id": 5360297,
-        "character": "Maitre'd at Sardi's (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/37mf6PtXuG4Zc1iytFNIhTQVs3o.jpg"
       }
     }
   },
@@ -5466,7 +5461,7 @@
     "released": "2025-10-23",
     "duration": 119,
     "imdb_id": "tt12300742",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
     "genres": ["Science Fiction", "Thriller", "Comedy"],
     "imdb_score": "7.4/10",
@@ -6364,7 +6359,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -7034,7 +7029,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7815,7 +7810,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8078,7 +8073,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -15393,7 +15388,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17704,12 +17699,12 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -17724,7 +17719,7 @@
       "Tyler, The Creator": {
         "id": 1133834,
         "character": "Wally",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1jr8XMXd9C6yRk2VitXIum0FGSy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
       },
       "Fran Drescher": {
         "id": 53122,
@@ -19552,7 +19547,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19740,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -23434,7 +23429,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Nora Borg",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kv2XhFxDeHtQIqnmMrjgVo7Je9h.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zbsTMhTXHtw84lA9Y9sOjdqYINF.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -24191,12 +24186,12 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Smoke / Stack",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a2226q3H6RJhCLx2ZQGsVagBpZM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
       },
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Mary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jiClUr3gaySWAyfXAHiCgmmtvij.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
       },
       "Miles Caton": {
         "id": 4688032,
@@ -24211,7 +24206,7 @@
       "Wunmi Mosaku": {
         "id": 134774,
         "character": "Annie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Mb5NH63XKnLfxPJiQMKVECPIno.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mWDsVCo9sBcekrsjUTsoCFLhtYt.jpg"
       },
       "Jayme Lawson": {
         "id": 2455272,
@@ -29449,7 +29444,7 @@
       "Glen Powell": {
         "id": 83271,
         "character": "Lt. Jake 'Hangman' Seresin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5H4uBK4qN97L87pIA1MCXAUDPfS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
       },
       "Jack Schumacher": {
         "id": 3563646,
@@ -31133,7 +31128,7 @@
   "The Voice of Hind Rajab": {
     "id": "1480382",
     "plex": true,
-    "watched": false,
+    "watched": true,
     "nominated": 2026,
     "categories": "Best International Feature Film",
     "poster_path": "https://image.tmdb.org/t/p/w1280/q7M8kQB46T11vmDMD6E239jsqTz.jpg",
@@ -31207,7 +31202,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
