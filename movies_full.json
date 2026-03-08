@@ -1730,7 +1730,7 @@
       "Louis Garrel": {
         "id": 16269,
         "character": "Stewie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vSRX8QMTrFZ9tSDKpZ9UO4yooqK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg"
       },
       "William Lebghil": {
         "id": 544682,
@@ -5642,7 +5642,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nSWSc3pAQEw0lPAmAk4d9GFMv6k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4rn6zSNjlpH2YtewlVz2YsKRKsZ.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -6326,7 +6326,7 @@
       "Whoopi Goldberg": {
         "id": 2395,
         "character": "Midwife (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f7nOs8pp4rxLQgUaeXu21kMtD9o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wZKI7qcEIVgiHxeFtk3NuKt8URQ.jpg"
       },
       "Matt Gulbranson": {
         "id": 4005619,
@@ -6867,7 +6867,7 @@
       "Isabella Rossellini": {
         "id": 6588,
         "character": "Sister Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hGkoI6CDTvrHi50qCNoF3eGr5Qo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
       },
       "Lucian Msamati": {
         "id": 1240427,
@@ -6999,7 +6999,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nSWSc3pAQEw0lPAmAk4d9GFMv6k.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4rn6zSNjlpH2YtewlVz2YsKRKsZ.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -7680,8 +7680,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ryusuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -8288,7 +8288,7 @@
       "Cat Simmons": {
         "id": 1767276,
         "character": "Young Nun",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/88D0aX9TkQDW3uy6f2lTdJZ7nKr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xlZL4D6zzQutUZTa4i1JcyKAvfP.jpg"
       },
       "Burt Caesar": {
         "id": 1373526,
@@ -9988,6 +9988,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "93%",
     "meta_score": "81/100",
+    "platforms": "Channel 4",
+    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -17599,7 +17601,7 @@
       "Isabella Rossellini": {
         "id": 6588,
         "character": "Connie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hGkoI6CDTvrHi50qCNoF3eGr5Qo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
       },
       "Joe Gabler": {
         "id": 3979379,
@@ -18365,7 +18367,7 @@
       "Piper Curda": {
         "id": 1308818,
         "character": "Honor Atherton-Yoo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iPEnDuW6CYRLaEphS3bD0b8K656.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
       },
       "D.W. Moffett": {
         "id": 87956,
@@ -18846,7 +18848,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/879UsTwK8ljcjYNz25fpP0PnDQC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hINjETTkpTc4xIvz1InzvT9vyBo.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -19550,7 +19552,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20484,7 +20486,7 @@
       "Cillian Murphy": {
         "id": 2037,
         "character": "J. Robert Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ycZpLjHxsNPvsB6ndu2D9qsx94X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
       },
       "Emily Blunt": {
         "id": 5081,
@@ -22082,8 +22084,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -22212,7 +22214,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31141,7 +31143,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": ["Drama", "History"],
+    "genres": ["Drama", "Thriller", "War"],
     "imdb_score": "8.4/10",
     "rt_score": "95%",
     "meta_score": "81/100",
