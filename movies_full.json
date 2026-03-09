@@ -145,7 +145,7 @@
     "imdb_id": "tt1016150",
     "vote_average": "7.7",
     "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
-    "genres": ["War", "History", "Drama"],
+    "genres": ["War", "Drama"],
     "imdb_score": "7.8/10",
     "rt_score": "90%",
     "meta_score": "76/100",
@@ -1689,7 +1689,7 @@
     "imdb_id": "tt14883538",
     "vote_average": "7.5",
     "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
-    "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama"],
+    "genres": ["Animation", "Adventure", "Fantasy", "Family", "Drama", "Science Fiction"],
     "imdb_score": "7.5/10",
     "rt_score": "91%",
     "meta_score": "73/100",
@@ -5066,7 +5066,7 @@
       },
       "Patrick Kennedy": {
         "id": 14432,
-        "character": "E.B. \"Andy\" White",
+        "character": "E.B. 'Andy' White",
         "profile_path": "https://image.tmdb.org/t/p/w1280/r4WOF90yx2tuWb2DDLRHSkCYBxc.jpg"
       },
       "Jonah Lees": {
@@ -8699,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10781,7 +10781,7 @@
       "Charles Leclerc": {
         "id": 2380350,
         "character": "Charles Leclerc",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p3m3qc9ZZAIFrTXO3kwOpcp7XGf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wr3XdXk7qCvfgNYYrs6PBlXfmns.jpg"
       },
       "Kevin Magnussen": {
         "id": 1458453,
@@ -12269,7 +12269,7 @@
       "John Turturro": {
         "id": 1241,
         "character": "Dottore (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wmcWO1WS0DCQrisECrcjYLIR8V4.jpg"
       },
       "Finn Wolfhard": {
         "id": 1442069,
@@ -12402,7 +12402,7 @@
       "Jacobi Jupe": {
         "id": 3115247,
         "character": "Hamnet",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/O56dVjXpTdlIk6us41eUIoTiuK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7wB50ZSaubYTrxuv2JjNXuxo91i.jpg"
       },
       "Noah Jupe": {
         "id": 1590759,
@@ -12967,7 +12967,7 @@
       "Maitê Padilha": {
         "id": 1951689,
         "character": "Cristina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6uLAdLi2g22xjjpIAwCz5V9CbuV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
       },
       "Felipe Barreto": {
         "id": 5498398,
@@ -13358,7 +13358,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9jX7HdSHocuZxOrzDCEC49qy9po.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1fbBTpCuTF1DOMDorJHMTEpxPOT.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -15388,7 +15388,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16946,6 +16946,11 @@
         "id": 1718377,
         "character": "Commuter (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/od22favF9teNxLX38f8K8xDs6FA.jpg"
+      },
+      "Liam Edwards": {
+        "id": 6057159,
+        "character": "Builder (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg"
       }
     }
   },
@@ -19735,7 +19740,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19963,7 +19968,7 @@
       "Chase Infiniti": {
         "id": 3914706,
         "character": "Willa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zgzQOTJ2f5HfCeIT3jCBb5Fzayh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg"
       },
       "Benicio del Toro": {
         "id": 1121,
@@ -20018,7 +20023,7 @@
       "Eric Schweig": {
         "id": 57448,
         "character": "Avanti",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iNXf9ZOUkTj0RIIxbBK8nmaxUPC.jpg"
       },
       "April Grace": {
         "id": 10691,
@@ -20263,7 +20268,7 @@
       "Jena Malone": {
         "id": 20089,
         "character": "Greeting Code (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5tmHa5Qz31TKsXIsEB12ZfWQoTX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kGwV9iLmfUxJ6a73ehr0QvAnc8C.jpg"
       },
       "Dan Chariton": {
         "id": 1210997,
@@ -23113,7 +23118,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z3uvcjA03RWwIhWeUHDS97aVyTN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
       },
       "Tânia Maria": {
         "id": 4497686,
@@ -25614,7 +25619,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jiClUr3gaySWAyfXAHiCgmmtvij.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -26455,7 +26460,7 @@
       "Cécile Vogt": {
         "id": 5323934,
         "character": "Elisabeth (Young) - Walk of Fame / Pump It Up Show Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yffvPtiwhEE9addxx8ei2a0biM0.jpg"
       },
       "Yannick Guérin": {
         "id": 5002976,
@@ -31202,7 +31207,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32179,7 +32184,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jEjYUVUZjnDDQyy6iNs1l9PJokp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -34232,7 +34237,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Drama", "Adventure"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
