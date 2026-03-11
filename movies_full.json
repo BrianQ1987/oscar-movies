@@ -7254,7 +7254,7 @@
       "Ashleigh Banfield": {
         "id": 1230050,
         "character": "Dalia Hensfield",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6QYjwRfERTcBcvIPGvOpO4duFGf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
       },
       "Sarah Silverman": {
         "id": 7404,
@@ -8303,7 +8303,7 @@
       "Tedroy Newell": {
         "id": 3624711,
         "character": "Fremen Onlooker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vTMl3WZ3z0W5S7pqlHyW5wvxKwW.jpg"
       },
       "Oxa Hazel": {
         "id": 4554432,
@@ -8699,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12397,7 +12397,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/netHasgH0P6d51WUalpClCX9T81.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -13529,8 +13529,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -17458,7 +17458,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Jamie Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1fbBTpCuTF1DOMDorJHMTEpxPOT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9jX7HdSHocuZxOrzDCEC49qy9po.jpg"
       },
       "Scott Ellis": {
         "id": 4479655,
@@ -19552,7 +19552,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20033,7 +20033,7 @@
       "Jim Downey": {
         "id": 1221159,
         "character": "Sandy Irvine",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xdmT9O3ac1k2WxCPPM01w6dTKXL.jpg"
       },
       "Alana Haim": {
         "id": 1741367,
@@ -22214,7 +22214,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23444,7 +23444,7 @@
       "Inga Ibsdotter Lilleaas": {
         "id": 1421850,
         "character": "Agnes Borg Pettersen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vNCAXup8zMJi4vK0X8oNIGGjZFj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlZPIgnXMpK3Nvvhg0bZzmWxZDH.jpg"
       },
       "Elle Fanning": {
         "id": 18050,
@@ -25609,7 +25609,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31207,7 +31207,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
