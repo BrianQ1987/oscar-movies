@@ -8103,7 +8103,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8852,7 +8852,7 @@
       "Tom Hanks": {
         "id": 31,
         "character": "Colonel Tom Parker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
       },
       "Olivia DeJonge": {
         "id": 1385063,
@@ -12407,7 +12407,7 @@
       "Noah Jupe": {
         "id": 1590759,
         "character": "Hamlet",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sOsr4SgcnVqpLofasvy0B6dxPuf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
       },
       "Olivia Lynes": {
         "id": 4945576,
@@ -13488,7 +13488,7 @@
       "John Ratzenberger": {
         "id": 7907,
         "character": "Fritz (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
       },
       "Sarayu Blue": {
         "id": 1224130,
@@ -15388,7 +15388,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16946,11 +16946,6 @@
         "id": 1718377,
         "character": "Commuter (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/od22favF9teNxLX38f8K8xDs6FA.jpg"
-      },
-      "Liam Edwards": {
-        "id": 6057159,
-        "character": "Builder (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg"
       }
     }
   },
@@ -17584,8 +17579,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "98%",
     "meta_score": "80/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Dean Fleischer Camp",
     "cast": {
       "Jenny Slate": {
@@ -21010,8 +21005,6 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "94/100",
-    "platforms": "BBC iPlayer",
-    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": "Celine Song",
     "cast": {
       "Greta Lee": {
@@ -22214,7 +22207,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25609,7 +25602,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29226,7 +29219,7 @@
       "Allison Janney": {
         "id": 19,
         "character": "Nancy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hpBKWV1jjoXQbr1s0iUZTSvw582.jpg"
       },
       "Stephen Root": {
         "id": 17401,
@@ -31207,7 +31200,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35350,7 +35343,7 @@
       "Amanda Gorman": {
         "id": 2936174,
         "character": "Deerdra Bambino (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/65nwhL4jFsdWAv38tWX3KEAF4em.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4S1TgIXkEJemfM5HLu9b52ub9he.jpg"
       },
       "Ed Sheeran": {
         "id": 998387,
