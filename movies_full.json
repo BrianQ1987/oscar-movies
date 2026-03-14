@@ -2807,7 +2807,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lwIqQLPotJHr44lfNsEOnE6IYsf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bg9ysIhsdygPpVx2rnKDtzylfRv.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -3645,7 +3645,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n1xlczx1w44DqUkJvJtAGJf9fyx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjdybHeNvp4DFbRd97Jo2ZLakwX.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -8699,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -8754,7 +8754,7 @@
       "Atsuko Okatsuka": {
         "id": 932639,
         "character": "Ambassador Naos (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1dPNDZSjimfjKasmgX7RYKJsCB1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iHMzMqLfiKcyOvXcR4KekkS6vII.jpg"
       },
       "Shirley Henderson": {
         "id": 1834,
@@ -16973,7 +16973,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -19552,7 +19552,7 @@
       "Riz Ahmed": {
         "id": 53240,
         "character": "Ballister Boldheart (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dbxGDsShZaNUtN9v7Ivjc2tBzmV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1uP9RaX7BGVx7XGTEmwObBJJzsC.jpg"
       },
       "Eugene Lee Yang": {
         "id": 1745968,
@@ -19730,7 +19730,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25737,7 +25737,7 @@
       "Atsuko Okatsuka": {
         "id": 932639,
         "character": "Yuri (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1dPNDZSjimfjKasmgX7RYKJsCB1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iHMzMqLfiKcyOvXcR4KekkS6vII.jpg"
       },
       "Peter Sohn": {
         "id": 21198,
@@ -31131,7 +31131,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": ["Drama", "History"],
+    "genres": ["Drama", "History", "Documentary"],
     "imdb_score": "8.4/10",
     "rt_score": "95%",
     "meta_score": "81/100",
