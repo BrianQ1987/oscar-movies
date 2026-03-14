@@ -4306,7 +4306,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Killmonger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3EhMq9KKngojas9shTRjdCAqpav.jpg"
       },
       "Isaach de Bankolé": {
         "id": 4812,
@@ -8066,8 +8066,8 @@
     "imdb_score": "8.4/10",
     "rt_score": "92%",
     "meta_score": "79/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Denis Villeneuve",
     "cast": {
       "Timothée Chalamet": {
@@ -10781,7 +10781,7 @@
       "Charles Leclerc": {
         "id": 2380350,
         "character": "Charles Leclerc",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p3m3qc9ZZAIFrTXO3kwOpcp7XGf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wr3XdXk7qCvfgNYYrs6PBlXfmns.jpg"
       },
       "Kevin Magnussen": {
         "id": 1458453,
@@ -12106,7 +12106,7 @@
       "Stephen Sondheim": {
         "id": 52154,
         "character": "Stephen Sondheim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dltESnVeW3SKGZaw12NoxjcNtmo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1yNdo1oMP3w9DieH5vOd4FxTURg.jpg"
       },
       "Natasha Lyonne": {
         "id": 10871,
@@ -12382,7 +12382,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -12553,11 +12553,6 @@
         "id": 1502433,
         "character": "Fool",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3o4k7IKjPbjcJr0bzfe3Wgx0gxo.jpg"
-      },
-      "Chloé Zhao": {
-        "id": 1395183,
-        "character": "Globe Patron (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nhu7l9iexqdJbjjAHpg8vctUkAR.jpg"
       }
     }
   },
@@ -15388,7 +15383,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15721,7 +15716,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Joel Wachs",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d1LVZAt1W2Wg6yTWRWkDkkyyGI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
       },
       "Skyler Gisondo": {
         "id": 61263,
@@ -19963,7 +19958,7 @@
       "Chase Infiniti": {
         "id": 3914706,
         "character": "Willa",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v30NzVNAczjwVueu95VbqWTUoGw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6tO5t5anIb7D1Nwr6TQjAXMog5N.jpg"
       },
       "Benicio del Toro": {
         "id": 1121,
@@ -20501,7 +20496,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -20526,7 +20521,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Edward Teller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d1LVZAt1W2Wg6yTWRWkDkkyyGI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
       },
       "Jason Clarke": {
         "id": 76512,
@@ -20904,7 +20899,7 @@
       "Penélope Cruz": {
         "id": 955,
         "character": "Janis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2Lbc8QXgHik1D1saPqQ5qEWwUEh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5tk7ncwbDxxH3v5jH6YRa5OmpAn.jpg"
       },
       "Milena Smit": {
         "id": 2560224,
@@ -21936,7 +21931,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6EpDNiVqB2Mao3mHm4kYw09ufHk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -23409,7 +23404,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Supporting Actress", "Best International Feature Film", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg",
     "title": "Sentimental Value",
     "released": "2025-08-20",
     "duration": 133,
@@ -23437,7 +23432,7 @@
       "Inga Ibsdotter Lilleaas": {
         "id": 1421850,
         "character": "Agnes Borg Pettersen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vNCAXup8zMJi4vK0X8oNIGGjZFj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlZPIgnXMpK3Nvvhg0bZzmWxZDH.jpg"
       },
       "Elle Fanning": {
         "id": 18050,
@@ -23492,77 +23487,77 @@
       "Vilde Søyland": {
         "id": 5469222,
         "character": "Karin Borg",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Sigrid Lorentzen Abelsnes": {
         "id": 5976397,
         "character": "Karin Irgens (Child)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Mari Strand Ferstad": {
         "id": 2188889,
         "character": "Edith Irgens",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Eiril Tormodsdatter Solberg": {
         "id": 5976402,
         "character": "Edith Irgens (Child)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Julia Küster": {
         "id": 5469223,
         "character": "Lillian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Olivia Thompson": {
         "id": 5976408,
         "character": "Nora Borg (Pre-teen)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Iben Policer Havnevik": {
         "id": 5976414,
         "character": "Nora Borg (Child)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Irma Trier": {
         "id": 5976416,
         "character": "Nora Borg (Child)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Ibi Trier": {
         "id": 5976422,
         "character": "Nora Borg (Baby)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Knut Rørtveit": {
         "id": 5976429,
         "character": "Gustav Borg (Young Adult)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Nicholas Bergh": {
         "id": 5976434,
         "character": "Gustav Borg (Young Adult)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Aasmund Almdahl": {
         "id": 5976442,
         "character": "Gustav Borg (Teenager)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Emmet Øverland Crompton": {
         "id": 5976444,
         "character": "Gustav Borg (Child)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Ida Atlanta Kyllingmark Giertsen": {
         "id": 5976445,
         "character": "Agnes Borg (Pre-teen)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Julie Østhagen": {
         "id": 5976446,
         "character": "Agnes Borg (Child)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Ingunn Beate Øyen": {
         "id": 145776,
@@ -23577,7 +23572,7 @@
       "Tuva Skorpen Nielsen": {
         "id": 5976447,
         "character": "Kamilla",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Gard Løkke": {
         "id": 1971741,
@@ -23587,7 +23582,7 @@
       "Per Miljeteig": {
         "id": 5976451,
         "character": "Man at Funeral",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Amalie Ibsen Jensen": {
         "id": 2186231,
@@ -23597,27 +23592,27 @@
       "Håkon Mathias Vassvik": {
         "id": 1480413,
         "character": "Sound Technician (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Yngvar Nielsen Skuland": {
         "id": 4781306,
         "character": "Scene Technician (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Torunn Meyer": {
         "id": 4243748,
         "character": "Costume Technician (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Kristine Utne Stiberg": {
         "id": 3374457,
         "character": "Costume Technician (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Hooman Sharifi": {
         "id": 5976456,
         "character": "Director (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Stine Fevik": {
         "id": 3685982,
@@ -23632,7 +23627,7 @@
       "Vetle Bergan": {
         "id": 2532668,
         "character": "Actor Ensemble (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Olav Waastad": {
         "id": 1823346,
@@ -23652,7 +23647,7 @@
       "Håkon Ramstad": {
         "id": 1010048,
         "character": "Actor Ensemble (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Øystein Røger": {
         "id": 1668754,
@@ -23662,12 +23657,12 @@
       "Torbjørn Davidsen": {
         "id": 2056992,
         "character": "Actor Ensemble (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Per Bogstad Gulliksen": {
         "id": 2507188,
         "character": "Actor Ensemble (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Lazare Gousseau": {
         "id": 1576306,
@@ -23682,17 +23677,17 @@
       "Camille Constantin Da Silva": {
         "id": 5469228,
         "character": "Nathalie's Assistant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Rémi Alexandre": {
         "id": 3607010,
         "character": "Rachel's Bodyguard",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Vincent Le Prêtre": {
         "id": 5469238,
         "character": "French Waiter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Jonas Jacobsen": {
         "id": 5375135,
@@ -23707,7 +23702,7 @@
       "Mikkel Knutsen Bjaadal": {
         "id": 5469226,
         "character": "Dark Haired Boy ('Anna')",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Ingrid Jørgensen Dragland": {
         "id": 222734,
@@ -23727,52 +23722,52 @@
       "Gunnar Strand": {
         "id": 5640344,
         "character": "Archivist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Mone Mikkelsen": {
         "id": 1887969,
         "character": "Archivist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Mona Huang Høivik": {
         "id": 2931040,
         "character": "Waitress",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Sacha Slengesol Balgobin": {
         "id": 5469225,
         "character": "Nurse",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Haakon Norum Albech": {
         "id": 5469224,
         "character": "Lennart Borg",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Erling Eggen": {
         "id": 5469229,
         "character": "Edvard Irgens",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Kirsten Kvalø": {
         "id": 5469237,
         "character": "Signe Irgens",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Elin Vidovic": {
         "id": 5976482,
         "character": "Young Karin's Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Live Frøysnes": {
         "id": 5469231,
         "character": "Young Karin's Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Tord Moberg": {
         "id": 2598891,
         "character": "Carpenter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/24JALfUQsIgfNqMD7vTbqEVfsqf.jpg"
       },
       "Bente Børsum": {
         "id": 579468,
@@ -24184,7 +24179,7 @@
       "Michael B. Jordan": {
         "id": 135651,
         "character": "Smoke / Stack",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/515xNvaMC6xOEOlo0sFqW69ZqUH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3EhMq9KKngojas9shTRjdCAqpav.jpg"
       },
       "Hailee Steinfeld": {
         "id": 130640,
@@ -25153,7 +25148,7 @@
       "Jim Belushi": {
         "id": 26485,
         "character": "Tom D'Amato",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sdWBUZLyvmaRGvnZ1gLjTXHYar1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wIvFYH110ER7ukwR0qryQJJDQYH.jpg"
       },
       "Ella Anderson": {
         "id": 933578,
@@ -25602,7 +25597,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29161,7 +29156,7 @@
       "Stephen Sondheim": {
         "id": 52154,
         "character": "Stephen Sondheim (voice on phone) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dltESnVeW3SKGZaw12NoxjcNtmo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1yNdo1oMP3w9DieH5vOd4FxTURg.jpg"
       },
       "Ken Holmes": {
         "id": 1118347,
@@ -31200,7 +31195,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34424,7 +34419,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jKhDQOMVQ1JP4gaUXCQg75gvsrm.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
