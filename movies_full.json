@@ -2799,7 +2799,7 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -6361,7 +6361,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -7031,7 +7031,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7812,7 +7812,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8075,7 +8075,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -13355,7 +13355,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9jX7HdSHocuZxOrzDCEC49qy9po.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1fbBTpCuTF1DOMDorJHMTEpxPOT.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -15385,7 +15385,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19321,7 +19321,7 @@
       "Paul Anderson": {
         "id": 220448,
         "character": "Geek #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xROnQbYvFH3OSEoC9EgRriVAQ1G.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg"
       },
       "Lara Jean Chorostecki": {
         "id": 1102260,
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25604,7 +25604,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31202,7 +31202,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
