@@ -6361,7 +6361,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hNLkNDAGwHOhn8oSiwGGW4g45ME.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -8075,7 +8075,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hNLkNDAGwHOhn8oSiwGGW4g45ME.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -10470,7 +10470,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": "Best Picture",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg",
     "title": "F1",
     "released": "2025-06-25",
     "duration": 156,
@@ -10568,17 +10568,17 @@
       "Barney Smith": {
         "id": 5531674,
         "character": "Kaspar's Son",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Poppy Smith": {
         "id": 5531675,
         "character": "Kaspar's Daughter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Luciano Bacheta": {
         "id": 3580287,
         "character": "Luca Cortez",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Rosie Dwyer": {
         "id": 2403825,
@@ -10648,12 +10648,12 @@
       "Rachel Brookes": {
         "id": 3950173,
         "character": "Rachel Brookes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Natalie Pinkham": {
         "id": 1245968,
         "character": "Natalie Pinkham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Maria Thoma": {
         "id": 5531686,
@@ -10698,12 +10698,12 @@
       "Mohammed Alkhoori": {
         "id": 5531695,
         "character": "Abu Dhabi Trophy Presenter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Salwa Al Hadhrami": {
         "id": 5531696,
         "character": "Abu Dhabi Podium Dignitary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tLMG65ZpCbC64aPaXGoCgPPLwb4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vqBmyAj0Xm9LnS1xe1MSlMAJyHq.jpg"
       },
       "Sal Lopez": {
         "id": 8666,
@@ -12384,7 +12384,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dvgO1rCqxKRqy44Q8zHNj8uvXNk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -15385,7 +15385,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15773,7 +15773,7 @@
       "Maya Rudolph": {
         "id": 52792,
         "character": "Gale",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
       },
       "Ryan Heffington": {
         "id": 1705236,
@@ -16975,7 +16975,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dvgO1rCqxKRqy44Q8zHNj8uvXNk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -17133,7 +17133,7 @@
       "Maya Rudolph": {
         "id": 52792,
         "character": "Daniela Paguro (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
       },
       "Marco Barricelli": {
         "id": 2990412,
@@ -17696,7 +17696,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98pz2MH2JT7Yw0sUJGrA5Oqtbo8.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
@@ -18296,7 +18296,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8A4PS5iG7GWEAVFftyqMZKl3qcr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
       },
       "Veronica Hein": {
         "id": 4514752,
@@ -18775,7 +18775,7 @@
       "Maya Rudolph": {
         "id": 52792,
         "character": "Linda (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9QTtEfAmQOQcGhD12zzxdouLRh4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
       },
       "Mike Rianda": {
         "id": 1647289,
@@ -20508,7 +20508,7 @@
       "Josh Hartnett": {
         "id": 2299,
         "character": "Ernest Lawrence",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dCfu2EN7FjISACcjilaJu7evwEc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9JS3PeypxTmHVXOnLCMRzJzySxO.jpg"
       },
       "Casey Affleck": {
         "id": 1893,
@@ -22209,7 +22209,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25604,7 +25604,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31200,8 +31200,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
-    "platforms": ["BBC iPlayer", "Netflix"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
     "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
@@ -34426,7 +34426,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dvgO1rCqxKRqy44Q8zHNj8uvXNk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
