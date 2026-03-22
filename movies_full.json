@@ -8701,7 +8701,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13355,7 +13355,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1fbBTpCuTF1DOMDorJHMTEpxPOT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lOqYLK4Y453oCktOJuu43AgWEFS.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -17450,7 +17450,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Jamie Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1fbBTpCuTF1DOMDorJHMTEpxPOT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lOqYLK4Y453oCktOJuu43AgWEFS.jpg"
       },
       "Scott Ellis": {
         "id": 4479655,
@@ -18296,7 +18296,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aQr7LOIBe15krp0SMbtKAEVUGrT.jpg"
       },
       "Veronica Hein": {
         "id": 4514752,
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
