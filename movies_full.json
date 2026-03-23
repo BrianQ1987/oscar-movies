@@ -2829,7 +2829,7 @@
       "Emma Mackey": {
         "id": 2201315,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
       },
       "Hari Nef": {
         "id": 1611609,
@@ -4666,7 +4666,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "The Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v2U61NlN1LEPhFGjvjLQr3OVWYk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Bobby Cannavale": {
         "id": 21127,
@@ -4971,7 +4971,7 @@
       "Arne Gjelten": {
         "id": 1851123,
         "character": "Diamonds Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mEeHqtnWOR44vLCutEFku2WK6ou.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ywdZlgEFB9APnJZv1Gy70g37Qxj.jpg"
       },
       "Russell Ridgeway": {
         "id": 4545837,
@@ -5259,7 +5259,7 @@
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
-    "genres": "Drama",
+    "genres": ["Drama", "History"],
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "90/100",
@@ -5268,7 +5268,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "László Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v2U61NlN1LEPhFGjvjLQr3OVWYk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
@@ -5476,7 +5476,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -6889,7 +6889,7 @@
       "Merab Ninidze": {
         "id": 17817,
         "character": "Sabbadin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/crnBu4gGp3JL92S940XKb8517HW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jnJ4lQULt6Ga3lXkIqAhMR7xYdE.jpg"
       },
       "Thomas Loibl": {
         "id": 1052328,
@@ -8701,7 +8701,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10205,7 +10205,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jim Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
       },
       "Cherry Jones": {
         "id": 1956,
@@ -10475,7 +10475,7 @@
     "released": "2025-06-25",
     "duration": 156,
     "imdb_id": "tt16311594",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
     "genres": ["Action", "Drama"],
     "imdb_score": "7.6/10",
@@ -15385,7 +15385,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15620,7 +15620,7 @@
       "Andrew Morgado": {
         "id": 80823,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rDkWTPcsFtw5MQCi1qxSXXZlXG2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
       },
       "Clarissa Park": {
         "id": 1046870,
@@ -17706,7 +17706,7 @@
       "Odessa A'zion": {
         "id": 1972166,
         "character": "Rachel Mizler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r3GGU3A8faBnEwxpVSvhB5dUDfd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/swdC2knDQri6CIRuEK0SOgCa6PA.jpg"
       },
       "Kevin O'Leary": {
         "id": 1240877,
@@ -18752,7 +18752,7 @@
     "released": "2021-04-22",
     "duration": 114,
     "imdb_id": "tt7979580",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
     "genres": ["Animation", "Adventure", "Comedy"],
     "imdb_score": "7.6/10",
@@ -19521,7 +19521,7 @@
       "Romina Power": {
         "id": 565447,
         "character": "Party Guest (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ohcEmWLK2J7g4RSNTtWle0vW0ki.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mwrPRD0g0oZCQkPKASMyzsNQy3G.jpg"
       },
       "Keith Lukowski": {
         "id": 4684327,
@@ -19955,7 +19955,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Bob",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qZs7xVpe2gGXfGaS5NRkhjPOedW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iqPBAdsFdAVCdahQM29kTG6UgD7.jpg"
       },
       "Sean Penn": {
         "id": 2228,
@@ -20828,7 +20828,7 @@
       "Bryce Johnson": {
         "id": 65769,
         "character": "AAF Officer 2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iyHjMvKijZZDVZkK681JAio4nAh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m27ITiYlBJ4biPS8dmZ9W5QOPZX.jpg"
       },
       "Flora Nolan": {
         "id": 1505363,
@@ -21398,7 +21398,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -25355,7 +25355,7 @@
       "Ivanhoe Aurelio": {
         "id": 5128973,
         "character": "Horn Section #2",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kQzDdxI0F5z16qo2vzDoqdVMl4O.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zhLF1dz78Jma7i5wYORic564FpU.jpg"
       },
       "Calvin Sexton": {
         "id": 5898064,
@@ -25604,7 +25604,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -28533,7 +28533,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jonathan Larson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
       },
       "Alexandra Shipp": {
         "id": 1253199,
@@ -29990,7 +29990,7 @@
       "Ron Ford": {
         "id": 98712,
         "character": "Mr. Pinkham (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gIDdGVmC9zBNmVGQuJBzcMRXmbB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
       },
       "Frank A. Gaimari": {
         "id": 4198299,
@@ -31768,7 +31768,7 @@
       "Isabella Ward": {
         "id": 3570541,
         "character": "Tere",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kkveisfaT5LcZn4dghtWJC1fBAA.jpg"
       },
       "Eloise Kropp": {
         "id": 2923329,
