@@ -2393,7 +2393,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cPRq7uH3PIFcHilP15BrMKunink.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -8854,7 +8854,7 @@
       "Tom Hanks": {
         "id": 31,
         "character": "Colonel Tom Parker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eKF1sGJRrZJbfBG1KirPt1cfNd3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xV5zba3TFMcs1ZS8lxmOlJ1S6Fo.jpg"
       },
       "Olivia DeJonge": {
         "id": 1385063,
@@ -10205,7 +10205,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jim Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
       },
       "Cherry Jones": {
         "id": 1956,
@@ -17440,7 +17440,7 @@
       "Zachary Booth": {
         "id": 205854,
         "character": "Mendy Wager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hdYodH03F2oP4htcGpfYP1gtdqz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jGVhfhD1KVpHoeCEmqPLzWPAUf0.jpg"
       },
       "Miriam Shor": {
         "id": 18273,
@@ -17683,7 +17683,7 @@
     "released": "2025-12-19",
     "duration": 150,
     "imdb_id": "tt32916440",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "8.1/10",
@@ -17701,7 +17701,7 @@
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -17836,7 +17836,7 @@
       "Ed Malone": {
         "id": 4647991,
         "character": "The Sun Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iW4e1tFodbJ6IT9mpddIz4vhHzO.jpg"
       },
       "Roddy O'Hehir": {
         "id": 4642758,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -24481,7 +24481,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -25604,7 +25604,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26767,7 +26767,7 @@
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Original Screenplay"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg",
     "title": "TÁR",
-    "released": "2022-09-23",
+    "released": "2022-10-07",
     "duration": 158,
     "imdb_id": "tt14444726",
     "vote_average": "7.1",
@@ -31202,7 +31202,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
