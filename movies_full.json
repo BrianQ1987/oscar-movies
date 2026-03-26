@@ -2393,7 +2393,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cPRq7uH3PIFcHilP15BrMKunink.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -9728,7 +9728,7 @@
       "Angie Cepeda": {
         "id": 120557,
         "character": "Julieta Madrigal  (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/azShCjdzK93jcBBOJSs5lFUd7CH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xMfzSUF7aiSdR3C7zlgzfvAXYOO.jpg"
       },
       "Ravi Cabot-Conyers": {
         "id": 1969888,
@@ -10884,6 +10884,11 @@
         "id": 3751465,
         "character": "Stefano Domenicali",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hDk46rzXaYmRwdtaZUoO11dS27L.jpg"
+      },
+      "Simon Minter": {
+        "id": 2464458,
+        "character": "Man in audience (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dyUt9Sw7D8FIiXhFN30IVihQ5Gm.jpg"
       }
     }
   },
@@ -11522,7 +11527,7 @@
       "Jacob Elordi": {
         "id": 2034418,
         "character": "The Creature",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1csUnKCfwqcsd796N8uPQoDRA6x.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
       },
       "Christoph Waltz": {
         "id": 27319,
@@ -15385,7 +15390,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17683,7 +17688,7 @@
     "released": "2025-12-19",
     "duration": 150,
     "imdb_id": "tt32916440",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "8.1/10",
@@ -19737,7 +19742,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22367,7 +22372,7 @@
       "Will Sharpe": {
         "id": 939337,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ys8vQ8f4CoM5zTVlIx3yjFciNEW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1pzdCm3m1kWn7YLTMbVvwT5O4jZ.jpg"
       },
       "Jennifer Grey": {
         "id": 722,
@@ -31202,7 +31207,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34232,7 +34237,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
