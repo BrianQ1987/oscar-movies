@@ -2794,7 +2794,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/au6Hq8nQXJD67mDtl34ZOm8DXrh.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -2824,7 +2824,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
       },
       "Emma Mackey": {
         "id": 2201315,
@@ -13232,7 +13232,7 @@
       "Delaney Quinn": {
         "id": 3484285,
         "character": "Child",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2CkgPdKVFfgeRCro4Hmvkqo4fB7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bLuE8taPlPUMohWTpXuspdqv1PT.jpg"
       },
       "Mary Bronstein": {
         "id": 935669,
@@ -22214,7 +22214,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23106,7 +23106,7 @@
     "released": "2025-07-23",
     "duration": 161,
     "imdb_id": "tt27847051",
-    "vote_average": "7.3",
+    "vote_average": "7.4",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Crime", "Drama", "Thriller"],
     "imdb_score": "7.3/10",
@@ -25609,7 +25609,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -28543,7 +28543,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Susan Wilson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cWA3gBE6ihwONJzoy4ROYX584UW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
       },
       "Robin de Jesús": {
         "id": 110505,
@@ -31207,7 +31207,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31395,7 +31395,7 @@
       "Scarlett Sher": {
         "id": 2476129,
         "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uh3mC69DczvhizvMYyBczUUe3eG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2WeiAAqlcfZpmMcJmIPpTSG8zjB.jpg"
       },
       "Jason Turner": {
         "id": 1084721,
@@ -34237,7 +34237,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
