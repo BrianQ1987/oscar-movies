@@ -755,7 +755,7 @@
       "Swann Arlaud": {
         "id": 145120,
         "character": "Maître Vincent Renzi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/khUOZImR7Uxt7LmW5ezS73UOuz2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38iX2NHO7pMdQH1ygoGEJ8E82WV.jpg"
       },
       "Milo Machado-Graner": {
         "id": 3302971,
@@ -1722,7 +1722,7 @@
       "Swann Arlaud": {
         "id": 145120,
         "character": "Tom / Mikki  (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/khUOZImR7Uxt7LmW5ezS73UOuz2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/38iX2NHO7pMdQH1ygoGEJ8E82WV.jpg"
       },
       "Vincent Macaigne": {
         "id": 992623,
@@ -2000,7 +2000,7 @@
       "Manuel Caponi": {
         "id": 3775697,
         "character": "Lucas Palacios",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ztBX13UbOE7wyGjMX7IUrSCnsBi.jpg"
       },
       "Leyla Bechara": {
         "id": 3775700,
@@ -2799,12 +2799,12 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
       },
       "America Ferrera": {
         "id": 59174,
         "character": "Gloria",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7F84Lh2lKpvkM3EiOvqqvlOmw93.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7q9uUWnaIjveX8DTU2lcA7mA3dp.jpg"
       },
       "Ariana Greenblatt": {
         "id": 1767250,
@@ -8220,7 +8220,7 @@
       "Xavier Alba Royo": {
         "id": 3734838,
         "character": "Fedaykin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fSsgu5dUOppKaqi2Jq7NX56VvZU.jpg"
       },
       "Rachid Abbad": {
         "id": 1627984,
@@ -8706,7 +8706,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11514,7 +11514,7 @@
     "released": "2025-10-17",
     "duration": 150,
     "imdb_id": "tt1312221",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
     "genres": ["Drama", "Fantasy", "Horror"],
     "imdb_score": "7.5/10",
@@ -13698,7 +13698,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.5/10",
@@ -15395,7 +15395,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19747,7 +19747,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
