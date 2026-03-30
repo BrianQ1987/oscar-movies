@@ -1000,7 +1000,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1121,7 +1121,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1136,7 +1136,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1151,17 +1151,17 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
@@ -8859,7 +8859,7 @@
       "Tom Hanks": {
         "id": 31,
         "character": "Colonel Tom Parker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xV5zba3TFMcs1ZS8lxmOlJ1S6Fo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
       },
       "Olivia DeJonge": {
         "id": 1385063,
@@ -10215,7 +10215,7 @@
       "Cherry Jones": {
         "id": 1956,
         "character": "Rachel Grover",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/houNx55n3W1vS4NOwDfBgqCMhfq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cc9h2Tc17gzBw5wGJqC93FEYH0L.jpg"
       },
       "Vincent D'Onofrio": {
         "id": 7132,
@@ -12356,7 +12356,7 @@
       "Roy Halo": {
         "id": 3806714,
         "character": "Young Boy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1angwrCgkd9VIKYWVyr4OMov29K.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
       },
       "Luciano Palmeri": {
         "id": 3815649,
@@ -13420,7 +13420,7 @@
       "Diane Lane": {
         "id": 2882,
         "character": "Mom (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hAMfmz0ihe4XLkOnsR4G5bLurqn.jpg"
       },
       "Kyle MacLachlan": {
         "id": 6677,
@@ -19559,7 +19559,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19594,7 +19594,7 @@
       "RuPaul": {
         "id": 78589,
         "character": "Nate Knight (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iWay4RNPyvbA9KhSjxYjlaoLgDk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/px8XeYcAzKzAto4MFYfs6kBSEWF.jpg"
       },
       "Indya Moore": {
         "id": 1789788,
@@ -22219,7 +22219,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23111,7 +23111,7 @@
     "released": "2025-07-23",
     "duration": 161,
     "imdb_id": "tt27847051",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Crime", "Drama", "Thriller"],
     "imdb_score": "7.3/10",
@@ -25614,7 +25614,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31212,7 +31212,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34242,7 +34242,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
