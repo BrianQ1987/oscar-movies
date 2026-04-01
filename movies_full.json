@@ -986,11 +986,6 @@
         "id": 4507376,
         "character": "The Tribunal",
         "profile_path": "https://image.tmdb.org/t/p/w1280/kQs6keheMwCxJxrzV83VUwFtHkB.jpg"
-      },
-      "Messi": {
-        "id": 5946371,
-        "character": "Snoop",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mZLNQnXwlzkFtVt0jFkEkoo2a7K.jpg"
       }
     }
   },
@@ -1689,7 +1684,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Science Fiction"],
     "imdb_score": "7.5/10",
@@ -2794,7 +2789,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8WC12YJltY2H0TdRs9f4Uu8T6Sx.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -8555,7 +8550,7 @@
       "Anya Taylor-Joy": {
         "id": 1397778,
         "character": "Alia Atreides (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
       },
       "Hector Kingsley Bhattacharjee": {
         "id": 6054625,
@@ -8696,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15385,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15698,7 +15693,7 @@
       "Cooper Hoffman": {
         "id": 2764542,
         "character": "Gary Valentine",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p8Hgy3RJW4r8PwD5SjIAahE2wZu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Y0AfdcpgzL4SHpKjspkDFBd6zN.jpg"
       },
       "Sean Penn": {
         "id": 2228,
@@ -16681,7 +16676,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
     "title": "Little Amélie or the Character of Rain",
     "released": "2025-06-25",
-    "duration": 79,
+    "duration": 78,
     "imdb_id": "tt29313285",
     "vote_average": "8",
     "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
@@ -22209,7 +22204,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31202,7 +31197,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
