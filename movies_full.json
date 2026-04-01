@@ -5634,7 +5634,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -6991,7 +6991,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -15380,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17490,7 +17490,7 @@
       "Alexa Swinton": {
         "id": 2380384,
         "character": "Nina Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gUTcDRLESCRHBjMJ7cxQYJPEA5c.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tSmHfRNqZNqBGH1FD43C1SYL3W4.jpg"
       },
       "Mike Mitarotondo": {
         "id": 4479664,
@@ -17696,7 +17696,7 @@
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -19544,7 +19544,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22204,7 +22204,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26146,7 +26146,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction", "Thriller"],
+    "genres": ["Horror", "Science Fiction"],
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
@@ -34404,8 +34404,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "90%",
     "meta_score": "77/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Sarah Polley",
     "cast": {
       "Rooney Mara": {
@@ -35175,7 +35175,7 @@
       "Quinta Brunson": {
         "id": 1745988,
         "character": "Dr. Fuzzby (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/50gY1qgG5ddSLPY77K8zAq9TwJo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4x2ltnaGHF9rhaDRlkyNs7HOUI8.jpg"
       },
       "Danny Trejo": {
         "id": 11160,
