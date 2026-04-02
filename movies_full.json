@@ -5817,7 +5817,7 @@
       "Ahlaam Teghadouini": {
         "id": 3079100,
         "character": "Sophie's Colleague",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dlMNnWs7Mz8Nk5AC447Ew1tD5pn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i0GP8dJMPzzLn3nJVyiu4mMkWAE.jpg"
       },
       "Hervé Guerrisi": {
         "id": 2921901,
@@ -7641,7 +7641,7 @@
       "Chris Evans": {
         "id": 16828,
         "character": "Devin Peters (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jEzGktEMdEkQKemPVR0YGlIYEVl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
       },
       "Marissa Carpio": {
         "id": 2148697,
@@ -12564,7 +12564,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.9/10",
@@ -22367,7 +22367,7 @@
       "Jennifer Grey": {
         "id": 722,
         "character": "Marcia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nFjdCB9uKbhJ6QYCSF7UDdC6FBK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/degxZ5kHbiH4L7OOt0isTteb1tD.jpg"
       },
       "Kurt Egyiawan": {
         "id": 1526130,
@@ -25599,7 +25599,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31197,7 +31197,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34227,7 +34227,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
