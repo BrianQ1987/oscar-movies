@@ -447,8 +447,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": "BBC iPlayer",
-    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
+    "platforms": ["BBC iPlayer", "Amazon Prime Video"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
     "director": "Cord Jefferson",
     "cast": {
       "Jeffrey Wright": {
@@ -2373,7 +2373,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Neytiri",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
       },
       "Sigourney Weaver": {
         "id": 10205,
@@ -2393,7 +2393,7 @@
       "Cliff Curtis": {
         "id": 7248,
         "character": "Tonowari",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3D6qz8vL6DWHAO3HeXeaSuwxq3s.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
       },
       "Joel David Moore": {
         "id": 59231,
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -8706,7 +8706,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Olga Solís (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
       },
       "Brad Garrett": {
         "id": 18,
@@ -9346,7 +9346,7 @@
       "Zoe Saldaña": {
         "id": 8691,
         "character": "Rita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQBwmsSOAd0JDaEcZ5p43J9xzsY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iOVbUH20il632nj2v01NCtYYeSg.jpg"
       },
       "Karla Sofía Gascón": {
         "id": 1505938,
@@ -10931,7 +10931,7 @@
       "Keeley Karsten": {
         "id": 3690404,
         "character": "Natalie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uIIu6N3Xk0qaX4nXjkZivDUteRa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tlnhUFQbmR4YVi9w4uJfCUopI0Q.jpg"
       },
       "Alina Brace": {
         "id": 3690411,
@@ -12564,7 +12564,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.9/10",
@@ -15681,8 +15681,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "90%",
     "meta_score": "90/100",
-    "platforms": ["BBC iPlayer", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Paul Thomas Anderson",
     "cast": {
       "Alana Haim": {
@@ -15693,7 +15693,7 @@
       "Cooper Hoffman": {
         "id": 2764542,
         "character": "Gary Valentine",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8Y0AfdcpgzL4SHpKjspkDFBd6zN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6VY3YOg5o2k8CTldr8lYLijGnsN.jpg"
       },
       "Sean Penn": {
         "id": 2228,
@@ -19538,7 +19538,7 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Action", "Adventure", "Fantasy", "Comedy"],
+    "genres": ["Animation", "Family", "Adventure", "Fantasy", "Comedy", "Action", "Drama", "Science Fiction"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
@@ -19549,7 +19549,7 @@
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yjvE3aovyTvebAOalNaI3t6KkjQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -22204,7 +22204,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31197,7 +31197,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34227,7 +34227,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
