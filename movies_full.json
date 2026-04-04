@@ -1684,7 +1684,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Science Fiction"],
     "imdb_score": "7.5/10",
@@ -3978,8 +3978,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "86%",
     "meta_score": "75/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Kenneth Branagh",
     "cast": {
       "Jude Hill": {
@@ -6934,7 +6934,7 @@
       "Loris Loddi": {
         "id": 7196,
         "character": "Villanueva",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xW1fnvI8mbJJABjKBafdHAkVQ1z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5fmsQA9Hn5NKu7FRGpElJy7hxPp.jpg"
       },
       "Roberto Citran": {
         "id": 32562,
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10478,7 +10478,7 @@
       "Brad Pitt": {
         "id": 287,
         "character": "Sonny Hayes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r9DzKQLNbh5QfXlrFGHoVNKER7X.jpg"
       },
       "Damson Idris": {
         "id": 1837297,
@@ -13405,7 +13405,7 @@
       "Diane Lane": {
         "id": 2882,
         "character": "Mom (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hAMfmz0ihe4XLkOnsR4G5bLurqn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
       },
       "Kyle MacLachlan": {
         "id": 6677,
@@ -15380,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18291,7 +18291,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6RVxNlNmc0DIfZzaJKCJM43If3M.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
       },
       "Veronica Hein": {
         "id": 4514752,
@@ -19544,7 +19544,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19732,7 +19732,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21024,7 +21024,7 @@
         "character": "Young Nora",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pMWmxsuKpOH7npeZNYCxJmZt993.jpg"
       },
-      "Yim Seung-min": {
+      "Leem Seung-min": {
         "id": 3888559,
         "character": "Young Hae Sung",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3UtRGgLaH5BQTAlXRHw3n0hl5zl.jpg"
@@ -22204,7 +22204,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25599,7 +25599,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29449,7 +29449,7 @@
       "Manny Jacinto": {
         "id": 1368795,
         "character": "Lt. Billy 'Fritz' Avalone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8PENhKW8wG7LwBaJfGvskOXtlKR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cjkZzaVR5StB4fqnl58NAOSsH0o.jpg"
       },
       "Kara Wang": {
         "id": 236598,
@@ -31197,7 +31197,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34227,7 +34227,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
@@ -34268,7 +34268,7 @@
       "Ving Rhames": {
         "id": 10182,
         "character": "Thunderbolt (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rqPdVVIdt45wNDsXuREu2M6PApU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
       },
       "Mark Hamill": {
         "id": 2,
