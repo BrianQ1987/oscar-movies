@@ -5031,7 +5031,7 @@
     "released": "2025-10-17",
     "duration": 100,
     "imdb_id": "tt32536315",
-    "vote_average": "6.7",
+    "vote_average": "6.6",
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["History", "Drama", "Comedy"],
     "imdb_score": "6.8/10",
@@ -8685,7 +8685,7 @@
     "imdb_id": "tt4900148",
     "vote_average": "6.9",
     "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
-    "genres": ["Family", "Comedy", "Adventure", "Animation", "Science Fiction"],
+    "genres": ["Animation", "Family", "Science Fiction", "Adventure"],
     "imdb_score": "6.6/10",
     "rt_score": "83%",
     "meta_score": "66/100",
@@ -12098,7 +12098,7 @@
       "Hugh Grant": {
         "id": 3291,
         "character": "Phillip",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tUHkXYdwm405DjBm2IpPxGjYkjj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dvV843fOuzsEPXHtFvdzsHpy1rC.jpg"
       },
       "Stephen Sondheim": {
         "id": 52154,
@@ -15380,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17097,7 +17097,7 @@
     "imdb_id": "tt12801262",
     "vote_average": "7.8",
     "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-    "genres": ["Animation", "Comedy", "Fantasy", "Family", "Drama"],
+    "genres": ["Animation", "Family", "Fantasy", "Comedy"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20987,6 +20987,71 @@
         "id": 3070858,
         "character": "Dolores",
         "profile_path": "https://image.tmdb.org/t/p/w1280/geVHwjv5ke2ySrkVoOFaSYZ5SSa.jpg"
+      },
+      "Alice Davies": {
+        "id": 6119382,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Ainhoa Santamaría": {
+        "id": 1723075,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rpa4VYRYCxMCGqnSz4slx6O8DkY.jpg"
+      },
+      "Julio Manrique": {
+        "id": 1010339,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a5noZmGsTXI7T5v7dgpgTvbmGQN.jpg"
+      },
+      "María Jesús Hoyos": {
+        "id": 1092032,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Mar Vidal": {
+        "id": 2953538,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gMrelLaHZGh5v7WzL5kcBJCmzDh.jpg"
+      },
+      "Lorenzo Profilio": {
+        "id": 6119389,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Edy Pérez": {
+        "id": 6119390,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Amets Iriondo": {
+        "id": 6119396,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Adrián Navas": {
+        "id": 6119398,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Yohana Yara": {
+        "id": 4643877,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Pedro Casablanc": {
+        "id": 227071,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7oXGl8Nr2w7SaES4tbzjw4RYtF0.jpg"
+      },
+      "Carlotta Castro Bohórquez": {
+        "id": 6119400,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+      },
+      "Eira Rey Enríquez": {
+        "id": 6119401,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
       }
     }
   },
@@ -21911,8 +21976,8 @@
     "genres": ["Animation", "Adventure", "Fantasy", "Comedy", "Family"],
     "imdb_score": "7.8/10",
     "meta_score": "73/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joel Crawford",
     "cast": {
       "Antonio Banderas": {
@@ -22071,7 +22136,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg",
     "title": "The Quiet Girl",
     "released": "2022-05-12",
-    "duration": 94,
+    "duration": 95,
     "imdb_id": "tt15109082",
     "vote_average": "7.5",
     "overview": "A quiet, neglected girl is sent away from her dysfunctional family to live with relatives for the summer. She blossoms in their care, but in this house where there are meant to be no secrets, she discovers one.",
@@ -22209,7 +22274,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25604,7 +25669,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -34232,7 +34297,7 @@
     "imdb_id": "tt29623480",
     "vote_average": "8.3",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
-    "genres": ["Animation", "Science Fiction", "Family", "Adventure", "Drama"],
+    "genres": ["Animation", "Science Fiction", "Family", "Adventure"],
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
