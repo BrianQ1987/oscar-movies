@@ -5031,7 +5031,7 @@
     "released": "2025-10-17",
     "duration": 100,
     "imdb_id": "tt32536315",
-    "vote_average": "6.6",
+    "vote_average": "6.7",
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["History", "Drama", "Comedy"],
     "imdb_score": "6.8/10",
@@ -7704,7 +7704,7 @@
       "Sonia Yuan": {
         "id": 2547327,
         "character": "Janice Chang",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lYfuqacJq65dvrBcOC9iK4KVly8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dK6XT08Ss2qOYlu1eRCy9lbgfBb.jpg"
       },
       "Ahn Hwi-tae": {
         "id": 3154131,
@@ -11499,7 +11499,7 @@
     "released": "2025-10-17",
     "duration": 150,
     "imdb_id": "tt1312221",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
     "genres": ["Drama", "Fantasy", "Horror"],
     "imdb_score": "7.5/10",
@@ -15380,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18820,7 +18820,7 @@
       "Blake Griffin": {
         "id": 2298622,
         "character": "PAL Max Prime (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/noyOdbAudiAs2AZ9Fz6n9YexvYO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8DuLA4s1MDgo3WYMgYnT6EYC2yP.jpg"
       },
       "Conan O'Brien": {
         "id": 81200,
@@ -21706,7 +21706,7 @@
       "Thomasin McKenzie": {
         "id": 1356758,
         "character": "Lola",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/WOpnEFG5Q8LWxP81MtUrskmVox.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/of8zI5FA5cNBbZK8KdgTSw0znXK.jpg"
       },
       "Geneviève Lemon": {
         "id": 10760,
@@ -22203,13 +22203,13 @@
     "imdb_id": "tt5109280",
     "vote_average": "7.8",
     "overview": "Long ago, in the fantasy world of Kumandra, humans and dragons lived together in harmony. But when an evil force threatened the land, the dragons sacrificed themselves to save humanity. Now, 500 years later, that same evil has returned and it’s up to a lone warrior, Raya, to track down the legendary last dragon to restore the fractured land and its divided people.",
-    "genres": ["Animation", "Family", "Fantasy", "Action", "Adventure"],
+    "genres": ["Animation", "Family", "Fantasy", "Adventure", "Action"],
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25604,7 +25604,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26151,7 +26151,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction"],
+    "genres": ["Horror", "Science Fiction", "Drama"],
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
@@ -31202,7 +31202,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35124,7 +35124,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.6",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Animation", "Comedy", "Adventure", "Family", "Mystery"],
+    "genres": ["Animation", "Family", "Mystery", "Adventure", "Comedy"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
