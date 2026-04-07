@@ -12379,7 +12379,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jwrtKwcehDtkgsYAdlAL5NBerVZ.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -13683,7 +13683,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.5/10",
@@ -15380,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16970,7 +16970,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jwrtKwcehDtkgsYAdlAL5NBerVZ.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -19254,8 +19254,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "80%",
     "meta_score": "70/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Disney Plus", "Channel 4", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Guillermo del Toro",
     "cast": {
       "Bradley Cooper": {
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20488,7 +20488,7 @@
       "Emily Blunt": {
         "id": 5081,
         "character": "Kitty Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mj4mjwiApOO0TsXSJlMSs4ScRMG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
       },
       "Matt Damon": {
         "id": 1892,
@@ -25669,7 +25669,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31201,9 +31201,9 @@
     "released": "2025-09-10",
     "duration": 89,
     "imdb_id": "tt36943034",
-    "vote_average": "8",
+    "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": "Drama",
+    "genres": ["Drama", "History"],
     "imdb_score": "8.4/10",
     "rt_score": "95%",
     "meta_score": "81/100",
@@ -34318,7 +34318,7 @@
       "Kit Connor": {
         "id": 1538851,
         "character": "Brightbill (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zk0EXNKYeuobqgtde54qK4auPb2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ut64CyBwiRudb3DxOgUa2j9Wxep.jpg"
       },
       "Bill Nighy": {
         "id": 2440,
@@ -34491,7 +34491,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jwrtKwcehDtkgsYAdlAL5NBerVZ.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
