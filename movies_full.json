@@ -3154,7 +3154,7 @@
       "Jamaal Lewis": {
         "id": 2131693,
         "character": "Muscle Beach Guy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eG2S2CYigneliGEjJwK4Or6Aehd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gPbN7mnMjgKQZ6My0L3urqE6hcM.jpg"
       },
       "Kathryn Akin": {
         "id": 1945733,
@@ -4040,7 +4040,7 @@
       "Michael Maloney": {
         "id": 17483,
         "character": "Frankie West",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sE5K1f3TW1foDTT6yrGaeW4grun.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/si6FZSfm1KNDqG1o6Db6Xeha1LB.jpg"
       },
       "Turlough Convery": {
         "id": 1474032,
@@ -12949,7 +12949,7 @@
       "Carla Ribas": {
         "id": 592668,
         "character": "Martha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/71JbumRwC4zxSgCdIUHj8QtBKOt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zAzOowHTNI4cEDISLqUrDYEEkHR.jpg"
       },
       "Caio Horowicz": {
         "id": 1522735,
@@ -17101,8 +17101,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "platforms": ["Disney Plus", "Channel 4"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
     "director": "Enrico Casarosa",
     "cast": {
       "Jacob Tremblay": {
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25669,7 +25669,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29447,14 +29447,14 @@
     "imdb_score": "8.2/10",
     "rt_score": "96%",
     "meta_score": "78/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joseph Kosinski",
     "cast": {
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
       },
       "Val Kilmer": {
         "id": 5576,
@@ -29564,7 +29564,7 @@
       "Darnell Kirkwood": {
         "id": 1866197,
         "character": "Comms-Crew Tech",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/te1d0wX96qr5NxFPTYUyGe7zXpt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/w86IXcPFaKY3SYXMVrU1yFDHioe.jpg"
       },
       "Austin Bowerman": {
         "id": 1367239,
@@ -31203,7 +31203,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": ["Drama", "History"],
+    "genres": "Drama",
     "imdb_score": "8.4/10",
     "rt_score": "95%",
     "meta_score": "81/100",
