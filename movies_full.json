@@ -7021,7 +7021,7 @@
       "Tyler Perry": {
         "id": 80602,
         "character": "Jack Bremmer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vhVAxD9TmhgLyoAUOtZJYhnCraQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
       },
       "Timothée Chalamet": {
         "id": 1190668,
@@ -7667,8 +7667,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ryusuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -13252,7 +13252,7 @@
       "Eva Kornet": {
         "id": 5216221,
         "character": "Breathworker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mBIcaqOq7HOdOqBC5ZHjzeiqOYL.jpg"
       },
       "Ella Beatty": {
         "id": 4481381,
@@ -15380,7 +15380,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22274,7 +22274,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -22437,7 +22437,7 @@
       "Jennifer Grey": {
         "id": 722,
         "character": "Marcia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/degxZ5kHbiH4L7OOt0isTteb1tD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6F8nkespn4z9ZnGHQaVHL0IVm2L.jpg"
       },
       "Kurt Egyiawan": {
         "id": 1526130,
@@ -31203,7 +31203,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": "Drama",
+    "genres": ["Drama", "History"],
     "imdb_score": "8.4/10",
     "rt_score": "95%",
     "meta_score": "81/100",
