@@ -2782,8 +2782,8 @@
     "imdb_score": "6.8/10",
     "rt_score": "88%",
     "meta_score": "80/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Greta Gerwig",
     "cast": {
       "Margot Robbie": {
@@ -10120,7 +10120,7 @@
       "Daniel Scheinert": {
         "id": 1317730,
         "character": "District Manager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s04o8HFnfoIJSPQ1sPwpPr8X5sB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rb59IHeLhmyBgTeBH5LGXXIt3Y8.jpg"
       },
       "Michiko Nishiwaki": {
         "id": 62426,
@@ -12264,7 +12264,7 @@
       "John Turturro": {
         "id": 1241,
         "character": "Dottore (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wmcWO1WS0DCQrisECrcjYLIR8V4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/63zA58rSyJxBMLBdgeMjjETmpDQ.jpg"
       },
       "Finn Wolfhard": {
         "id": 1442069,
@@ -15378,7 +15378,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19547,7 +19547,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -25677,7 +25677,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uEmcx5nLzSuw9YGybvfKQRlfmLq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -31199,7 +31199,7 @@
     "released": "2025-09-10",
     "duration": 89,
     "imdb_id": "tt36943034",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.4/10",
@@ -31265,7 +31265,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
