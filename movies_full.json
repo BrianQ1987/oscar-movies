@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -9975,8 +9975,6 @@
     "imdb_score": "7.7/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -11331,7 +11329,7 @@
     "released": "2021-06-17",
     "duration": 89,
     "imdb_id": "tt8430054",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
     "genres": ["Documentary", "Animation"],
     "imdb_score": "7.9/10",
@@ -12379,7 +12377,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jwrtKwcehDtkgsYAdlAL5NBerVZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -12564,7 +12562,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -15380,7 +15378,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16970,7 +16968,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jwrtKwcehDtkgsYAdlAL5NBerVZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -19737,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22144,8 +22142,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -24256,7 +24254,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Mary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uEmcx5nLzSuw9YGybvfKQRlfmLq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dxSDWkiVaC6JYjrV3XRAZI7HOSS.jpg"
       },
       "Miles Caton": {
         "id": 4688032,
@@ -27077,7 +27075,7 @@
       "Sam Douglas": {
         "id": 17072,
         "character": "Marty Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/osgOpeWJCCcfmjEGHSmye5DQUjl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rN7OQSs4k8xMLNnkiJKFGVWdp8m.jpg"
       },
       "Burkhard Nitsch": {
         "id": 3965526,
@@ -29897,7 +29895,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg",
     "title": "Train Dreams",
     "released": "2025-11-05",
     "duration": 102,
@@ -29965,7 +29963,7 @@
       "David Paul Olsen": {
         "id": 2521250,
         "character": "Toomis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "John Patrick Lowrie": {
         "id": 2020808,
@@ -29975,17 +29973,17 @@
       "Chuck Tucker": {
         "id": 5799953,
         "character": "Silent Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Rob Price": {
         "id": 5799954,
         "character": "Curious Logger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Brandon Lindsay": {
         "id": 5799955,
         "character": "Elijah Brown",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Eric Ray Anderson": {
         "id": 1581685,
@@ -29995,27 +29993,27 @@
       "Beau Charles": {
         "id": 5799956,
         "character": "Young Logger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Rick Rivera": {
         "id": 2665931,
         "character": "Foreman. New Cut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Taylor McKinley": {
         "id": 5799957,
         "character": "Logger. New Cut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Ashton Singer": {
         "id": 4290769,
         "character": "Avery Pinkham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Zoe Rose Short": {
         "id": 5799958,
         "character": "Kate. Returned",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Sean San Jose": {
         "id": 4178064,
@@ -30030,17 +30028,17 @@
       "Cisco Keanu Hoberock": {
         "id": 3225994,
         "character": "Wolfboy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Clark Sandford": {
         "id": 2127871,
         "character": "Pilot's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Amelia Hilsen": {
         "id": 5799959,
         "character": "Pilot",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Keith Cox": {
         "id": 2100053,
@@ -30050,37 +30048,37 @@
       "Bonne Vejou-Dorrell": {
         "id": 3399755,
         "character": "Kootenai Indian (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Ron Ford": {
         "id": 98712,
         "character": "Mr. Pinkham (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Frank A. Gaimari": {
         "id": 4198299,
         "character": "Church Attendee (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Miles Glew": {
         "id": 5920919,
         "character": "Fair Attendee (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Pamela Kingsley": {
         "id": 3189269,
         "character": "Chapel Congregant (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Jennifer Simmons": {
         "id": 2317156,
         "character": "Mrs. Pinkham (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Eric David Wallace": {
         "id": 5816540,
         "character": "Logger (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wfzYOVdafdbD1d3SxNqiBtV2Yhx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       }
     }
   },
@@ -31267,7 +31265,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34491,7 +34489,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jwrtKwcehDtkgsYAdlAL5NBerVZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
