@@ -5634,7 +5634,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -6991,7 +6991,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -7046,7 +7046,7 @@
       "Himesh Patel": {
         "id": 1227717,
         "character": "Phillip",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qCjfMjUxiAHdVpIMI9YN5MUdn24.jpg"
       },
       "Melanie Lynskey": {
         "id": 15091,
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19547,7 +19547,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -22352,7 +22352,7 @@
       "François Chau": {
         "id": 60851,
         "character": "Wahn (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3jRRJMK09FZVW8ByqAttLLF9ygE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fRKnZpGoUBJAEx9gEOkN1bG21D8.jpg"
       },
       "Paul Yen": {
         "id": 1731040,
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31387,7 +31387,7 @@
     "imdb_id": "tt26581740",
     "vote_average": "7.3",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-    "genres": ["Horror", "Mystery"],
+    "genres": ["Horror", "Mystery", "Comedy"],
     "imdb_score": "7.4/10",
     "rt_score": "93%",
     "meta_score": "81/100",
