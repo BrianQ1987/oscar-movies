@@ -2869,7 +2869,7 @@
       "Kingsley Ben-Adir": {
         "id": 1417352,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/35EG2nZhvVF7Cf317wWpIJfQwWl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yCJNGOQKavWqOZSIEPKvQVlyAwA.jpg"
       },
       "Ncuti Gatwa": {
         "id": 1475239,
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19547,7 +19547,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19597,7 +19597,7 @@
       "Sarah Sherman": {
         "id": 2198504,
         "character": "Coriander Cadaverish (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8COfsPTMLVfrMPECZnJnsfNMoaw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jea3B8e0VHwKSrU3KlOyyGotsmS.jpg"
       },
       "ND Stevenson": {
         "id": 1907841,
@@ -25208,7 +25208,7 @@
       "Michael Imperioli": {
         "id": 11486,
         "character": "Mark Shurilla",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jfoEHR6BRMg8emtujXdM3G4JHIm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bCDwQGrecRujCibI8rvsxEc91We.jpg"
       },
       "Fisher Stevens": {
         "id": 26473,
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31265,7 +31265,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35187,7 +35187,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.6",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Animation", "Family", "Mystery", "Adventure", "Comedy"],
+    "genres": ["Animation", "Family", "Mystery", "Adventure", "Comedy", "Action"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
