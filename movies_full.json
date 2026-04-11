@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -18793,7 +18793,7 @@
       "Fred Armisen": {
         "id": 61110,
         "character": "Deborahbot 5000 (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lQ9AEIjbVcSeJ6THEJk72CMU5Qs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
       },
       "Beck Bennett": {
         "id": 1180696,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24544,7 +24544,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -25170,7 +25170,7 @@
       "Florencia Colucci": {
         "id": 542239,
         "character": "Hospital Baby's Mother",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t74ct9u8coyFQvhB0n0ovuEJoPk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6cIXff7St5JOolxqwbrNUkUmqcP.jpg"
       }
     }
   },
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31265,7 +31265,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35187,7 +35187,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.6",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Animation", "Family", "Mystery", "Adventure", "Comedy", "Action"],
+    "genres": ["Animation", "Family", "Mystery", "Adventure", "Comedy"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
