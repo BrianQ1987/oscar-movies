@@ -13681,7 +13681,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.5/10",
@@ -18352,7 +18352,7 @@
       "Elizabeth Yu": {
         "id": 3417134,
         "character": "Mary Atherton-Yoo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i4bJJeB8fCIYmlhJClaHxdp0ZXa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg"
       },
       "Gabriel Chung": {
         "id": 3878582,
@@ -19597,7 +19597,7 @@
       "Sarah Sherman": {
         "id": 2198504,
         "character": "Coriander Cadaverish (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jea3B8e0VHwKSrU3KlOyyGotsmS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
       },
       "ND Stevenson": {
         "id": 1907841,
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -24326,7 +24326,7 @@
         "character": "Beatrice",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2iWCAuesQnofu3idnQGziJzW9Jq.jpg"
       },
-      "David Maldonado": {
+      "Dave Maldonado": {
         "id": 1327175,
         "character": "Hogwood",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lv2a22R5xg5E6MAToTonwfWPQNA.jpg"
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
