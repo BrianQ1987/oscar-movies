@@ -1684,7 +1684,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
     "genres": ["Animation", "Adventure", "Fantasy", "Family", "Science Fiction"],
     "imdb_score": "7.5/10",
@@ -14940,7 +14940,7 @@
       "Tony Goldwyn": {
         "id": 3417,
         "character": "Paul Cohen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
       },
       "Susie Abromeit": {
         "id": 108696,
@@ -19988,7 +19988,7 @@
       "Tony Goldwyn": {
         "id": 3417,
         "character": "Virgil Throckmorton",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
       },
       "D.W. Moffett": {
         "id": 87956,
@@ -20566,7 +20566,7 @@
       "Tony Goldwyn": {
         "id": 3417,
         "character": "Gordon Gray",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ptm8SG4MYIMn0hnDl2YJ70Dwal5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
       },
       "Jefferson Hall": {
         "id": 109322,
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31265,7 +31265,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
