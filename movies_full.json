@@ -5160,7 +5160,7 @@
     "duration": 124,
     "imdb_id": "tt6587046",
     "vote_average": "7.4",
-    "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother. As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
+    "overview": "While the Second World War rages, the teenage Mahito, haunted by his mother's tragic death, is relocated from Tokyo to the serene rural home of his new stepmother Natsuko, a woman who bears a striking resemblance to the boy's mother.  As he tries to adjust, this strange new world grows even stranger following the appearance of a persistent gray heron, who perplexes and bedevils Mahito, dubbing him the \"long-awaited one.\"",
     "genres": ["Animation", "Fantasy", "Drama"],
     "imdb_score": "7.3/10",
     "rt_score": "96%",
@@ -5278,7 +5278,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -12392,7 +12392,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -13190,9 +13190,9 @@
     "vote_average": "6.3",
     "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
     "genres": "Drama",
-    "imdb_score": "6.7/10",
+    "imdb_score": "6.6/10",
     "rt_score": "92%",
-    "meta_score": "77/100",
+    "meta_score": "78/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Mary Bronstein",
@@ -17679,7 +17679,7 @@
     "vote_average": "7.4",
     "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
     "genres": ["Drama", "Thriller"],
-    "imdb_score": "8.1/10",
+    "imdb_score": "7.7/10",
     "rt_score": "94%",
     "meta_score": "89/100",
     "platforms": "Plex",
@@ -17986,7 +17986,7 @@
         "character": "Clark",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1tJmKfdcYhCVOYwt8kTesg08wcA.jpg"
       },
-      "Hailey Benton Gates": {
+      "Hailey Gates": {
         "id": 1599899,
         "character": "Trish",
         "profile_path": "https://image.tmdb.org/t/p/w1280/q3GFo0wx7e0iz7P22dd9sSXZSwn.jpg"
@@ -24549,7 +24549,7 @@
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
     "rt_score": "94%",
-    "meta_score": "85/100",
+    "meta_score": "84/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Oliver Laxe",
@@ -25188,7 +25188,7 @@
     "vote_average": "7.4",
     "overview": "Based on a true story, two down-on-their-luck musicians form a joyous Neil Diamond tribute band, proving it's never too late to find love and follow your dreams.",
     "genres": ["Music", "Romance", "Drama"],
-    "imdb_score": "7.3/10",
+    "imdb_score": "7.2/10",
     "rt_score": "80%",
     "meta_score": "61/100",
     "platforms": "Plex",
