@@ -447,8 +447,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": ["BBC iPlayer", "Amazon Prime Video"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pvske1MyAoymrs5bguRfVqYiM9a.jpg"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Cord Jefferson",
     "cast": {
       "Jeffrey Wright": {
@@ -14903,8 +14903,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -15563,7 +15563,7 @@
       "Jason Her": {
         "id": 1954047,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rNp3zuP8gVQLa848FN1CaB1DZ2u.jpg"
       },
       "Chase Kim": {
         "id": 945041,
@@ -15716,7 +15716,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Lance Brannigan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qsj3TrHFfkDGSEKHfxfMpBWAe7N.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -21258,7 +21258,7 @@
       "Tomokazu Miura": {
         "id": 33134,
         "character": "Tomoyama",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2tKusMF6dzGOfH7MM73FCsJzRoJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rKSUP6nlk2ZXIFr4rpBx6HnQKM7.jpg"
       },
       "Min Tanaka": {
         "id": 136191,
@@ -25737,7 +25737,7 @@
       "Amandla Stenberg": {
         "id": 561869,
         "character": "Margo Kess: Spider-Byte (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dGqTcwLVoVOqU6Ckp8igV3wD0CW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
       },
       "Jharrel Jerome": {
         "id": 1664716,
@@ -31596,7 +31596,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hoaBlsu1mghrk7aefZcJ3i0v5Bh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
