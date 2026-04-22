@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -28636,7 +28636,7 @@
       "Bradley Whitford": {
         "id": 11367,
         "character": "Stephen Sondheim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hy3jwrcpmEpM7jLkrhlqQb1TfGN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ucLbzo9DlVsQnIPLnUAf0RDhhm6.jpg"
       },
       "Judith Light": {
         "id": 80415,
@@ -29434,7 +29434,7 @@
     "watched": true,
     "nominated": 2023,
     "categories": ["Best Picture", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg",
     "title": "Top Gun: Maverick",
     "released": "2022-05-21",
     "duration": 131,
@@ -29453,11 +29453,6 @@
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
         "profile_path": "https://image.tmdb.org/t/p/w1280/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
-      },
-      "Val Kilmer": {
-        "id": 5576,
-        "character": "Adm. Tom 'Iceman' Kazansky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dZEGiq4XmCiXq9hmz0vVLId010z.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -29508,6 +29503,11 @@
         "id": 83271,
         "character": "Lt. Jake 'Hangman' Seresin",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+      },
+      "Val Kilmer": {
+        "id": 5576,
+        "character": "Adm. Tom 'Iceman' Kazansky",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dZEGiq4XmCiXq9hmz0vVLId010z.jpg"
       },
       "Jack Schumacher": {
         "id": 3563646,
@@ -29577,7 +29577,7 @@
       "Alec Williams": {
         "id": 3600045,
         "character": "Cain's Aide",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Rachel Winfree": {
         "id": 155983,
@@ -29607,17 +29607,17 @@
       "Margaret Strabala": {
         "id": 3600047,
         "character": "Air Control Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Ryan Heilmann": {
         "id": 3600056,
         "character": "Air Control Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Shantel Limbo": {
         "id": 3600048,
         "character": "Staff Seargeant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "James Handy": {
         "id": 51551,
@@ -29627,22 +29627,22 @@
       "Whylip Lee": {
         "id": 3600049,
         "character": "Fuel",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Tristan Henry": {
         "id": 3375910,
         "character": "Surfaces",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Jason Robert Boles": {
         "id": 3600050,
         "character": "Mini Boss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Brian Ferguson": {
         "id": 3600257,
         "character": "Fighter Pilot in Bar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Chido Nwokocha": {
         "id": 2524496,
@@ -29667,22 +29667,12 @@
       "Norman Ralph Eliasen": {
         "id": 3563647,
         "character": "Mission Controller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       },
       "Tommy Kijas": {
         "id": 1046359,
         "character": "Big Roy (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
-      },
-      "Jack Kilmer": {
-        "id": 1193604,
-        "character": "Iceman's son (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t3ufi6Zc3YCINV56Bp3AhJgWCBL.jpg"
-      },
-      "Mercedes Kilmer": {
-        "id": 1476566,
-        "character": "Iceman's daughter (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ue1HwEyAtrwVVUXhWXR8V3zZL3v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       }
     }
   },
