@@ -5054,7 +5054,7 @@
       "Andrew Scott": {
         "id": 125660,
         "character": "Richard Rodgers",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8qyt6HheUQvLwargYvs5EcsceGz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
       },
       "Margaret Qualley": {
         "id": 1392137,
@@ -5254,7 +5254,7 @@
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
-    "genres": ["Drama", "History"],
+    "genres": "Drama",
     "imdb_score": "7.2/10",
     "rt_score": "93%",
     "meta_score": "91/100",
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -9813,7 +9813,7 @@
       "Frank Welker": {
         "id": 15831,
         "character": "Parce (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
       }
     }
   },
@@ -15378,7 +15378,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19547,7 +19547,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23149,7 +23149,7 @@
       "Frank Welker": {
         "id": 15831,
         "character": "Red Bluster (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xXODQ5AX6pG4my8ieeEIuiAREXs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
       }
     }
   },
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
