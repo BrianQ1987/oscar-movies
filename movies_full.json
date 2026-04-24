@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13187,7 +13187,7 @@
     "released": "2025-10-10",
     "duration": 113,
     "imdb_id": "tt18382850",
-    "vote_average": "6.4",
+    "vote_average": "6.3",
     "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
     "genres": "Drama",
     "imdb_score": "6.6/10",
@@ -16676,7 +16676,7 @@
     "released": "2025-06-25",
     "duration": 78,
     "imdb_id": "tt29313285",
-    "vote_average": "8",
+    "vote_average": "7.9",
     "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
     "genres": ["Animation", "Drama", "Family"],
     "rt_score": "98%",
@@ -17488,7 +17488,7 @@
       "Alexa Swinton": {
         "id": 2380384,
         "character": "Nina Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mMfHreSpVYNGyQ47s8tdaqdQe0B.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nFCLovKq3lJP3S25EbP5gZRqjZz.jpg"
       },
       "Mike Mitarotondo": {
         "id": 4479664,
@@ -18545,7 +18545,7 @@
       "Eric Bana": {
         "id": 8783,
         "character": "James the Magistrate (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xIjQVywxkymHbbSO7lD2F9f377W.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
       },
       "Bernie Clifford": {
         "id": 3664298,
@@ -19541,7 +19541,7 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Adventure", "Fantasy", "Comedy", "Action", "Drama", "Science Fiction"],
+    "genres": ["Animation", "Action", "Family", "Fantasy", "Comedy", "Drama", "Science Fiction", "Adventure"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -28636,7 +28636,7 @@
       "Bradley Whitford": {
         "id": 11367,
         "character": "Stephen Sondheim",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ucLbzo9DlVsQnIPLnUAf0RDhhm6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
       },
       "Judith Light": {
         "id": 80415,
@@ -31255,7 +31255,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
