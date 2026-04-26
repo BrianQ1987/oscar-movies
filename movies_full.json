@@ -8685,13 +8685,13 @@
     "imdb_id": "tt4900148",
     "vote_average": "6.9",
     "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
-    "genres": ["Animation", "Family", "Science Fiction", "Adventure", "Comedy"],
+    "genres": ["Adventure", "Animation", "Comedy", "Family", "Science Fiction"],
     "imdb_score": "6.6/10",
     "rt_score": "83%",
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -9356,7 +9356,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t60VEQI7XSoYJWhgdbyWSYr4WVZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i2a2Lxpl3ciVL94GcMK8aITEm4Y.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -10175,7 +10175,7 @@
     "released": "2021-09-17",
     "duration": 126,
     "imdb_id": "tt9115530",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "From the 1960s to the 1980s, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to build an empire based on big-time evangelical Christianity--only for the couple to fall from grace because of some all-too-human sins.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.6/10",
@@ -15378,7 +15378,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19541,13 +19541,13 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Action", "Family", "Fantasy", "Comedy", "Drama", "Science Fiction", "Adventure"],
+    "genres": ["Animation", "Family", "Fantasy", "Science Fiction", "Adventure"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31375,7 +31375,7 @@
     "released": "2025-08-04",
     "duration": 129,
     "imdb_id": "tt26581740",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": ["Horror", "Mystery"],
     "imdb_score": "7.4/10",
@@ -31586,7 +31586,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hoaBlsu1mghrk7aefZcJ3i0v5Bh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
@@ -34269,6 +34269,11 @@
         "id": 25113,
         "character": "Shiz Student (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
+      },
+      "Alice Bennett": {
+        "id": 4587552,
+        "character": "Munchkin / Bully to Young Elphaba (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
       }
     }
   },
@@ -35177,7 +35182,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.6",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Animation", "Family", "Mystery", "Adventure", "Comedy"],
+    "genres": ["Adventure", "Animation", "Comedy", "Family", "Mystery"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
