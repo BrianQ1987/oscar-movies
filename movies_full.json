@@ -3369,7 +3369,7 @@
       "Yasmin Harrison": {
         "id": 1826765,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Eu6648a2QNsyBRJWksTflG2WHh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nYlevFwcZXmnZ430HbBlPXTgz44.jpg"
       },
       "Josh Hawkins": {
         "id": 2242897,
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10175,7 +10175,7 @@
     "released": "2021-09-17",
     "duration": 126,
     "imdb_id": "tt9115530",
-    "vote_average": "6.4",
+    "vote_average": "6.5",
     "overview": "From the 1960s to the 1980s, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to build an empire based on big-time evangelical Christianity--only for the couple to fall from grace because of some all-too-human sins.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.6/10",
@@ -13681,7 +13681,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.4/10",
@@ -29532,7 +29532,7 @@
       "Jake Picking": {
         "id": 1456280,
         "character": "Lt. Brigham 'Harvard' Lennox",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w37BIVKf7d64AtmFkBbviMNNDsX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aK2rGaFOWdqZtbKVI4bKCeO8AF3.jpg"
       },
       "Raymond Lee": {
         "id": 1321411,
@@ -31255,7 +31255,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34838,8 +34838,6 @@
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "92/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": "Jonathan Glazer",
     "cast": {
       "Christian Friedel": {
