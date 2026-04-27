@@ -5031,7 +5031,7 @@
     "released": "2025-10-17",
     "duration": 100,
     "imdb_id": "tt32536315",
-    "vote_average": "6.6",
+    "vote_average": "6.7",
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["Music", "History", "Drama", "Comedy"],
     "imdb_score": "6.8/10",
@@ -12362,7 +12362,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
     "title": "Hamnet",
     "released": "2025-11-26",
-    "duration": 126,
+    "duration": 125,
     "imdb_id": "tt14905854",
     "vote_average": "7.7",
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
@@ -13348,7 +13348,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOqYLK4Y453oCktOJuu43AgWEFS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/evjbbHM1bzA6Ma5Ptjwa4WkYkkj.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -13478,7 +13478,7 @@
       "John Ratzenberger": {
         "id": 7907,
         "character": "Fritz (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e5aNU09v1q6WYTx9pNzC7yjSpve.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
       },
       "Sarayu Blue": {
         "id": 1224130,
@@ -17443,7 +17443,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Jamie Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lOqYLK4Y453oCktOJuu43AgWEFS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/evjbbHM1bzA6Ma5Ptjwa4WkYkkj.jpg"
       },
       "Scott Ellis": {
         "id": 4479655,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31255,7 +31255,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31375,7 +31375,7 @@
     "released": "2025-08-04",
     "duration": 129,
     "imdb_id": "tt26581740",
-    "vote_average": "7.2",
+    "vote_average": "7.3",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": ["Horror", "Mystery"],
     "imdb_score": "7.4/10",
