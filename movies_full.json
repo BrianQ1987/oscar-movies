@@ -569,7 +569,7 @@
       "Keith David": {
         "id": 65827,
         "character": "Willy the Wonker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zM6WKGExJ7cn0Id1FiOXXRpvTts.jpg"
       },
       "Miriam Shor": {
         "id": 18273,
@@ -5471,7 +5471,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -6356,7 +6356,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -7802,7 +7802,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8065,7 +8065,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -8095,7 +8095,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8691,7 +8691,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11515,7 +11515,7 @@
       "Jacob Elordi": {
         "id": 2034418,
         "character": "The Creature",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lC9pK3ADyPpH4dRo2BKZBaTZPfu.jpg"
       },
       "Christoph Waltz": {
         "id": 27319,
@@ -16753,8 +16753,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "96%",
     "meta_score": "81/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Oliver Hermanus",
     "cast": {
       "Bill Nighy": {
@@ -17689,7 +17689,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
@@ -20501,7 +20501,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6Sjz9teWjrMY9lF2o9FCo4XmoRh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -21461,7 +21461,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -22272,7 +22272,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25667,7 +25667,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31375,7 +31375,7 @@
     "released": "2025-08-04",
     "duration": 129,
     "imdb_id": "tt26581740",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": ["Horror", "Mystery"],
     "imdb_score": "7.4/10",
@@ -32232,7 +32232,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cv73PoXUFHzlP3PQwOqfju9SJ28.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m9OyHAyOx56Pm3JruEBqh4p9XeX.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -34306,7 +34306,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
