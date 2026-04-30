@@ -2804,7 +2804,7 @@
       "Ariana Greenblatt": {
         "id": 1767250,
         "character": "Sasha",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kTUuyjwc0sSiOGQkNhbmpmqMt5a.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2Z8KtwNyOIRXrEo2ZavAGg7fzaE.jpg"
       },
       "Issa Rae": {
         "id": 1455336,
@@ -5049,7 +5049,7 @@
       "Bobby Cannavale": {
         "id": 21127,
         "character": "Eddie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ict5zjYkwVhG22Ync5z9Y80mHFu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
       },
       "Andrew Scott": {
         "id": 125660,
@@ -15378,7 +15378,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19547,7 +19547,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19597,7 +19597,7 @@
       "Sarah Sherman": {
         "id": 2198504,
         "character": "Coriander Cadaverish (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
       },
       "ND Stevenson": {
         "id": 1907841,
@@ -19735,7 +19735,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -31255,7 +31255,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
