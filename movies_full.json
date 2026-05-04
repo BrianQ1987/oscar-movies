@@ -12907,7 +12907,7 @@
       "Maitê Padilha": {
         "id": 1951689,
         "character": "Cristina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ApcDfw0SWI3JHEPND39yDLIQx5m.jpg"
       },
       "Felipe Barreto": {
         "id": 5498398,
@@ -17936,10 +17936,10 @@
         "character": "Clark",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1tJmKfdcYhCVOYwt8kTesg08wcA.jpg"
       },
-      "Hailey Gates": {
+      "Hailey Benton Gates": {
         "id": 1599899,
         "character": "Trish",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jSex8BKWzNmRhHVO7JjjDGwoyZL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wE43jebRFv05diB92ZbSRxv0MAl.jpg"
       },
       "Patrick Wiki Morales": {
         "id": 5897331,
@@ -19497,7 +19497,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19685,7 +19685,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22222,7 +22222,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31205,7 +31205,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34555,8 +34555,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "96%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Joachim Trier",
     "cast": {
       "Renate Reinsve": {
