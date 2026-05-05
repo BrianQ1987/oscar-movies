@@ -569,7 +569,7 @@
       "Keith David": {
         "id": 65827,
         "character": "Willy the Wonker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zM6WKGExJ7cn0Id1FiOXXRpvTts.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
       },
       "Miriam Shor": {
         "id": 18273,
@@ -2428,7 +2428,7 @@
       "Jamie Flatters": {
         "id": 1729393,
         "character": "Neteyam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4us0bbdSOPayvw3N1gT0wtap4fc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/94adVPuUSt26vCGNt1iJJ5JUdBH.jpg"
       },
       "Trinity Jo-Li Bliss": {
         "id": 1895788,
@@ -5278,7 +5278,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lvO3xrxnRbVaWDMLlDozipXgYRN.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7795,8 +7795,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["ITVX", "Plex"],
+    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Denis Villeneuve",
     "cast": {
       "Timothée Chalamet": {
@@ -8025,7 +8025,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nO16XkATzCZLN0biZYrL6Hhwkcz.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -19497,7 +19497,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19685,7 +19685,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20404,6 +20404,11 @@
         "id": 5708278,
         "character": "CB Radio",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+      },
+      "Liam Briscoe": {
+        "id": 6188559,
+        "character": "Man",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
       }
     }
   },
@@ -20436,7 +20441,7 @@
       "Emily Blunt": {
         "id": 5081,
         "character": "Kitty Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zpJ7pupuNF3W0zTxm6yioGIoxbd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
       },
       "Matt Damon": {
         "id": 1892,
@@ -21411,7 +21416,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tWoSlj6TaZU5sfHYiXvexZUL5Nv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -22222,7 +22227,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31205,7 +31210,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
