@@ -5278,7 +5278,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lvO3xrxnRbVaWDMLlDozipXgYRN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7862,7 +7862,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nO16XkATzCZLN0biZYrL6Hhwkcz.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8641,7 +8641,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15328,7 +15328,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -22227,7 +22227,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -22546,7 +22546,7 @@
       "Chris Rock": {
         "id": 2632,
         "character": "Roy Wilkins",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cqI8yQ00GNDV3PAAz5UeLj7vOX0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
       },
       "Gus Halper": {
         "id": 1560344,
@@ -23121,7 +23121,7 @@
     "imdb_id": "tt27847051",
     "vote_average": "7.3",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-    "genres": ["Crime", "Drama", "Thriller"],
+    "genres": ["Thriller", "Drama", "Crime"],
     "imdb_score": "7.2/10",
     "meta_score": "91/100",
     "platforms": "Plex",
@@ -26153,6 +26153,26 @@
         "id": 2141479,
         "character": "Mrs. Chen (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ng5eaDcOf9kSwIYGNmwF9wEfIHp.jpg"
+      },
+      "Cliff Robertson": {
+        "id": 19153,
+        "character": "Uncle Ben (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8pH2RWCPtXKzT9P33MbzgnzPlF0.jpg"
+      },
+      "Tobey Maguire": {
+        "id": 2219,
+        "character": "Peter Parker / Spider-Man (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+      },
+      "Denis Leary": {
+        "id": 5724,
+        "character": "George Stacy (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+      },
+      "Andrew Garfield": {
+        "id": 37625,
+        "character": "Peter Parker / Spider-Man (archive footage) (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
       }
     }
   },
@@ -31210,7 +31230,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31330,7 +31350,7 @@
     "released": "2025-08-04",
     "duration": 129,
     "imdb_id": "tt26581740",
-    "vote_average": "7.2",
+    "vote_average": "7.3",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
     "genres": ["Horror", "Mystery"],
     "imdb_score": "7.4/10",
