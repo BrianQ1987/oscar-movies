@@ -4568,7 +4568,7 @@
       "Leonardo Castro Sitiriche": {
         "id": 1620122,
         "character": "Hacienda Owner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pA8a6ECNFUmHroKaptsWLpvFzyR.jpg"
       },
       "Juan Carlos Cantu": {
         "id": 168147,
@@ -7862,7 +7862,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nO16XkATzCZLN0biZYrL6Hhwkcz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Jed1yWB8boYnrkYRSC5lPeigeQ.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8025,7 +8025,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nO16XkATzCZLN0biZYrL6Hhwkcz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Jed1yWB8boYnrkYRSC5lPeigeQ.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -9799,7 +9799,7 @@
       "Lorenzo Zurzolo": {
         "id": 1526594,
         "character": "Vito",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yoeUvAcXXxy0fY1EOk9D1Qp7zsO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kuBQoAnIuLI1wSuEVZST4vfEJhO.jpg"
       },
       "Mateusz Kościukiewicz": {
         "id": 1482162,
@@ -11429,7 +11429,7 @@
     "imdb_id": "tt4772188",
     "vote_average": "8.1",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-    "genres": ["Animation", "Adventure", "Fantasy", "Family"],
+    "genres": ["Animation", "Adventure", "Family"],
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "87/100",
@@ -22227,7 +22227,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31230,7 +31230,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
