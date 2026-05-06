@@ -3978,8 +3978,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "86%",
     "meta_score": "75/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Kenneth Branagh",
     "cast": {
       "Jude Hill": {
@@ -8025,7 +8025,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9Jed1yWB8boYnrkYRSC5lPeigeQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1wBa9ZFXu4TqPfBxPQhCYiV7fay.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -12512,7 +12512,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -15328,7 +15328,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19685,7 +19685,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21929,8 +21929,8 @@
     "genres": ["Animation", "Adventure", "Fantasy", "Comedy", "Family"],
     "imdb_score": "7.8/10",
     "meta_score": "73/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Joel Crawford",
     "cast": {
       "Antonio Banderas": {
@@ -31150,6 +31150,46 @@
         "id": 1452946,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sBxfuNnJMHq60KJP1HRYxLSRBR6.jpg"
+      },
+      "Osama bin Laden": {
+        "id": 84384,
+        "character": "Terrorist (911}",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hzbPwf6XaPul7eI4N2U4t267uqd.jpg"
+      },
+      "Barack Obama": {
+        "id": 102786,
+        "character": "President (US}",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/reEkbvLlNknpCo2I37Vim6XpqGu.jpg"
+      },
+      "Donald Trump": {
+        "id": 33663,
+        "character": "President (Supports kidnaping innocent immagrants}",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nkQrZELEgxsvwDSlYkNfpFmsFx4.jpg"
+      },
+      "Joe Biden": {
+        "id": 1508927,
+        "character": "President",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fd1XKWTVBAUyvu4HeSNDCkrOSEI.jpg"
+      },
+      "Jeffrey Epstein": {
+        "id": 2607708,
+        "character": "Sex Trafficker, Businessman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xYotfVAMFVQWMrBEEGLAyqNaAOx.jpg"
+      },
+      "Sean Combs": {
+        "id": 16450,
+        "character": "Rapper, Sex Trafficer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4AIfaoGkcuWPhTRR4A6k5tjYJci.jpg"
+      },
+      "Charlie Kirk": {
+        "id": 3552672,
+        "character": "Conservative Activist (Assassinated}",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gHYoIJz7hZaWOXEzjMYzJCV6EPd.jpg"
+      },
+      "Adolf Hitler": {
+        "id": 10279,
+        "character": "Dictator",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n6f81IUSes1a8jTzUIF7rJ5zZnP.jpg"
       }
     }
   },
@@ -31230,7 +31270,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31866,7 +31906,7 @@
       "Maddie Ziegler": {
         "id": 1483976,
         "character": "Velma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uYMtRyQS78el5XRLLnGBfMhVhif.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hDzdA0IvoPpx5nmwL5Uu75rdfYh.jpg"
       },
       "Andréa Burns": {
         "id": 1363622,
