@@ -5263,7 +5263,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "László Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v2U61NlN1LEPhFGjvjLQr3OVWYk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
@@ -8025,7 +8025,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1wBa9ZFXu4TqPfBxPQhCYiV7fay.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9Jed1yWB8boYnrkYRSC5lPeigeQ.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8641,7 +8641,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11429,7 +11429,7 @@
     "imdb_id": "tt4772188",
     "vote_average": "8.1",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
-    "genres": ["Animation", "Adventure", "Family"],
+    "genres": ["Adventure", "Animation", "Drama", "Family", "Fantasy"],
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "87/100",
@@ -13902,7 +13902,7 @@
       "Pat Healy": {
         "id": 60846,
         "character": "Agent John Burger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eHTM7VOGeeVQDdGmodL24aN89YL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gWW97trwxTAi1nkY4CY1jNFMP5z.jpg"
       },
       "Steve Witting": {
         "id": 152864,
@@ -14880,7 +14880,7 @@
       "Jon Bernthal": {
         "id": 19498,
         "character": "Rick Macci",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pEDKAsy1zO9dgSeBjohqklOXRUQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
       },
       "Mikayla LaShae Bartholomew": {
         "id": 2988968,
@@ -19685,7 +19685,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -32247,7 +32247,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cv73PoXUFHzlP3PQwOqfju9SJ28.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
