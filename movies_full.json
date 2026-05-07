@@ -4661,7 +4661,7 @@
       "Adrien Brody": {
         "id": 3490,
         "character": "The Playwright",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v2U61NlN1LEPhFGjvjLQr3OVWYk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/id5GuTduKt3yCwb7BrVLuWKqaSq.jpg"
       },
       "Bobby Cannavale": {
         "id": 21127,
@@ -7862,7 +7862,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9Jed1yWB8boYnrkYRSC5lPeigeQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8025,7 +8025,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9Jed1yWB8boYnrkYRSC5lPeigeQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -12512,7 +12512,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -13449,6 +13449,11 @@
         "id": 4578519,
         "character": "Hockey Announcer (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hkFryqJW9IYDlZRlDfmINbvVvKy.jpg"
+      },
+      "TahKyah Brings Plenty": {
+        "id": 6183492,
+        "character": "Emarie (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ys0540qjU32cdRlCfiKwjGvk2Xl.jpg"
       }
     }
   },
@@ -17049,8 +17054,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
-    "platforms": ["Disney Plus", "Channel 4"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg"],
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Enrico Casarosa",
     "cast": {
       "Jacob Tremblay": {
