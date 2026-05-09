@@ -2361,8 +2361,6 @@
     "imdb_score": "7.5/10",
     "rt_score": "76%",
     "meta_score": "67/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Cameron",
     "cast": {
       "Sam Worthington": {
@@ -2488,7 +2486,7 @@
       "Kevin Dorman": {
         "id": 91443,
         "character": "Recom Mansk",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nKxnaK0vfps0HHpnUfvfMgWA6Qh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jByqQyo6VsnbtXwKGidaadSBOPb.jpg"
       },
       "Alicia Vela-Bailey": {
         "id": 1186027,
@@ -5064,7 +5062,7 @@
       "Patrick Kennedy": {
         "id": 14432,
         "character": "E.B. 'Andy' White",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r4WOF90yx2tuWb2DDLRHSkCYBxc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Aj7lwhi4rYfzP5OZJiem5w72re8.jpg"
       },
       "Jonah Lees": {
         "id": 559627,
@@ -6349,8 +6347,6 @@
     "imdb_score": "7.3/10",
     "rt_score": "82%",
     "meta_score": "70/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Mangold",
     "cast": {
       "Timothée Chalamet": {
@@ -8524,8 +8520,6 @@
     "imdb_score": "7.0/10",
     "rt_score": "73%",
     "meta_score": "58/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Peter Sohn",
     "cast": {
       "Leah Lewis": {
@@ -8637,8 +8631,6 @@
     "imdb_score": "6.6/10",
     "rt_score": "83%",
     "meta_score": "66/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
@@ -9027,7 +9019,7 @@
       "Christopher Sommers": {
         "id": 1014586,
         "character": "Horace Logan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/99Ftx1QWnfhsRBwl2mlafpbCLVQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e86eKSvV5gr1qihDfG8Lpya04OC.jpg"
       },
       "Brad Leaver": {
         "id": 3866197,
@@ -10151,7 +10143,7 @@
       "Vincent D'Onofrio": {
         "id": 7132,
         "character": "Jerry Falwell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5xHJKUsA8qGvTPO4q5sLZRmzbH2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
       },
       "Mark Wystrach": {
         "id": 2451904,
@@ -12510,7 +12502,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -13284,8 +13276,6 @@
     "imdb_score": "7.5/10",
     "rt_score": "91%",
     "meta_score": "73/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Kelsey Mann",
     "cast": {
       "Amy Poehler": {
@@ -13448,10 +13438,10 @@
         "character": "Hockey Announcer (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hkFryqJW9IYDlZRlDfmINbvVvKy.jpg"
       },
-      "TahKyah Brings Plenty": {
-        "id": 6183492,
+      "Tahkyah Brings Plenty": {
+        "id": 6200865,
         "character": "Emarie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ys0540qjU32cdRlCfiKwjGvk2Xl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
       }
     }
   },
@@ -15331,7 +15321,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17386,7 +17376,7 @@
       "Zachary Booth": {
         "id": 205854,
         "character": "Mendy Wager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jGVhfhD1KVpHoeCEmqPLzWPAUf0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hdYodH03F2oP4htcGpfYP1gtdqz.jpg"
       },
       "Miriam Shor": {
         "id": 18273,
@@ -18989,7 +18979,7 @@
       "Brandon Wilson": {
         "id": 1674009,
         "character": "Turner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m8XtaANCSHJqZyXQn7RKiIEW9CE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lu2vmmtStmTNMmSZl2LgrrQpLZo.jpg"
       },
       "Aunjanue Ellis-Taylor": {
         "id": 53923,
@@ -19500,7 +19490,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19688,7 +19678,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19788,7 +19778,7 @@
       "Toussaint Merionne": {
         "id": 2744450,
         "character": "Taxi Driver",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nzM06LAn7hnnZzAXkOsVDNcAnR2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pSooys04p5dJ5TiVTxmg23XWipA.jpg"
       },
       "Tisola Logan": {
         "id": 3923587,
@@ -19971,7 +19961,7 @@
       "Eric Schweig": {
         "id": 57448,
         "character": "Avanti",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iNXf9ZOUkTj0RIIxbBK8nmaxUPC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z4mA3Lz5iZVqZDZom4ItBxM8eQN.jpg"
       },
       "April Grace": {
         "id": 10691,
@@ -21133,7 +21123,7 @@
       "Federico Rodriguez": {
         "id": 1146865,
         "character": "Robert",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2v8KQn3PQrmhjTa1vrfAeSouQDi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k3waqVXSnvCZWfJYNtdamTgTtTA.jpg"
       },
       "Conrad Schott": {
         "id": 3888568,
@@ -25625,7 +25615,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26978,7 +26968,7 @@
       "Marie-Lou Sellem": {
         "id": 11608,
         "character": "Britta Menges",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cXwOyBqKVlt10aQBy6idstUM4vH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
       },
       "Marie-Anne Fliegel": {
         "id": 1161723,
@@ -30820,8 +30810,6 @@
     "imdb_score": "6.9/10",
     "rt_score": "95%",
     "meta_score": "83/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Domee Shi",
     "cast": {
       "Rosalie Chiang": {
@@ -31233,7 +31221,7 @@
     "meta_score": "83/100",
     "platforms": ["BBC iPlayer", "Netflix"],
     "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
