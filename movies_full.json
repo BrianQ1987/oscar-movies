@@ -2667,8 +2667,6 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "87/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -4229,8 +4227,6 @@
     "imdb_score": "6.6/10",
     "rt_score": "84%",
     "meta_score": "67/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Ryan Coogler",
     "cast": {
       "Letitia Wright": {
@@ -8691,7 +8687,7 @@
       "Shirley Henderson": {
         "id": 1834,
         "character": "Ooooo (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dxVvLjGNKVMl5lDXXInJ7xWpCvl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
       },
       "Naomi Watanabe": {
         "id": 553120,
@@ -9621,8 +9617,6 @@
     "genres": ["Animation", "Comedy", "Family", "Fantasy"],
     "imdb_score": "7.2/10",
     "meta_score": "75/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": ["Byron Howard", "Jared Bush"],
     "cast": {
       "Stephanie Beatriz": {
@@ -10121,8 +10115,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "67%",
     "meta_score": "55/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Michael Showalter",
     "cast": {
       "Jessica Chastain": {
@@ -10560,7 +10554,7 @@
       },
       "Steven Sean Garland": {
         "id": 2089936,
-        "character": "B M W Driver",
+        "character": "BMW Driver",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oeLWb6c9XnlKgV2pW5hB20ryuFe.jpg"
       },
       "Avis-Marie Barnes": {
@@ -10796,7 +10790,7 @@
       "Frédéric Vasseur": {
         "id": 4557244,
         "character": "Frédéric Vasseur",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vQIaaz10hATTaY7d0SGBTX4izLP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kd7b9xxgzCoYrg1tITqC0TVgkKX.jpg"
       },
       "James Vowles": {
         "id": 5263092,
@@ -10812,11 +10806,6 @@
         "id": 3751465,
         "character": "Stefano Domenicali",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hDk46rzXaYmRwdtaZUoO11dS27L.jpg"
-      },
-      "Simon Minter": {
-        "id": 2464458,
-        "character": "Man in audience (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dyUt9Sw7D8FIiXhFN30IVihQ5Gm.jpg"
       }
     }
   },
@@ -13286,7 +13275,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Anxiety (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9jX7HdSHocuZxOrzDCEC49qy9po.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lakyLldUAGIdzfBLeBN6ZoR8eJk.jpg"
       },
       "Kensington Tallman": {
         "id": 3020876,
@@ -17042,8 +17031,6 @@
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Enrico Casarosa",
     "cast": {
       "Jacob Tremblay": {
@@ -17386,7 +17373,7 @@
       "Maya Hawke": {
         "id": 1903874,
         "character": "Jamie Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9jX7HdSHocuZxOrzDCEC49qy9po.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lakyLldUAGIdzfBLeBN6ZoR8eJk.jpg"
       },
       "Scott Ellis": {
         "id": 4479655,
@@ -19195,8 +19182,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "80%",
     "meta_score": "70/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Guillermo del Toro",
     "cast": {
       "Bradley Cooper": {
@@ -19490,7 +19477,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19678,7 +19665,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21402,8 +21389,6 @@
     "imdb_score": "7.7/10",
     "rt_score": "92%",
     "meta_score": "88/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Yorgos Lanthimos",
     "cast": {
       "Emma Stone": {
@@ -22218,8 +22203,6 @@
     "imdb_score": "7.3/10",
     "rt_score": "93%",
     "meta_score": "74/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
@@ -22361,8 +22344,6 @@
     "imdb_score": "7.0/10",
     "rt_score": "96%",
     "meta_score": "85/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Jesse Eisenberg",
     "cast": {
       "Jesse Eisenberg": {
@@ -26246,7 +26227,7 @@
       "Jonathon Carley": {
         "id": 2459439,
         "character": "Assistant Casting Director",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lqoMzCcZYEFK729d6qzt349fB4o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6gL0yP4FEtDP5qurujJURpivTd3.jpg"
       },
       "Jiselle Henderkott": {
         "id": 4419893,
@@ -31219,9 +31200,9 @@
     "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
-    "platforms": ["BBC iPlayer", "Netflix"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "platforms": "Netflix",
+    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31540,8 +31521,6 @@
     "imdb_score": "7.1/10",
     "rt_score": "91%",
     "meta_score": "85/100",
-    "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Steven Spielberg",
     "cast": {
       "Ansel Elgort": {
@@ -35150,8 +35129,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
-    "platforms": ["Disney Plus", "Plex"],
-    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": ["Jared Bush", "Byron Howard"],
     "cast": {
       "Ginnifer Goodwin": {
@@ -35192,7 +35171,7 @@
       "Shakira": {
         "id": 446511,
         "character": "Gazelle (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AcOA8MbRrDswt6w3TmCBYl7TNOu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/20k7YtDH2iU3KdAysdDPlZz7uhf.jpg"
       },
       "Patrick Warburton": {
         "id": 9657,
