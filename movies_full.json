@@ -6348,7 +6348,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s7tLWtxTI8owGJ5xWZC8iNZdu1d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -14599,7 +14599,7 @@
       "Martin Scorsese": {
         "id": 1032,
         "character": "Radio Show Producer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/52dsh3ZXDgB6HPN5VqNBj3QOnjn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9U9Y5GQuWX3EZy39B8nkk4NY01S.jpg"
       },
       "Marko Costanzo": {
         "id": 92376,
@@ -15305,7 +15305,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17634,7 +17634,7 @@
       "Tyler, The Creator": {
         "id": 1133834,
         "character": "Wally",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1jr8XMXd9C6yRk2VitXIum0FGSy.jpg"
       },
       "Fran Drescher": {
         "id": 53122,
@@ -19464,7 +19464,7 @@
     "released": "2023-06-23",
     "duration": 99,
     "imdb_id": "tt19500164",
-    "vote_average": "7.8",
+    "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "genres": ["Animation", "Family", "Fantasy", "Science Fiction", "Adventure"],
     "imdb_score": "7.5/10",
@@ -19660,7 +19660,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25591,7 +25591,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
