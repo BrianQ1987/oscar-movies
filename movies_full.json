@@ -2785,12 +2785,12 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -2815,7 +2815,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hcsfWe3XeudLfHub2ioavTuC38A.jpg"
       },
       "Emma Mackey": {
         "id": 2201315,
@@ -5452,7 +5452,7 @@
     "released": "2025-10-23",
     "duration": 119,
     "imdb_id": "tt12300742",
-    "vote_average": "7.4",
+    "vote_average": "7.3",
     "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
     "genres": ["Science Fiction", "Thriller", "Comedy"],
     "imdb_score": "7.4/10",
@@ -6976,7 +6976,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Dr. Randall Mindy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dmHB2IBu5DnCkNn7gMYcWCpwshd.jpg"
       },
       "Jennifer Lawrence": {
         "id": 72129,
@@ -8627,7 +8627,7 @@
     "imdb_score": "6.6/10",
     "rt_score": "83%",
     "meta_score": "66/100",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10109,7 +10109,7 @@
     "released": "2021-09-17",
     "duration": 126,
     "imdb_id": "tt9115530",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "From the 1960s to the 1980s, evangelist Jim Baker and his ambitious wife, Tammy Faye, rose from humble beginnings to build an empire based on big-time evangelical Christianity--only for the couple to fall from grace because of some all-too-human sins.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.6/10",
@@ -10397,7 +10397,7 @@
     "released": "2025-06-25",
     "duration": 156,
     "imdb_id": "tt16311594",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
     "genres": ["Action", "Drama"],
     "imdb_score": "7.6/10",
@@ -10410,7 +10410,7 @@
       "Brad Pitt": {
         "id": 287,
         "character": "Sonny Hayes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n7HMim8RVpwsDqECprpeYzZggrR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
       },
       "Damson Idris": {
         "id": 1837297,
@@ -13426,11 +13426,6 @@
         "id": 4578519,
         "character": "Hockey Announcer (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hkFryqJW9IYDlZRlDfmINbvVvKy.jpg"
-      },
-      "Tahkyah Brings Plenty": {
-        "id": 6200865,
-        "character": "Emarie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
       }
     }
   },
@@ -15310,7 +15305,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19477,7 +19472,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -28550,7 +28545,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Susan Wilson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hcsfWe3XeudLfHub2ioavTuC38A.jpg"
       },
       "Robin de Jesús": {
         "id": 110505,
@@ -31202,7 +31197,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32177,7 +32172,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m9OyHAyOx56Pm3JruEBqh4p9XeX.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
