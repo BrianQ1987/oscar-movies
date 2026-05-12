@@ -2361,6 +2361,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "76%",
     "meta_score": "67/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Cameron",
     "cast": {
       "Sam Worthington": {
@@ -2667,6 +2669,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "87/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -6343,6 +6347,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "82%",
     "meta_score": "70/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "James Mangold",
     "cast": {
       "Timothée Chalamet": {
@@ -7852,7 +7858,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3mBb2craX3adj73FJZpslqV61v7.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8015,7 +8021,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3mBb2craX3adj73FJZpslqV61v7.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8516,6 +8522,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "73%",
     "meta_score": "58/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Peter Sohn",
     "cast": {
       "Leah Lewis": {
@@ -9617,6 +9625,8 @@
     "genres": ["Animation", "Comedy", "Family", "Fantasy"],
     "imdb_score": "7.2/10",
     "meta_score": "75/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": ["Byron Howard", "Jared Bush"],
     "cast": {
       "Stephanie Beatriz": {
@@ -10115,8 +10125,8 @@
     "imdb_score": "6.6/10",
     "rt_score": "67%",
     "meta_score": "55/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Michael Showalter",
     "cast": {
       "Jessica Chastain": {
@@ -13265,6 +13275,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "91%",
     "meta_score": "73/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Kelsey Mann",
     "cast": {
       "Amy Poehler": {
@@ -15540,7 +15552,7 @@
       "Andrew Morgado": {
         "id": 80823,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/or0uFYnXsFs5td9GYRukUN56sRy.jpg"
       },
       "Clarissa Park": {
         "id": 1046870,
@@ -16692,7 +16704,7 @@
       "Aimee Lou Wood": {
         "id": 2201317,
         "character": "Margaret Harris",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9z36ueBIBXoNTW9QQPQBw9QtlRI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jq2CVIn889VvCgcwH4G7KZZWkLI.jpg"
       },
       "Alex Sharp": {
         "id": 136127,
@@ -17026,6 +17038,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Enrico Casarosa",
     "cast": {
       "Jacob Tremblay": {
@@ -18868,7 +18882,7 @@
       "Andrew Morgado": {
         "id": 80823,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/or0uFYnXsFs5td9GYRukUN56sRy.jpg"
       },
       "Illya Owens": {
         "id": 81615,
@@ -19177,8 +19191,8 @@
     "imdb_score": "7.0/10",
     "rt_score": "80%",
     "meta_score": "70/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/97yvRBw1GzX7fXprcF80er19ot.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Guillermo del Toro",
     "cast": {
       "Bradley Cooper": {
@@ -19472,7 +19486,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19660,7 +19674,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21384,6 +21398,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "92%",
     "meta_score": "88/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Yorgos Lanthimos",
     "cast": {
       "Emma Stone": {
@@ -22354,7 +22370,7 @@
       "Will Sharpe": {
         "id": 939337,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1pzdCm3m1kWn7YLTMbVvwT5O4jZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ys8vQ8f4CoM5zTVlIx3yjFciNEW.jpg"
       },
       "Jennifer Grey": {
         "id": 722,
@@ -26076,7 +26092,7 @@
       "Andrew Morgado": {
         "id": 80823,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/or0uFYnXsFs5td9GYRukUN56sRy.jpg"
       },
       "Arthur Ortiz": {
         "id": 1999054,
@@ -30786,6 +30802,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "95%",
     "meta_score": "83/100",
+    "platforms": "Disney Plus",
+    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
     "director": "Domee Shi",
     "cast": {
       "Rosalie Chiang": {
@@ -31197,7 +31215,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35216,7 +35234,7 @@
       "Phil Brooks": {
         "id": 565430,
         "character": "Zebro Zebrowski (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m6xScKNRVfA7CyMJaPZ5TZmIZlh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dZqESnEpwc9EJig5oETkHA8o3Cz.jpg"
       },
       "Stephanie Beatriz": {
         "id": 968367,
@@ -35246,7 +35264,7 @@
       "Brenda Song": {
         "id": 88123,
         "character": "Kitty Lynxley (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zMteg2Ss2LjIK2HtlIGaNB9t6HV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eyYiNWXquotE53lfjsgcwxgfvu.jpg"
       },
       "John Leguizamo": {
         "id": 5723,
