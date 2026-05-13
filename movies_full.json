@@ -1685,7 +1685,7 @@
     "duration": 89,
     "imdb_id": "tt14883538",
     "vote_average": "7.5",
-    "overview": "10-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by all means to help send him back to his era.",
+    "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.5/10",
     "rt_score": "93%",
@@ -2794,7 +2794,7 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kt35s4no5elQSo4YATI2E2sX8B0.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -8520,7 +8520,7 @@
     "imdb_id": "tt15789038",
     "vote_average": "7.6",
     "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-    "genres": ["Animation", "Comedy", "Family", "Fantasy", "Romance"],
+    "genres": ["Animation", "Comedy", "Drama", "Family", "Fantasy", "Romance"],
     "imdb_score": "7.0/10",
     "rt_score": "73%",
     "meta_score": "58/100",
@@ -8639,7 +8639,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12212,7 +12212,7 @@
       "Finn Wolfhard": {
         "id": 1442069,
         "character": "Candlewick (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5OVmquAk0W5BIsRlVKslEP497JD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3lJmesUtNURlKu2wvS2YbVYTEiw.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -13624,7 +13624,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.4/10",
@@ -19678,7 +19678,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22220,7 +22220,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25615,7 +25615,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31223,7 +31223,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
