@@ -1684,7 +1684,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.5/10",
@@ -22511,7 +22511,7 @@
     "released": "2023-11-03",
     "duration": 108,
     "imdb_id": "tt14160834",
-    "vote_average": "6.6",
+    "vote_average": "6.5",
     "overview": "Activist Bayard Rustin faces racism and homophobia as he helps change the course of Civil Rights history by orchestrating the 1963 March on Washington.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.5/10",
@@ -23123,83 +23123,118 @@
     "cast": {
       "Wagner Moura": {
         "id": 52583,
-        "character": "Armando Solimões / Marcelo Alves / Adult Fernando Solimões",
+        "character": "Marcelo Alves / Armando Solimões / Fernando Solimões",
         "profile_path": "https://image.tmdb.org/t/p/w1280/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
-      },
-      "Tânia Maria": {
-        "id": 4497686,
-        "character": "Dona Sebastiana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m6pwRC7Jh9AqrKkGreQqwzasiWC.jpg"
       },
       "Alice Carvalho": {
         "id": 2652283,
         "character": "Fátima",
         "profile_path": "https://image.tmdb.org/t/p/w1280/xj2BDbWC0ECOlT3tBaIG0su74Ea.jpg"
       },
-      "Maria Fernanda Cândido": {
-        "id": 228057,
-        "character": "Elza / Sara Guébert",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg"
-      },
       "Gabriel Leone": {
         "id": 1475555,
-        "character": "Bobbi Borba",
+        "character": "Bobbi",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wvinAoGZiOGczIEtXWFmXGMl0QC.jpg"
+      },
+      "Isabél Zuaa": {
+        "id": 1691901,
+        "character": "Tereza Victória",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jpOLvpTvOmPheFsM8thqMHXuwK3.jpg"
+      },
+      "Maria Fernanda Cândido": {
+        "id": 228057,
+        "character": "Elza",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wC2gTlttR4GnUB4YMJscIOY8hWk.jpg"
       },
       "Udo Kier": {
         "id": 1646,
         "character": "Hans",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lIOGDMvrVHMgPXdhicLI41tY1zf.jpg"
       },
-      "Carlos Francisco": {
-        "id": 2346588,
-        "character": "Seu Alexandre",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
+      "Robson Andrade": {
+        "id": 5366816,
+        "character": "Clóvis",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/scASoqhwySjTlbP6mgPsMlfEd0F.jpg"
       },
-      "Thomás Aquino": {
-        "id": 2346576,
-        "character": "Valdemar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cTtrEWKpRijXbnSsGzof0E6XBnP.jpg"
+      "Rubens Santos": {
+        "id": 1677905,
+        "character": "Natalício",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eyNsZkTUhiz15B5Fp4UXJItAPnr.jpg"
+      },
+      "Licínio Januário": {
+        "id": 2922091,
+        "character": "Antônio",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1e5dE2kJ9YCRX4iKWiMVcbM9jGh.jpg"
+      },
+      "Joálisson Cunha": {
+        "id": 3295590,
+        "character": "Frentista",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/poSvEHjLNkY7ptLjCYKzYoUfWxT.jpg"
+      },
+      "Marcelo Valle": {
+        "id": 967080,
+        "character": "João Carpinteiro",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4OzWWkxbCwdIBuwUs8ENLbGhdis.jpg"
+      },
+      "Fabiana Pirro": {
+        "id": 2483247,
+        "character": "Dra. Inês",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ayGlKs6RFL1z1BcKyXDrJ2JyPUL.jpg"
       },
       "Hermila Guedes": {
         "id": 583446,
-        "character": "Claudia",
+        "character": "Cláudia",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dJJh7sekL9dl77tviU5yEVXa1qo.jpg"
       },
-      "Robério Diógenes": {
-        "id": 2375667,
-        "character": "Euclides Cavalcante",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dLYYDd4FwB8fMb5A7Q54UOfxdet.jpg"
+      "Márcio De Paula": {
+        "id": 4480963,
+        "character": "Sargento",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
       },
-      "Roney Villela": {
-        "id": 143500,
-        "character": "Augusto Borba",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/y0S7k8ahQF8FAJ0ZCzK2BfTKbz0.jpg"
+      "Gregorio Graziosi": {
+        "id": 1267496,
+        "character": "Salvatore",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
       },
-      "Isabél Zuaa": {
-        "id": 1691901,
-        "character": "Thereza Vitória",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jpOLvpTvOmPheFsM8thqMHXuwK3.jpg"
+      "Buda Lira": {
+        "id": 1363243,
+        "character": "Anísio",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m74o52kWp9USrOnANuUNNqgywCj.jpg"
+      },
+      "Suzy Lopes": {
+        "id": 2346581,
+        "character": "Carmen",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9wFqEjLoVF2rvZM3gVckDgAnUKK.jpg"
+      },
+      "Erivaldo Oliveira": {
+        "id": 2399921,
+        "character": "Severino",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bex041md0jd2V6idl7JYMmZRwRk.jpg"
+      },
+      "Fafá Dantas": {
+        "id": 4800288,
+        "character": "Das Dores",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Geane Albuquerque": {
+        "id": 1782599,
+        "character": "Elisângela",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2pT4r1t6KdWoe3QkQnZIcZmm2o1.jpg"
       },
       "Isadora Ruppert": {
         "id": 3466387,
-        "character": "Dani",
+        "character": "Daniela",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pFzB54w8OJoNEtnxM9r1XApQEsj.jpg"
       },
-      "Laura Lufési": {
-        "id": 4067166,
-        "character": "Flavia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yWsxc5qPMSvmh2eWuSPTRMOImSN.jpg"
+      "Wilson Rabelo": {
+        "id": 1759957,
+        "character": "Chico",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rwFWrqYYtvCfDUZi3Rmfdr130ef.jpg"
       },
-      "Igor de Araújo": {
-        "id": 3789835,
-        "character": "Sergio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2TehKBRUZoINtpEhXG2uRoTQKii.jpg"
-      },
-      "Ítalo Martins": {
-        "id": 3393101,
-        "character": "Arlindo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w6e8raYkzlwP7KdYMQtd15vabY6.jpg"
+      "Aline Marta Maia": {
+        "id": 2542045,
+        "character": "Lenira Nascimento",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m0HudTyhXwBN6ve66fP8MCFlqEi.jpg"
       },
       "João Vitor Silva": {
         "id": 1475559,
@@ -23211,119 +23246,59 @@
         "character": "Henrique Ghirotti",
         "profile_path": "https://image.tmdb.org/t/p/w1280/aIRTY6gQBmvpaRBGM5z6wAxyQlm.jpg"
       },
-      "Geane Albuquerque": {
-        "id": 1782599,
-        "character": "Elizangêla",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2pT4r1t6KdWoe3QkQnZIcZmm2o1.jpg"
+      "Thomás Aquino": {
+        "id": 2346576,
+        "character": "Valdemar",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cTtrEWKpRijXbnSsGzof0E6XBnP.jpg"
       },
-      "Aline Marta Maia": {
-        "id": 2542045,
-        "character": "Dona Zuleika",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m0HudTyhXwBN6ve66fP8MCFlqEi.jpg"
-      },
-      "Fafa Dantas": {
-        "id": 4800288,
-        "character": "Das Dores",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Suzy Lopes": {
-        "id": 2346581,
-        "character": "Carmen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9wFqEjLoVF2rvZM3gVckDgAnUKK.jpg"
-      },
-      "Gregorio Graziosi": {
-        "id": 1267496,
-        "character": "Salvatore",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Joálisson Cunha": {
-        "id": 3295590,
-        "character": "Gas Station Attendant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/poSvEHjLNkY7ptLjCYKzYoUfWxT.jpg"
-      },
-      "Buda Lira": {
-        "id": 1363243,
-        "character": "Anísio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m74o52kWp9USrOnANuUNNqgywCj.jpg"
-      },
-      "Wilson Rabelo": {
-        "id": 1759957,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rwFWrqYYtvCfDUZi3Rmfdr130ef.jpg"
-      },
-      "Erivaldo Oliveira": {
-        "id": 2399921,
-        "character": "Severino",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bex041md0jd2V6idl7JYMmZRwRk.jpg"
-      },
-      "Enzo Nunes": {
-        "id": 5366812,
-        "character": "Fernando",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Márcio De Paula": {
-        "id": 4480963,
-        "character": "Police Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Fabiana Pirro": {
-        "id": 2483247,
-        "character": "Doctor Inês",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ayGlKs6RFL1z1BcKyXDrJ2JyPUL.jpg"
-      },
-      "Rubens Santos": {
-        "id": 1677905,
-        "character": "Natalício",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eyNsZkTUhiz15B5Fp4UXJItAPnr.jpg"
+      "Roney Villela": {
+        "id": 143500,
+        "character": "Augusto Borba",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/y0S7k8ahQF8FAJ0ZCzK2BfTKbz0.jpg"
       },
       "Kaiony Venâncio": {
         "id": 4225514,
         "character": "Vilmar",
         "profile_path": "https://image.tmdb.org/t/p/w1280/z0sjZwPwoTXQhfA2jghKSAPAgXI.jpg"
       },
-      "Licínio Januário": {
-        "id": 2922091,
-        "character": "Antônio",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1e5dE2kJ9YCRX4iKWiMVcbM9jGh.jpg"
+      "Carlos Francisco": {
+        "id": 2346588,
+        "character": "Seu Alexandre",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
       },
-      "Marcelo Valle": {
-        "id": 967080,
-        "character": "João Carpinteiro",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4OzWWkxbCwdIBuwUs8ENLbGhdis.jpg"
+      "Ítalo Martins": {
+        "id": 3393101,
+        "character": "Arlindo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/w6e8raYkzlwP7KdYMQtd15vabY6.jpg"
       },
-      "Robson Andrade": {
-        "id": 5366816,
-        "character": "Clóvis",
+      "Igor de Araújo": {
+        "id": 3789835,
+        "character": "Sergio",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2TehKBRUZoINtpEhXG2uRoTQKii.jpg"
+      },
+      "Robério Diógenes": {
+        "id": 2375667,
+        "character": "Euclides Cavalcanti",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dLYYDd4FwB8fMb5A7Q54UOfxdet.jpg"
+      },
+      "Enzo Nunes": {
+        "id": 5366812,
+        "character": "Fernando Solimões",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Tânia Maria": {
+        "id": 4497686,
+        "character": "Dona Sebastiana",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m6pwRC7Jh9AqrKkGreQqwzasiWC.jpg"
+      },
+      "Laura Lufési": {
+        "id": 4067166,
+        "character": "Flavia",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yWsxc5qPMSvmh2eWuSPTRMOImSN.jpg"
       },
       "Albert Tenorio": {
         "id": 1016256,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Edilson Silva": {
-        "id": 1723409,
-        "character": "Aristeu",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xNBm4S1eTWayzrOjaxZUUXPSkM1.jpg"
-      },
-      "Nivaldo Nascimento": {
-        "id": 1016257,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Cely Farias": {
-        "id": 3618755,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Beto Quirino": {
-        "id": 1694028,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
-      },
-      "Mariza Moreira": {
-        "id": 5957569,
-        "character": "Mulher Possuída",
+        "character": "Policial Rodoviário 2",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
       },
       "Alexis Geller": {
@@ -23331,9 +23306,194 @@
         "character": "Susan Schaffer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
       },
+      "Ane Oliva": {
+        "id": 2542044,
+        "character": "Mãe na Repartição",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v8GD6Bdwnc4LU50MSJHQZsEMYu8.jpg"
+      },
       "Anjoum Noorani": {
         "id": 6033457,
         "character": "Sanjay Jasieen",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Ariel Sobral": {
+        "id": 5464556,
+        "character": "Aristeu da Delegacia do Cordeiro",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Beto Quirino": {
+        "id": 1694028,
+        "character": "Guarda Noturno",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Cely Farias": {
+        "id": 3618755,
+        "character": "Mulher no Depoimento",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Edilson Silva": {
+        "id": 1723409,
+        "character": "Ronaldo da Repartição",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xNBm4S1eTWayzrOjaxZUUXPSkM1.jpg"
+      },
+      "Eron Villar": {
+        "id": 3747015,
+        "character": "Gerente Cinema São Luiz",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Fábio Calamy": {
+        "id": 5349441,
+        "character": "Carteiro",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Fabíola Líper": {
+        "id": 2346582,
+        "character": "Amiga da Mulher Possuída",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/X2G56G5eQunRDaQZtaxy2Jl28o.jpg"
+      },
+      "Flávio Melo": {
+        "id": 2945854,
+        "character": "Pastor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Gal Moreira Borges": {
+        "id": 6219818,
+        "character": "Débora",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Ítalo Barbosa": {
+        "id": 6219820,
+        "character": "Homem Morto",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Isabelle Albuquerque": {
+        "id": 5539226,
+        "character": "Garota de Programa",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Jimmy Astley": {
+        "id": 6219822,
+        "character": "Policial Valdomiro",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Jorge Bispo": {
+        "id": 4617415,
+        "character": "Garçom",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Josinaldo Augusto Lins": {
+        "id": 6219823,
+        "character": "Irineu",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Lady Patricia": {
+        "id": 6219824,
+        "character": "Funcionária Cinema São Luiz",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Leoncio Rodrigues de Freitas Jr.": {
+        "id": 6219825,
+        "character": "Servente IML",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Lula Terra": {
+        "id": 1016246,
+        "character": "Geraldo",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Marília Linhares": {
+        "id": 6219827,
+        "character": "Recepcionista",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Mariza Moreira": {
+        "id": 5957569,
+        "character": "Mulher Possuída",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Mauriceia Conceição": {
+        "id": 1016261,
+        "character": "Costureira de Hans",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Nivaldo Nascimento": {
+        "id": 1016257,
+        "character": "Lucio Motorista",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Paulina Kelly": {
+        "id": 6219829,
+        "character": "Mulher na Brasília",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Priscila Ferraz": {
+        "id": 3399182,
+        "character": "Joana",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Rafael Lins": {
+        "id": 6219831,
+        "character": "Médico Legista",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Rafaela Pavin": {
+        "id": 6219832,
+        "character": "Luanda",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Renata Caldas": {
+        "id": 6219833,
+        "character": "Advogada",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Rogério Barbosa": {
+        "id": 6219834,
+        "character": "Homem no IML",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Silvestre Luís": {
+        "id": 6192641,
+        "character": "Secretário",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Stella Mulatinho": {
+        "id": 6219835,
+        "character": "Foliã",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Toinho Mendes": {
+        "id": 5910242,
+        "character": "Marcão",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bszRmp3K5Zbd1dc58G8i7qSi2v8.jpg"
+      },
+      "Martin": {
+        "id": 6219836,
+        "character": "Gangue da Bomba d'Água",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Tomás": {
+        "id": 6219837,
+        "character": "Gangue da Bomba d'Água",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Nuno": {
+        "id": 6219838,
+        "character": "Gangue da Bomba d'Água",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Otto": {
+        "id": 6219839,
+        "character": "Gangue da Bomba d'Água",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Vicente": {
+        "id": 6219841,
+        "character": "Gangue da Bomba d'Água",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
+      },
+      "Kcal Gomes Ferraz": {
+        "id": 6219844,
+        "character": "O Poeta de Rua",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg"
       }
     }
@@ -25615,7 +25775,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
