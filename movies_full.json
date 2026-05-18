@@ -1825,7 +1825,7 @@
       "Peter Lanzani": {
         "id": 1246181,
         "character": "Luis Moreno Ocampo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nmh7vD2eDVRqFJoCpEzVcfGcPPf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eo1TzQmNL9jTQTCe6AvUDr1ZktS.jpg"
       },
       "Alejandra Flechner": {
         "id": 239252,
@@ -2477,7 +2477,7 @@
       },
       "Jennifer Stafford": {
         "id": 2328938,
-        "character": "Ta'unui Tsahik",
+        "character": "Ta'unui Tsahik / Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/gwxZVKL4A5qN1jJcaUCCNGmvncr.jpg"
       },
       "Keston John": {
@@ -2487,12 +2487,12 @@
       },
       "Kevin Dorman": {
         "id": 91443,
-        "character": "Recom Mansk",
+        "character": "Recom Mansk / Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jByqQyo6VsnbtXwKGidaadSBOPb.jpg"
       },
       "Alicia Vela-Bailey": {
         "id": 1186027,
-        "character": "Recom Zdinarsik",
+        "character": "Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2isB8x0wahPz4sZ8QSX7Up4iDq9.jpg"
       },
       "Sean Anthony Moran": {
@@ -2507,7 +2507,7 @@
       },
       "Johnny Alexander": {
         "id": 3159723,
-        "character": "Recom Ja",
+        "character": "Recom Ja / Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/w5m1RB2neDlWNunRAuaG3Qb9guO.jpg"
       },
       "Kim Do": {
@@ -2552,7 +2552,7 @@
       },
       "Jamie Landau": {
         "id": 2144852,
-        "character": "Metkayina Warrior",
+        "character": "Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/tmFawQ5z4ADaAqoAJOaVfDq0egd.jpg"
       },
       "Jim Moore": {
@@ -2640,9 +2640,44 @@
         "character": "Young Neteyam",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2y4BfvqerIe3tgVcnZuWc59TjqK.jpg"
       },
+      "Kacie Borrowman": {
+        "id": 2234536,
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3MotoGRgucLFFkcGf3MbaOWudT2.jpg"
+      },
+      "Courtney Rosemont": {
+        "id": 5836653,
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+      },
+      "Julene Renee": {
+        "id": 42286,
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+      },
       "Jake McLean": {
         "id": 1519702,
-        "character": "Na'vi (uncredited)",
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+      },
+      "Kevin Henderson": {
+        "id": 939043,
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9K9s39pwcpfxpySSoFJDdqaIFPy.jpg"
+      },
+      "Shawn Driscoll": {
+        "id": 1573322,
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sBAEMtl9OrHwn9nipY8Sthec0uz.jpg"
+      },
+      "Devereau Chumrau": {
+        "id": 1578261,
+        "character": "Troupe",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
+      },
+      "Tarikura Kapea": {
+        "id": 5847547,
+        "character": "Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
       },
       "CJ Jones": {
@@ -10424,7 +10459,7 @@
       "Brad Pitt": {
         "id": 287,
         "character": "Sonny Hayes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9OfnD7lxgIj3BNQpJFnwxnwl6w5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m09Y1YfPPeNYYUSHnnVqahkrC1o.jpg"
       },
       "Damson Idris": {
         "id": 1837297,
@@ -15321,7 +15356,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19490,7 +19525,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -25775,7 +25810,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29442,7 +29477,7 @@
       "Tom Virtue": {
         "id": 38709,
         "character": "Leslie's Father Raymond",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bFTgfsw4cnNjIZZ2r6P363X2Uk3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ruVkuJnakaNAqjg8PHXv1HITsUy.jpg"
       },
       "Lauren Letherer": {
         "id": 2745712,
@@ -29580,7 +29615,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -30217,8 +30252,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "72%",
     "meta_score": "63/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ruben Östlund",
     "cast": {
       "Harris Dickinson": {
@@ -31383,7 +31418,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
