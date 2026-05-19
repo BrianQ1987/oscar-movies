@@ -9983,7 +9983,7 @@
       "Jamie Lee Curtis": {
         "id": 8944,
         "character": "Deirdre Beaubeirdre",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eb0lIt32WwrjtCULe5z6l9eBf06.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yMEUL7DyesV4Kp3TAniiGq7y8s5.jpg"
       },
       "Tallie Medel": {
         "id": 1071151,
@@ -17541,7 +17541,7 @@
     "released": "2022-06-24",
     "duration": 90,
     "imdb_id": "tt15339456",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Marcel is an adorable one-inch-tall shell who ekes out a colorful existence with his grandmother Connie and their pet lint, Alan. Once part of a sprawling community of shells, they now live alone as the sole survivors of a mysterious tragedy. When a documentarian discovers them amongst the clutter of his Airbnb, his resulting short film brings Marcel millions of passionate fans, as well as unprecedented dangers and a new hope at finding his long-lost family.",
     "genres": ["Animation", "Comedy", "Drama", "Family"],
     "imdb_score": "7.6/10",
@@ -19713,7 +19713,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25810,7 +25810,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -28519,8 +28519,8 @@
     "imdb_score": "7.4/10",
     "rt_score": "95%",
     "meta_score": "82/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "İlker Çatak",
     "cast": {
       "Leonie Benesch": {
