@@ -1684,12 +1684,12 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
-    "imdb_score": "7.5/10",
+    "imdb_score": "7.3/10",
     "rt_score": "93%",
-    "meta_score": "73/100",
+    "meta_score": "72/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ugo Bienvenu",
@@ -5479,11 +5479,6 @@
         "id": 2903584,
         "character": "Receptionist",
         "profile_path": "https://image.tmdb.org/t/p/w1280/au4EJPGM4twidKKSAc7Z8s02a0t.jpg"
-      },
-      "ChatGPT": {
-        "id": 4797445,
-        "character": "László Tóth (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xjd4eurxJpO0RaO8NeBsJkHDNn.jpg"
       }
     }
   },
@@ -8679,7 +8674,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13669,7 +13664,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.4/10",
@@ -15113,7 +15108,7 @@
       "Rich Sommer": {
         "id": 10581,
         "character": "Patrick Dougherty",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tqpwfXczNvvel5Dep5ejUD4X9ie.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg"
       },
       "Kaitlyn Christian": {
         "id": 2999839,
@@ -15366,7 +15361,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16662,7 +16657,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/qoqDvTUVPoZJWw24AjGDt3J4tZN.jpg",
     "title": "Little Amélie or the Character of Rain",
     "released": "2025-06-25",
-    "duration": 78,
+    "duration": 77,
     "imdb_id": "tt29313285",
     "vote_average": "7.9",
     "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
@@ -18831,7 +18826,7 @@
       "Madeleine McGraw": {
         "id": 1530558,
         "character": "Young Katie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v3q7YDhjWqM2rx2x7EF4ZDDIURC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
       },
       "Ellen Wightman": {
         "id": 3066088,
@@ -19535,7 +19530,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22270,7 +22265,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25340,7 +25335,7 @@
     "categories": "Best Actress",
     "poster_path": "https://image.tmdb.org/t/p/w1280/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg",
     "title": "Song Sung Blue",
-    "released": "2025-12-25",
+    "released": "2025-12-15",
     "duration": 133,
     "imdb_id": "tt30343021",
     "vote_average": "7.4",
@@ -26375,7 +26370,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Peter Parker / Spider-Man (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
       }
     }
   },
@@ -31433,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32410,7 +32405,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vo5x9GRs2vT47LNb1HZvKUEsk8C.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m9OyHAyOx56Pm3JruEBqh4p9XeX.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
