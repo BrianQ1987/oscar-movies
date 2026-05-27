@@ -5289,7 +5289,7 @@
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
-    "genres": ["Drama", "War", "TV Movie"],
+    "genres": "Drama",
     "imdb_score": "7.2/10",
     "rt_score": "93%",
     "meta_score": "91/100",
@@ -5679,7 +5679,7 @@
       "Linda Emond": {
         "id": 58643,
         "character": "Gloria",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7OFR7pIMerXLHbIMmYS3M063goZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/PjDT3zk5xAIFiJ1MaEJLtjdq5s.jpg"
       },
       "Jayne Houdyshell": {
         "id": 1232500,
@@ -12247,7 +12247,7 @@
       "Finn Wolfhard": {
         "id": 1442069,
         "character": "Candlewick (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3lJmesUtNURlKu2wvS2YbVYTEiw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -15694,7 +15694,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Lance Brannigan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kKsTXDDF778AhTL9AIeULfI0z3S.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -35350,7 +35350,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.6",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Adventure", "Animation", "Comedy", "Family", "Mystery"],
+    "genres": ["Action", "Adventure", "Animation", "Comedy", "Family", "Mystery"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
@@ -35406,7 +35406,7 @@
       "Quinta Brunson": {
         "id": 1745988,
         "character": "Dr. Fuzzby (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4x2ltnaGHF9rhaDRlkyNs7HOUI8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/50gY1qgG5ddSLPY77K8zAq9TwJo.jpg"
       },
       "Danny Trejo": {
         "id": 11160,
