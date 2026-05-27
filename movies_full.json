@@ -750,7 +750,7 @@
       "Sandra Hüller": {
         "id": 7152,
         "character": "Sandra Voyter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xRkKpadrLhvhH3bCzW1AIuwPAxt.jpg"
       },
       "Swann Arlaud": {
         "id": 145120,
@@ -5289,7 +5289,7 @@
     "imdb_id": "tt8999762",
     "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
-    "genres": "Drama",
+    "genres": ["Drama", "War", "TV Movie"],
     "imdb_score": "7.2/10",
     "rt_score": "93%",
     "meta_score": "91/100",
@@ -7840,7 +7840,7 @@
       "Rebecca Ferguson": {
         "id": 933238,
         "character": "Lady Jessica Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wa97gfdDx4dNJlHOV8f7IJlQMmO.jpg"
       },
       "Oscar Isaac": {
         "id": 25072,
@@ -7870,7 +7870,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Stilgar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iicdZDlHS3INrt6LXtHOCcOZ9bZ.jpg"
       },
       "Sharon Duncan-Brewster": {
         "id": 195666,
@@ -8674,7 +8674,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10469,7 +10469,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Ruben Cervantes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iicdZDlHS3INrt6LXtHOCcOZ9bZ.jpg"
       },
       "Kerry Condon": {
         "id": 62105,
@@ -10917,7 +10917,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9JqtqDi2hsh3mOq2v5fc5HJB6T9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uVlPm7s3J1pLg6pLa5rYg43wd1.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -13366,7 +13366,7 @@
       "Grace Lu": {
         "id": 3264370,
         "character": "Grace (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iRHUHXADcEgUBAAjixnVnAH6MLt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uq7aFgt9CiYxGTjXsy3xsaXV4aq.jpg"
       },
       "Sumayyah Nuriddin-Green": {
         "id": 4578518,
@@ -13659,7 +13659,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.4/10",
@@ -19525,7 +19525,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19713,7 +19713,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20489,7 +20489,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wcDXv5Oc8w01QfxJMla96xIDROT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -22260,7 +22260,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -22370,7 +22370,7 @@
       "Vincent Rodriguez III": {
         "id": 1485094,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mqLGTb4RLbnMRSQZZm6COiBIS4D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDWX9SLQE4CKvKq6Mr4ihK9zsUo.jpg"
       },
       "Kayla Melikian": {
         "id": 4490050,
@@ -26386,6 +26386,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
+    "platforms": "Paramount Plus",
+    "logo_paths": "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg",
     "director": "Coralie Fargeat",
     "cast": {
       "Demi Moore": {
@@ -30274,7 +30276,7 @@
       "Dolly de Leon": {
         "id": 1513304,
         "character": "Abigail",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jitpV6REc3UHhb4wjaxbeaBhoTw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mNskbR6hayRY3DjTcECqIJ7eQsO.jpg"
       },
       "Woody Harrelson": {
         "id": 57755,
@@ -32364,7 +32366,7 @@
       "Isaías Badilla": {
         "id": 2621973,
         "character": "Pachanga Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/etXSpx6iKoS7DF4FkQIJtzfPqtC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7TMMX20ns0xx74obmMwgZFbFIre.jpg"
       },
       "Jessica Marza": {
         "id": 5781001,
@@ -34780,7 +34782,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cOb1N2A4YL14cEZn9pDrfhJTaBi.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
