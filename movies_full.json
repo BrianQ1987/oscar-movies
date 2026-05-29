@@ -9792,11 +9792,6 @@
         "id": 4286839,
         "character": "Town Kid (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
-      },
-      "Frank Welker": {
-        "id": 15831,
-        "character": "Parce (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
       }
     }
   },
@@ -19519,7 +19514,7 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Fantasy", "Science Fiction", "Adventure"],
+    "genres": ["Animation", "Family", "Fantasy", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
@@ -23128,11 +23123,6 @@
         "id": 71078,
         "character": "Sergeant (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/Je5btH3d4hREmOH7sHusD0J7ky.jpg"
-      },
-      "Frank Welker": {
-        "id": 15831,
-        "character": "Red Bluster (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aC37aQtsfZZDZN5y3paDTLJJHCi.jpg"
       }
     }
   },
@@ -23635,7 +23625,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Nora Borg",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cOb1N2A4YL14cEZn9pDrfhJTaBi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -31356,7 +31346,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": ["Drama", "History"],
+    "genres": "Drama",
     "imdb_score": "8.3/10",
     "rt_score": "94%",
     "meta_score": "81/100",
@@ -34777,7 +34767,7 @@
       "Renate Reinsve": {
         "id": 1576786,
         "character": "Julie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cOb1N2A4YL14cEZn9pDrfhJTaBi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3UZ5yHxW4MQFIeGslfuRH196Rsr.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
