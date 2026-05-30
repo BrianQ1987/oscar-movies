@@ -5313,7 +5313,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7069,7 +7069,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lV6oZ4gaylWKa3GKzNoyar65HyO.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -10171,7 +10171,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jim Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
       },
       "Cherry Jones": {
         "id": 1956,
@@ -12365,7 +12365,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -19512,9 +19512,9 @@
     "released": "2023-06-23",
     "duration": 99,
     "imdb_id": "tt19500164",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Fantasy", "Action"],
+    "genres": ["Animation", "Family", "Fantasy", "Action", "Adventure"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
@@ -22250,7 +22250,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23996,8 +23996,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "92%",
     "meta_score": "76/100",
-    "platforms": "Paramount Plus",
-    "logo_paths": "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg",
+    "platforms": ["Paramount Plus", "Paramount Plus"],
+    "logo_paths": ["/h5DcR0J2EESLitnhR8xLG1QymTE.jpg", "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg"],
     "director": "Tim Fehlbaum",
     "cast": {
       "Peter Sarsgaard": {
@@ -25800,7 +25800,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26350,7 +26350,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Peter Parker / Spider-Man (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
       }
     }
   },
@@ -28751,7 +28751,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jonathan Larson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/amGkwrFGIuNsbbCE1O84MJJ2ZSa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
       },
       "Alexandra Shipp": {
         "id": 1253199,
@@ -31410,7 +31410,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32463,7 +32463,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r32wWnx7CKW9SgRKaQ4qAgja5QK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lV6oZ4gaylWKa3GKzNoyar65HyO.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
