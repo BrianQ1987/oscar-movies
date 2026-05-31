@@ -1204,7 +1204,7 @@
       "Jeremy Strong": {
         "id": 239271,
         "character": "Roy Cohn",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jZ3sZhgqRSxT07WvxvfdSR7oWJA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
       },
       "Martin Donovan": {
         "id": 42993,
@@ -5052,6 +5052,11 @@
         "id": 162621,
         "character": "Severe Woman (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jilKv0EF7pzapvIyJGxxr9qDNK4.jpg"
+      },
+      "Eoin Connolly": {
+        "id": 2806034,
+        "character": "Photographer (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mEeHqtnWOR44vLCutEFku2WK6ou.jpg"
       }
     }
   },
@@ -8724,7 +8729,7 @@
       "Ana de la Reguera": {
         "id": 57409,
         "character": "Ambassador Turais (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hE8W86SKgIzoVsukTnL0VeGeYwB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nEacV1wuUHV6eUyErGBhniJ85JY.jpg"
       },
       "Atsuko Okatsuka": {
         "id": 932639,
@@ -15351,7 +15356,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16941,7 +16946,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qlDG2yykWO4LOP2ZReP0o6euFrE.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -18761,7 +18766,7 @@
       "Olivia Colman": {
         "id": 39187,
         "character": "PAL (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
       },
       "Fred Armisen": {
         "id": 61110,
@@ -19514,13 +19519,13 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.8",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Fantasy", "Action", "Adventure"],
+    "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19708,7 +19713,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21984,7 +21989,7 @@
       "Olivia Colman": {
         "id": 39187,
         "character": "Mama Bear (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4kceB4JYBcFTdzVhfq3cDnExcGa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
       },
       "Ray Winstone": {
         "id": 5538,
@@ -31410,7 +31415,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34634,7 +34639,7 @@
       "Claire Foy": {
         "id": 120932,
         "character": "Salome",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ypQrZFp3UPS6VE4TwGibgG2VB0n.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cdnLDWYzjAckbtIUz6nLxWY3Uej.jpg"
       },
       "Jessie Buckley": {
         "id": 1498158,
