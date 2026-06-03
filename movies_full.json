@@ -8677,7 +8677,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15354,7 +15354,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15364,7 +15364,7 @@
       "May Hong": {
         "id": 1948606,
         "character": "Mira (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aJh1EKFeqDJeLt5CI5D05c19VRM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/md6XxnB2yU4K7qgfpeRPVEnOGyG.jpg"
       },
       "Ji-young Yoo": {
         "id": 2983147,
@@ -15404,7 +15404,7 @@
       "Liza Koshy": {
         "id": 1700631,
         "character": "Host (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pPu4TYkuNGmPEykWzFwCz55pAWB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uXOXVzWHWZAEQBsRB6jaAPBjPLM.jpg"
       },
       "Alan Lee": {
         "id": 3398415,
@@ -19711,7 +19711,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
