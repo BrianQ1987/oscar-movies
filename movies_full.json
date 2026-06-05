@@ -472,7 +472,7 @@
       "Sterling K. Brown": {
         "id": 1225953,
         "character": "Clifford Ellison",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vjFATaJfAyBie56J4Qv2DQ9Dyem.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uq4kBHad6mOA4iXpX8f16PQJBEA.jpg"
       },
       "Skyler Wright": {
         "id": 1499805,
@@ -993,7 +993,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/9leBvae1CCbti0BhoArm6kInKwF.jpg",
     "title": "Anora",
     "released": "2024-10-14",
     "duration": 139,
@@ -1009,7 +1009,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nsWQNYBTBYE2TCzGpyXTpA0TTEz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mYvxBOIUmAUjEZqHXBok1rc8eIC.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -1114,7 +1114,7 @@
       "Morgan Charlton": {
         "id": 4937032,
         "character": "Sunny",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9leBvae1CCbti0BhoArm6kInKwF.jpg"
       },
       "Nazar Khamis": {
         "id": 4930148,
@@ -1129,7 +1129,7 @@
       "Lana Svidonovich": {
         "id": 4937033,
         "character": "Toros' Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9leBvae1CCbti0BhoArm6kInKwF.jpg"
       },
       "Masha Zhak": {
         "id": 2577922,
@@ -1144,17 +1144,17 @@
       "Irina Finley": {
         "id": 4937034,
         "character": "Bartender",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9leBvae1CCbti0BhoArm6kInKwF.jpg"
       },
       "Mariana Orozco Arango": {
         "id": 4937036,
         "character": "Pearl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9leBvae1CCbti0BhoArm6kInKwF.jpg"
       },
       "Artyom Trubnikov": {
         "id": 4859143,
         "character": "Michael Sharnov",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oN0o3owobFjePDc5vMdLRAd0jkd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9leBvae1CCbti0BhoArm6kInKwF.jpg"
       },
       "Michael Sergio": {
         "id": 1269925,
@@ -3680,7 +3680,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Desi Arnaz",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "J.K. Simmons": {
         "id": 18999,
@@ -5055,6 +5055,11 @@
         "id": 2806034,
         "character": "Photographer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/mEeHqtnWOR44vLCutEFku2WK6ou.jpg"
+      },
+      "Linda L. Michaels": {
+        "id": 6264595,
+        "character": "Screaming Asylum Mental Patient",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mEeHqtnWOR44vLCutEFku2WK6ou.jpg"
       }
     }
   },
@@ -5316,7 +5321,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oaJevagc68xzYJvYSRI5gw8ygcj.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7831,8 +7836,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
-    "platforms": ["ITVX", "Plex"],
-    "logo_paths": ["/1LuvKw01c2KQCt6DqgAgR06H2pT.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Denis Villeneuve",
     "cast": {
       "Timothée Chalamet": {
@@ -7873,7 +7878,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Stilgar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "Sharon Duncan-Brewster": {
         "id": 195666,
@@ -8071,7 +8076,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Stilgar",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "Josh Brolin": {
         "id": 16851,
@@ -8677,7 +8682,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10467,7 +10472,7 @@
       "Javier Bardem": {
         "id": 3810,
         "character": "Ruben Cervantes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/IShnFg6ijWhpbu29dFBd9PtqQg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5xjCovj1uzvA2SXrWLH78Nh1Jf.jpg"
       },
       "Kerry Condon": {
         "id": 62105,
@@ -12353,7 +12358,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/h3eXbOh8qcwyOo6GVmhBsbQXVfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -12368,7 +12373,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a0qH6tF2fiXKLUmPGrlUPJvhPP0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oaJevagc68xzYJvYSRI5gw8ygcj.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -16944,7 +16949,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/h3eXbOh8qcwyOo6GVmhBsbQXVfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -19517,7 +19522,7 @@
     "imdb_id": "tt19500164",
     "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
-    "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction"],
+    "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "75/100",
@@ -19711,7 +19716,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -34642,7 +34647,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/h3eXbOh8qcwyOo6GVmhBsbQXVfE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
@@ -34737,7 +34742,7 @@
       "Caroline Gillis": {
         "id": 1512135,
         "character": "Woman on the Path",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wcTc9GveMMjAdHSlzdE0FaRCtqi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2MN4n9nEAUUUK47IDXajzXNMReK.jpg"
       },
       "Shannon Widdis": {
         "id": 3566715,
