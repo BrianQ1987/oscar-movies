@@ -1687,7 +1687,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.3/10",
@@ -5326,7 +5326,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -7908,7 +7908,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8071,7 +8071,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8096,7 +8096,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wcDXv5Oc8w01QfxJMla96xIDROT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8687,7 +8687,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20492,7 +20492,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wcDXv5Oc8w01QfxJMla96xIDROT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -21992,7 +21992,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wcDXv5Oc8w01QfxJMla96xIDROT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -25813,7 +25813,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29019,7 +29019,7 @@
       "Bernadette Peters": {
         "id": 40389,
         "character": "\"Sunday\" Legend #11",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x2hZ6AsIAfb5t512Q72SYtdNdZf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mfX8cyzyjZkE68ZETVpBkJB5mVn.jpg"
       },
       "Phylicia Rashād": {
         "id": 119598,
@@ -30053,7 +30053,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg",
     "title": "Train Dreams",
     "released": "2025-11-05",
     "duration": 102,
@@ -30121,7 +30121,7 @@
       "David Paul Olsen": {
         "id": 2521250,
         "character": "Toomis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "John Patrick Lowrie": {
         "id": 2020808,
@@ -30131,17 +30131,17 @@
       "Chuck Tucker": {
         "id": 5799953,
         "character": "Silent Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Rob Price": {
         "id": 5799954,
         "character": "Curious Logger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Brandon Lindsay": {
         "id": 5799955,
         "character": "Elijah Brown",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Eric Ray Anderson": {
         "id": 1581685,
@@ -30151,27 +30151,27 @@
       "Beau Charles": {
         "id": 5799956,
         "character": "Young Logger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Rick Rivera": {
         "id": 2665931,
         "character": "Foreman. New Cut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Taylor McKinley": {
         "id": 5799957,
         "character": "Logger. New Cut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Ashton Singer": {
         "id": 4290769,
         "character": "Avery Pinkham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Zoe Rose Short": {
         "id": 5799958,
         "character": "Kate. Returned",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Sean San Jose": {
         "id": 4178064,
@@ -30186,17 +30186,17 @@
       "Cisco Keanu Hoberock": {
         "id": 3225994,
         "character": "Wolfboy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Clark Sandford": {
         "id": 2127871,
         "character": "Pilot's Father",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Amelia Hilsen": {
         "id": 5799959,
         "character": "Pilot",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Keith Cox": {
         "id": 2100053,
@@ -30206,37 +30206,37 @@
       "Bonne Vejou-Dorrell": {
         "id": 3399755,
         "character": "Kootenai Indian (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Ron Ford": {
         "id": 98712,
         "character": "Mr. Pinkham (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Frank A. Gaimari": {
         "id": 4198299,
         "character": "Church Attendee (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Miles Glew": {
         "id": 5920919,
         "character": "Fair Attendee (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Pamela Kingsley": {
         "id": 3189269,
         "character": "Chapel Congregant (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Jennifer Simmons": {
         "id": 2317156,
         "character": "Mrs. Pinkham (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       },
       "Eric David Wallace": {
         "id": 5816540,
         "character": "Logger (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oHTNNQzoWUUnswz8F0bwZetEKgj.jpg"
       }
     }
   },
