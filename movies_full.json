@@ -19525,7 +19525,7 @@
     "released": "2023-06-23",
     "duration": 99,
     "imdb_id": "tt19500164",
-    "vote_average": "7.8",
+    "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -23030,7 +23030,7 @@
       "Karl Urban": {
         "id": 1372,
         "character": "Jacob Holland (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
       },
       "Zaris-Angel Hator": {
         "id": 2127280,
@@ -24166,7 +24166,7 @@
       "Miguel Abrantes Ostrowski": {
         "id": 1897928,
         "character": "Hans Klein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/by67GBbMTZdEEpvuQBzcPRFqxUD.jpg"
       },
       "Kim Hanfland": {
         "id": 5148725,
@@ -25818,7 +25818,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31428,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
