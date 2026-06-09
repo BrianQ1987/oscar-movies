@@ -8687,7 +8687,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12378,7 +12378,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/elATrWUfYdTmEiTur6SmeNBaqXn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pjajRZochCcC3KARFcofO3MOkik.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15461,7 +15461,7 @@
         "character": "Mira (Original Songs Performance) (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/cr1vqIoqoqpiHRkuioQVrj5D3Ay.jpg"
       },
-      "Rei Ami": {
+      "REI AMI": {
         "id": 5519744,
         "character": "Zoey (Original Songs Performance) (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1tX3HKG2ssDSuUQYGC0yt8oolS4.jpg"
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -23030,7 +23030,7 @@
       "Karl Urban": {
         "id": 1372,
         "character": "Jacob Holland (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6CkZLwEJxfqqcJHyeXegMAvOlPh.jpg"
       },
       "Zaris-Angel Hator": {
         "id": 2127280,
@@ -31428,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
