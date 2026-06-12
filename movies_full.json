@@ -13953,7 +13953,7 @@
       "Gene Jones": {
         "id": 1194944,
         "character": "Pitts Beatty",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vssJ7FUw3m9vL79HLYg6G5dnoV3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bafq3sKRaz20gZHfyaIY8E93K3w.jpg"
       },
       "Michael Abbott Jr.": {
         "id": 71889,
@@ -17680,7 +17680,7 @@
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21457,7 +21457,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -29873,7 +29873,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Macbeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/psYRFKEmhxXubY9LB0zY68c5bcS.jpg"
       },
       "Frances McDormand": {
         "id": 3910,
@@ -31422,7 +31422,7 @@
     "imdb_id": "tt17163970",
     "vote_average": "7.5",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
-    "genres": ["Adventure", "Animation", "Comedy", "Family", "Science Fiction"],
+    "genres": ["Animation", "Adventure", "Comedy", "Science Fiction", "Family"],
     "imdb_score": "7.5/10",
     "rt_score": "100%",
     "meta_score": "83/100",
@@ -35353,7 +35353,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.7",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Action", "Adventure", "Animation", "Comedy", "Crime", "Family", "Mystery"],
+    "genres": ["Animation", "Adventure", "Comedy", "Mystery", "Family"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "73/100",
