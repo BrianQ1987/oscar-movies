@@ -4694,7 +4694,7 @@
       "Ana de Armas": {
         "id": 224513,
         "character": "Norma Jeane / Marilyn Monroe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tkBWBvcLTihUcVf6iwbMQTFqEEv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sy5KKbpWjGCfs1q2Hk0HEqiNwuY.jpg"
       },
       "Adrien Brody": {
         "id": 3490,
@@ -5326,7 +5326,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -5519,7 +5519,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -12378,7 +12378,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15364,7 +15364,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25818,7 +25818,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31428,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
