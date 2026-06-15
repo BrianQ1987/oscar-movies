@@ -145,7 +145,7 @@
     "imdb_id": "tt1016150",
     "vote_average": "7.7",
     "overview": "Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.",
-    "genres": ["War", "Drama", "History"],
+    "genres": ["War", "Drama"],
     "imdb_score": "7.8/10",
     "rt_score": "90%",
     "meta_score": "76/100",
@@ -4694,7 +4694,7 @@
       "Ana de Armas": {
         "id": 224513,
         "character": "Norma Jeane / Marilyn Monroe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sy5KKbpWjGCfs1q2Hk0HEqiNwuY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3vxvsmYLTf4jnr163SUlBIw51ee.jpg"
       },
       "Adrien Brody": {
         "id": 3490,
@@ -5316,7 +5316,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Erzsébet Tóth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ywXf5fLAYLlwK5JRn6UrMMsBnwb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fyhWRmxpTEYl5d8DnkIo6i8RdWJ.jpg"
       },
       "Guy Pearce": {
         "id": 529,
@@ -5326,7 +5326,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Harry Lee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
       },
       "Raffey Cassidy": {
         "id": 1055230,
@@ -8687,7 +8687,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12378,7 +12378,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15364,7 +15364,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22268,7 +22268,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -30081,7 +30081,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Gladys Grainier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ywXf5fLAYLlwK5JRn6UrMMsBnwb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fyhWRmxpTEYl5d8DnkIo6i8RdWJ.jpg"
       },
       "Nathaniel Arcand": {
         "id": 60722,
@@ -31152,7 +31152,7 @@
       "Ian James Corlett": {
         "id": 45924,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/y0p99omSo8CgHWPjv7qXtAQVyzr.jpg"
       },
       "Juliet Donenfeld": {
         "id": 1914669,
@@ -31428,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
