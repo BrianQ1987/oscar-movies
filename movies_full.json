@@ -2495,7 +2495,7 @@
       },
       "Alicia Vela-Bailey": {
         "id": 1186027,
-        "character": "Troupe",
+        "character": "Recom Zdinarsik / Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/2isB8x0wahPz4sZ8QSX7Up4iDq9.jpg"
       },
       "Sean Anthony Moran": {
@@ -2555,7 +2555,7 @@
       },
       "Jamie Landau": {
         "id": 2144852,
-        "character": "Troupe",
+        "character": "Metkayina Warrior / Troupe",
         "profile_path": "https://image.tmdb.org/t/p/w1280/tmFawQ5z4ADaAqoAJOaVfDq0egd.jpg"
       },
       "Jim Moore": {
@@ -5519,7 +5519,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -11616,7 +11616,7 @@
       "Adam Brown": {
         "id": 1193833,
         "character": "Prisoner #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yveDcolh1BE8DoV2RZ2p31be9VQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ttAyc02iVH4doLaUAdYcR4Xpzkg.jpg"
       },
       "Santiago Segura": {
         "id": 10847,
@@ -12225,7 +12225,7 @@
       "Ewan McGregor": {
         "id": 3061,
         "character": "Cricket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tw6lVBh0DvAUkCd1jsU98yD1usk.jpg"
       },
       "David Bradley": {
         "id": 11180,
@@ -12378,7 +12378,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -24695,7 +24695,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -31428,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
