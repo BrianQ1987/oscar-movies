@@ -5682,7 +5682,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k6CsASaySnS3ag0Y2Ns2vqPahVn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -6905,7 +6905,7 @@
       "Isabella Rossellini": {
         "id": 6588,
         "character": "Sister Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ebcTowZoBZCDxaWd5ZrL2ZR5mQ3.jpg"
       },
       "Lucian Msamati": {
         "id": 1240427,
@@ -7037,7 +7037,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k6CsASaySnS3ag0Y2Ns2vqPahVn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -8687,7 +8687,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11616,7 +11616,7 @@
       "Adam Brown": {
         "id": 1193833,
         "character": "Prisoner #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ttAyc02iVH4doLaUAdYcR4Xpzkg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yveDcolh1BE8DoV2RZ2p31be9VQ.jpg"
       },
       "Santiago Segura": {
         "id": 10847,
@@ -12378,7 +12378,7 @@
       "Joe Alwyn": {
         "id": 1496392,
         "character": "Bartholomew",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kKmySs1rYjKhbBxVWcadfrWis0G.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lm39zw4YUM36Uf9smhb71juSnDi.jpg"
       },
       "Jacobi Jupe": {
         "id": 3115247,
@@ -15364,7 +15364,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17572,7 +17572,7 @@
       "Isabella Rossellini": {
         "id": 6588,
         "character": "Connie (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z0zojT6nwDxi35HMcXlVpBfuBAU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ebcTowZoBZCDxaWd5ZrL2ZR5mQ3.jpg"
       },
       "Joe Gabler": {
         "id": 3979379,
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20482,7 +20482,7 @@
       "Emily Blunt": {
         "id": 5081,
         "character": "Kitty Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ddmGOQ7W9yLrGrSVhgRZHfe3vhj.jpg"
       },
       "Matt Damon": {
         "id": 1892,
@@ -21738,8 +21738,8 @@
     "imdb_score": "6.8/10",
     "rt_score": "94%",
     "meta_score": "89/100",
-    "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "platforms": ["BBC iPlayer", "Netflix"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg"],
     "director": "Jane Campion",
     "cast": {
       "Benedict Cumberbatch": {
@@ -30262,8 +30262,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "72%",
     "meta_score": "63/100",
-    "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Ruben Östlund",
     "cast": {
       "Harris Dickinson": {
