@@ -15364,7 +15364,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17081,7 +17081,7 @@
     "imdb_id": "tt12801262",
     "vote_average": "7.8",
     "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-    "genres": ["Animation", "Comedy", "Drama", "Family", "Fantasy"],
+    "genres": ["Animation", "Family", "Fantasy"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
@@ -25818,7 +25818,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -34544,7 +34544,7 @@
       "Dee Bradley Baker": {
         "id": 23680,
         "character": "Raccoons / Squirrels / Badgers (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/62GbBiRMryzG07roQKbtOEKsKV3.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
       },
       "Randy Thom": {
         "id": 42267,
