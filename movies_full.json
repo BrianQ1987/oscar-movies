@@ -2927,7 +2927,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -19004,7 +19004,7 @@
     "released": "2024-12-13",
     "duration": 140,
     "imdb_id": "tt23055660",
-    "vote_average": "6.7",
+    "vote_average": "6.6",
     "overview": "Chronicles the powerful friendship between two young Black teenagers navigating the harrowing trials of reform school together in Florida.",
     "genres": ["Drama", "History"],
     "imdb_score": "6.9/10",
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20482,7 +20482,7 @@
       "Emily Blunt": {
         "id": 5081,
         "character": "Kitty Oppenheimer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ddmGOQ7W9yLrGrSVhgRZHfe3vhj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
       },
       "Matt Damon": {
         "id": 1892,
@@ -22268,7 +22268,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
