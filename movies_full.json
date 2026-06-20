@@ -3680,7 +3680,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -9835,7 +9835,7 @@
       "Isabelle Huppert": {
         "id": 17882,
         "character": "The Countess",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hwJQBS3jJA4i5RZ1iv6heBoXUGL.jpg"
       },
       "Lorenzo Zurzolo": {
         "id": 1526594,
@@ -14889,8 +14889,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/pvske1MyAoymrs5bguRfVqYiM9a.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -17081,7 +17081,7 @@
     "imdb_id": "tt12801262",
     "vote_average": "7.8",
     "overview": "Luca and his best friend Alberto experience an unforgettable summer on the Italian Riviera. But all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water’s surface.",
-    "genres": ["Animation", "Family", "Fantasy"],
+    "genres": ["Animation", "Family", "Fantasy", "Drama", "Comedy"],
     "imdb_score": "7.4/10",
     "rt_score": "91%",
     "meta_score": "71/100",
@@ -20557,7 +20557,7 @@
       "Alden Ehrenreich": {
         "id": 71375,
         "character": "Senate Aide",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2Ed8m1GmrElvtIQwX2K1CaAW7t5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vOLiUSDT8rubu0J2YKwBkOL0K6V.jpg"
       },
       "Tony Goldwyn": {
         "id": 3417,
@@ -25818,7 +25818,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -33336,7 +33336,7 @@
       "Honey Makwana": {
         "id": 4208481,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6DeVsJnOg4zPDq9ssw7BRmkzjAw.jpg"
       },
       "Ian Harris": {
         "id": 5152711,
@@ -34727,7 +34727,7 @@
       "Vivien Endicott Douglas": {
         "id": 227571,
         "character": "Clara",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oQAMsKI1riVj0RFjHxb1WSgYsL0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gHObS5p8LpyhxxScDvPfN2pJ6QS.jpg"
       },
       "Nathaniel McParland": {
         "id": 3244335,
