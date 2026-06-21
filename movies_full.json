@@ -472,7 +472,7 @@
       "Leslie Uggams": {
         "id": 122750,
         "character": "Agnes Ellison",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/peLaqLcs3y2WY4TbrLOXQGt9I8S.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8zQO5GNWQwJG4we5AYfjopblRFe.jpg"
       },
       "Sterling K. Brown": {
         "id": 1225953,
@@ -5549,7 +5549,7 @@
       "Marc T. Lewis": {
         "id": 5105205,
         "character": "Tony",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rrwyDxRMfnPnRvFEX1uuvdRq9WQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6WOS0OTGlAh61cpRBtEgclZrrop.jpg"
       },
       "Vanessa Eng": {
         "id": 4986018,
@@ -8568,7 +8568,7 @@
     "imdb_id": "tt15789038",
     "vote_average": "7.6",
     "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
-    "genres": ["Animation", "Comedy", "Family", "Fantasy", "Romance"],
+    "genres": ["Animation", "Comedy", "Family", "Romance"],
     "imdb_score": "7.0/10",
     "rt_score": "73%",
     "meta_score": "58/100",
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22268,7 +22268,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31428,7 +31428,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
