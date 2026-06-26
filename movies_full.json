@@ -682,7 +682,7 @@
       "Russell J. Gannon": {
         "id": 2129853,
         "character": "Man At Book Fair (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/57MFWGHarg9jid7yfDTka4RmcMU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8D9S54m9MvyLf3ztDPti3VFO8iI.jpg"
       },
       "Heidi Garza": {
         "id": 5337864,
@@ -2792,12 +2792,7 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/emIrttka56bncBHZKt1B9E0uhFw.jpg"
       },
       "Ryan Owens": {
-        "id": 2335235,
-        "character": "Student Musician 3",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
-      },
-      "Ryan Owen": {
-        "id": 4597450,
+        "id": 6308074,
         "character": "Student Musician 3",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg"
       }
@@ -8687,7 +8682,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12345,7 +12340,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
     "title": "Hamnet",
     "released": "2025-11-26",
     "duration": 125,
@@ -12363,7 +12358,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -12448,7 +12443,7 @@
       "James Skinner": {
         "id": 6000950,
         "character": "Gilbert",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
       },
       "Elliot Baxter": {
         "id": 2850899,
@@ -12478,12 +12473,12 @@
       "Albert McCormick": {
         "id": 6000951,
         "character": "Boy in Window",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
       },
       "Eliah Arnstjerna": {
         "id": 6000952,
         "character": "Drum Player",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
       },
       "Edward Anderson": {
         "id": 4324445,
@@ -15364,7 +15359,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16954,7 +16949,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -19525,7 +19520,7 @@
     "released": "2023-06-23",
     "duration": 99,
     "imdb_id": "tt19500164",
-    "vote_average": "7.8",
+    "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
@@ -31428,7 +31423,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31453,7 +31448,7 @@
       "Diane Morgan": {
         "id": 1543364,
         "character": "Onya Doorstep (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aoDLxDNIWe3BuG7XJpeyI24ln9a.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg"
       },
       "Adjoa Andoh": {
         "id": 109651,
@@ -34657,7 +34652,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
