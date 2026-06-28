@@ -2822,7 +2822,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/au6Hq8nQXJD67mDtl34ZOm8DXrh.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -2922,7 +2922,7 @@
       "Michael Cera": {
         "id": 39995,
         "character": "Allan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
       },
       "Rhea Perlman": {
         "id": 24203,
@@ -15359,7 +15359,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19528,7 +19528,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19716,7 +19716,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22496,7 +22496,7 @@
     "released": "2023-12-06",
     "duration": 102,
     "imdb_id": "tt13429870",
-    "vote_average": "7.9",
+    "vote_average": "8",
     "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
     "genres": ["Animation", "Drama", "Comedy", "Science Fiction"],
     "imdb_score": "7.6/10",
@@ -31415,7 +31415,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Adventure", "Comedy", "Science Fiction", "Family"],
     "imdb_score": "7.5/10",
