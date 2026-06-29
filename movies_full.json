@@ -58,7 +58,7 @@
       "Spike Fearn": {
         "id": 2304140,
         "character": "Olly",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a03zZnBwK3DyCam01AuN0DLYVDs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/o1WcXkDdlN5wdL5WIuGXNpNouZ9.jpg"
       },
       "Harry Perdios": {
         "id": 3562265,
@@ -8676,13 +8676,13 @@
     "imdb_id": "tt4900148",
     "vote_average": "6.9",
     "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
-    "genres": ["Animation", "Adventure", "Comedy", "Science Fiction", "Family"],
+    "genres": ["Animation", "Adventure", "Science Fiction", "Family"],
     "imdb_score": "6.6/10",
     "rt_score": "83%",
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -14884,8 +14884,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -15359,7 +15359,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19716,7 +19716,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22496,7 +22496,7 @@
     "released": "2023-12-06",
     "duration": 102,
     "imdb_id": "tt13429870",
-    "vote_average": "8",
+    "vote_average": "7.9",
     "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
     "genres": ["Animation", "Drama", "Comedy", "Science Fiction"],
     "imdb_score": "7.6/10",
@@ -25813,7 +25813,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29868,7 +29868,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Macbeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/47nwbyEq5KWOhrP8zkHTwXv7Vd1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jj2Gcobpopokal0YstuCQW0ldJ4.jpg"
       },
       "Frances McDormand": {
         "id": 3910,
