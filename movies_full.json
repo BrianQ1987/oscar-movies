@@ -8106,7 +8106,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xcYZOScYqziWjPcf3xIfQUMBYlZ.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -8682,7 +8682,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19227,7 +19227,7 @@
     "released": "2021-12-02",
     "duration": 151,
     "imdb_id": "tt7740496",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
     "genres": ["Crime", "Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -19528,7 +19528,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -31423,7 +31423,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31541,7 +31541,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
     "title": "Weapons",
     "released": "2025-08-04",
-    "duration": 128,
+    "duration": 129,
     "imdb_id": "tt26581740",
     "vote_average": "7.3",
     "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
