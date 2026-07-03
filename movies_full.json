@@ -19528,7 +19528,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21061,6 +21061,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "94/100",
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
     "director": "Celine Song",
     "cast": {
       "Greta Lee": {
@@ -22263,7 +22265,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -28769,7 +28771,7 @@
       "Alexandra Shipp": {
         "id": 1253199,
         "character": "Susan Wilson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v1OqFPLrp25B6ZzerTRJQK8xHED.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
       },
       "Robin de Jesús": {
         "id": 110505,
@@ -30071,7 +30073,7 @@
       "Joel Edgerton": {
         "id": 33192,
         "character": "Robert Grainier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2YzeeiYUbI94Ywc7MVMo1NcN6jf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r2TTDZ8cG5wrZqx7Drz1M95S9z3.jpg"
       },
       "Felicity Jones": {
         "id": 72855,
