@@ -6399,7 +6399,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Bob Dylan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Edward Norton": {
         "id": 819,
@@ -7067,7 +7067,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7843,7 +7843,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8061,7 +8061,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Zendaya": {
         "id": 505710,
@@ -15359,7 +15359,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17670,7 +17670,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
@@ -22263,7 +22263,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25813,7 +25813,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
