@@ -7688,6 +7688,11 @@
         "id": 2148697,
         "character": "Reporter with Big Hair (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dPMHEvsqwBHSiFaSIUNCMmA2wOC.jpg"
+      },
+      "André Silva": {
+        "id": 1603919,
+        "character": "Man who looks at the sky (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zrJw7Fmd6V6l1L3i4fQhbI1gtz5.jpg"
       }
     }
   },
@@ -12340,7 +12345,7 @@
     "watched": true,
     "nominated": 2026,
     "categories": ["Best Picture", "Best Director", "Best Actress", "Best Adapted Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg",
     "title": "Hamnet",
     "released": "2025-11-26",
     "duration": 125,
@@ -12443,7 +12448,7 @@
       "James Skinner": {
         "id": 6000950,
         "character": "Gilbert",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
       },
       "Elliot Baxter": {
         "id": 2850899,
@@ -12473,12 +12478,12 @@
       "Albert McCormick": {
         "id": 6000951,
         "character": "Boy in Window",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
       },
       "Eliah Arnstjerna": {
         "id": 6000952,
         "character": "Drum Player",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zIcd6yuBucRNof5t9KVuGBHIhXU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/61xMzN4h8iLk0hq6oUzr9Ts6GE9.jpg"
       },
       "Edward Anderson": {
         "id": 4324445,
@@ -15712,7 +15717,7 @@
       "Christine Ebersole": {
         "id": 4003,
         "character": "Lucille Doolittle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nlOqpkGI5XiLbpwxjTS1TgsGep5.jpg"
       },
       "Harriet Sansom Harris": {
         "id": 538,
@@ -19528,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -25815,7 +25820,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29657,7 +29662,7 @@
       "Lewis Pullman": {
         "id": 1700685,
         "character": "Lt. Robert 'Bob' Floyd",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ws3WR1F2DfjtLLbK8XOGHEZbX1A.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
       },
       "Jay Ellis": {
         "id": 151680,
