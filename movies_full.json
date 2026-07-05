@@ -1673,6 +1673,11 @@
         "id": 3543561,
         "character": "Ivanka Trump (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ehxuJhPwCo0M84SdD6k6cYsKFfs.jpg"
+      },
+      "Rafael Vivar": {
+        "id": 5876316,
+        "character": "Jeffrey Epstein",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/549Hdul2BgPnZMhqFxp6npp2opr.jpg"
       }
     }
   },
@@ -11776,7 +11781,7 @@
     "released": "2024-09-06",
     "duration": 123,
     "imdb_id": "tt10236164",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Struggling to survive in post-WWI Copenhagen, a newly unemployed and pregnant young woman is taken in by a charismatic elder to help run an underground adoption agency. The two form an unexpected bond, until a sudden discovery changes everything.",
     "genres": ["Drama", "History"],
     "imdb_score": "7.5/10",
@@ -13439,7 +13444,7 @@
       "Frank Oz": {
         "id": 7908,
         "character": "Mind Cop Dave (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/NmtYrntP8gElfulb4KaEYjbOha.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
       },
       "Paula Pell": {
         "id": 1226294,
@@ -18291,6 +18296,11 @@
         "id": 6116349,
         "character": "Military Kid (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oPwnj50jQgIp557ZHskKmiv8kiM.jpg"
+      },
+      "Daniel Stevenson": {
+        "id": 6327085,
+        "character": "Ping Pong Ball (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       }
     }
   },
