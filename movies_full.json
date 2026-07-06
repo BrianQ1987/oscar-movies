@@ -1673,11 +1673,6 @@
         "id": 3543561,
         "character": "Ivanka Trump (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ehxuJhPwCo0M84SdD6k6cYsKFfs.jpg"
-      },
-      "Rafael Vivar": {
-        "id": 5876316,
-        "character": "Jeffrey Epstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/549Hdul2BgPnZMhqFxp6npp2opr.jpg"
       }
     }
   },
@@ -8692,7 +8687,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19731,7 +19726,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21233,7 +21228,7 @@
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Wim Wenders",
     "cast": {
-      "Koji Yakusho": {
+      "Takabe Kuwamoto": {
         "id": 18056,
         "character": "Hirayama",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
@@ -25591,7 +25586,7 @@
       "Dina Selimovic": {
         "id": 3080349,
         "character": "Lamaze Teacher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xStmzLprgzqjzfvpBI7uTbcRpwQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4NJ3kS7glrltVwJqoGn4QgZUdev.jpg"
       },
       "Caryn Osofsky": {
         "id": 1745570,
@@ -25830,7 +25825,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31440,7 +31435,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
