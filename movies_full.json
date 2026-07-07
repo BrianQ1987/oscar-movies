@@ -2391,7 +2391,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9xDnfZrWhM67wJlQJEsOOjQzDUQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -4657,11 +4657,6 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
-      },
-      "Chadwick Boseman": {
-        "id": 172069,
-        "character": "T'Challa / Black Panther (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
       }
     }
   },
@@ -18291,11 +18286,6 @@
         "id": 6116349,
         "character": "Military Kid (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oPwnj50jQgIp557ZHskKmiv8kiM.jpg"
-      },
-      "Daniel Stevenson": {
-        "id": 6327085,
-        "character": "Ping Pong Ball (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       }
     }
   },
@@ -19052,7 +19042,7 @@
       "Jimmie Fails": {
         "id": 1774398,
         "character": "Mr. Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ulq5j9k1TNUVmMegoxfR81Kf2na.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ffymQQUPR7yD6pzbogE2Ic60LpJ.jpg"
       },
       "Luke Tennie": {
         "id": 2101951,
@@ -19538,7 +19528,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19726,7 +19716,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20577,7 +20567,7 @@
       "David Krumholtz": {
         "id": 38582,
         "character": "Isidor Rabi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ibp6vAc8MWTAKaTI9tfpUJtqiAX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
       },
       "Matthew Modine": {
         "id": 8654,
@@ -21817,7 +21807,7 @@
       "Cohen Holloway": {
         "id": 939388,
         "character": "Bobby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7qWqBZk4arFgx7TJpi7uXe6eH2z.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6dkNgFLOLkx6dSjO0m5MT2A4FR3.jpg"
       },
       "Max Mata": {
         "id": 3233124,
@@ -22275,7 +22265,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23637,7 +23627,7 @@
     "released": "2025-08-20",
     "duration": 133,
     "imdb_id": "tt27714581",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -25825,7 +25815,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -32427,7 +32417,7 @@
       "Samantha Morton": {
         "id": 2206,
         "character": "Mary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v84b7MENeD9rwX6xTD7fSdhSOC9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5DOlLIlgxKYzb4Hsm0phrGmYVIq.jpg"
       },
       "Sathya Sridharan": {
         "id": 1377031,
