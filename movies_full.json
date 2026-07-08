@@ -6356,7 +6356,7 @@
       "Whoopi Goldberg": {
         "id": 2395,
         "character": "Midwife (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f7nOs8pp4rxLQgUaeXu21kMtD9o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
       },
       "Matthew James Gulbranson": {
         "id": 1408875,
@@ -7072,7 +7072,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Riley Bina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lV6oZ4gaylWKa3GKzNoyar65HyO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d4HtCXm58GuqVJVGgDKFn0dEj8M.jpg"
       },
       "Kid Cudi": {
         "id": 484359,
@@ -7903,7 +7903,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8066,7 +8066,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -8682,7 +8682,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15359,7 +15359,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17550,8 +17550,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "98%",
     "meta_score": "80/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Dean Fleischer Camp",
     "cast": {
       "Jenny Slate": {
@@ -19227,7 +19227,7 @@
     "released": "2021-12-02",
     "duration": 151,
     "imdb_id": "tt7740496",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
     "genres": ["Crime", "Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -19528,7 +19528,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21218,7 +21218,7 @@
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Wim Wenders",
     "cast": {
-      "Takabe Kuwamoto": {
+      "Koji Yakusho": {
         "id": 18056,
         "character": "Hirayama",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rF3pmX1yqoMXJLgRkgaLc7PGv68.jpg"
@@ -31425,7 +31425,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32478,7 +32478,7 @@
       "Ariana Grande": {
         "id": 226001,
         "character": "Galinda / Glinda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lV6oZ4gaylWKa3GKzNoyar65HyO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d4HtCXm58GuqVJVGgDKFn0dEj8M.jpg"
       },
       "Michelle Yeoh": {
         "id": 1620,
