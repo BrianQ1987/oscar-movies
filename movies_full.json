@@ -3675,7 +3675,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -5963,7 +5963,7 @@
       "Anilee List": {
         "id": 3204233,
         "character": "Adele Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/BzVjmm8l23rPsijLiNLUzuQtyd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cu4Af5qBiKKIqtGwgXUadlsUIoB.jpg"
       },
       "Stone Martin": {
         "id": 3204235,
@@ -7831,8 +7831,8 @@
     "duration": 155,
     "imdb_id": "tt1160419",
     "vote_average": "7.8",
-    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
-    "genres": ["Science Fiction", "Adventure"],
+    "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+    "genres": ["Science Fiction", "Adventure", "War"],
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
@@ -7903,7 +7903,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8066,7 +8066,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uD5a0CsVbR0phlUvHXLlKntAIXS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -11310,7 +11310,7 @@
     "released": "2021-06-17",
     "duration": 89,
     "imdb_id": "tt8430054",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
     "genres": ["Documentary", "Animation"],
     "imdb_score": "7.9/10",
@@ -15359,7 +15359,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19227,7 +19227,7 @@
     "released": "2021-12-02",
     "duration": 151,
     "imdb_id": "tt7740496",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
     "genres": ["Crime", "Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -19528,7 +19528,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -25815,7 +25815,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31417,7 +31417,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Adventure", "Comedy", "Science Fiction", "Family"],
     "imdb_score": "7.5/10",
@@ -31425,7 +31425,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
