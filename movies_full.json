@@ -1202,7 +1202,7 @@
       "Sebastian Stan": {
         "id": 60898,
         "character": "Donald Trump",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nKZgixTbHFXpkzzIpMFdLX98GYh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v20RLWst39klatsqUgSrwHxhwee.jpg"
       },
       "Jeremy Strong": {
         "id": 239271,
@@ -5645,6 +5645,11 @@
         "id": 3111812,
         "character": "Doctor (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg"
+      },
+      "Ava Kris Tyson": {
+        "id": 2716434,
+        "character": "Bees (Voice) (Uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zs6plAiRFIQc9PeRcZAvZAygYio.jpg"
       }
     }
   },
@@ -8028,7 +8033,7 @@
       "Marianne Faithfull": {
         "id": 19995,
         "character": "Bene Gesserit Ancestor (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mV8avpLE0BJVLQ97oyFNn1BS1n2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jDUoK3Lg4hL84kihErRvYtABwz4.jpg"
       },
       "Ellen Dubin": {
         "id": 53934,
@@ -8546,7 +8551,7 @@
       "Anya Taylor-Joy": {
         "id": 1397778,
         "character": "Alia Atreides (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jxAbDJWvz4p1hoFpJYG5vY2dQmq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
       }
     }
   },
@@ -17695,7 +17700,7 @@
       "Fran Drescher": {
         "id": 53122,
         "character": "Rebecca Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t5nDXDld8QykgZ3cllrn2OziI38.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6IQlygYDyxuIRD5j9lPluknYoJp.jpg"
       },
       "Abel Ferrara": {
         "id": 39104,
@@ -19027,7 +19032,7 @@
       "Hamish Linklater": {
         "id": 184581,
         "character": "Spencer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AnpxdQjBk3v2OQTgyyb9EuUxAow.jpg"
       },
       "Gralen Bryant Banks": {
         "id": 557804,
@@ -25815,7 +25820,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
