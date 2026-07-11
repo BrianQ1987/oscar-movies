@@ -3675,7 +3675,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lfW2cDigTcvuoe4k6UfCdGVE1R6.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -7067,7 +7067,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -7848,7 +7848,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Paul Atreides",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -7908,7 +7908,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8687,7 +8687,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -8828,8 +8828,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "77%",
     "meta_score": "64/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Baz Luhrmann",
     "cast": {
       "Austin Butler": {
@@ -17675,7 +17675,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fI6Zwvwo0KuUMfutTyHCTuWEIrx.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
@@ -22270,7 +22270,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
