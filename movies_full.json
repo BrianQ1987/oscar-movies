@@ -2391,7 +2391,7 @@
       "Kate Winslet": {
         "id": 204,
         "character": "Ronal",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/e3tdop3WhseRnn8KwMVLAV25Ybv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
       },
       "Cliff Curtis": {
         "id": 7248,
@@ -22270,7 +22270,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24697,7 +24697,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
