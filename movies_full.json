@@ -8722,7 +8722,7 @@
       "Young Dylan": {
         "id": 2443561,
         "character": "Bryce (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5o563nn5z5YSLo09oK4bhG2ENxj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1fA7kz4BuFiRDGM9rrPj9Hvc7pK.jpg"
       },
       "Jake T. Getman": {
         "id": 1600724,
@@ -15364,7 +15364,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15717,7 +15717,7 @@
       "Christine Ebersole": {
         "id": 4003,
         "character": "Lucille Doolittle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nlOqpkGI5XiLbpwxjTS1TgsGep5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
       },
       "Harriet Sansom Harris": {
         "id": 538,
@@ -16936,7 +16936,7 @@
     "released": "2021-12-15",
     "duration": 122,
     "imdb_id": "tt9100054",
-    "vote_average": "6.5",
+    "vote_average": "6.4",
     "overview": "A woman's seaside vacation takes a dark turn when her obsession with a young mother forces her to confront secrets from her past.",
     "genres": "Drama",
     "imdb_score": "6.7/10",
@@ -18291,6 +18291,11 @@
         "id": 6116349,
         "character": "Military Kid (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oPwnj50jQgIp557ZHskKmiv8kiM.jpg"
+      },
+      "Ben Fiorica": {
+        "id": 3637385,
+        "character": "Ping Pong Player",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vxOn4BOZS6tbCGFFKRUTgtDpEa.jpg"
       }
     }
   },
@@ -19300,7 +19305,7 @@
       "Holt McCallany": {
         "id": 7497,
         "character": "Anderson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iRo9YUNMwZg4UCq7dapo0HydDmI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
       },
       "Paul Anderson": {
         "id": 220448,
@@ -19721,7 +19726,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -29875,7 +29880,7 @@
       "Denzel Washington": {
         "id": 5292,
         "character": "Macbeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/psYRFKEmhxXubY9LB0zY68c5bcS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/393wX9AGWpseVqojQDPLy3bTBia.jpg"
       },
       "Frances McDormand": {
         "id": 3910,
@@ -31430,7 +31435,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
