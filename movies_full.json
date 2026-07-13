@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -10883,8 +10883,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "92%",
     "meta_score": "85/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Steven Spielberg",
     "cast": {
       "Michelle Williams": {
@@ -15364,7 +15364,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -16936,7 +16936,7 @@
     "released": "2021-12-15",
     "duration": 122,
     "imdb_id": "tt9100054",
-    "vote_average": "6.4",
+    "vote_average": "6.5",
     "overview": "A woman's seaside vacation takes a dark turn when her obsession with a young mother forces her to confront secrets from her past.",
     "genres": "Drama",
     "imdb_score": "6.7/10",
@@ -18323,7 +18323,7 @@
       "Natalie Portman": {
         "id": 524,
         "character": "Elizabeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2YFc38KnhSlkw5tj372JdRtu5Um.jpg"
       },
       "Julianne Moore": {
         "id": 1231,
@@ -18739,7 +18739,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg",
     "title": "The Mitchells vs. the Machines",
     "released": "2021-04-22",
-    "duration": 114,
+    "duration": 110,
     "imdb_id": "tt7979580",
     "vote_average": "7.8",
     "overview": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
@@ -20905,7 +20905,7 @@
       "Penélope Cruz": {
         "id": 955,
         "character": "Janis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/j5iHd2ctzlcQ3gJ3CyEq4GYlY7V.jpg"
       },
       "Milena Smit": {
         "id": 2560224,
@@ -31059,7 +31059,7 @@
       "Wai Ching Ho": {
         "id": 1269910,
         "character": "Grandma (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/v6TntYigep512F6QRyeOGJ4DKkp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hgPvheRhKwhx98c1vK29JztF5rB.jpg"
       },
       "Tristan Allerick Chen": {
         "id": 2974629,
@@ -31435,7 +31435,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32412,7 +32412,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m9OyHAyOx56Pm3JruEBqh4p9XeX.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
