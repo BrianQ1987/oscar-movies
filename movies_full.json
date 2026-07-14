@@ -7913,7 +7913,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8076,7 +8076,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yCpzzMJ9gS7Rp7xgrVOsntW1m7D.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -12357,7 +12357,7 @@
     "imdb_id": "tt14905854",
     "vote_average": "7.7",
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-    "genres": ["Drama", "Romance", "History"],
+    "genres": ["Drama", "Romance"],
     "imdb_score": "7.8/10",
     "rt_score": "86%",
     "meta_score": "84/100",
@@ -15369,7 +15369,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19242,7 +19242,7 @@
     "released": "2021-12-02",
     "duration": 151,
     "imdb_id": "tt7740496",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "An ambitious carnival man with a talent for manipulating people with a few well-chosen words hooks up with a female psychologist who is even more dangerous than he is.",
     "genres": ["Crime", "Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -19330,7 +19330,7 @@
       "Clifton Collins Jr.": {
         "id": 5365,
         "character": "Funhouse Jack",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iUQGHVSAA48q1QMnj7hnBFVq3jK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
       },
       "Tim Blake Nelson": {
         "id": 1462,
@@ -19543,7 +19543,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20480,8 +20480,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "93%",
     "meta_score": "90/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Christopher Nolan",
     "cast": {
       "Cillian Murphy": {
@@ -20792,7 +20792,7 @@
       "James Remar": {
         "id": 1736,
         "character": "Henry Stimson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ku0NZ1uq33gwRuJpZ84zHxpSCAK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
       },
       "Will Roberts": {
         "id": 30791,
@@ -22280,7 +22280,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24712,7 +24712,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -25835,7 +25835,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29642,7 +29642,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3mShHjSQR7NXOVbdTu5rT2Qd0MN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -30108,7 +30108,7 @@
       "Clifton Collins Jr.": {
         "id": 5365,
         "character": "Boomer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iUQGHVSAA48q1QMnj7hnBFVq3jK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
       },
       "John Diehl": {
         "id": 4942,
@@ -31445,7 +31445,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
