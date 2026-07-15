@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -8692,7 +8692,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15369,7 +15369,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18301,6 +18301,11 @@
         "id": 3637385,
         "character": "Ping Pong Player",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vxOn4BOZS6tbCGFFKRUTgtDpEa.jpg"
+      },
+      "Joél Isaac": {
+        "id": 3441042,
+        "character": "Portuguese Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d5fTUGEG3PKzQnF3QzbmjK9Lv3B.jpg"
       }
     }
   },
@@ -18328,7 +18333,7 @@
       "Natalie Portman": {
         "id": 524,
         "character": "Elizabeth",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2YFc38KnhSlkw5tj372JdRtu5Um.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
       },
       "Julianne Moore": {
         "id": 1231,
@@ -19731,7 +19736,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20522,7 +20527,7 @@
       "Rami Malek": {
         "id": 17838,
         "character": "David Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mESIaMPIPxtyWDQ6DAChUBobOp5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zvBCjFmedqXRqa45jlLf6vBd9Nt.jpg"
       },
       "Kenneth Branagh": {
         "id": 11181,
@@ -22280,7 +22285,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24712,7 +24717,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -25835,7 +25840,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31445,7 +31450,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34496,7 +34501,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9VYK7oxcqhjd5LAH6ZFJ3XzOlID.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
