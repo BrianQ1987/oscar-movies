@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -8692,7 +8692,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10868,6 +10868,11 @@
         "id": 3751465,
         "character": "Stefano Domenicali",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hDk46rzXaYmRwdtaZUoO11dS27L.jpg"
+      },
+      "Simon Minter": {
+        "id": 2464458,
+        "character": "Audience member (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dyUt9Sw7D8FIiXhFN30IVihQ5Gm.jpg"
       }
     }
   },
@@ -11601,7 +11606,7 @@
       "Gord Rand": {
         "id": 557311,
         "character": "Silversmith",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tv4RPO2Ga5z2sWWvCQoLW5wCFxo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2CP7bwZJdnftD5OZv6yGJLsWVNu.jpg"
       },
       "Kenton Craig": {
         "id": 5762191,
@@ -15369,7 +15374,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15682,7 +15687,7 @@
       "Cooper Hoffman": {
         "id": 2764542,
         "character": "Gary Valentine",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6VY3YOg5o2k8CTldr8lYLijGnsN.jpg"
       },
       "Sean Penn": {
         "id": 2228,
@@ -15702,7 +15707,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Joel Wachs",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
       },
       "Skyler Gisondo": {
         "id": 61263,
@@ -19548,7 +19553,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19736,7 +19741,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20537,7 +20542,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Edward Teller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
       },
       "Jason Clarke": {
         "id": 76512,
@@ -22285,7 +22290,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23647,7 +23652,7 @@
     "released": "2025-08-20",
     "duration": 133,
     "imdb_id": "tt27714581",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -31442,7 +31447,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Adventure", "Comedy", "Science Fiction", "Family"],
     "imdb_score": "7.5/10",
