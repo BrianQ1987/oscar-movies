@@ -753,7 +753,7 @@
       "Sandra Hüller": {
         "id": 7152,
         "character": "Sandra Voyter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tORnKU1CvjgXKsaWcYLzrJ5e1ng.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
       },
       "Swann Arlaud": {
         "id": 145120,
@@ -7847,7 +7847,7 @@
     "imdb_id": "tt1160419",
     "vote_average": "7.8",
     "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-    "genres": ["Science Fiction", "Adventure", "War"],
+    "genres": ["Science Fiction", "Adventure", "Drama"],
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
@@ -7918,7 +7918,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pdzU95iZZbJnaXTkpjrSusJJy0x.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
       },
       "Charlotte Rampling": {
         "id": 44079,
@@ -8081,7 +8081,7 @@
       "Zendaya": {
         "id": 505710,
         "character": "Chani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pdzU95iZZbJnaXTkpjrSusJJy0x.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1qup8tSt95HLbcy2c2xrx4iJNxv.jpg"
       },
       "Rebecca Ferguson": {
         "id": 933238,
@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15674,7 +15674,7 @@
     "released": "2021-11-26",
     "duration": 133,
     "imdb_id": "tt11271038",
-    "vote_average": "7",
+    "vote_average": "6.9",
     "overview": "The story of Gary Valentine and Alana Kane growing up, running around and going through the treacherous navigation of first love in the San Fernando Valley, 1973.",
     "genres": ["Drama", "Comedy", "Romance"],
     "imdb_score": "7.1/10",
@@ -19558,7 +19558,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19746,7 +19746,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22300,7 +22300,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25855,7 +25855,9 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
