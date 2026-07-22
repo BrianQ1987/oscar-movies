@@ -1202,7 +1202,7 @@
       "Sebastian Stan": {
         "id": 60898,
         "character": "Donald Trump",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mLqE91qUnE8fbfMvsXD7BcWJKNK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/v20RLWst39klatsqUgSrwHxhwee.jpg"
       },
       "Jeremy Strong": {
         "id": 239271,
@@ -3547,7 +3547,7 @@
       "Kingdom Sibanda": {
         "id": 4182647,
         "character": "Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cBV0YsRK3aMwBhAMsk8KdEMta4O.jpg"
       },
       "Sebastian Skov Andersen": {
         "id": 4182648,
@@ -7097,7 +7097,7 @@
       "Himesh Patel": {
         "id": 1227717,
         "character": "Phillip",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
       },
       "Melanie Lynskey": {
         "id": 15091,
@@ -7847,7 +7847,7 @@
     "imdb_id": "tt1160419",
     "vote_average": "7.8",
     "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-    "genres": ["Science Fiction", "Adventure"],
+    "genres": ["Action", "Adventure", "Drama", "Science Fiction", "War"],
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
@@ -8416,7 +8416,7 @@
       "Anton Valensi": {
         "id": 208460,
         "character": "Harkonnen Commander",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cqssL17VcwrPN4my2wDc1pIEqVl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hU2IY4iXYwibgbZXSk0u8p1VfBF.jpg"
       },
       "Lex Daniel": {
         "id": 1364324,
@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13316,7 +13316,7 @@
       "Victor Broadley": {
         "id": 5989451,
         "character": "Puppeteer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/va0TQ9WprMXRqQAzY56vyqY0Yd5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/txUr9XVoaZsy2NKP4QZg2lKg8bw.jpg"
       }
     }
   },
@@ -14911,7 +14911,7 @@
       "Will Smith": {
         "id": 2888,
         "character": "Richard Williams",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Hbr3ndKeGX8OjSW1SjUbJpbfzh.jpg"
       },
       "Aunjanue Ellis-Taylor": {
         "id": 53923,
@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -22350,7 +22350,7 @@
       "Dichen Lachman": {
         "id": 94797,
         "character": "General Atitaya / Spine Warrior (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uXguaxMm1ju4Api4cZMc3pLz5iV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
       },
       "Patti Harrison": {
         "id": 2079729,
@@ -24853,7 +24853,7 @@
       "Francisco Romero": {
         "id": 2348658,
         "character": "Daniel Fernández Strauch",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qPHkNq9mwMNUeBKBAhdA9MwJYoN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AdeDIOe6KxF1dJGKMgJOg33MWnb.jpg"
       },
       "Rafael Federman": {
         "id": 1350179,
@@ -30104,7 +30104,7 @@
     "imdb_id": "tt29768334",
     "vote_average": "7.3",
     "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-    "genres": "Drama",
+    "genres": ["Drama", "Western"],
     "imdb_score": "7.5/10",
     "rt_score": "94%",
     "meta_score": "88/100",
