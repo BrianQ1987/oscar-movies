@@ -1193,7 +1193,7 @@
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
     "genres": ["History", "Drama", "Comedy"],
     "imdb_score": "7.1/10",
-    "rt_score": "82%",
+    "rt_score": "83%",
     "meta_score": "64/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -5073,7 +5073,7 @@
     "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator, Richard Rodgers, celebrates the opening night of his ground-breaking hit musical, “Oklahoma!”",
     "genres": ["Music", "History", "Drama", "Comedy"],
     "imdb_score": "6.8/10",
-    "rt_score": "89%",
+    "rt_score": "90%",
     "meta_score": "78/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -7847,7 +7847,7 @@
     "imdb_id": "tt1160419",
     "vote_average": "7.8",
     "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
-    "genres": ["Action", "Adventure", "Drama", "Science Fiction", "War"],
+    "genres": ["Science Fiction", "Adventure"],
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
@@ -12369,7 +12369,7 @@
     "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
     "genres": ["Drama", "Romance"],
     "imdb_score": "7.8/10",
-    "rt_score": "86%",
+    "rt_score": "87%",
     "meta_score": "84/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19746,7 +19746,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -19964,7 +19964,7 @@
       "Leonardo DiCaprio": {
         "id": 6193,
         "character": "Bob",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mkdRcVIQl4WZhDf1vXKWTD7HZrZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
       },
       "Sean Penn": {
         "id": 2228,
@@ -20542,7 +20542,7 @@
       "Rami Malek": {
         "id": 17838,
         "character": "David Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/drLMI978uj3Rpc1TcIJarKf3Jfi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8ykTeTRSYd2MKF5uLBvD93X5KMJ.jpg"
       },
       "Kenneth Branagh": {
         "id": 11181,
@@ -23662,7 +23662,7 @@
     "released": "2025-08-20",
     "duration": 133,
     "imdb_id": "tt27714581",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
     "genres": "Drama",
     "imdb_score": "7.7/10",
@@ -24044,7 +24044,7 @@
     "overview": "During the 1972 Munich Olympics, an American sports broadcasting crew finds itself thrust into covering the hostage crisis involving Israeli athletes.",
     "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
-    "rt_score": "91%",
+    "rt_score": "92%",
     "meta_score": "76/100",
     "platforms": "Paramount Plus",
     "logo_paths": "/h5DcR0J2EESLitnhR8xLG1QymTE.jpg",
@@ -25857,7 +25857,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29664,7 +29664,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p17SLq4wabXwIYyjXF1Wf5cNnAm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -30106,7 +30106,7 @@
     "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
     "genres": ["Drama", "Western"],
     "imdb_score": "7.5/10",
-    "rt_score": "94%",
+    "rt_score": "93%",
     "meta_score": "88/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
@@ -31467,7 +31467,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
