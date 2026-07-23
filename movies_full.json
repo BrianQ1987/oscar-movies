@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12240,7 +12240,7 @@
       "Ewan McGregor": {
         "id": 3061,
         "character": "Cricket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tw6lVBh0DvAUkCd1jsU98yD1usk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
       },
       "David Bradley": {
         "id": 11180,
@@ -19558,7 +19558,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19746,7 +19746,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -30104,7 +30104,7 @@
     "imdb_id": "tt29768334",
     "vote_average": "7.3",
     "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-    "genres": ["Drama", "Western"],
+    "genres": "Drama",
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "88/100",
