@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15712,7 +15712,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Joel Wachs",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
       },
       "Skyler Gisondo": {
         "id": 61263,
@@ -19425,7 +19425,7 @@
       "Natalie Brown": {
         "id": 104635,
         "character": "Lilith’s Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2q0LPb7pTGAADUD2UJDtudCwPX5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eaiq73q3foAnQRgMrYEMVMvgUVK.jpg"
       },
       "Daniel Falk": {
         "id": 1849371,
@@ -19558,7 +19558,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20552,7 +20552,7 @@
       "Benny Safdie": {
         "id": 227564,
         "character": "Edward Teller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9tp4PLNyYPNfCJOWBXPPalWIpnq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
       },
       "Jason Clarke": {
         "id": 76512,
@@ -31401,7 +31401,7 @@
     "released": "2025-09-10",
     "duration": 89,
     "imdb_id": "tt36943034",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.3/10",
