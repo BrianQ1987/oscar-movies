@@ -2822,7 +2822,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/au6Hq8nQXJD67mDtl34ZOm8DXrh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3mq2fhZ6IkiQnhx430EuS5wHJvI.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -5519,7 +5519,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -10492,7 +10492,7 @@
       "Kerry Condon": {
         "id": 62105,
         "character": "Kate McKenna",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
       },
       "Tobias Menzies": {
         "id": 10920,
@@ -13520,8 +13520,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -18290,7 +18290,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
       },
       "Veronica Hein": {
         "id": 4514752,
@@ -19608,7 +19608,7 @@
       "Sarah Sherman": {
         "id": 2198504,
         "character": "Coriander Cadaverish (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8COfsPTMLVfrMPECZnJnsfNMoaw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
       },
       "ND Stevenson": {
         "id": 1907841,
@@ -19746,7 +19746,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20517,7 +20517,7 @@
       "Matt Damon": {
         "id": 1892,
         "character": "Leslie Groves",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4KAxONjmVq7qcItdXo38SYtnpul.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
       },
       "Robert Downey Jr.": {
         "id": 3223,
@@ -21489,7 +21489,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -25857,7 +25857,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -30120,7 +30120,7 @@
       "Felicity Jones": {
         "id": 72855,
         "character": "Gladys Grainier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ywXf5fLAYLlwK5JRn6UrMMsBnwb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AdlEOEjEI9jS9WgshUisCOGeaSd.jpg"
       },
       "Nathaniel Arcand": {
         "id": 60722,
@@ -30145,7 +30145,7 @@
       "Kerry Condon": {
         "id": 62105,
         "character": "Claire Thompson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8RO25vJxQSoNdhsVbiAHOsiGfvl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
       },
       "William H. Macy": {
         "id": 3905,
@@ -31459,7 +31459,7 @@
     "released": "2024-12-18",
     "duration": 79,
     "imdb_id": "tt17163970",
-    "vote_average": "7.5",
+    "vote_average": "7.4",
     "overview": "Gromit’s concern that Wallace is becoming too dependent on his inventions proves justified, when Wallace invents a “smart” gnome that seems to develop a mind of its own. When it emerges that a vengeful figure from the past might be masterminding things, it falls to Gromit to battle sinister forces and save his master… or Wallace may never be able to invent again!",
     "genres": ["Animation", "Adventure", "Comedy", "Science Fiction", "Family"],
     "imdb_score": "7.5/10",
@@ -31467,7 +31467,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35403,7 +35403,7 @@
       "Ginnifer Goodwin": {
         "id": 417,
         "character": "Judy Hopps (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n8XOnjgyfYvqRUDcnkAckRqSaNN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eByMpalFhQxUYuzA0srCN8rnfOZ.jpg"
       },
       "Jason Bateman": {
         "id": 23532,
