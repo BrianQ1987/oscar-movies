@@ -2827,7 +2827,7 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -5092,7 +5092,7 @@
       "Andrew Scott": {
         "id": 125660,
         "character": "Richard Rodgers",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8qyt6HheUQvLwargYvs5EcsceGz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
       },
       "Margaret Qualley": {
         "id": 1392137,
@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19057,7 +19057,7 @@
       "Hamish Linklater": {
         "id": 184581,
         "character": "Spencer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AnpxdQjBk3v2OQTgyyb9EuUxAow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
       },
       "Gralen Bryant Banks": {
         "id": 557804,
@@ -19558,7 +19558,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22300,7 +22300,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24447,7 +24447,7 @@
       "Jack O'Connell": {
         "id": 85065,
         "character": "Remmick",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ihn0M2O0uYr7UCqGhjmjDQgFulB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Pct55VBkrqxQ57NL46UjWlJEvW.jpg"
       },
       "Wunmi Mosaku": {
         "id": 134774,
@@ -29932,7 +29932,7 @@
       "Bertie Carvel": {
         "id": 216425,
         "character": "Banquo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vLc6dAzuLj2HTVYYHCUplaS8Njm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mubZZIs58TGlEeOG9foMPQAPxOa.jpg"
       },
       "Brendan Gleeson": {
         "id": 2039,
@@ -32449,7 +32449,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wCvrgpnu544FImdHigpKbBuXVWd.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -32495,6 +32495,11 @@
         "id": 3948074,
         "character": "Liam (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wWhYBZgCPcgoWhJfrkXRW1bn7AI.jpg"
+      },
+      "Glenn Mullins": {
+        "id": 1115576,
+        "character": "Young Charlie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wDnl4BI7UjPDLmjU9KVfxuBwyyz.jpg"
       }
     }
   },
