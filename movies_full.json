@@ -1175,6 +1175,11 @@
         "id": 1483293,
         "character": "Divorce Center Clerk",
         "profile_path": "https://image.tmdb.org/t/p/w1280/sfX7WO2kx0mQOBICJLpcUFHpjb7.jpg"
+      },
+      "Maximus Agabiti": {
+        "id": 6382894,
+        "character": "Russian Pickpocket",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg"
       }
     }
   },
@@ -8697,7 +8702,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10162,6 +10167,11 @@
         "id": 1200895,
         "character": "Chinese Choir / Movie Producer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/PXkskFrvX5onDvBMHgF4k5X0Fn.jpg"
+      },
+      "Maximus Agabiti": {
+        "id": 6382894,
+        "character": "Multiverse Guru",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u68AjlvlutfEIcpmbYpKcdi09ut.jpg"
       }
     }
   },
@@ -11315,6 +11325,11 @@
       "Nicole Singh": {
         "id": 4532472,
         "character": "Student (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg"
+      },
+      "Maximus Agabiti": {
+        "id": 6382894,
+        "character": "Little Lenny Lose Lips",
         "profile_path": "https://image.tmdb.org/t/p/w1280/h7llKkqkkJtJrTOaDLuVeUYDQ7I.jpg"
       }
     }
@@ -14884,6 +14899,11 @@
         "id": 1116907,
         "character": "Radio Man (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"
+      },
+      "Maximus Agabiti": {
+        "id": 6382894,
+        "character": "The Man",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
       }
     }
   },
@@ -17793,9 +17813,9 @@
         "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Nikhil Kumar": {
-        "id": 1698948,
+        "id": 6382633,
         "character": "Amit Vishwakarma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yE5hJ6U9o79dJU5p7BBwwSyRzhQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       },
       "Keith Kirkwood": {
         "id": 5453532,
@@ -18292,30 +18312,10 @@
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
       },
-      "Veronica Hein": {
-        "id": 4514752,
-        "character": "Usher (uncredited)",
+      "Maximus Agabiti": {
+        "id": 6382894,
+        "character": "Ping Pong Prince of London",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
-      },
-      "Anthony Thomas Larkin": {
-        "id": 4585186,
-        "character": "Wembley Usher (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/km5j9sQz1aLbJTtxUfZSMYYr7eB.jpg"
-      },
-      "Octavian Reccy": {
-        "id": 6116349,
-        "character": "Military Kid (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oPwnj50jQgIp557ZHskKmiv8kiM.jpg"
-      },
-      "Ben Fiorica": {
-        "id": 3637385,
-        "character": "Ping Pong Player",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vxOn4BOZS6tbCGFFKRUTgtDpEa.jpg"
-      },
-      "Joél Isaac": {
-        "id": 3441042,
-        "character": "Portuguese Player (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d5fTUGEG3PKzQnF3QzbmjK9Lv3B.jpg"
       }
     }
   },
@@ -19558,7 +19558,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22300,7 +22300,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -22539,8 +22539,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "98%",
     "meta_score": "87/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Pablo Berger",
     "cast": {
       "Ivan Labanda": {
@@ -25857,7 +25857,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31412,8 +31412,8 @@
     "imdb_score": "8.3/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Kaouther Ben Hania",
     "cast": {
       "Hind Rajab": {
