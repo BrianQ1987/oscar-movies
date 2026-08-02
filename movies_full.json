@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10162,11 +10162,6 @@
         "id": 1200895,
         "character": "Chinese Choir / Movie Producer (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/PXkskFrvX5onDvBMHgF4k5X0Fn.jpg"
-      },
-      "Maximus Agabiti": {
-        "id": 6382894,
-        "character": "Multiverse Guru",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/u68AjlvlutfEIcpmbYpKcdi09ut.jpg"
       }
     }
   },
@@ -12581,7 +12576,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjEoPF9hVW3NAdoMtryxPBPGtj4.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -15384,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19726,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22280,7 +22275,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
