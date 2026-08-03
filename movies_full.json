@@ -5295,7 +5295,7 @@
     "released": "2024-12-20",
     "duration": 215,
     "imdb_id": "tt8999762",
-    "vote_average": "6.9",
+    "vote_average": "7",
     "overview": "When an innovative modern architect flees post-war Europe, he is given the opportunity to rebuild his legacy. Set during the dawn of the modern United States (in Pennsylvania), his wife joins him, and their lives are forever changed by a demanding, wealthy patron.",
     "genres": "Drama",
     "imdb_score": "7.2/10",
@@ -5519,7 +5519,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -6174,8 +6174,6 @@
     "imdb_score": "6.8/10",
     "rt_score": "81%",
     "meta_score": "72/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/pvske1MyAoymrs5bguRfVqYiM9a.jpg",
     "director": "Blitz Bazawule",
     "cast": {
       "Fantasia Barrino": {
@@ -19533,7 +19531,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21464,7 +21462,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -31778,7 +31776,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hoaBlsu1mghrk7aefZcJ3i0v5Bh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
@@ -35473,7 +35471,7 @@
       "Phil Brooks": {
         "id": 565430,
         "character": "Zebro Zebrowski (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dZqESnEpwc9EJig5oETkHA8o3Cz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/357pyjyvFFJLkwBpTopy2KnyDRA.jpg"
       },
       "Stephanie Beatriz": {
         "id": 968367,
