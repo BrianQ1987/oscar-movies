@@ -1687,7 +1687,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.3/10",
@@ -19531,7 +19531,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -23635,9 +23635,9 @@
     "released": "2025-08-20",
     "duration": 133,
     "imdb_id": "tt27714581",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-    "genres": "Drama",
+    "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
     "rt_score": "95%",
     "meta_score": "86/100",
@@ -25830,7 +25830,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31445,7 +31445,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -35536,7 +35536,7 @@
       "Josh Dallas": {
         "id": 77880,
         "character": "Frantic Pig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yhtFCSUZ3f9MkmD02m6WdDNkURP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/f9cjzUtgasJTZgpdqFIREhUUxbQ.jpg"
       },
       "Tommy Chong": {
         "id": 63208,
