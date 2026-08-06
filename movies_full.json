@@ -1104,7 +1104,7 @@
       "Ella Rubin": {
         "id": 3307906,
         "character": "Vera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8AKz6wWvokDM4N4tMGIoyv0wYsl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2jvzbFmzMtcSxOkFi3P3Q8fGnw2.jpg"
       },
       "Ross Brodar": {
         "id": 1660692,
@@ -9853,7 +9853,7 @@
       "Mateusz Kościukiewicz": {
         "id": 1482162,
         "character": "Mateo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n6QFRFcZkHZvSVFt5Qc0jILTXEl.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yrlP8XhIUxvrvTAViAZukpycvxX.jpg"
       },
       "Tomasz Organek": {
         "id": 3511048,
@@ -10938,7 +10938,7 @@
       "Julia Butters": {
         "id": 1651362,
         "character": "Reggie Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w2x0rOJfeZUYvcR9fDoSEd5iEHC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uVlPm7s3J1pLg6pLa5rYg43wd1.jpg"
       },
       "Birdie Borria": {
         "id": 3690410,
@@ -12574,7 +12574,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjEoPF9hVW3NAdoMtryxPBPGtj4.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -18917,7 +18917,7 @@
       "Griffin McElroy": {
         "id": 1759613,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7EaVv4Du1bjTSgCyRmJGxxNVH5X.jpg"
       },
       "Caitlin McKenna": {
         "id": 59055,
@@ -19531,7 +19531,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21482,7 +21482,7 @@
       "Christopher Abbott": {
         "id": 984629,
         "character": "Alfie Blessington",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qWmlTycQb3yXaGhxPb6LCyaDjqh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
       },
       "Suzy Bemba": {
         "id": 2331794,
@@ -25830,7 +25830,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26397,7 +26397,7 @@
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-    "genres": ["Horror", "Science Fiction", "Thriller"],
+    "genres": ["Horror", "Science Fiction", "Thriller", "Drama"],
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
@@ -31445,7 +31445,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
