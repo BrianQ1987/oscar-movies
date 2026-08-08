@@ -9362,7 +9362,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kVcAIQPbpFlFwdeC3s09x26RHVE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wAeEHiyCkiW1SME9CCfkCtjb6ni.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -12295,7 +12295,7 @@
       "Tom Kenny": {
         "id": 78798,
         "character": "Mussolini / Right Hand Man / Sea Captain (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kftXtExrcoTTjyeYmSXJ0Ogr3R7.jpg"
       },
       "Alfie Tempest": {
         "id": 3815640,
@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18340,7 +18340,7 @@
         "character": "Mary Atherton-Yoo",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg"
       },
-      "Gabriel Chung": {
+      "Gabriel Barbosa": {
         "id": 3878582,
         "character": "Charlie Atherton-Yoo",
         "profile_path": "https://image.tmdb.org/t/p/w1280/tHWVcUd8tnoSiep76nI4rsquZY5.jpg"
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20557,7 +20557,7 @@
       "Dane DeHaan": {
         "id": 122889,
         "character": "Kenneth Nichols",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8asHTI9I2Xz0ki018r7b0LuLWf4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vZ7ix8UeRYgepFPFc4FIVKDLKDX.jpg"
       },
       "Alden Ehrenreich": {
         "id": 71375,
@@ -25832,7 +25832,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -25897,7 +25897,7 @@
       "Mahershala Ali": {
         "id": 932967,
         "character": "Uncle Aaron (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oId1ulmetuWr3lFFsSb81KS5LJS.jpg"
       },
       "Amandla Stenberg": {
         "id": 561869,
@@ -31447,7 +31447,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
