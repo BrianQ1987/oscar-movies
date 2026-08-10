@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -22273,7 +22273,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23172,7 +23172,7 @@
       "Wagner Moura": {
         "id": 52583,
         "character": "Marcelo Alves / Armando Solimões / Fernando Solimões",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/53IbAed4t1dOWxY3iygbRYZBBnm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yJjV1ZCQbCSSgRy05FncCKjyaY4.jpg"
       },
       "Alice Carvalho": {
         "id": 2652283,
@@ -30243,7 +30243,7 @@
       "Miles Glew": {
         "id": 5920919,
         "character": "Fair Attendee (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jnaOmD9PmAkNjgVtCn17o7clOYe.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cPJj0pGwyzjNyIkdOqtAhed2svz.jpg"
       },
       "Pamela Kingsley": {
         "id": 3189269,
@@ -31445,7 +31445,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
