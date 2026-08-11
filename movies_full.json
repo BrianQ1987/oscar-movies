@@ -446,7 +446,7 @@
     "released": "2023-11-10",
     "duration": 117,
     "imdb_id": "tt23561236",
-    "vote_average": "7.3",
+    "vote_average": "7.2",
     "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.5/10",
@@ -2932,7 +2932,7 @@
       "Helen Mirren": {
         "id": 15735,
         "character": "Narrator (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eY26gqv9EGunId7kp32pLueXvz4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1reKRrsdsHXJaRVHVyOEg4oPTcZ.jpg"
       },
       "Will Ferrell": {
         "id": 23659,
@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -9250,7 +9250,7 @@
       "Robert Randolph": {
         "id": 1318593,
         "character": "Pentecostal Singer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j4BNsLTBFKg9q159rI3CR27MXsc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
       },
       "Calvin Settles II": {
         "id": 3866234,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20898,8 +20898,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "96%",
     "meta_score": "88/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["BBC iPlayer", "Plex"],
+    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Pedro Almodóvar",
     "cast": {
       "Penélope Cruz": {
@@ -21005,7 +21005,7 @@
       "María Jesús Hoyos": {
         "id": 1092032,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9NRBnZHjLBd6PinMSWbp4rBiQYr.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
       },
       "Mar Vidal": {
         "id": 2953538,
@@ -35671,7 +35671,7 @@
       "Josh Gad": {
         "id": 54415,
         "character": "Paul Moledebrandt (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xZhNGA1mKMp0C37B4o34T21k413.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg"
       },
       "Peter Mansbridge": {
         "id": 1374597,
