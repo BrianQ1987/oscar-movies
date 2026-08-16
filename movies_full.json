@@ -9845,7 +9845,7 @@
       "Isabelle Huppert": {
         "id": 17882,
         "character": "The Countess",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hwJQBS3jJA4i5RZ1iv6heBoXUGL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wGG9v1Uci3sfrbjt0bRXkLrTqjY.jpg"
       },
       "Lorenzo Zurzolo": {
         "id": 1526594,
@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19533,12 +19533,12 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
         "character": "Nimona (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x2cR7aYB8OoruEY1mpJqGOHYYy9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yq4rYmaTRC5degaOYmJQFpaiho1.jpg"
       },
       "Riz Ahmed": {
         "id": 53240,
@@ -25830,7 +25830,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31445,7 +31445,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
