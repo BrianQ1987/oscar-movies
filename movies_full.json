@@ -1104,7 +1104,7 @@
       "Ella Rubin": {
         "id": 3307906,
         "character": "Vera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2jvzbFmzMtcSxOkFi3P3Q8fGnw2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/heS82jg1XzNYTmsW6CrYwysAE27.jpg"
       },
       "Ross Brodar": {
         "id": 1660692,
@@ -4657,6 +4657,11 @@
         "id": 3783413,
         "character": "Toussaint",
         "profile_path": "https://image.tmdb.org/t/p/w1280/faRf9Iu3Y7MptDS8k7CiRqBe0BA.jpg"
+      },
+      "Alejandro Rodríguez": {
+        "id": 6379320,
+        "character": "Wakandan #67",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i0UiZbwSJycGnHuqoFrClrJitZr.jpg"
       }
     }
   },
@@ -5519,7 +5524,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -8697,7 +8702,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -17122,7 +17127,7 @@
       "Saverio Raimondo": {
         "id": 1874693,
         "character": "Ercole Visconti (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n6nuhowgPvcYbFaDivex4owjOfD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
       },
       "Maya Rudolph": {
         "id": 52792,
@@ -19533,7 +19538,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22123,6 +22128,11 @@
         "id": 2017052,
         "character": "Additional Baker's Dozen Gang Member (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/kOVApwJxys8bCZUshVOCew8lFLV.jpg"
+      },
+      "Alejandro Rodríguez": {
+        "id": 6379320,
+        "character": "The Realistic Portrayal of a Panic Attack (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i0UiZbwSJycGnHuqoFrClrJitZr.jpg"
       }
     }
   },
@@ -24705,7 +24715,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -29647,7 +29657,7 @@
       "Jennifer Connelly": {
         "id": 6161,
         "character": "Penny Benjamin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4HxibW5oPSBokpaqMBej2ivOFwu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
       },
       "Bashir Salahuddin": {
         "id": 1241330,
@@ -31445,7 +31455,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
