@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -2729,7 +2729,7 @@
       "Barry Keoghan": {
         "id": 1290466,
         "character": "Dominic Kearney",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/15xPjrzSbtXlbQUhmLpQUil4tCN.jpg"
       },
       "Gary Lydon": {
         "id": 93209,
@@ -2822,7 +2822,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6w5Cz14aOkCb4MhARrN9NuBkwsv.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -2987,7 +2987,7 @@
       "Mette": {
         "id": 2152740,
         "character": "Barbie Video Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3mBRyRqLrxxIL7hTBh52wmz07Ro.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2FiWnqq0m9eU45nTXVLPOJKcdoQ.jpg"
       },
       "Marisa Abela": {
         "id": 2673762,
@@ -19533,7 +19533,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22273,7 +22273,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -34489,8 +34489,8 @@
     "imdb_score": "8.2/10",
     "rt_score": "97%",
     "meta_score": "85/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Chris Sanders",
     "cast": {
       "Lupita Nyong'o": {
@@ -34526,7 +34526,7 @@
       "Ving Rhames": {
         "id": 10182,
         "character": "Thunderbolt (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wmGvGw7Pow7CafGMcjoLDQHNQUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5pD48M3Mustr93gY5KLFDqF1fiv.jpg"
       },
       "Mark Hamill": {
         "id": 2,
