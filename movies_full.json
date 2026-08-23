@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -6366,7 +6366,7 @@
       "James Carey": {
         "id": 3766682,
         "character": "Debuty",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/h5bqIxM8GO4TewJ0u6Rzkg58ssJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gwMVgwj4s9Qwamcr4iaAroqSBQI.jpg"
       },
       "Whoopi Goldberg": {
         "id": 2395,
@@ -9362,7 +9362,7 @@
       "Selena Gomez": {
         "id": 77948,
         "character": "Jessi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wAeEHiyCkiW1SME9CCfkCtjb6ni.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/MtZ9pJrCcZ1ckxOZym7Jk1QNVB.jpg"
       },
       "Adriana Paz": {
         "id": 983710,
@@ -15379,7 +15379,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19721,7 +19721,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22273,7 +22273,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23635,7 +23635,7 @@
     "released": "2025-08-20",
     "duration": 133,
     "imdb_id": "tt27714581",
-    "vote_average": "7.4",
+    "vote_average": "7.5",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.7/10",
@@ -31445,7 +31445,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
