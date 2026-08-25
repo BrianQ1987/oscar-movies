@@ -2729,7 +2729,7 @@
       "Barry Keoghan": {
         "id": 1290466,
         "character": "Dominic Kearney",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/15xPjrzSbtXlbQUhmLpQUil4tCN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
       },
       "Gary Lydon": {
         "id": 93209,
@@ -9976,6 +9976,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "93%",
     "meta_score": "81/100",
+    "platforms": "Channel 4",
+    "logo_paths": "/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -24705,7 +24707,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.8",
+    "vote_average": "6.9",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
