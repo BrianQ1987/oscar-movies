@@ -15381,7 +15381,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -25361,7 +25361,7 @@
       "Hugh Jackman": {
         "id": 6968,
         "character": "Mike Sardina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oX6CpXmnXCHLyqsa4NEed1DZAKx.jpg"
       },
       "Kate Hudson": {
         "id": 11661,
@@ -31447,7 +31447,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
