@@ -2371,7 +2371,7 @@
       "Sam Worthington": {
         "id": 65731,
         "character": "Jake Sully",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
       },
       "Zoe Saldaña": {
         "id": 8691,
@@ -22145,8 +22145,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
       "Catherine Clinch": {
@@ -22275,7 +22275,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31803,7 +31803,7 @@
       "Corey Stoll": {
         "id": 74541,
         "character": "Lieutenant Schrank",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a5wxOBGmXVwcEqWvEizFk06SDSj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
       },
       "Rita Moreno": {
         "id": 13299,
