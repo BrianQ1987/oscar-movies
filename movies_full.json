@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13522,8 +13522,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -14933,7 +14933,7 @@
       "Jon Bernthal": {
         "id": 19498,
         "character": "Rick Macci",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aSH27tGD4PJoCO54RQnARSSSIQy.jpg"
       },
       "Mikayla LaShae Bartholomew": {
         "id": 2988968,
@@ -19535,7 +19535,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22275,7 +22275,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -22405,7 +22405,7 @@
     "watched": true,
     "nominated": 2025,
     "categories": ["Best Supporting Actor", "Best Original Screenplay"],
-    "poster_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg",
     "title": "A Real Pain",
     "released": "2024-11-01",
     "duration": 90,
@@ -22463,7 +22463,7 @@
       "Banner Eisenberg": {
         "id": 5060357,
         "character": "Abe",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
       },
       "Olha Bosova": {
         "id": 3452065,
@@ -22473,7 +22473,7 @@
       "Jakub Gąsowski": {
         "id": 2070761,
         "character": "Receptionist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
       },
       "Piotr Czarniecki": {
         "id": 2309385,
@@ -22483,7 +22483,7 @@
       "Krzysztof Jaszczak": {
         "id": 4525253,
         "character": "Pianist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yaTFjMNh8D78dDHrglivOTv5YOx.jpg"
       },
       "Marek Kasprzyk": {
         "id": 937309,
@@ -23875,7 +23875,7 @@
       "Håkon Ramstad": {
         "id": 1010048,
         "character": "Actor Ensemble (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AaOk8oOWabaRyIw1k8KvjPM0TbR.jpg"
       },
       "Øystein Røger": {
         "id": 1668754,
