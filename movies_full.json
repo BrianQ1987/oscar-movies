@@ -5519,7 +5519,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -8697,7 +8697,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15381,7 +15381,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17712,7 +17712,7 @@
       "Tyler, The Creator": {
         "id": 1133834,
         "character": "Wally",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jdAYV2hhjsffcRBTPqCMzHLIiM1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1jr8XMXd9C6yRk2VitXIum0FGSy.jpg"
       },
       "Fran Drescher": {
         "id": 53122,
@@ -21464,7 +21464,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -31381,7 +31381,7 @@
     "released": "2025-09-10",
     "duration": 89,
     "imdb_id": "tt36943034",
-    "vote_average": "8",
+    "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.3/10",
