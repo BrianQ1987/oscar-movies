@@ -7682,7 +7682,7 @@
       "Ed Peed": {
         "id": 3255361,
         "character": "Lobbyist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yxDme484ax8RIg2a26QwHeL64R8.jpg"
       },
       "Zach Holmes": {
         "id": 1600403,
@@ -7723,8 +7723,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "91/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ryusuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -15381,7 +15381,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -21007,7 +21007,7 @@
       "María Jesús Hoyos": {
         "id": 1092032,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gDaxYkYNbHuM2VlUazbcpnFZB6d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pNAd7Ts9SGfr5NgX4QSoV2REYZk.jpg"
       },
       "Mar Vidal": {
         "id": 2953538,
@@ -30084,7 +30084,7 @@
     "imdb_id": "tt29768334",
     "vote_average": "7.3",
     "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-    "genres": ["Drama", "Western"],
+    "genres": "Drama",
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "88/100",
