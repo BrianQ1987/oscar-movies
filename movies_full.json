@@ -17,7 +17,7 @@
     "rt_score": "95%",
     "meta_score": "95/100",
     "platforms": ["BBC iPlayer", "Netflix", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Charlotte Wells",
     "cast": {
       "Paul Mescal": {
@@ -150,7 +150,7 @@
     "rt_score": "90%",
     "meta_score": "76/100",
     "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": "Edward Berger",
     "cast": {
       "Felix Kammerer": {
@@ -1823,7 +1823,7 @@
       "Ricardo Darín": {
         "id": 69310,
         "character": "Julio Strassera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wP7gyISMcsXLJoInWTjncqhrsAT.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2laJXyYQkL9YdLL1PRdD3hLZ6Uy.jpg"
       },
       "Peter Lanzani": {
         "id": 1246181,
@@ -2708,7 +2708,7 @@
     "rt_score": "96%",
     "meta_score": "87/100",
     "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Martin McDonagh",
     "cast": {
       "Colin Farrell": {
@@ -6403,7 +6403,7 @@
     "rt_score": "81%",
     "meta_score": "70/100",
     "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "James Mangold",
     "cast": {
       "Timothée Chalamet": {
@@ -7724,7 +7724,7 @@
     "rt_score": "97%",
     "meta_score": "91/100",
     "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/uMWCgjsGnO5IoQtqxXOjnQA5gt9.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Ryusuke Hamaguchi",
     "cast": {
       "Hidetoshi Nishijima": {
@@ -12236,7 +12236,7 @@
     "rt_score": "27%",
     "meta_score": "79/100",
     "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": ["Mark Gustafson", "Guillermo del Toro"],
     "cast": {
       "Ewan McGregor": {
@@ -13203,7 +13203,7 @@
       "Rose Byrne": {
         "id": 9827,
         "character": "Linda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
       },
       "Conan O'Brien": {
         "id": 81200,
@@ -13340,7 +13340,7 @@
     "rt_score": "91%",
     "meta_score": "73/100",
     "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Kelsey Mann",
     "cast": {
       "Amy Poehler": {
@@ -15381,7 +15381,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17103,7 +17103,7 @@
     "rt_score": "91%",
     "meta_score": "71/100",
     "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Enrico Casarosa",
     "cast": {
       "Jacob Tremblay": {
@@ -18745,7 +18745,7 @@
     "rt_score": "97%",
     "meta_score": "81/100",
     "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": "Mike Rianda",
     "cast": {
       "Abbi Jacobson": {
@@ -19049,7 +19049,7 @@
       "Jimmie Fails": {
         "id": 1774398,
         "character": "Mr. Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ffymQQUPR7yD6pzbogE2Ic60LpJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jwULlwdSkz2JfiMfa9A8tOHjLec.jpg"
       },
       "Luke Tennie": {
         "id": 2101951,
@@ -19723,7 +19723,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22417,7 +22417,7 @@
     "rt_score": "96%",
     "meta_score": "85/100",
     "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Jesse Eisenberg",
     "cast": {
       "Jesse Eisenberg": {
@@ -22573,7 +22573,7 @@
     "rt_score": "83%",
     "meta_score": "68/100",
     "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "George C. Wolfe",
     "cast": {
       "Colman Domingo": {
@@ -27026,7 +27026,7 @@
     "imdb_score": "7.4/10",
     "meta_score": "93/100",
     "platforms": ["BBC iPlayer", "Plex"],
-    "logo_paths": ["/nc8Tpsr8SqCbsTUogPDD06gGzB3.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Todd Field",
     "cast": {
       "Cate Blanchett": {
@@ -30089,7 +30089,7 @@
     "rt_score": "93%",
     "meta_score": "88/100",
     "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": "Clint Bentley",
     "cast": {
       "Joel Edgerton": {
@@ -31446,7 +31446,7 @@
     "rt_score": "100%",
     "meta_score": "83/100",
     "platforms": "Netflix",
-    "logo_paths": "/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg",
+    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
@@ -31767,7 +31767,7 @@
     "rt_score": "91%",
     "meta_score": "85/100",
     "platforms": "Disney Plus",
-    "logo_paths": "/97yvRBw1GzX7fXprcF80er19ot.jpg",
+    "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
     "director": "Steven Spielberg",
     "cast": {
       "Ansel Elgort": {
@@ -34492,7 +34492,7 @@
     "rt_score": "97%",
     "meta_score": "85/100",
     "platforms": ["Netflix", "Plex"],
-    "logo_paths": ["/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Chris Sanders",
     "cast": {
       "Lupita Nyong'o": {
@@ -35603,7 +35603,7 @@
       "Ed Sheeran": {
         "id": 998387,
         "character": "Ed Shearin (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ArcjLeaycwaeJWgUMNBjqC95rBX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yoZu8mG16mqCezitfH9YsBg11iY.jpg"
       },
       "Yvette Nicole Brown": {
         "id": 111513,
