@@ -2824,7 +2824,7 @@
       "Margot Robbie": {
         "id": 234352,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/au6Hq8nQXJD67mDtl34ZOm8DXrh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8LqG2N6j98lFGMpuYsRUAhOunSd.jpg"
       },
       "Ryan Gosling": {
         "id": 30614,
@@ -5099,7 +5099,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Elizabeth Weiland",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Patrick Kennedy": {
         "id": 14432,
@@ -8433,7 +8433,7 @@
       "Paul Boyle": {
         "id": 4558343,
         "character": "Harkonnen Commander",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jPZjg6L6dJw4GvMY2jBNKdCwNtd.jpg"
       },
       "Niall White": {
         "id": 4233589,
@@ -15383,7 +15383,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19537,7 +19537,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20909,7 +20909,7 @@
       "Penélope Cruz": {
         "id": 955,
         "character": "Janis",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/li3SanR78FCtRLG55eALXoTcaFi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
       },
       "Milena Smit": {
         "id": 2560224,
@@ -21516,7 +21516,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -23168,6 +23168,7 @@
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Thriller", "Drama", "Crime"],
     "imdb_score": "7.2/10",
+    "rt_score": "98%",
     "meta_score": "91/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -25834,7 +25835,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26417,7 +26418,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
