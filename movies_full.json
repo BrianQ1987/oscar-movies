@@ -5689,7 +5689,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -7044,7 +7044,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -8704,7 +8704,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15716,7 +15716,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Jon Peters",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
       },
       "Benny Safdie": {
         "id": 227564,
@@ -17248,7 +17248,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Leonard Bernstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
       },
       "Matt Bomer": {
         "id": 66743,
@@ -18299,7 +18299,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
       }
     }
   },
@@ -19254,7 +19254,7 @@
       "Bradley Cooper": {
         "id": 51329,
         "character": "Stanton Carlisle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pLD2XvxqHueLWOuqXoFngJU3A5H.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5Dhy50qOMOHfR1NZifKIfffjV9X.jpg"
       },
       "Cate Blanchett": {
         "id": 112,
@@ -22046,7 +22046,7 @@
       "Kevin McCann": {
         "id": 3815284,
         "character": "Ethical Bug (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2Ea30PSbNoNkaGBMQHsjW4EfQ1d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tY9R5lQyA0vI7Bz6COiyyzOtkqJ.jpg"
       },
       "Bernardo de Paula": {
         "id": 1346997,
@@ -31455,7 +31455,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31791,7 +31791,7 @@
       "Ariana DeBose": {
         "id": 1437491,
         "character": "Anita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nfUaNCqCRe5KWF0XPmdn3eP1kPD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sPJo4F7NxllcPD1oSi6uh9OpAyj.jpg"
       },
       "David Alvarez": {
         "id": 2225865,
@@ -34672,8 +34672,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "90%",
     "meta_score": "77/100",
-    "platforms": ["BBC iPlayer", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Amazon Prime Video", "Plex"],
+    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Sarah Polley",
     "cast": {
       "Rooney Mara": {
