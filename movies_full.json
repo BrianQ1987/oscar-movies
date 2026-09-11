@@ -3677,7 +3677,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qwtyWXOBQaMeKEqoWxTdza8Aarn.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -8704,7 +8704,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11039,7 +11039,7 @@
       "Kalama Epstein": {
         "id": 1590304,
         "character": "Barry",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kuZuEBSCW5pBBiAjKADuRGMb59X.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bgirgJ91pZCYhGr3vduUUoEQnQ.jpg"
       },
       "Connor Trinneer": {
         "id": 105829,
@@ -11545,7 +11545,7 @@
       "Charles Dance": {
         "id": 4391,
         "character": "Leopold Frankenstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/28ElvRC5ftOSzZBFM0cn4XrwH36.jpg"
       },
       "David Bradley": {
         "id": 11180,
@@ -16689,7 +16689,9 @@
     "vote_average": "7.9",
     "overview": "The world is a perplexing, peaceful mystery to Amélie until a miraculous encounter with chocolate ignites her wild sense of curiosity. As she develops a deep attachment to her family's housekeeper, Nishio-san, Amélie discovers the wonders of nature as well as the emotional truths hidden beneath the surface of her family's idyllic life as foreigners in post-war Japan.",
     "genres": ["Animation", "Drama", "Family"],
+    "imdb_score": "7.6/10",
     "rt_score": "97%",
+    "meta_score": "82/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": ["Maïlys Vallade", "Liane-cho Han"],
