@@ -5596,7 +5596,7 @@
       "Atsushi Nishijima": {
         "id": 1193622,
         "character": "Chief Andromedan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aG9Mja3ADRgct9Tf1zlfBwRktbD.jpg"
       },
       "Janlyn Bales": {
         "id": 4832206,
@@ -18301,12 +18301,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
-      },
-      "Daniel Korenfeld": {
-        "id": 6217031,
-        "character": "Eddie Goldstein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8yOmpxFVmxKSteuHy0UOHcZv8h0.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
       },
       "Eitan Anisz": {
         "id": 6474164,
@@ -19742,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22294,7 +22289,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25852,7 +25847,7 @@
     "meta_score": "86/100",
     "platforms": "BBC iPlayer",
     "logo_paths": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31401,7 +31396,7 @@
     "released": "2025-09-10",
     "duration": 89,
     "imdb_id": "tt36943034",
-    "vote_average": "8",
+    "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
     "genres": ["Drama", "History"],
     "imdb_score": "8.3/10",
