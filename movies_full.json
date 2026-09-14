@@ -446,7 +446,7 @@
     "released": "2023-11-10",
     "duration": 117,
     "imdb_id": "tt23561236",
-    "vote_average": "7.2",
+    "vote_average": "7.3",
     "overview": "A novelist fed up with the establishment profiting from \"Black\" entertainment uses a pen name to write a book that propels him into the heart of hypocrisy and the madness he claims to disdain.",
     "genres": ["Comedy", "Drama"],
     "imdb_score": "7.5/10",
@@ -5358,7 +5358,7 @@
       "Emma Laird": {
         "id": 2290611,
         "character": "Audrey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gl4DXdh64j0lWn3UTp4YNjHbeD2.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/aBhm7z7fn0d1O7ed3vP0nZzCSSj.jpg"
       },
       "Jonathan Hyde": {
         "id": 8537,
@@ -10556,7 +10556,7 @@
       "Simone Ashley": {
         "id": 2223752,
         "character": "Simone Ashley",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uSwyLJYhZM5Lk0cZSBM7wmLbKXH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uL7t73kzhrRLY9ilNze1dYhHfg3.jpg"
       },
       "Ramona Von Pusch": {
         "id": 2177320,
@@ -12211,7 +12211,7 @@
       "Angela Lansbury": {
         "id": 14730,
         "character": "Angela Lansbury",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sNIHnWjXEpBcTjRxzmrwuJyHqfi.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gGAWbfMqhJnXzC8dRLeOSXOo9vO.jpg"
       },
       "Jake Tapper": {
         "id": 1508943,
@@ -15388,7 +15388,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22522,7 +22522,7 @@
     "released": "2023-12-06",
     "duration": 102,
     "imdb_id": "tt13429870",
-    "vote_average": "7.9",
+    "vote_average": "8",
     "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
     "genres": ["Animation", "Drama", "Comedy", "Science Fiction"],
     "imdb_score": "7.6/10",
@@ -25845,8 +25845,8 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "platforms": "BBC iPlayer",
-    "logo_paths": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
+    "platforms": ["BBC iPlayer", "Amazon Prime Video"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"],
     "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
@@ -31462,7 +31462,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32439,7 +32439,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/92FddzBfK50XOUbtwjqHPraoGHy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fV0KHJcK3fYX2acMorDUf1Uv9mY.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -34691,7 +34691,7 @@
       "Claire Foy": {
         "id": 120932,
         "character": "Salome",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4IS02g8RHFOG4YQUSZu8EDu7Oxa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pI1lOswQWZRhc8TKu0MESulw9uF.jpg"
       },
       "Jessie Buckley": {
         "id": 1498158,
