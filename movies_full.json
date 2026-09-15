@@ -5521,7 +5521,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -8108,7 +8108,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -12387,7 +12387,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Agnes",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qlDG2yykWO4LOP2ZReP0o6euFrE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Paul Mescal": {
         "id": 2326151,
@@ -14889,7 +14889,7 @@
         "character": "Deputy Marshal (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg"
       },
-      "Craig 'Radio Man' Castaldo": {
+      "Craig Castaldo": {
         "id": 1116907,
         "character": "Radio Man (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/AiaqiUZSaORGmfEW5N6XlWjhlTn.jpg"
@@ -16980,7 +16980,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Young Leda Caruso",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qlDG2yykWO4LOP2ZReP0o6euFrE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Dakota Johnson": {
         "id": 118545,
@@ -18301,7 +18301,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
       },
       "Eitan Anisz": {
         "id": 6474164,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20518,7 +20518,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -21478,7 +21478,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bKbFmFQtn1N6Utzr9Sf0E23alaL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cZ8a3QvAnj2cgcgVL6g4XaqPzpL.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -22018,7 +22018,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -25847,7 +25847,7 @@
     "meta_score": "86/100",
     "platforms": ["BBC iPlayer", "Amazon Prime Video"],
     "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"],
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31462,7 +31462,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34696,7 +34696,7 @@
       "Jessie Buckley": {
         "id": 1498158,
         "character": "Mariche",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qlDG2yykWO4LOP2ZReP0o6euFrE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qbz9175DERSqsCQeYWGJWwqb38z.jpg"
       },
       "Judith Ivey": {
         "id": 19239,
