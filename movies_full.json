@@ -8071,8 +8071,8 @@
     "imdb_score": "8.4/10",
     "rt_score": "92%",
     "meta_score": "79/100",
-    "platforms": ["Netflix", "Amazon Prime Video", "Plex"],
-    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": ["Netflix", "Plex"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Denis Villeneuve",
     "cast": {
       "Timothée Chalamet": {
@@ -8677,11 +8677,6 @@
         "id": 1906860,
         "character": "Doorman (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6sH4laBWYn3rPg6BQSe5mDYJBSe.jpg"
-      },
-      "Francis Bourgeois": {
-        "id": 3740526,
-        "character": "Wetro Operator",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AmbhXWf7rbshCWM108moloujdnQ.jpg"
       }
     }
   },
@@ -8704,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -18307,6 +18302,11 @@
         "id": 6474164,
         "character": "Patrick Bryant",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+      },
+      "Daniel Korenfeld": {
+        "id": 6133361,
+        "character": "Eli Shapiro",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
       }
     }
   },
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -24722,7 +24722,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -29719,7 +29719,7 @@
       "Manny Jacinto": {
         "id": 1368795,
         "character": "Lt. Billy 'Fritz' Avalone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cjkZzaVR5StB4fqnl58NAOSsH0o.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
       },
       "Kara Wang": {
         "id": 236598,
@@ -31793,7 +31793,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jIesKmqbIDrKIarN2g0YPWS1YV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6PE96FktpNPXhPkwyejyg4byavt.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
@@ -34904,7 +34904,7 @@
       "Sigrid Sollund": {
         "id": 3404221,
         "character": "Journalist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1NxGNQchGBTHXJ6RShLY1IlZqWn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oTlwK0KhfUat2CRpqI4AvIrMzqv.jpg"
       },
       "Are Skeie Hermansen": {
         "id": 3742533,
