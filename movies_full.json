@@ -2859,7 +2859,7 @@
       "Emma Mackey": {
         "id": 2201315,
         "character": "Barbie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9OZBcFSS3Yz0Oqr8mssbQa4suW8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
       },
       "Hari Nef": {
         "id": 1611609,
@@ -3677,7 +3677,7 @@
       "Nicole Kidman": {
         "id": 2227,
         "character": "Lucille Ball",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qwtyWXOBQaMeKEqoWxTdza8Aarn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
       },
       "Javier Bardem": {
         "id": 3810,
@@ -8108,7 +8108,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8138,7 +8138,7 @@
       "Souheila Yacoub": {
         "id": 2037046,
         "character": "Shishakli",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x4ZyW9juKKrTbNFwR53FDyAsXAs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/A233BHgXw0dzbeOpvHfJwL9gLy1.jpg"
       },
       "Roger Yuan": {
         "id": 2974,
@@ -8699,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15383,7 +15383,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17628,7 +17628,7 @@
       "Lesley Stahl": {
         "id": 197819,
         "character": "Lesley Stahl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eI3xaIpBG54SAYKAfJ2UWHhjmCI.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m0vTn5aGk0bw3BNm29wpJHvPpAA.jpg"
       },
       "Rosa Salazar": {
         "id": 973667,
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20518,7 +20518,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -22018,7 +22018,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -22289,7 +22289,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25845,8 +25845,8 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "platforms": ["BBC iPlayer", "Amazon Prime Video"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
@@ -26430,7 +26430,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
@@ -31793,7 +31793,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6PE96FktpNPXhPkwyejyg4byavt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a1RxUQd3HExVgt8laH4VaUytdz.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
