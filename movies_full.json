@@ -8699,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12046,7 +12046,7 @@
       "Janelle Monáe": {
         "id": 1005852,
         "character": "Andi Brand",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/JqyNdRukkUGffIV0UaP25IqQHw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eTYG6eBH1LzLWcdQJaH72Wzxemm.jpg"
       },
       "Kathryn Hahn": {
         "id": 17696,
@@ -13205,7 +13205,7 @@
       "Rose Byrne": {
         "id": 9827,
         "character": "Linda",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4Vd7w19asuBfUGgz0NIuQI5wxIA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
       },
       "Conan O'Brien": {
         "id": 81200,
@@ -13215,7 +13215,7 @@
       "A$AP Rocky": {
         "id": 1521445,
         "character": "James",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ikO1rEWPrd6kNlnS1vtks7M5wz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gL0NFnIrqLosSbdxAHExOHAMkFH.jpg"
       },
       "Danielle Macdonald": {
         "id": 1203789,
@@ -13260,7 +13260,7 @@
       "Ella Beatty": {
         "id": 4481381,
         "character": "Kate",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ksWqDRv0knHs9vFffeRD0c28UKH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eLg8P9TdW0YO1h04A6tCwNdJc2F.jpg"
       },
       "Helen Hong": {
         "id": 1552816,
@@ -13270,7 +13270,7 @@
       "Daniel Zolghadri": {
         "id": 1375795,
         "character": "Stephen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xaWmwBLJNQhm8Nis0Etce5QBF1U.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9AjNU6Z2bhimaGiWAZneoTgfSin.jpg"
       },
       "Josh Pais": {
         "id": 6181,
@@ -14935,7 +14935,7 @@
       "Jon Bernthal": {
         "id": 19498,
         "character": "Rick Macci",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aSH27tGD4PJoCO54RQnARSSSIQy.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bjcglF1IpDcZNs1HwFxakGpzBo6.jpg"
       },
       "Mikayla LaShae Bartholomew": {
         "id": 2988968,
@@ -15383,7 +15383,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15513,7 +15513,7 @@
       "Lea Salonga": {
         "id": 15838,
         "character": "Celine (Original Songs Performance) (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nK9DqbXGPVnaET6I6u0IHL89DjP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/cA8lv5GCU5DkZMEeplaVgttrlXr.jpg"
       },
       "Cori Baik": {
         "id": 3695329,
@@ -19737,7 +19737,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -25847,7 +25847,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
