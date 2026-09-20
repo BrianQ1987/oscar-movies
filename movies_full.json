@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -8699,7 +8699,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13524,8 +13524,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Channel 4", "Plex"],
+    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -15383,7 +15383,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17452,11 +17452,6 @@
         "character": "Jamie Bernstein",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7oihORN6wlSC9qKULcpVq7Kqv1l.jpg"
       },
-      "Scott Ellis": {
-        "id": 4479655,
-        "character": "Harry Kraut",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kxj7rMco6RNYsVcNwuGAIlfWu64.jpg"
-      },
       "James Cusati-Moyer": {
         "id": 2430192,
         "character": "Georgie",
@@ -17556,6 +17551,11 @@
         "id": 1171691,
         "character": "Keg Girl (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/umme83YXc3KwnU508aovs5EO716.jpg"
+      },
+      "Scott Ellis": {
+        "id": 169288,
+        "character": "Harry Kraut",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eSXSVDl8ehg4qo4kHEKV5NY1CVs.jpg"
       }
     }
   },
@@ -19549,7 +19549,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20533,7 +20533,7 @@
       "Rami Malek": {
         "id": 17838,
         "character": "David Hill",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8ykTeTRSYd2MKF5uLBvD93X5KMJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/drLMI978uj3Rpc1TcIJarKf3Jfi.jpg"
       },
       "Kenneth Branagh": {
         "id": 11181,
@@ -24722,7 +24722,7 @@
     "released": "2025-06-06",
     "duration": 115,
     "imdb_id": "tt32298285",
-    "vote_average": "6.9",
+    "vote_average": "6.8",
     "overview": "A man and his son arrive at a rave lost in the mountains of Morocco. They are looking for Marina, their daughter and sister, who disappeared months ago at another rave. Driven by fate, they decide to follow a group of ravers in search of one last party, in hopes Marina will be there.",
     "genres": ["Drama", "Thriller"],
     "imdb_score": "7.0/10",
@@ -31462,7 +31462,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
