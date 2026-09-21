@@ -1193,7 +1193,7 @@
     "imdb_id": "tt8368368",
     "vote_average": "6.8",
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
-    "genres": ["History", "Drama", "Comedy"],
+    "genres": ["History", "Drama"],
     "imdb_score": "7.1/10",
     "rt_score": "83%",
     "meta_score": "64/100",
@@ -7819,20 +7819,45 @@
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/d6t8T2ubdMq2zKbboD0kIkrDrtF.jpg"
       },
-      "Yoshinori Miyata": {
-        "id": 2026946,
-        "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dqkLQQdGz0DfOUCBNJfxP28pH4K.jpg"
-      },
       "Keiko Nishi": {
         "id": 2287878,
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
       },
       "Saki Suzuki": {
-        "id": 3101454,
+        "id": 3953194,
         "character": "",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/jvH4xMyDbEl0EFzXwr3OxvQzUhU.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7CN1PLlLN3MKgiA74RzulY5brVA.jpg"
+      },
+      "Kirika vom Schwarsz Kaiser": {
+        "id": 6492823,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "JOY": {
+        "id": 6492824,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Daihachi Yoshida": {
+        "id": 1115707,
+        "character": "Kato",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bvlbgVakaR2uTRy5qYr6LwM8DvF.jpg"
+      },
+      "Yoshinori Miyata": {
+        "id": 2026946,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dqkLQQdGz0DfOUCBNJfxP28pH4K.jpg"
+      },
+      "Tetsuya Fukami": {
+        "id": 4172601,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Takao Kin": {
+        "id": 2211256,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
       }
     }
   },
@@ -9695,62 +9720,62 @@
     "cast": {
       "Stephanie Beatriz": {
         "id": 968367,
-        "character": "Mirabel Madrigal (voice)",
+        "character": "Mirabel (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
       },
       "María Cecilia Botero": {
         "id": 2521631,
-        "character": "Abuela Alma Madrigal (voice)",
+        "character": "Abuela Alma (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/nH6eBBgv1PI9J6Ftkn01ny1TMt1.jpg"
       },
       "John Leguizamo": {
         "id": 5723,
-        "character": "Bruno Madrigal (voice)",
+        "character": "Bruno (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
-      },
-      "Diane Guerrero": {
-        "id": 1010157,
-        "character": "Isabela Madrigal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/suyRRuMIjBdAzTxdFM7U9zHMPTv.jpg"
-      },
-      "Jess Darrow": {
-        "id": 2489411,
-        "character": "Luisa Madrigal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/rJojc1ZUasEnUxSk7lL42RxyQbP.jpg"
-      },
-      "Carolina Gaitán": {
-        "id": 1489764,
-        "character": "Pepa Madrigal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c7UPkmhIXYWmlqaQK250L8GTsPQ.jpg"
-      },
-      "Angie Cepeda": {
-        "id": 120557,
-        "character": "Julieta Madrigal  (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/azShCjdzK93jcBBOJSs5lFUd7CH.jpg"
-      },
-      "Ravi Cabot-Conyers": {
-        "id": 1969888,
-        "character": "Antonio Madrigal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uM5F2LcmFLJeMrguucByChufpbT.jpg"
       },
       "Mauro Castillo": {
         "id": 3150235,
-        "character": "Félix Madrigal (voice)",
+        "character": "Félix (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qGNGBRyy9LumdFw32M7elnHP4IJ.jpg"
       },
-      "Rhenzy Feliz": {
-        "id": 1761634,
-        "character": "Camilo Madrigal (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+      "Jess Darrow": {
+        "id": 2489411,
+        "character": "Luisa (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rJojc1ZUasEnUxSk7lL42RxyQbP.jpg"
+      },
+      "Angie Cepeda": {
+        "id": 120557,
+        "character": "Julieta  (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/azShCjdzK93jcBBOJSs5lFUd7CH.jpg"
+      },
+      "Carolina Gaitán": {
+        "id": 1489764,
+        "character": "Pepa (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c7UPkmhIXYWmlqaQK250L8GTsPQ.jpg"
+      },
+      "Diane Guerrero": {
+        "id": 1010157,
+        "character": "Isabela (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/suyRRuMIjBdAzTxdFM7U9zHMPTv.jpg"
       },
       "Wilmer Valderrama": {
         "id": 18975,
-        "character": "Agustín Madrigal (voice)",
+        "character": "Agustín (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/uohkEwMGIGCq4k8P2AiomuKQwYv.jpg"
+      },
+      "Rhenzy Feliz": {
+        "id": 1761634,
+        "character": "Camilo (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9YPe3GgyWjG4D0GnTx9KzfvnO0L.jpg"
+      },
+      "Ravi Cabot-Conyers": {
+        "id": 1969888,
+        "character": "Antonio (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/uM5F2LcmFLJeMrguucByChufpbT.jpg"
       },
       "Adassa": {
         "id": 3150233,
-        "character": "Dolores Madrigal (voice)",
+        "character": "Dolores (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/bQPhInWW1B81kpSpHGuJBCmSVV3.jpg"
       },
       "Maluma": {
@@ -9762,6 +9787,11 @@
         "id": 162381,
         "character": "Señora Guzmán (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/aZBwQ2EJWrS8NhHfQTiU0GqIGuy.jpg"
+      },
+      "Noemi Josefina Flores": {
+        "id": 3988596,
+        "character": "Young Mirabel / Town Kid (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
       },
       "Juan Castano": {
         "id": 1472890,
@@ -9783,14 +9813,9 @@
         "character": "Toucan (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
       },
-      "Noemi Josefina Flores": {
-        "id": 3988596,
-        "character": "Young Mirabel / Town Kid (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg"
-      },
       "Olga Merediz": {
         "id": 53937,
-        "character": "Abuela Alma Madrigal (singing voice)",
+        "character": "Abuela Alma (singing) (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/AoU4DdgK26xQN4qZTuzgJpVxhos.jpg"
       },
       "Jorge E. Ruiz Cano": {
@@ -19737,7 +19762,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22118,7 +22143,7 @@
       "Januel Mercado": {
         "id": 3012833,
         "character": "Band Member / Baker's Dozen Gang Member (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k0EDmfWmOWrjXhHsmphw5azb3oD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kRgA9405XoklQG9RbuzjOnoRp6x.jpg"
       },
       "James Ryan": {
         "id": 1181220,
@@ -25847,7 +25872,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31462,7 +31487,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
