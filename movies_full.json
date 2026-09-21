@@ -7849,13 +7849,53 @@
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dqkLQQdGz0DfOUCBNJfxP28pH4K.jpg"
       },
+      "Takao Kin": {
+        "id": 2211256,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Satoshi Taigi": {
+        "id": 6492972,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
       "Tetsuya Fukami": {
         "id": 4172601,
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
       },
-      "Takao Kin": {
-        "id": 2211256,
+      "Hiro Ueno": {
+        "id": 3309519,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Tami Maeda": {
+        "id": 5142171,
+        "character": "Bar Patron",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Hiroshi Sumida": {
+        "id": 6493062,
+        "character": "Announcer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Ai Tomonaga": {
+        "id": 4133873,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Tama Rindo": {
+        "id": 6493257,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Kotaro Wada": {
+        "id": 6493288,
+        "character": "",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
+      },
+      "Kensuke Kusano": {
+        "id": 6493272,
         "character": "",
         "profile_path": "https://image.tmdb.org/t/p/w1280/znXps7wPyYq8UDCfeyO2vfEIeRS.jpg"
       }
@@ -8724,7 +8764,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13295,7 +13335,7 @@
       "Daniel Zolghadri": {
         "id": 1375795,
         "character": "Stephen",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9AjNU6Z2bhimaGiWAZneoTgfSin.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8evCfenXpY4swwsKA7bQh0p7WOB.jpg"
       },
       "Josh Pais": {
         "id": 6181,
@@ -15408,7 +15448,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18807,7 +18847,7 @@
         "character": "Aaron / Furbies / Talking Dog / Wifi Enthusiast (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/1MEH4XJ7fSkwA5oCEyx3CckbIva.jpg"
       },
-      "Eric André": {
+      "Eric Andre": {
         "id": 934159,
         "character": "Mark (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg"
@@ -19574,7 +19614,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19762,7 +19802,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22138,7 +22178,7 @@
       "Joel Crawford": {
         "id": 1450348,
         "character": "Band Member / Baker's Dozen Gang Member (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3F60mZB4sGgB51jAIglwn6OrUgB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mmAVatNd2zMIv4yzBZu13Snaknf.jpg"
       },
       "Januel Mercado": {
         "id": 3012833,
@@ -22314,7 +22354,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25872,7 +25912,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31487,7 +31527,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
