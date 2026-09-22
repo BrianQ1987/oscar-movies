@@ -14,7 +14,7 @@
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
-    "rt_score": "95%",
+    "rt_score": "96%",
     "meta_score": "95/100",
     "platforms": ["BBC iPlayer", "Netflix", "Plex"],
     "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
@@ -2959,7 +2959,7 @@
       "Will Merrick": {
         "id": 1221073,
         "character": "Young Mattel Employee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
       },
       "Zheng Xi Yong": {
         "id": 4169965,
@@ -4701,7 +4701,7 @@
       "Sara Paxton": {
         "id": 60072,
         "character": "Miss Flynn",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/atau2a3BlZaTaWSosp4zU7SAFmt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
       },
       "Lucy DeVito": {
         "id": 139310,
@@ -8764,7 +8764,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15444,11 +15444,11 @@
     "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
     "genres": ["Fantasy", "Music", "Comedy", "Animation"],
     "imdb_score": "7.4/10",
-    "rt_score": "91%",
+    "rt_score": "92%",
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -23642,7 +23642,7 @@
     "vote_average": "7.5",
     "overview": "Investigating judge Iman grapples with paranoia amid political unrest in Tehran. When his gun vanishes, he suspects his wife and daughters, imposing draconian measures that strain family ties as societal rules crumble.",
     "genres": ["Drama", "Thriller", "Crime"],
-    "imdb_score": "7.6/10",
+    "imdb_score": "7.5/10",
     "rt_score": "97%",
     "meta_score": "84/100",
     "platforms": "Plex",
@@ -31765,7 +31765,7 @@
       "Sara Paxton": {
         "id": 60072,
         "character": "Erica",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/atau2a3BlZaTaWSosp4zU7SAFmt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
       },
       "Justin Long": {
         "id": 15033,
@@ -32459,21 +32459,6 @@
         "id": 1681734,
         "character": "Demonstrator",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vMZEIOUDfEwPZCodfeMlEQ337d3.jpg"
-      },
-      "Shade Rupe": {
-        "id": 1691382,
-        "character": "Construction Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/69dc66AU0CYKVS6OKJro704gZEE.jpg"
-      },
-      "Isaías Badilla": {
-        "id": 2621973,
-        "character": "Pachanga Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7TMMX20ns0xx74obmMwgZFbFIre.jpg"
-      },
-      "Jessica Marza": {
-        "id": 5781001,
-        "character": "Shark (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1eswCResEeQHA7v4TZs32jeN5bi.jpg"
       }
     }
   },
