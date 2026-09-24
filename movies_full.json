@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -6223,7 +6223,7 @@
       "H.E.R.": {
         "id": 2320763,
         "character": "Squeak",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bBjvOM2F0NM97zF1PG8WjQN6K9g.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/x025IY7XsQIL18aetxJKnEvWYCm.jpg"
       },
       "David Alan Grier": {
         "id": 58563,
@@ -13325,7 +13325,7 @@
       "Ella Beatty": {
         "id": 4481381,
         "character": "Kate",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eLg8P9TdW0YO1h04A6tCwNdJc2F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ksWqDRv0knHs9vFffeRD0c28UKH.jpg"
       },
       "Helen Hong": {
         "id": 1552816,
@@ -22228,20 +22228,20 @@
     "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Colm Bairéad",
     "cast": {
-      "Catherine Clinch": {
-        "id": 3421869,
-        "character": "Cáit",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/945TtPrgJphkrDkpQPARCNUnSze.jpg"
+      "Carrie Crowley": {
+        "id": 1296186,
+        "character": "Eibhlín",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/58kgwaPMURBzThXPJk2W3tjsK9b.jpg"
       },
       "Andrew Bennett": {
         "id": 995518,
         "character": "Seán",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wf0VuQCjD1RU3OtBt111afthIRo.jpg"
       },
-      "Carrie Crowley": {
-        "id": 1296186,
-        "character": "Eibhlín",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/58kgwaPMURBzThXPJk2W3tjsK9b.jpg"
+      "Catherine Clinch": {
+        "id": 3421869,
+        "character": "Cáit",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/945TtPrgJphkrDkpQPARCNUnSze.jpg"
       },
       "Michael Patric": {
         "id": 1368268,
@@ -22300,38 +22300,98 @@
       },
       "Elaine O'Hara": {
         "id": 3377768,
-        "character": "Aine",
+        "character": "Áine",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Marion O'Dwyer": {
         "id": 78285,
-        "character": "Brid",
+        "character": "Bríd",
         "profile_path": "https://image.tmdb.org/t/p/w1280/rBWpMQohUabjRTuvENWEiHyKjx1.jpg"
       },
       "Jessica Joannides": {
         "id": 3843686,
-        "character": "Cháit's Half-Brother",
+        "character": "Cáit's Twin",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Roise Crowley": {
         "id": 3843687,
-        "character": "Sioban",
+        "character": "Siobhán",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Grainne Gillespie": {
         "id": 3843688,
-        "character": "Sinead",
+        "character": "Sinéad",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Killian McAniff": {
+        "id": 6500646,
+        "character": "Úna's Son",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Alishia McAniff": {
+        "id": 6500647,
+        "character": "Úna's Daughter",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Norette Leahy": {
         "id": 3648337,
-        "character": "Deirdre",
+        "character": "Teacher",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
       },
       "Rian Bairéad": {
         "id": 3843689,
-        "character": "Michael",
+        "character": "Micheál",
         "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Bernadette Sullivan": {
+        "id": 1695845,
+        "character": "Úna's Mother",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Aidan O'Sullivan": {
+        "id": 3215096,
+        "character": "Postman",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Martin Oakes": {
+        "id": 6500651,
+        "character": "Dead Man Gearóid",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Nicole Benson Browne": {
+        "id": 6500652,
+        "character": "Girl in School Corridor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Isabella Hamilton": {
+        "id": 6500653,
+        "character": "Girl in School Corridor",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Elena Walshe Gleeson": {
+        "id": 6500655,
+        "character": "Áine's Child",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Zach Wymyslo": {
+        "id": 6500656,
+        "character": "Mam's Child",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Rory Nolan": {
+        "id": 6500657,
+        "character": "(voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Liam Bairéad": {
+        "id": 6500658,
+        "character": "(voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6Njyz53N417cgxE0d7cBEWHUEjc.jpg"
+      },
+      "Méav Ní Mhaolchatha": {
+        "id": 81807,
+        "character": "(voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/87AC6wmxiJGN5iTHJ2Aei3cUchh.jpg"
       }
     }
   },
@@ -25912,7 +25972,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -30164,7 +30224,7 @@
     "imdb_id": "tt29768334",
     "vote_average": "7.3",
     "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-    "genres": "Drama",
+    "genres": ["Drama", "Western"],
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "88/100",
@@ -32459,6 +32519,11 @@
         "id": 1681734,
         "character": "Demonstrator",
         "profile_path": "https://image.tmdb.org/t/p/w1280/vMZEIOUDfEwPZCodfeMlEQ337d3.jpg"
+      },
+      "Isaías Badilla": {
+        "id": 2621973,
+        "character": "Pachanga Dancer",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7TMMX20ns0xx74obmMwgZFbFIre.jpg"
       }
     }
   },
