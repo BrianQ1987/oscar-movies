@@ -8173,7 +8173,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -8764,7 +8764,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -13325,7 +13325,7 @@
       "Ella Beatty": {
         "id": 4481381,
         "character": "Kate",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ksWqDRv0knHs9vFffeRD0c28UKH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9fgrmNc5DZjQDhnST5HVmo6yrgh.jpg"
       },
       "Helen Hong": {
         "id": 1552816,
@@ -18361,7 +18361,7 @@
       "Robert Pattinson": {
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sRUM2u8qLcsOaTm0jGJGlOEQhlQ.jpg"
       },
       "Eitan Anisz": {
         "id": 6474164,
@@ -18409,7 +18409,7 @@
       "Charles Melton": {
         "id": 1907002,
         "character": "Joe Yoo",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yQckwdk03189RodjMYjp17huHyS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg"
       },
       "Cory Michael Smith": {
         "id": 1367617,
@@ -19614,7 +19614,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20583,7 +20583,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -22083,7 +22083,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ejgQXt1fAvPueAvacDsGwG00aA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -22414,7 +22414,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -28663,6 +28663,11 @@
         "id": 3965546,
         "character": "MPO Assistant #3 (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
+      },
+      "Tobias M. Giesecke": {
+        "id": 3308043,
+        "character": "Brioni Clad Man (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ehu1GMGt84d2nrTVLWxxGOIplNc.jpg"
       }
     }
   },
@@ -31587,7 +31592,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
