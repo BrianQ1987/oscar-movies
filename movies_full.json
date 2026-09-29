@@ -5905,7 +5905,7 @@
       "Emilia Jones": {
         "id": 1331023,
         "character": "Ruby Rossi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xHzb3lgOAwTl2NoGtc3mmY0u8ii.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bYFLZCDsBHxAKePk1tsgQSea3m.jpg"
       },
       "Marlee Matlin": {
         "id": 19797,
@@ -6223,7 +6223,7 @@
       "H.E.R.": {
         "id": 2320763,
         "character": "Squeak",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x025IY7XsQIL18aetxJKnEvWYCm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/efF1QUXXMXaW9hfidpnEmMWmixu.jpg"
       },
       "David Alan Grier": {
         "id": 58563,
@@ -10043,8 +10043,6 @@
     "imdb_score": "7.7/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": "Channel 4",
-    "logo_paths": "/kMT8p43W3BsXBe9mqCIPDNepser.png",
     "director": ["Daniel Scheinert", "Daniel Kwan"],
     "cast": {
       "Michelle Yeoh": {
@@ -11119,7 +11117,7 @@
       "David Lynch": {
         "id": 5602,
         "character": "John Ford",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9xRmptsf4kuEbDpCwl80VpnGg4K.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg"
       },
       "Jan Hoag": {
         "id": 143204,
@@ -11635,7 +11633,7 @@
       "Lauren Collins": {
         "id": 88620,
         "character": "Hunter's Wife",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/drAMd3Xq0fApVX9jOaaLycEBRk8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qQD7iQZObGSw1zherrXQEAfLlKe.jpg"
       },
       "Sofia Galasso": {
         "id": 4277267,
@@ -12309,7 +12307,7 @@
       "Ewan McGregor": {
         "id": 3061,
         "character": "Cricket (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/q2UDxfwWnmXTB7khOUF3J9puBVP.jpg"
       },
       "David Bradley": {
         "id": 11180,
@@ -17065,7 +17063,7 @@
       "Dagmara Dominczyk": {
         "id": 52776,
         "character": "Callie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/i1f78OP3G6pksgCcu6AxPgZYEmv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hWccb4AY6SUX5McdYtnKEHjHsCW.jpg"
       },
       "Jack Farthing": {
         "id": 1287084,
@@ -19614,7 +19612,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22414,7 +22412,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25972,7 +25970,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29839,7 +29837,7 @@
       "Val Kilmer": {
         "id": 5576,
         "character": "Adm. Tom 'Iceman' Kazansky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/j2bJH6rxZkJJt8tHsBFMOxIVZdE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
       },
       "Jack Schumacher": {
         "id": 3563646,
@@ -29999,16 +29997,6 @@
       "Norman Ralph Eliasen": {
         "id": 3563647,
         "character": "Mission Controller",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
-      },
-      "Tommy Kijas": {
-        "id": 1046359,
-        "character": "Big Roy (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
-      },
-      "Alexandra Williams": {
-        "id": 3612276,
-        "character": "Nurse",
         "profile_path": "https://image.tmdb.org/t/p/w1280/n0YuM4f5lvGAP6MAW2kBIzugXnc.jpg"
       }
     }
