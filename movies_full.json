@@ -452,6 +452,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "81/100",
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": "Cord Jefferson",
     "cast": {
       "Jeffrey Wright": {
@@ -1689,7 +1691,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.5",
+    "vote_average": "7.6",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.3/10",
@@ -6223,7 +6225,7 @@
       "H.E.R.": {
         "id": 2320763,
         "character": "Squeak",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/efF1QUXXMXaW9hfidpnEmMWmixu.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4q6d02AWIYCgwYNzFeseEyzwvOX.jpg"
       },
       "David Alan Grier": {
         "id": 58563,
@@ -8764,7 +8766,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10940,11 +10942,6 @@
         "id": 3751465,
         "character": "Stefano Domenicali",
         "profile_path": "https://image.tmdb.org/t/p/w1280/hDk46rzXaYmRwdtaZUoO11dS27L.jpg"
-      },
-      "Simon Minter": {
-        "id": 2464458,
-        "character": "Audience member (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dyUt9Sw7D8FIiXhFN30IVihQ5Gm.jpg"
       }
     }
   },
@@ -15747,8 +15744,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "90%",
     "meta_score": "90/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Paul Thomas Anderson",
     "cast": {
       "Alana Haim": {
@@ -19602,7 +19599,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -25960,7 +25957,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31570,7 +31567,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -34777,8 +34774,8 @@
     "imdb_score": "6.9/10",
     "rt_score": "90%",
     "meta_score": "77/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Sarah Polley",
     "cast": {
       "Rooney Mara": {
@@ -35494,8 +35491,8 @@
     "imdb_score": "7.3/10",
     "rt_score": "92%",
     "meta_score": "73/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["Disney Plus", "Plex"],
+    "logo_paths": ["/5eZ872CghnHFLB1j8grszbrx0dx.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": ["Jared Bush", "Byron Howard"],
     "cast": {
       "Ginnifer Goodwin": {
