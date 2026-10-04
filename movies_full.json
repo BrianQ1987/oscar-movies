@@ -10,7 +10,7 @@
     "released": "2022-10-21",
     "duration": 101,
     "imdb_id": "tt19770238",
-    "vote_average": "7.7",
+    "vote_average": "7.6",
     "overview": "Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories fill the gaps between camcorder footages as she tries to reconcile the father she knew with the troubled man she didn't.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -4032,7 +4032,7 @@
       "Caitríona Balfe": {
         "id": 147056,
         "character": "Ma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f6Z35mFE47aIZonVQAWa96fbu5n.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
       },
       "Lewis McAskie": {
         "id": 3065081,
@@ -8771,7 +8771,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15448,7 +15448,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19604,7 +19604,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19654,7 +19654,7 @@
       "Sarah Sherman": {
         "id": 2198504,
         "character": "Coriander Cadaverish (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sPLNz5GGee26tZDFv4eZeyVng6d.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5BwGUREK2H6acSH5Inqmy2hFpGY.jpg"
       },
       "ND Stevenson": {
         "id": 1907841,
@@ -19792,7 +19792,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20952,8 +20952,8 @@
       },
       "Harmeet Dhanoa": {
         "id": 6521823,
-        "character": "Dr. Singh",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+        "character": "Dr. Singh (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gKeqSfi9lD6hQySlX1FVTVQieG0.jpg"
       }
     }
   },
@@ -24582,7 +24582,7 @@
       "Li Jun Li": {
         "id": 1321015,
         "character": "Grace Chow",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/y8hAcbThfxkrSRWhuXl9TsYAggP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yrSTuJCJ1RzjGWd4wAuH1fEQUm9.jpg"
       },
       "Yao": {
         "id": 3495960,
@@ -24828,6 +24828,11 @@
         "id": 5922959,
         "character": "Townsperson",
         "profile_path": "https://image.tmdb.org/t/p/w1280/mjeAaE7yjAlyCIu6Nw94PwU1MnJ.jpg"
+      },
+      "Ricardo Vargas": {
+        "id": 4293714,
+        "character": "Choctaw Posse / Body Double: Nathaniel Arcand (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/fNghmoe5UkAIVg1kUBJVMJAZnVr.jpg"
       }
     }
   },
