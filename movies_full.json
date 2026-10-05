@@ -5279,7 +5279,7 @@
       "Kaoru Kobayashi": {
         "id": 20332,
         "character": "Noble Pelican (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zpnQ8L6SpyT8pI5vgbpKqXyMYoj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pJSt6nRgcIsli0hw2aOCzc2l622.jpg"
       },
       "Shōhei Hino": {
         "id": 72453,
@@ -12780,7 +12780,7 @@
       "Osmani Rodriguez": {
         "id": 205231,
         "character": "Pharmacist",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/VHSzNBTwxV8vh7wylo7O9CLdac.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/duHSocE9c1sPyyUoJQbGyV5tK7y.jpg"
       },
       "Oscar Wahlberg": {
         "id": 1730745,
@@ -19604,7 +19604,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20949,11 +20949,6 @@
         "id": 3603785,
         "character": "Senator's Assistant (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/pCFoh39cpYHeD6fZtSehcKsde5.jpg"
-      },
-      "Harmeet Dhanoa": {
-        "id": 6521823,
-        "character": "Dr. Singh (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gKeqSfi9lD6hQySlX1FVTVQieG0.jpg"
       }
     }
   },
@@ -22409,7 +22404,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
