@@ -1018,7 +1018,7 @@
       "Mikey Madison": {
         "id": 1640439,
         "character": "Ani",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nPJn5fU4YZWqdyrzYzTKdfq5RFs.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/AsnCR2gpAvh79ltn3hZRZlAWaQB.jpg"
       },
       "Mark Eydelshteyn": {
         "id": 3051936,
@@ -5523,7 +5523,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -6428,7 +6428,7 @@
       "Monica Barbaro": {
         "id": 1525043,
         "character": "Joan Baez",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
       },
       "Scoot McNairy": {
         "id": 59233,
@@ -15448,7 +15448,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15761,7 +15761,7 @@
       "Cooper Hoffman": {
         "id": 2764542,
         "character": "Gary Valentine",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6VY3YOg5o2k8CTldr8lYLijGnsN.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg"
       },
       "Sean Penn": {
         "id": 2228,
@@ -21533,7 +21533,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -21583,7 +21583,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -22404,7 +22404,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26538,8 +26538,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "89%",
     "meta_score": "78/100",
-    "platforms": "Paramount Plus",
-    "logo_paths": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+    "platforms": ["BBC iPlayer", "Paramount Plus"],
+    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/pkx3klJlwW5JdtaulvDx6hDNtch.png"],
     "director": "Coralie Fargeat",
     "cast": {
       "Demi Moore": {
