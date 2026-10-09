@@ -1691,7 +1691,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.2/10",
@@ -7696,7 +7696,7 @@
       "Chris Evans": {
         "id": 16828,
         "character": "Devin Peters (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a52ncG9JskJtqrryE0KakPPBkHJ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
       },
       "Marissa Carpio": {
         "id": 2148697,
@@ -19604,7 +19604,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19792,7 +19792,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20578,7 +20578,7 @@
       "Josh Hartnett": {
         "id": 2299,
         "character": "Ernest Lawrence",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8nTEioiir92fGHcASarPxkjF6kG.jpg"
       },
       "Casey Affleck": {
         "id": 1893,
@@ -20623,7 +20623,7 @@
       "David Dastmalchian": {
         "id": 83854,
         "character": "William Borden",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
       },
       "Dane DeHaan": {
         "id": 122889,
@@ -25338,7 +25338,7 @@
       "Pedro Luque": {
         "id": 486330,
         "character": "Helicopter Cameraman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wGTUWK6NfxfdImLAdQySB5AimD9.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2e853FDVSIso600RqAMunPxiZjq.jpg"
       },
       "Carlos García Bayona": {
         "id": 4828747,
@@ -31577,7 +31577,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
