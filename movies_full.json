@@ -1691,7 +1691,7 @@
     "released": "2025-10-22",
     "duration": 89,
     "imdb_id": "tt14883538",
-    "vote_average": "7.6",
+    "vote_average": "7.5",
     "overview": "Ten-year-old Arco lives in a far future. During his first flight in his rainbow suit, he loses control and falls into the past. Iris, a girl his age from 2075, comes to his rescue and tries by any means to help send him back to his own era.",
     "genres": ["Adventure", "Animation", "Family", "Science Fiction"],
     "imdb_score": "7.2/10",
@@ -4047,7 +4047,7 @@
       "Ciarán Hinds": {
         "id": 8785,
         "character": "Pop",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lyaKf0FipuiYWsVEQ5Nt0v5KwYx.jpg"
       },
       "Lara McDonnell": {
         "id": 1726976,
@@ -8180,7 +8180,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -12422,6 +12422,66 @@
         "id": 1585749,
         "character": "Carnival Worker (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7GuaSB2xa6m0DpBtaO6uGSlnZBh.jpg"
+      },
+      "Massimiliano Manfredi": {
+        "id": 1858245,
+        "character": "Sebastian il grillo (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+      },
+      "Bruno Alessandro": {
+        "id": 104091,
+        "character": "Geppetto (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+      },
+      "Ciro Clarizio": {
+        "id": 4509591,
+        "character": "Pinocchio (voice - IT), Carlo (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+      },
+      "Fabrizio Vidale": {
+        "id": 1046238,
+        "character": "Prete (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hFTzCCtZd7PxW3xLAFHYd670gjm.jpg"
+      },
+      "Mario Cordova": {
+        "id": 1851860,
+        "character": "Podestà (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dkGlzl0uvmrTpIHGb6eJi1F7r5Q.jpg"
+      },
+      "Pasquale Anselmo": {
+        "id": 1029135,
+        "character": "Dottore (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eBfbyw90XeFUGKp4AMn0UwLilOW.jpg"
+      },
+      "Giulio Bartolomei": {
+        "id": 1861499,
+        "character": "Lucignolo (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+      },
+      "Tiziana Avarista": {
+        "id": 1043921,
+        "character": "Spazzatura (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+      },
+      "Luigi Ferraro": {
+        "id": 1972830,
+        "character": "Conigli Neri (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/Al571j4uDHAeIVpDKIYsP1kQw84.jpg"
+      },
+      "Stefano Benassi": {
+        "id": 1889025,
+        "character": "Conte Volpe (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zVmSl0wYdSNTpso6xI0ebctF0gE.jpg"
+      },
+      "Franca d'Amato": {
+        "id": 2728386,
+        "character": "Spirito del Bosco (voice - IT), Morte (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
+      },
+      "Massimiliano Alto": {
+        "id": 931488,
+        "character": "Benito Mussolini (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/z2eMfAJKLIHKCv8PSh6eosvXAUl.jpg"
       }
     }
   },
@@ -15450,7 +15510,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17280,6 +17340,86 @@
       "Arturo Sorino": {
         "id": 3331781,
         "character": "Additional Voices (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
+      },
+      "Alberto Vannini": {
+        "id": 4839466,
+        "character": "Luca Paguro (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
+      },
+      "Luca Tesei": {
+        "id": 5266259,
+        "character": "Alberto Scorfano (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
+      },
+      "Sara Ciocca": {
+        "id": 2328786,
+        "character": "Giulia Marcovaldo (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yT6yL7m7bMddgS0XYDPMl7Uiwrf.jpg"
+      },
+      "Ilaria Stagni": {
+        "id": 2086803,
+        "character": "Daniela Paguro (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/e7ffTn40zv7cCYzjaeggfxNvOit.jpg"
+      },
+      "Massimo Corvo": {
+        "id": 1888077,
+        "character": "Massimo Marcovaldo (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/yIs4TMWAQSt4ZN8fyRMbLRGGVTi.jpg"
+      },
+      "Luca Argentero": {
+        "id": 88469,
+        "character": "Lorenzo Paguro (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m0vXuiMCBxSmDOfYuM1oFGI4qrv.jpg"
+      },
+      "Ludovica Modugno": {
+        "id": 92095,
+        "character": "Nonna Paguro (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9B3lao5O0OOI9eFFSi2CuJsh3yz.jpg"
+      },
+      "Ezzedine Ben Nekissa": {
+        "id": 4186865,
+        "character": "Ciccio (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
+      },
+      "Paolo Marchese": {
+        "id": 1972694,
+        "character": "Zio Ugo (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/sigqnrGJcmueEUbDwmxEvggizkT.jpg"
+      },
+      "Fabio Fazio": {
+        "id": 1252881,
+        "character": "Don Eugenio (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/7stygKOt2MBtGOGiH0sZxLPBuq9.jpg"
+      },
+      "Orietta Berti": {
+        "id": 584235,
+        "character": "Concetta Aragosta (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zVcXePJbobouXonQw3doeT0lRIb.jpg"
+      },
+      "Luciana Littizzetto": {
+        "id": 78674,
+        "character": "Pinuccia Aragosta (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5ImXcQfARJUUp6dSP8kBiuKIOKr.jpg"
+      },
+      "Micaela Incitti": {
+        "id": 3928623,
+        "character": "Maggiore (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dthBkPcjY61O5l9rEgJKQAGuSid.jpg"
+      },
+      "Michele Botrugno": {
+        "id": 1883940,
+        "character": "Giocatore di carte (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pn1bnzbWa0rGLWAwJjUKpegLbXB.jpg"
+      },
+      "Alberto Surace": {
+        "id": 6551408,
+        "character": "Pescatore arrabbiato (voice - IT)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
+      },
+      "Luca Josi": {
+        "id": 6551411,
+        "character": "Sig. Branzino (voice - IT)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/9x4i9uKGXt8IiiIF5Ey0DIoY738.jpg"
       }
     }
@@ -19606,7 +19746,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19794,7 +19934,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20580,7 +20720,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -22080,7 +22220,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
