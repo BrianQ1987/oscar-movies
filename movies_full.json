@@ -8635,7 +8635,7 @@
       "Anya Taylor-Joy": {
         "id": 1397778,
         "character": "Alia Atreides (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yZpghhtKM2VZHDx6JGAZqAVU4PL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
       }
     }
   },
@@ -19934,7 +19934,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -26106,7 +26106,7 @@
     "released": "2023-05-31",
     "duration": 140,
     "imdb_id": "tt9362722",
-    "vote_average": "8.3",
+    "vote_average": "8.4",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
@@ -28902,12 +28902,12 @@
       "Katinka Auberger": {
         "id": 70461,
         "character": "Maren Firouza",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xLN8AMmGJeBQbTSjr3UU4An4Aua.jpg"
       },
       "Canan Samadi": {
         "id": 2826211,
         "character": "Mariam Irfan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/xZumyzmyxwzRP901DP6Yu1ZS0MY.jpg"
       },
       "Benjamin Bishop": {
         "id": 4428680,
@@ -28927,7 +28927,7 @@
       "Jade Nadarajah": {
         "id": 4428872,
         "character": "Mitra",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qUwAMUzTdnJ3VFXgiZsKm6o89zd.jpg"
       },
       "Goya Rego": {
         "id": 3116783,
@@ -28952,7 +28952,7 @@
       "Elsa Krieger": {
         "id": 4428735,
         "character": "Hatice",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/thvFLhWT858wuffqouku9W0usa0.jpg"
       },
       "Vincent Stachowiak": {
         "id": 2813826,
@@ -29007,7 +29007,7 @@
       "Emma Phu": {
         "id": 4428844,
         "character": "Emma",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/gerYDu1XZRNcGqLDm7g7q11Xvv2.jpg"
       },
       "Klara Lindner-Figura": {
         "id": 4428846,
@@ -29032,7 +29032,7 @@
       "Zayana Mielke": {
         "id": 4428859,
         "character": "Zayana",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mJ2Gfbl5xKgtNSzLZUxNfuj66si.jpg"
       },
       "Phileas Spallek": {
         "id": 4428863,
@@ -29042,6 +29042,21 @@
       "Ela Eroğlu": {
         "id": 4428868,
         "character": "Ela",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+      },
+      "Jonas Albrecht": {
+        "id": 6553698,
+        "character": "Jonas",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+      },
+      "Maria Guk": {
+        "id": 6553699,
+        "character": "Schülerin",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
+      },
+      "Florian Weber": {
+        "id": 588378,
+        "character": "Lehrer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg"
       }
     }
