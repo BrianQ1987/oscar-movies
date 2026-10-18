@@ -19751,7 +19751,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20664,7 +20664,7 @@
         "character": "Thief (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/fNOzJAuVB94zJWbfxLLxB6kyzdy.jpg"
       },
-      "Juan-Diego Aires": {
+      "Juan Diego Aires": {
         "id": 6271033,
         "character": "Young Immigrant",
         "profile_path": "https://image.tmdb.org/t/p/w1280/7O1YVqe6pvyFaTzHSYnBksgGcZO.jpg"
@@ -20694,7 +20694,7 @@
     "imdb_id": "tt15398776",
     "vote_average": "8",
     "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
-    "genres": ["Drama", "History"],
+    "genres": ["Drama", "History", "War"],
     "imdb_score": "8.2/10",
     "rt_score": "93%",
     "meta_score": "90/100",
@@ -22556,7 +22556,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23443,7 +23443,7 @@
     "released": "2025-07-23",
     "duration": 161,
     "imdb_id": "tt27847051",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Thriller", "Drama", "Crime"],
     "imdb_score": "7.2/10",
@@ -23516,7 +23516,7 @@
       "Hermila Guedes": {
         "id": 583446,
         "character": "Cláudia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dJJh7sekL9dl77tviU5yEVXa1qo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tRhIem0QaMXLNuEjKLPVqoUNVso.jpg"
       },
       "Márcio De Paula": {
         "id": 4480963,
@@ -26111,7 +26111,7 @@
     "released": "2023-05-31",
     "duration": 140,
     "imdb_id": "tt9362722",
-    "vote_average": "8.3",
+    "vote_average": "8.4",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
