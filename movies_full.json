@@ -1108,7 +1108,7 @@
       "Ella Rubin": {
         "id": 3307906,
         "character": "Vera",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/heS82jg1XzNYTmsW6CrYwysAE27.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6JVMTzo7SJK8ohYi3eBX2F2c4M9.jpg"
       },
       "Ross Brodar": {
         "id": 1660692,
@@ -3934,7 +3934,7 @@
       "Leo Moctezuma": {
         "id": 101688,
         "character": "Ciro's Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mS230Ss9pb42nkV16tXoSR4d5D7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/rDxMnvU3jLLD6LGYbRa3j0KwjHg.jpg"
       },
       "Nayara Núñez": {
         "id": 1463042,
@@ -7997,7 +7997,7 @@
       "Charlotte Rampling": {
         "id": 44079,
         "character": "Reverend Mother Mohiam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jgpJroIhfkrZmh7C4T5MADjpGBG.jpg"
       },
       "Babs Olusanmokun": {
         "id": 205923,
@@ -8205,7 +8205,7 @@
       "Charlotte Rampling": {
         "id": 44079,
         "character": "Reverend Mother Mohiam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jgpJroIhfkrZmh7C4T5MADjpGBG.jpg"
       },
       "Souheila Yacoub": {
         "id": 2037046,
@@ -19741,7 +19741,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/2NQljeavtfl22207D1kxLpa4LS3.jpg",
     "title": "Nimona",
     "released": "2023-06-23",
-    "duration": 99,
+    "duration": 102,
     "imdb_id": "tt19500164",
     "vote_average": "7.8",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
@@ -19939,7 +19939,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -23443,7 +23443,7 @@
     "released": "2025-07-23",
     "duration": 161,
     "imdb_id": "tt27847051",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Thriller", "Drama", "Crime"],
     "imdb_score": "7.2/10",
@@ -23921,7 +23921,7 @@
     "imdb_id": "tt27714581",
     "vote_average": "7.5",
     "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
-    "genres": ["Drama", "Comedy"],
+    "genres": "Drama",
     "imdb_score": "7.7/10",
     "rt_score": "95%",
     "meta_score": "86/100",
@@ -26119,7 +26119,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
