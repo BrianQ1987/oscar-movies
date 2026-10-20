@@ -231,7 +231,7 @@
       "Tobias Langhoff": {
         "id": 1258564,
         "character": "Major General von Winterfeldt",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f4fz344qyARjF5dnDd2ajWXM2Zp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mLEiGEe8VSd3bv9mNbfHjcKYXJh.jpg"
       },
       "Anton von Lucke": {
         "id": 1576708,
@@ -8771,7 +8771,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -15035,8 +15035,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "90%",
     "meta_score": "76/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Reinaldo Marcus Green",
     "cast": {
       "Will Smith": {
@@ -15848,7 +15848,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Lance Brannigan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vyalCuJUUP7Ht1vMWZQzhOrscXV.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -19290,7 +19290,7 @@
       "Najah Bradley": {
         "id": 2806735,
         "character": "Evelyn",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5OkYi0rQ8Q0boR6pnkaCCQGrK73.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4vvUxcf5QDkTKnGlbHeIX56j4PI.jpg"
       },
       "Jase Stidwell": {
         "id": 5113338,
@@ -19751,7 +19751,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19939,7 +19939,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22556,7 +22556,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26119,7 +26119,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26702,7 +26702,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jStNyMj3acpLuH48awLVLqqlyaV.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
@@ -31744,7 +31744,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
