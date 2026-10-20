@@ -5101,7 +5101,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Elizabeth Weiland",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Patrick Kennedy": {
         "id": 14432,
@@ -7031,7 +7031,7 @@
     "imdb_id": "tt11286314",
     "vote_average": "7.1",
     "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
-    "genres": ["Comedy", "Science Fiction", "Drama"],
+    "genres": "Comedy",
     "imdb_score": "7.1/10",
     "meta_score": "49/100",
     "platforms": "Netflix",
@@ -15510,7 +15510,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19751,7 +19751,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19939,7 +19939,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -21735,7 +21735,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Felicity",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Jack Barton": {
         "id": 2538307,
@@ -22556,7 +22556,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26111,7 +26111,7 @@
     "released": "2023-05-31",
     "duration": 140,
     "imdb_id": "tt9362722",
-    "vote_average": "8.4",
+    "vote_average": "8.3",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
@@ -26702,7 +26702,7 @@
       "Margaret Qualley": {
         "id": 1392137,
         "character": "Sue",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4LeaweyyTXCNs9V5swAuU4gGgZC.jpg"
       },
       "Dennis Quaid": {
         "id": 6065,
@@ -27324,7 +27324,7 @@
       "Nina Hoss": {
         "id": 681,
         "character": "Sharon Goodnow",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n0iOzWeNemXRTt4fgs7Tt2swtr1.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qVmgHUAPWAAUEtZ4s4asd9xK0hZ.jpg"
       },
       "Noémie Merlant": {
         "id": 1385600,
@@ -35827,7 +35827,7 @@
       "Josh Dallas": {
         "id": 77880,
         "character": "Frantic Pig (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f9cjzUtgasJTZgpdqFIREhUUxbQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/p5ZpeV8E0JLu8gd7Y3w1OHRl5pS.jpg"
       },
       "Tommy Chong": {
         "id": 63208,
