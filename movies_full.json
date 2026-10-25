@@ -1195,7 +1195,7 @@
     "imdb_id": "tt8368368",
     "vote_average": "6.8",
     "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
-    "genres": ["History", "Drama", "Comedy"],
+    "genres": "Drama",
     "imdb_score": "7.1/10",
     "rt_score": "83%",
     "meta_score": "64/100",
@@ -5523,7 +5523,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Michelle",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
       },
       "Jesse Plemons": {
         "id": 88124,
@@ -13813,7 +13813,7 @@
     "released": "2025-10-01",
     "duration": 103,
     "imdb_id": "tt36491653",
-    "vote_average": "7.1",
+    "vote_average": "7.2",
     "overview": "An unassuming mechanic is reminded of his time in an Iranian prison when he encounters a man he suspects to be his sadistic jailhouse captor.",
     "genres": ["Drama", "Thriller", "Crime", "Mystery"],
     "imdb_score": "7.4/10",
@@ -15510,7 +15510,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19112,7 +19112,7 @@
       "Libby Thomas Dickey": {
         "id": 2085351,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2TcAWeCmpyLtEkoGLu5eMVnz1jS.jpg"
       },
       "Kerry Gutierrez": {
         "id": 2784051,
@@ -19751,7 +19751,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -21685,7 +21685,7 @@
       "Emma Stone": {
         "id": 54693,
         "character": "Bella Baxter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mstXxlDqhoK0s0molsNpskJ1wLH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ak2Y9wOI3wi2pNQU6OWSvVvWPj5.jpg"
       },
       "Mark Ruffalo": {
         "id": 103,
@@ -23443,7 +23443,7 @@
     "released": "2025-07-23",
     "duration": 161,
     "imdb_id": "tt27847051",
-    "vote_average": "7.2",
+    "vote_average": "7.1",
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Thriller", "Drama", "Crime"],
     "imdb_score": "7.2/10",
@@ -26459,7 +26459,7 @@
       "Lashana Rodriguez": {
         "id": 2555587,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tonp9O4EeiodVxoizXWzNseIguF.jpg"
       },
       "Jaswant Dev Shrestha": {
         "id": 2173025,
@@ -26469,7 +26469,7 @@
       "Libby Thomas Dickey": {
         "id": 2085351,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2TcAWeCmpyLtEkoGLu5eMVnz1jS.jpg"
       },
       "Jason Linere-White": {
         "id": 2597021,
@@ -31645,7 +31645,7 @@
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/lpR75ff26r4OD6IZdHKaHJfiojj.jpg"
       },
-      "Timothy Cheng Chi-Sing": {
+      "Timothy Cheng Chi-sing": {
         "id": 2040668,
         "character": "Additional Voices (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ypQXUL89Vl7zkeJkiRbePqjDB5r.jpg"
@@ -31744,7 +31744,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32695,7 +32695,7 @@
     "released": "2022-12-09",
     "duration": 117,
     "imdb_id": "tt13833688",
-    "vote_average": "7.7",
+    "vote_average": "7.8",
     "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
@@ -32746,7 +32746,7 @@
       "Lance Oppenheim": {
         "id": 1405665,
         "character": "Julian (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ui0GmowFjYRSI9vEkYQniU5E6VM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/h12zgCaZ24imkZlw0nry9T9mjGD.jpg"
       },
       "Grace Perkins": {
         "id": 5233055,
