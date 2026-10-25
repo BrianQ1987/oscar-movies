@@ -15510,7 +15510,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17908,7 +17908,7 @@
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -22556,7 +22556,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26131,6 +26131,11 @@
         "character": "Gwen Stacy (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
       },
+      "Oscar Isaac": {
+        "id": 25072,
+        "character": "Miguel O'Hara (voice)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+      },
       "Brian Tyree Henry": {
         "id": 226366,
         "character": "Jeff Morales (voice)",
@@ -26145,11 +26150,6 @@
         "id": 543505,
         "character": "Peter B. Parker (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
-      },
-      "Oscar Isaac": {
-        "id": 25072,
-        "character": "Miguel O'Hara (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
       },
       "Jason Schwartzman": {
         "id": 17881,
@@ -26429,7 +26429,7 @@
       "Ashley London": {
         "id": 2581798,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/w7uFM6Tc6dGEHpqSKN31n1gm5Cv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
       },
       "Christopher Miller": {
         "id": 155267,
@@ -26459,7 +26459,7 @@
       "Lashana Rodriguez": {
         "id": 2555587,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tonp9O4EeiodVxoizXWzNseIguF.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
       },
       "Jaswant Dev Shrestha": {
         "id": 2173025,
@@ -26469,7 +26469,7 @@
       "Libby Thomas Dickey": {
         "id": 2085351,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2TcAWeCmpyLtEkoGLu5eMVnz1jS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
       },
       "Jason Linere-White": {
         "id": 2597021,
@@ -26524,7 +26524,7 @@
       "Doug Nicholas": {
         "id": 1370757,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uPRjHjo7RTATaSg1d4lqM9u2sSt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
       },
       "Shakira Ja'nai Paye": {
         "id": 2104889,
@@ -31744,7 +31744,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
