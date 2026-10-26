@@ -8771,7 +8771,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -19042,7 +19042,7 @@
       "Doug Nicholas": {
         "id": 1370757,
         "character": "Hamburger Boy / Smart-Racket 5000-S Series (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/uPRjHjo7RTATaSg1d4lqM9u2sSt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
       },
       "Madeleine McGraw": {
         "id": 1530558,
@@ -19112,7 +19112,7 @@
       "Libby Thomas Dickey": {
         "id": 2085351,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2TcAWeCmpyLtEkoGLu5eMVnz1jS.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
       },
       "Kerry Gutierrez": {
         "id": 2784051,
@@ -19122,7 +19122,7 @@
       "Todd Hansen": {
         "id": 1370753,
         "character": "Additional Voices (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2SCKC6VG5fRl1ZjhneNuIVbQ0QA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mI2Di7HmskQQ34kz0iau6J1vr70.jpg"
       },
       "Lex Lang": {
         "id": 571309,
@@ -19751,7 +19751,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19939,7 +19939,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22556,7 +22556,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -31744,7 +31744,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
