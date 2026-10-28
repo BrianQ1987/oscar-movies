@@ -3652,6 +3652,31 @@
         "id": 4182688,
         "character": "Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/mKSNngq6CXDBEmwq2y0NOoikko1.jpg"
+      },
+      "Marja-Liisa Nguyen": {
+        "id": 6282419,
+        "character": "Park Ranger Barbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ynWOzwbxYpF2sUUbeuIuvfudY0L.jpg"
+      },
+      "Fatumina Saïd Abukar": {
+        "id": 4902312,
+        "character": "Hijabi Barbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg"
+      },
+      "Ashleigh Brewer": {
+        "id": 1232318,
+        "character": "Totally Hair Barbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bPLQK0FVkoYKaCSodzeCiggQRLx.jpg"
+      },
+      "Molly Peyton": {
+        "id": 4792742,
+        "character": "Fashion Designer Barbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u4ZyzALb0i0YCNJQG6iQispZctw.jpg"
+      },
+      "Chanel Stewart": {
+        "id": 6064326,
+        "character": "1960 Nurse Barbie (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/niN84eEYhPVYP55Q2eE6vGXvfft.jpg"
       }
     }
   },
@@ -5538,7 +5563,7 @@
       "Stavros Halkias": {
         "id": 1400595,
         "character": "Casey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9QB7YGMk6O7hRgGWvK0OimTVzl7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifNnV7bO0DHzDEn1Dr5lKYW1mkp.jpg"
       },
       "Alicia Silverstone": {
         "id": 5588,
@@ -5907,7 +5932,7 @@
       "Emilia Jones": {
         "id": 1331023,
         "character": "Ruby Rossi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bYFLZCDsBHxAKePk1tsgQSea3m.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vQHfiR6bSKf7bJcYyDvfUSXlB9Q.jpg"
       },
       "Marlee Matlin": {
         "id": 19797,
@@ -8771,7 +8796,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12712,7 +12737,7 @@
       "Dominic Sessa": {
         "id": 3918497,
         "character": "Angus Tully",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tSRLahrkA3iHJmKjkh3R2ZBFIQN.jpg"
       },
       "Da'Vine Joy Randolph": {
         "id": 1180099,
@@ -15510,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17009,7 +17034,7 @@
       "Nichola McAuliffe": {
         "id": 1229467,
         "character": "Mrs. Blake",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zUJcp0rpUqp2GSk7t9jvAiZsXtM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/u8Ke3JtEVMh9jgGcLCy52ZERcp2.jpg"
       },
       "Laurie Denman": {
         "id": 3951641,
@@ -19746,7 +19771,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -31739,7 +31764,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
