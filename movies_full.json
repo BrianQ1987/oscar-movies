@@ -7056,7 +7056,7 @@
     "imdb_id": "tt11286314",
     "vote_average": "7.1",
     "overview": "Two astronomers go on a media tour to warn humankind of a planet-killing comet hurtling toward Earth. The response from a distracted world: Meh.",
-    "genres": "Comedy",
+    "genres": ["Comedy", "Science Fiction", "Drama"],
     "imdb_score": "7.1/10",
     "meta_score": "49/100",
     "platforms": "Netflix",
@@ -16839,8 +16839,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "97%",
     "meta_score": "82/100",
-    "platforms": ["Amazon Prime Video", "Plex"],
-    "logo_paths": ["/gMZdpavHmxFNnLpMHwVxfqeux2g.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": ["Maïlys Vallade", "Liane-cho Han"],
     "cast": {
       "Loïse Charpentier": {
@@ -17132,7 +17132,7 @@
       "Dakota Johnson": {
         "id": 118545,
         "character": "Nina",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qFek0KqpaPV5mVyHHNfAapDE9Tj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bSfVBJ8S3F1MPpCmIWb8UJcUZGP.jpg"
       },
       "Ed Harris": {
         "id": 228,
@@ -17152,7 +17152,7 @@
       "Dagmara Dominczyk": {
         "id": 52776,
         "character": "Callie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hWccb4AY6SUX5McdYtnKEHjHsCW.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zoZ8cJNOgAsU1rxSbhhziSTOJbZ.jpg"
       },
       "Jack Farthing": {
         "id": 1287084,
@@ -19959,7 +19959,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22225,7 +22225,7 @@
       "Antonio Banderas": {
         "id": 3131,
         "character": "Puss in Boots (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/n8YlGookYzgD3cmpMP45BYRNIoh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lpzfDt22374NPhOXZpUq74e9mfw.jpg"
       },
       "Salma Hayek Pinault": {
         "id": 3136,
@@ -26139,7 +26139,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -32425,7 +32425,7 @@
       "Yassmin Alers": {
         "id": 1182472,
         "character": "Lluvia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/yfz3IUoYYSY32tkb97HlUBGFsnh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/9P2HKb0hBt4UVJz1EYeOnv4CfnQ.jpg"
       },
       "Jamie Harris": {
         "id": 111195,
@@ -32844,7 +32844,7 @@
       "Peter Dinklage": {
         "id": 22970,
         "character": "Dr. Dillamond (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ji3w1BW7mWfv1Mmen24rKn2ImeE.jpg"
       },
       "Andy Nyman": {
         "id": 22810,
