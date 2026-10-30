@@ -2831,7 +2831,7 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -8796,7 +8796,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -12719,7 +12719,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -15535,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15873,7 +15873,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Lance Brannigan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pWxMzsp8GnVxgx91TZp7mbqV7oZ.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -19763,7 +19763,7 @@
     "released": "2023-06-23",
     "duration": 102,
     "imdb_id": "tt19500164",
-    "vote_average": "7.8",
+    "vote_average": "7.9",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
@@ -19959,7 +19959,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -24303,6 +24303,11 @@
         "id": 579468,
         "character": "Narrator (voice)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/5hj22GhRXOLASZ7O6Kqe4MpMVlm.jpg"
+      },
+      "Parham Nikseresht": {
+        "id": 3216724,
+        "character": "Journalist",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/bipiPDAhm5hrln9vGKlZFJLMXaZ.jpg"
       }
     }
   },
@@ -26139,7 +26144,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -27479,11 +27484,6 @@
       "Andreas Jentzsch": {
         "id": 3965509,
         "character": "Magazine Vendor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
-      },
-      "Daniel Söhner": {
-        "id": 3965511,
-        "character": "Waiter",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dRVAlaU0vbG6hMf2K45NSiIyoUe.jpg"
       },
       "Tilla Kratochwil": {
