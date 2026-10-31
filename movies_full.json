@@ -8220,7 +8220,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/orDY1LzTNCM5EQ0TH7PFkPPBdtO.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -12719,7 +12719,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -13676,8 +13676,8 @@
     "imdb_score": "7.6/10",
     "rt_score": "96%",
     "meta_score": "79/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Matteo Garrone",
     "cast": {
       "Seydou Sarr": {
@@ -15535,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15873,7 +15873,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Lance Brannigan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/pWxMzsp8GnVxgx91TZp7mbqV7oZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -19771,7 +19771,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19959,7 +19959,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22386,8 +22386,8 @@
     "imdb_score": "7.7/10",
     "rt_score": "97%",
     "meta_score": "89/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Colm Bairéad",
     "cast": {
       "Carrie Crowley": {
