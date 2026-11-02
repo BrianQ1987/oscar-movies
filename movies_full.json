@@ -15873,7 +15873,7 @@
       "Skyler Gisondo": {
         "id": 61263,
         "character": "Lance Brannigan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/qsj3TrHFfkDGSEKHfxfMpBWAe7N.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
       },
       "Mary Elizabeth Ellis": {
         "id": 139309,
@@ -19771,7 +19771,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19959,7 +19959,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22576,7 +22576,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23536,7 +23536,7 @@
       "Hermila Guedes": {
         "id": 583446,
         "character": "Cláudia",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tRhIem0QaMXLNuEjKLPVqoUNVso.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pM8A9uJVmGvitA1WB92eCKjEYyv.jpg"
       },
       "Márcio De Paula": {
         "id": 4480963,
@@ -24480,7 +24480,7 @@
       "Miguel Abrantes Ostrowski": {
         "id": 1897928,
         "character": "Hans Klein",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/by67GBbMTZdEEpvuQBzcPRFqxUD.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/m49QgzZzxe9PllK49SAQgMCfocT.jpg"
       },
       "Kim Hanfland": {
         "id": 5148725,
@@ -26144,7 +26144,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29996,7 +29996,7 @@
       "Monica Barbaro": {
         "id": 1525043,
         "character": "Lt. Natasha 'Phoenix' Trace",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5vwytS9o5t8EINBGOGx677iowQi.jpg"
       },
       "Lewis Pullman": {
         "id": 1700685,
@@ -32715,7 +32715,7 @@
     "released": "2022-12-09",
     "duration": 117,
     "imdb_id": "tt13833688",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
