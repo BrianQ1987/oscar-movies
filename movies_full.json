@@ -15535,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19763,7 +19763,7 @@
     "released": "2023-06-23",
     "duration": 102,
     "imdb_id": "tt19500164",
-    "vote_average": "7.9",
+    "vote_average": "7.8",
     "overview": "A knight framed for a tragic crime teams with a scrappy, shape-shifting teen to prove his innocence.",
     "genres": ["Animation", "Family", "Fantasy", "Adventure", "Science Fiction", "Action"],
     "imdb_score": "7.5/10",
