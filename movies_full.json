@@ -574,7 +574,7 @@
       "Keith David": {
         "id": 65827,
         "character": "Willy the Wonker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg"
       },
       "Miriam Shor": {
         "id": 18273,
@@ -2572,7 +2572,7 @@
         "character": "Mako Sub #1 Gunner",
         "profile_path": "https://image.tmdb.org/t/p/w1280/dNdu5dQHDwjn77DBDpWI5nTiHls.jpg"
       },
-      "Nikita Tu Bryant": {
+      "Nikita Tu-Bryant": {
         "id": 3819108,
         "character": "Mako Sub #2 Pilot",
         "profile_path": "https://image.tmdb.org/t/p/w1280/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg"
@@ -11574,7 +11574,7 @@
     "released": "2024-08-29",
     "duration": 85,
     "imdb_id": "tt4772188",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
     "genres": ["Adventure", "Animation", "Family", "Fantasy"],
     "imdb_score": "7.8/10",
@@ -15535,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18529,6 +18529,11 @@
         "id": 11288,
         "character": "British Open Semifinals Commentator (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+      },
+      "Joél Isaac": {
+        "id": 3441042,
+        "character": "Portuguese Player (uncredited)",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/d5fTUGEG3PKzQnF3QzbmjK9Lv3B.jpg"
       }
     }
   },
@@ -19771,7 +19776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19959,7 +19964,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20860,7 +20865,7 @@
       "Ted King": {
         "id": 1221560,
         "character": "Senator Bartlett",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ar0XWZlVmpaxj3xQg6Pe2u0WFgH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3RpW4aOGhpvYXiz4j7sRBxlU3xL.jpg"
       },
       "Tim DeKay": {
         "id": 76001,
@@ -26144,7 +26149,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
