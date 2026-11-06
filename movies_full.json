@@ -785,7 +785,7 @@
       "Saadia Bentaïeb": {
         "id": 1613123,
         "character": "Maître Nour Boudaoud",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tQXSCqgjJdAC9eXrnjZ4BFJWSr7.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/1ho0d4LNZw3Y0voeKmSvPSgJOJ2.jpg"
       },
       "Camille Rutherford": {
         "id": 1033745,
@@ -15535,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19776,7 +19776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19964,7 +19964,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22581,7 +22581,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -25778,7 +25778,7 @@
       "T. Oliver Reid": {
         "id": 2524509,
         "character": "Esquire #2 (as Timothy Oliver Reid)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/z7APwg8khg1cryNcwNQafApVTT5.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ifVGwqB9Dn0m1yRXbfiKGqdOMZo.jpg"
       },
       "Charles E. Wallace": {
         "id": 4996655,
@@ -26712,7 +26712,7 @@
     "poster_path": "https://image.tmdb.org/t/p/w1280/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
     "title": "The Substance",
     "released": "2024-09-18",
-    "duration": 141,
+    "duration": 142,
     "imdb_id": "tt17526714",
     "vote_average": "7.1",
     "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
@@ -31705,7 +31705,7 @@
     "imdb_id": "tt36943034",
     "vote_average": "8.1",
     "overview": "January 29, 2024. Red Crescent volunteers receive an emergency call. A five-year old girl is trapped in a car under fire in Gaza, pleading for rescue. While trying to keep her on the line, they do everything they can to get an ambulance to her. Her name was Hind Rajab.",
-    "genres": ["Drama", "History"],
+    "genres": "Drama",
     "imdb_score": "8.2/10",
     "rt_score": "93%",
     "meta_score": "81/100",
@@ -31942,7 +31942,7 @@
       "Whitmer Thomas": {
         "id": 1105322,
         "character": "Alex's Dad",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ivz8rehM5WFKsUpDSULUFgPYyze.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/krvcQFLwjY6kNHTLTOMCr763HRr.jpg"
       },
       "Callie Schuttera": {
         "id": 2438324,
