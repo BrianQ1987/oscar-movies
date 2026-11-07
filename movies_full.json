@@ -2435,7 +2435,7 @@
       "Jamie Flatters": {
         "id": 1729393,
         "character": "Neteyam",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/94adVPuUSt26vCGNt1iJJ5JUdBH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dgC7LzLqsLiTkEhIC8Swk2KYdrN.jpg"
       },
       "Trinity Jo-Li Bliss": {
         "id": 1895788,
@@ -11006,7 +11006,7 @@
       "Paul Dano": {
         "id": 17142,
         "character": "Burt Fabelman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/idiW4qPI4wuP21CFARoRnES2qxC.jpg"
       },
       "Seth Rogen": {
         "id": 19274,
@@ -11574,7 +11574,7 @@
     "released": "2024-08-29",
     "duration": 85,
     "imdb_id": "tt4772188",
-    "vote_average": "8.1",
+    "vote_average": "8",
     "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
     "genres": ["Adventure", "Animation", "Family", "Fantasy"],
     "imdb_score": "7.8/10",
@@ -19776,7 +19776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22581,7 +22581,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23472,7 +23472,6 @@
     "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
     "genres": ["Thriller", "Drama", "Crime"],
     "imdb_score": "7.2/10",
-    "rt_score": "98%",
     "meta_score": "91/100",
     "platforms": "Plex",
     "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
@@ -26149,7 +26148,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
