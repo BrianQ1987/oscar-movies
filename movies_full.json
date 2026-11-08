@@ -4273,6 +4273,11 @@
         "id": 4265640,
         "character": "Moira's Friend",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg"
+      },
+      "Mamie McKee": {
+        "id": 6611634,
+        "character": "Schoolgirl",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg"
       }
     }
   },
@@ -8796,7 +8801,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10295,7 +10300,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jim Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
       },
       "Cherry Jones": {
         "id": 1956,
@@ -11814,7 +11819,7 @@
         "character": "Bistro Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
       },
-      "Jessica Roberts Smith": {
+      "Jessica Roberts-Smith": {
         "id": 5762231,
         "character": "Bistro Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
@@ -11858,21 +11863,6 @@
         "id": 5762249,
         "character": "Bistro Dancer",
         "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Frank Meschkuleit": {
-        "id": 1232230,
-        "character": "Additional Performances (puppeteer)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Matthew Barr": {
-        "id": 5895962,
-        "character": "Museum Bookshop Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4qM3WdJw4bfF9vYuGbsqQRu9Xgi.jpg"
-      },
-      "Luca Mehta": {
-        "id": 3962721,
-        "character": "Student (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kgHLMOdfTNMlSGpMW3EGow1fAid.jpg"
       }
     }
   },
@@ -12725,8 +12715,8 @@
     "imdb_score": "7.9/10",
     "rt_score": "97%",
     "meta_score": "82/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Alexander Payne",
     "cast": {
       "Paul Giamatti": {
@@ -19776,7 +19766,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19964,7 +19954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -24332,8 +24322,8 @@
     "imdb_score": "7.1/10",
     "rt_score": "92%",
     "meta_score": "76/100",
-    "platforms": "Paramount Plus",
-    "logo_paths": "/pkx3klJlwW5JdtaulvDx6hDNtch.png",
+    "platforms": ["Netflix", "Paramount Plus"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/pkx3klJlwW5JdtaulvDx6hDNtch.png"],
     "director": "Tim Fehlbaum",
     "cast": {
       "Peter Sarsgaard": {
@@ -26148,7 +26138,7 @@
     "meta_score": "86/100",
     "platforms": "Amazon Prime Video",
     "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26698,7 +26688,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Peter Parker / Spider-Man (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
       }
     }
   },
@@ -29114,7 +29104,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jonathan Larson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
       },
       "Alexandra Shipp": {
         "id": 1253199,
