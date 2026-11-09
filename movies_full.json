@@ -10300,7 +10300,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jim Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
       },
       "Cherry Jones": {
         "id": 1956,
@@ -12709,7 +12709,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -15525,7 +15525,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19954,7 +19954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22571,7 +22571,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -29104,7 +29104,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Jonathan Larson",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
       },
       "Alexandra Shipp": {
         "id": 1253199,
@@ -31758,7 +31758,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
