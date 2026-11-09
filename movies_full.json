@@ -5231,7 +5231,7 @@
     "watched": false,
     "nominated": 2024,
     "categories": "Best Animated Feature Film",
-    "poster_path": "https://image.tmdb.org/t/p/w1280/f4oZTcfGrVTXKTWg157AwikXqmP.jpg",
+    "poster_path": "https://image.tmdb.org/t/p/w1280/4GKye5dR4uJyYbcyTveSue1gATD.jpg",
     "title": "The Boy and the Heron",
     "released": "2023-07-14",
     "duration": 124,
@@ -7955,8 +7955,8 @@
     "imdb_score": "8.0/10",
     "rt_score": "83%",
     "meta_score": "74/100",
-    "platforms": "Plex",
-    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
+    "platforms": ["ITVX", "Plex"],
+    "logo_paths": ["/nIViE3wOPV5Jyv45T7hetHyG6iS.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
     "director": "Denis Villeneuve",
     "cast": {
       "Timothée Chalamet": {
@@ -19954,7 +19954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -26688,7 +26688,7 @@
       "Andrew Garfield": {
         "id": 37625,
         "character": "Peter Parker / Spider-Man (archive footage) (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5ydZ6TluPtxlz5G8nlWMB7SGmow.jpg"
       }
     }
   },
@@ -32089,12 +32089,12 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2zR0rz3yluyWoFgCL3lGAPoRWlz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
         "character": "Anita",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sPJo4F7NxllcPD1oSi6uh9OpAyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nfUaNCqCRe5KWF0XPmdn3eP1kPD.jpg"
       },
       "David Alvarez": {
         "id": 2225865,
