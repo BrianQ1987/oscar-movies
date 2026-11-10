@@ -19766,7 +19766,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19954,7 +19954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22571,7 +22571,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -35680,7 +35680,7 @@
     "imdb_id": "tt26443597",
     "vote_average": "7.7",
     "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-    "genres": ["Animation", "Adventure", "Comedy", "Mystery", "Family"],
+    "genres": ["Adventure", "Animation", "Comedy", "Mystery", "Family"],
     "imdb_score": "7.3/10",
     "rt_score": "92%",
     "meta_score": "73/100",
