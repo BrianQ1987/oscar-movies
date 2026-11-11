@@ -15525,7 +15525,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17260,7 +17260,7 @@
       "Jack Dylan Grazer": {
         "id": 1774679,
         "character": "Alberto Scorfano (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wkLAOleFx9Pis97g6t3noJRhAwg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lSE2LLt1ZEVf2n1X2CycTl0ehyV.jpg"
       },
       "Emma Berman": {
         "id": 2990400,
@@ -19766,7 +19766,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19954,7 +19954,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22571,7 +22571,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23841,6 +23841,16 @@
         "id": 6219844,
         "character": "O Poeta de Rua",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
+      },
+      "Cleodon Coelho": {
+        "id": 6639449,
+        "character": "Homem em reunião na Universidade",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
+      },
+      "Emilie Lesclaux": {
+        "id": 1016227,
+        "character": "Aeromoça",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/iqlemRpaT7r9Xzowf7Fo1SO4KpJ.jpg"
       }
     }
   },
@@ -23961,7 +23971,7 @@
       "Elle Fanning": {
         "id": 18050,
         "character": "Rachel Kemp",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hGL46Q5bkVkQbKAT0SrXcV6ZvRg.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
       },
       "Anders Danielsen Lie": {
         "id": 71610,
@@ -32089,7 +32099,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/a1RxUQd3HExVgt8laH4VaUytdz.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
