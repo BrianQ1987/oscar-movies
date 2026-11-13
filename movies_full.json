@@ -8801,7 +8801,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
+    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -10305,7 +10305,7 @@
       "Jessica Chastain": {
         "id": 83002,
         "character": "Tammy Faye Bakker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
       },
       "Andrew Garfield": {
         "id": 37625,
@@ -12719,7 +12719,7 @@
     "released": "2023-10-27",
     "duration": 133,
     "imdb_id": "tt14849194",
-    "vote_average": "7.6",
+    "vote_average": "7.7",
     "overview": "A curmudgeonly instructor at a New England prep school is forced to remain on campus during Christmas break to babysit the handful of students with nowhere to go. Eventually, he forms an unlikely bond with one of them — a damaged, brainy troublemaker — and with the school’s head cook, who has just lost a son in Vietnam.",
     "genres": ["Drama", "Comedy"],
     "imdb_score": "7.9/10",
@@ -19964,7 +19964,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -30348,7 +30348,7 @@
       "Jacob McCarthy": {
         "id": 1862434,
         "character": "Wheyface",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/kU6N4Z2L7f3mFeSZnrnmFE0k4ZZ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/twsliifMOUtr0lgnFtozsGu3NJ.jpg"
       },
       "Nancy Daly": {
         "id": 200999,
@@ -31803,7 +31803,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32134,7 +32134,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a1RxUQd3HExVgt8laH4VaUytdz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/vbB2Q7q06vJF1QDxvq6VB1ubgDO.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
@@ -32754,7 +32754,7 @@
     "released": "2022-12-09",
     "duration": 117,
     "imdb_id": "tt13833688",
-    "vote_average": "7.8",
+    "vote_average": "7.7",
     "overview": "A reclusive English teacher suffering from severe obesity attempts to reconnect with his estranged teenage daughter for one last chance at redemption.",
     "genres": "Drama",
     "imdb_score": "7.6/10",
