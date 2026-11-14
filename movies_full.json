@@ -20239,7 +20239,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22856,7 +22856,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26503,7 +26503,7 @@
       "Amandla Stenberg": {
         "id": 561869,
         "character": "Margo Kess: Spider-Byte (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1Kv2sVVUkNSXyvmma8RBAX0CNGA.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/r6aPdJnGV2ZZkg6G55WOCicR39f.jpg"
       },
       "Jharrel Jerome": {
         "id": 1664716,
