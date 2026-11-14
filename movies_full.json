@@ -8801,7 +8801,7 @@
     "meta_score": "66/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Madeline Sharafian", "Domee Shi", "Adrian Molina"],
+    "director": ["Domee Shi", "Madeline Sharafian", "Adrian Molina"],
     "cast": {
       "Yonas Kibreab": {
         "id": 2986863,
@@ -11872,131 +11872,6 @@
       "Pawel Wieczorek": {
         "id": 5762249,
         "character": "Bistro Dancer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Amari-Leo Atterbury": {
-        "id": 6653301,
-        "character": "Lab Worker / Villager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Mark Burns": {
-        "id": 4114057,
-        "character": "Butcher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/y9oOnZr4w9P9dihlXsUuwxMeZn.jpg"
-      },
-      "Sharon Canovas": {
-        "id": 134366,
-        "character": "Looter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/t8oDKa2tVQ6fLRuFEs8p2cRT1yu.jpg"
-      },
-      "Paul Donnelly Jnr": {
-        "id": 5204973,
-        "character": "Villager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Liubov Elkina": {
-        "id": 6653312,
-        "character": "Medical Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Fabrizio Fella": {
-        "id": 6653315,
-        "character": "Wedding Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Craig Gregersen": {
-        "id": 6653319,
-        "character": "Medical Teacher / Villager",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Albie Irvine": {
-        "id": 6653324,
-        "character": "Street Urchin",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Michael Jütte": {
-        "id": 6653329,
-        "character": "Dead Soldier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Sarah Isabella Kerr": {
-        "id": 6653332,
-        "character": "Wedding Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Ethan Keyes": {
-        "id": 5819162,
-        "character": "Medical Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hcxDsdDRnvXIQsdOvyJjiXXsxDh.jpg"
-      },
-      "Duff MacDonald": {
-        "id": 199849,
-        "character": "Sailor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mkIswhbUHbD0gqVRBkAePu5eJ82.jpg"
-      },
-      "Ryan James Mack": {
-        "id": 6653339,
-        "character": "Wedding Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Brody Maurice": {
-        "id": 6653343,
-        "character": "French Soldier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Cullen McFater": {
-        "id": 2793136,
-        "character": "Medical Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/s5zYPTDW4BmvqxcIwZcMmajplak.jpg"
-      },
-      "John McManus": {
-        "id": 5302882,
-        "character": "Reporter",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Chris Morchain": {
-        "id": 6653351,
-        "character": "Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Peter Rooney": {
-        "id": 2545365,
-        "character": "Butcher",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Alec Rosenthal": {
-        "id": 2435075,
-        "character": "German Soldier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/3TZwf6wYs4qEpCFzgCu31rOkQ13.jpg"
-      },
-      "Daniel Ryan-Astley": {
-        "id": 6648907,
-        "character": "Medical Student",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Ava Sayyad Bourani": {
-        "id": 6653364,
-        "character": "Self - Bistro Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Matt Schichter": {
-        "id": 1635795,
-        "character": "Butler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vZF61Iaja2ncKEZMadtDZa5M0bF.jpg"
-      },
-      "Jason Alan Staines": {
-        "id": 5058201,
-        "character": "Wedding Guest",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Kitu Turcas": {
-        "id": 6653372,
-        "character": "Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-      },
-      "Thomas Walsham": {
-        "id": 6653377,
-        "character": "Harlander's Butler",
         "profile_path": "https://image.tmdb.org/t/p/w1280/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
       }
     }
@@ -15660,7 +15535,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19879,156 +19754,6 @@
         "id": 4684327,
         "character": "Security Guard (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/PhmAlyCvn0rIdGGNXyo6Irs6Lk.jpg"
-      },
-      "Stu Arthur": {
-        "id": 6653302,
-        "character": "Deputy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Robert Bozek": {
-        "id": 488152,
-        "character": "Pedestrian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/bH4x00pcylQKWXARd0Q8OdS34V3.jpg"
-      },
-      "Diana Brugos": {
-        "id": 6653308,
-        "character": "Carnival Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Kyle James Butler": {
-        "id": 4257760,
-        "character": "Millionaire",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Frannypanties": {
-        "id": 6653313,
-        "character": "Blonde Peepshow Girl",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "William David Hobbs": {
-        "id": 6653316,
-        "character": "Office Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "J. Timothy Hunt": {
-        "id": 6653321,
-        "character": "Copa Photographer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Kim Janveau": {
-        "id": 6653328,
-        "character": "Ambrose Carnival Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Olia Kashevarova": {
-        "id": 6653331,
-        "character": "Geek Tent Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Liam Kinahan": {
-        "id": 5001196,
-        "character": "Bellboy",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Raimo Kurppa": {
-        "id": 6653336,
-        "character": "Carny Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Jeff Lasky": {
-        "id": 1992594,
-        "character": "Bus Station Passenger",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f1npk3eY4HyLRj5fdsAWC5H1Wc7.jpg"
-      },
-      "Christine Lauer": {
-        "id": 2902779,
-        "character": "Pedestrian",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "John Lopacki": {
-        "id": 6653347,
-        "character": "Army Soldier",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Doug MacDougall": {
-        "id": 6653350,
-        "character": "Homeless Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Diane Marzec": {
-        "id": 6653353,
-        "character": "Business Woman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Mandi Maxwell": {
-        "id": 3530730,
-        "character": "Carny Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Martin R Mlodozeniec": {
-        "id": 6653362,
-        "character": "Police Officer",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Kaz Morgan": {
-        "id": 3412298,
-        "character": "Carny Worker",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/oGYvzzzNwFoKlfEb8O3ZQ2HvQoR.jpg"
-      },
-      "Drew Nelson": {
-        "id": 200667,
-        "character": "Humphries",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dNmHU6mdRparyLX02jBCNn1asSe.jpg"
-      },
-      "Emily Nixon": {
-        "id": 2009135,
-        "character": "Stan's Mom",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AoerhdaTn77yUrPXaIC721z4ldy.jpg"
-      },
-      "Jim Pagiamtzis": {
-        "id": 6648681,
-        "character": "Passerby",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Miranda Rose Pave": {
-        "id": 6653381,
-        "character": "Geek Tent Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Bobbie Peterson": {
-        "id": 2417494,
-        "character": "Salvation Army Chorus",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ajK0KLXFes7nhFwveRu8xC48oiE.jpg"
-      },
-      "Sylvain Plasse": {
-        "id": 6653385,
-        "character": "Carnival Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Dominique Smith": {
-        "id": 3874605,
-        "character": "Loud Tent Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Kerry Streams": {
-        "id": 6653388,
-        "character": "Woman on Street",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Bek Tucker": {
-        "id": 6648909,
-        "character": "Ambrose Carnival Patron",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
-      },
-      "Neil Whitely": {
-        "id": 1016019,
-        "character": "Butler",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/taPe9RjvEkgamMXiWqjC9EWSKRt.jpg"
-      },
-      "Shannon Widdis": {
-        "id": 6653392,
-        "character": "Fair Attendee",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vfn1feL0V9HNSXuLLpaxAW8O6LO.jpg"
       }
     }
   },
@@ -20051,7 +19776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20239,7 +19964,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -22856,7 +22581,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26431,8 +26156,6 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "platforms": "Amazon Prime Video",
-    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
