@@ -2831,7 +2831,7 @@
       "Ryan Gosling": {
         "id": 30614,
         "character": "Ken",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
       },
       "America Ferrera": {
         "id": 59174,
@@ -8210,7 +8210,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Princess Irulan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/2URrZb95t3kY6pLroKny3Enmabp.jpg"
       },
       "Dave Bautista": {
         "id": 543530,
@@ -12732,7 +12732,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ayEWNIXLVNYOrZQsNXrtlZTIZM8.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -18566,7 +18566,7 @@
       "Julianne Moore": {
         "id": 1231,
         "character": "Gracie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AlL6a3s7m8hVfPJzeRXPQU1wTZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
       },
       "Charles Melton": {
         "id": 1907002,
@@ -19776,7 +19776,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19964,7 +19964,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
+    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20750,7 +20750,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nyRW28rq1PJhygm25D4gJKFfPjc.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -22250,7 +22250,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1QfiLnofJFlOJOLCWaxyDpIN03v.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nyRW28rq1PJhygm25D4gJKFfPjc.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -22581,7 +22581,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -29978,7 +29978,7 @@
       "Tom Cruise": {
         "id": 500,
         "character": "Capt. Pete 'Maverick' Mitchell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
       },
       "Miles Teller": {
         "id": 996701,
@@ -31801,7 +31801,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
