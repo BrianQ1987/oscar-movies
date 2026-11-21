@@ -7113,7 +7113,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Yule",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -11697,7 +11697,7 @@
       "Burn Gorman": {
         "id": 39659,
         "character": "Executioner",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hGmVCoFhe6FfOEvOQdQFuvEQibg.jpg"
       },
       "Sean Sullivan": {
         "id": 2456,
@@ -12341,7 +12341,7 @@
       "Burn Gorman": {
         "id": 39659,
         "character": "Priest (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hGmVCoFhe6FfOEvOQdQFuvEQibg.jpg"
       },
       "Ron Perlman": {
         "id": 2372,
@@ -15525,7 +15525,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -18561,7 +18561,7 @@
       "Julianne Moore": {
         "id": 1231,
         "character": "Gracie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AlL6a3s7m8hVfPJzeRXPQU1wTZj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3YF19rWusxWfEI59ZM33dFhasRq.jpg"
       },
       "Charles Melton": {
         "id": 1907002,
@@ -19771,7 +19771,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -22260,7 +22260,7 @@
       "Ray Winstone": {
         "id": 5538,
         "character": "Papa Bear (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kDShEv6zPfArgcwXliGWKR65Mmo.jpg"
       },
       "Samson Kayo": {
         "id": 1346535,
@@ -22581,7 +22581,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -24146,7 +24146,7 @@
       "Kristine Utne Stiberg": {
         "id": 3374457,
         "character": "Costume Technician (Theatre)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qFE2feK3ZYTQxzYQXX6FAD1q3r1.jpg"
       },
       "Hooman Sharifi": {
         "id": 5976456,
@@ -26151,7 +26151,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31771,7 +31771,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32753,7 +32753,7 @@
       "Samantha Morton": {
         "id": 2206,
         "character": "Mary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/8fSho8lcSQ2Q1GuIVpjaxSWRzcv.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/kHSfnDFbfeKah823y0Gr14lbt31.jpg"
       },
       "Sathya Sridharan": {
         "id": 1377031,
@@ -32800,7 +32800,7 @@
     "categories": ["Best Picture", "Best Actress", "Best Supporting Actress"],
     "poster_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
     "title": "Wicked",
-    "released": "2024-10-16",
+    "released": "2024-11-20",
     "duration": 162,
     "imdb_id": "tt1262426",
     "vote_average": "6.9",
@@ -34773,20 +34773,10 @@
         "character": "Teacher (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/4yj29kZbTWj5yPGwoxk650Bm1F2.jpg"
       },
-      "Poppy Townsend White": {
-        "id": 4718217,
-        "character": "Girls Brigade (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xNJxGZNh5R8ZwPjWgOorxh58lG9.jpg"
-      },
       "Shelby Young": {
         "id": 25113,
         "character": "Shiz Student (voice) (uncredited)",
         "profile_path": "https://image.tmdb.org/t/p/w1280/oh4VeJpkORXoGJdIohNpXJyO3kt.jpg"
-      },
-      "Alice Bennett": {
-        "id": 4587552,
-        "character": "Munchkin / Bully to Young Elphaba (uncredited)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg"
       }
     }
   },
