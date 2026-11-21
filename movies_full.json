@@ -452,8 +452,8 @@
     "imdb_score": "7.5/10",
     "rt_score": "93%",
     "meta_score": "81/100",
-    "platforms": ["BBC iPlayer", "Amazon Prime Video"],
-    "logo_paths": ["/vi6XJCpJ9GpAPD3rDSRzMC812Z.png", "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"],
+    "platforms": "Amazon Prime Video",
+    "logo_paths": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png",
     "director": "Cord Jefferson",
     "cast": {
       "Jeffrey Wright": {
@@ -7026,7 +7026,7 @@
       "Roberto Citran": {
         "id": 32562,
         "character": "Lombardi",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/9Bf1XQYY30nA7WzwX2N9pULk7mK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/i1jVZOyavHdfyBqClIZLek7S2Ms.jpg"
       },
       "Antonio Toma": {
         "id": 5087484,
@@ -10828,7 +10828,7 @@
       "Oliver Bearman": {
         "id": 5137051,
         "character": "Ollie Bearman",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/eO0lOgdN8UfL5gOcmwSUDGVLTIt.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3bB0DgWlL2R2TZdkSw5wTjHgS4s.jpg"
       },
       "Valtteri Bottas": {
         "id": 1448046,
@@ -12722,7 +12722,7 @@
       "Paul Giamatti": {
         "id": 13242,
         "character": "Paul Hunham",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/zjEoPF9hVW3NAdoMtryxPBPGtj4.jpg"
       },
       "Dominic Sessa": {
         "id": 3918497,
@@ -15525,7 +15525,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -17923,7 +17923,7 @@
       "Gwyneth Paltrow": {
         "id": 12052,
         "character": "Kay Stone",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/r4wbWWEEjmtRFZ0GU10XbLTgp47.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
       },
       "Odessa A'zion": {
         "id": 1972166,
@@ -19771,7 +19771,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -19959,7 +19959,7 @@
     "meta_score": "63/100",
     "platforms": ["Netflix", "Plex"],
     "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
-    "director": ["Elizabeth Chai Vasarhelyi", "Jimmy Chin"],
+    "director": ["Jimmy Chin", "Elizabeth Chai Vasarhelyi"],
     "cast": {
       "Annette Bening": {
         "id": 516,
@@ -20745,7 +20745,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Lewis Strauss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4SLDzrd8C0evBJTy9nVbFeogjXV.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -21319,6 +21319,8 @@
     "imdb_score": "7.8/10",
     "rt_score": "95%",
     "meta_score": "94/100",
+    "platforms": "BBC iPlayer",
+    "logo_paths": "/vi6XJCpJ9GpAPD3rDSRzMC812Z.png",
     "director": "Celine Song",
     "cast": {
       "Greta Lee": {
@@ -22581,7 +22583,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Carlos López Estrada", "Don Hall"],
+    "director": ["Don Hall", "Carlos López Estrada"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -23851,11 +23853,6 @@
         "id": 6219844,
         "character": "O Poeta de Rua",
         "profile_path": "https://image.tmdb.org/t/p/w1280/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg"
-      },
-      "Emilie Lesclaux": {
-        "id": 1016227,
-        "character": "Aeromoça",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iqlemRpaT7r9Xzowf7Fo1SO4KpJ.jpg"
       }
     }
   },
@@ -26151,7 +26148,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -29830,7 +29827,7 @@
       "Drew Youngblood": {
         "id": 2034232,
         "character": "13-Year-Old James",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/hZMAAVnkzUzaoePa3px5EFiAYVq.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/um3s4FjVCSqqRLYbzZJqdepX0J8.jpg"
       },
       "Tom Virtue": {
         "id": 38709,
@@ -34809,7 +34806,7 @@
       "Pedro Pascal": {
         "id": 1253360,
         "character": "Fink (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/cuhkTL3MezjArl80MnYl6QJQ4PQ.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
       },
       "Kit Connor": {
         "id": 1538851,
