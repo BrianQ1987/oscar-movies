@@ -4310,7 +4310,7 @@
       "Tenoch Huerta Mejía": {
         "id": 87265,
         "character": "Namor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5qoAmQpcPCjf4Pd6aTZOeINGYzk.jpg"
       },
       "Lupita Nyong'o": {
         "id": 1267329,
@@ -4625,7 +4625,7 @@
       "Irma Estella La Guerre": {
         "id": 2113850,
         "character": "Namor's Mother (Older)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/sJJFfH2LqFXlaMaGipW2q8bblNa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/wskX49QRWMTrqjPcLlk7Go3OJFW.jpg"
       },
       "Manuel Chavez": {
         "id": 3720013,
@@ -5721,7 +5721,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -8627,7 +8627,7 @@
       "Tracy Coogan": {
         "id": 93089,
         "character": "Imperial Servant",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c219aBbUZ6BhaktEW8kNcXMbm9e.jpg"
       },
       "Zoe Kata Kaska": {
         "id": 4558357,
@@ -9251,7 +9251,7 @@
       "Lakota Johnson": {
         "id": 3866212,
         "character": "Young Hip Man",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/iBhqBDvu7J3yN7xqoIEcvkfFESw.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4L78L251EUwwR23ocDJJfOMERmM.jpg"
       },
       "Ruby Gonzales-Judd": {
         "id": 3866213,
@@ -15222,7 +15222,7 @@
       "Brandon Morales": {
         "id": 1388183,
         "character": "Deputy #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/ei98nkcYPPRSQz6hb55aR8nqroh.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/pb7BrNAJznBzNltzj1QWWefzNsL.jpg"
       },
       "Wil J. Jackson": {
         "id": 1093502,
@@ -16902,8 +16902,8 @@
     "imdb_score": "7.2/10",
     "rt_score": "96%",
     "meta_score": "81/100",
-    "platforms": ["Channel 4", "Plex"],
-    "logo_paths": ["/kMT8p43W3BsXBe9mqCIPDNepser.png", "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg"],
+    "platforms": "Plex",
+    "logo_paths": "https://image.tmdb.org/t/p/original/swMyOSh6p3ZOTr76yPV6EyQFTik.jpg",
     "director": "Oliver Hermanus",
     "cast": {
       "Bill Nighy": {
@@ -19979,7 +19979,7 @@
       "Ethan Jones Romero": {
         "id": 3349900,
         "character": "Nico",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/2flMj8MHqoKdWaCbnEQnlBdyi4j.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nfc7HRjci1GhMIVRA1UpWGi7PP1.jpg"
       },
       "Luke Cosgrove": {
         "id": 1695506,
@@ -20745,12 +20745,12 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Lewis Strauss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4SLDzrd8C0evBJTy9nVbFeogjXV.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
         "character": "Jean Tatlock",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nyRW28rq1PJhygm25D4gJKFfPjc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qqDsryavx9rwSMhDAxW6OC7oNQg.jpg"
       },
       "Josh Hartnett": {
         "id": 2299,
@@ -22252,7 +22252,7 @@
       "Florence Pugh": {
         "id": 1373737,
         "character": "Goldilocks (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/nyRW28rq1PJhygm25D4gJKFfPjc.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qqDsryavx9rwSMhDAxW6OC7oNQg.jpg"
       },
       "Olivia Colman": {
         "id": 39187,
@@ -22583,7 +22583,7 @@
     "meta_score": "74/100",
     "platforms": "Disney Plus",
     "logo_paths": "/5eZ872CghnHFLB1j8grszbrx0dx.png",
-    "director": ["Don Hall", "Carlos López Estrada"],
+    "director": ["Carlos López Estrada", "Don Hall"],
     "cast": {
       "Kelly Marie Tran": {
         "id": 1663195,
@@ -26148,7 +26148,7 @@
     "imdb_score": "8.5/10",
     "rt_score": "95%",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -31768,7 +31768,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31911,7 +31911,7 @@
       "Alden Ehrenreich": {
         "id": 71375,
         "character": "Paul",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/vOLiUSDT8rubu0J2YKwBkOL0K6V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hPbiRySz3k5XEZ3DwJtExnNTKiG.jpg"
       },
       "Austin Abrams": {
         "id": 148992,
