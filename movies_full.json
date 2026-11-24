@@ -5701,7 +5701,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Lynsey",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
       },
       "Brian Tyree Henry": {
         "id": 226366,
@@ -17860,7 +17860,7 @@
       "Timothée Chalamet": {
         "id": 1190668,
         "character": "Marty Mauser",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
       },
       "Gwyneth Paltrow": {
         "id": 12052,
@@ -24250,7 +24250,7 @@
     "imdb_id": "tt28082769",
     "vote_average": "7",
     "overview": "During the 1972 Munich Olympics, a hostage crisis pushes legendary TV executive Roone Arledge to thrust an untested sports producer, Geoff Mason, into the spotlight of breaking news coverage.",
-    "genres": ["Thriller", "Drama", "History"],
+    "genres": ["Thriller", "History", "Drama"],
     "imdb_score": "7.1/10",
     "meta_score": "76/100",
     "platforms": "Netflix",
@@ -31669,7 +31669,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Merlin Crossingham", "Nick Park"],
+    "director": ["Nick Park", "Merlin Crossingham"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -32633,7 +32633,7 @@
       "Sadie Sink": {
         "id": 1590797,
         "character": "Ellie",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/m9OyHAyOx56Pm3JruEBqh4p9XeX.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/k7rP0YqnZfOy2UUDHfAsretHBnk.jpg"
       },
       "Ty Simpkins": {
         "id": 17181,
@@ -32703,8 +32703,8 @@
     "genres": ["Drama", "Romance", "Fantasy"],
     "imdb_score": "7.3/10",
     "meta_score": "73/100",
-    "platforms": "Netflix",
-    "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
+    "platforms": ["Netflix", "ITVX"],
+    "logo_paths": ["/rK1KljqmbvO9HQa1PBFLILWah72.png", "/nIViE3wOPV5Jyv45T7hetHyG6iS.png"],
     "director": "Jon M. Chu",
     "cast": {
       "Cynthia Erivo": {
