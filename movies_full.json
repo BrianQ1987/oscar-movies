@@ -15474,7 +15474,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Maggie Kang", "Chris Appelhans"],
+    "director": ["Chris Appelhans", "Maggie Kang"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -19707,7 +19707,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Bruno", "Troy Quane"],
+    "director": ["Troy Quane", "Nick Bruno"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -24642,7 +24642,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Mary",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fItdOWdrHNRGGRRD9NFQWtO5L1t.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
       },
       "Miles Caton": {
         "id": 4688032,
@@ -24652,7 +24652,7 @@
       "Jack O'Connell": {
         "id": 85065,
         "character": "Remmick",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/tCzR4clrIkbkijuJBYsNoEuwRDa.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/nctU4J8TwlX6vrPuxnL8epmDjWW.jpg"
       },
       "Wunmi Mosaku": {
         "id": 134774,
@@ -26060,7 +26060,7 @@
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
     "meta_score": "86/100",
-    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
+    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
@@ -26070,7 +26070,7 @@
       "Hailee Steinfeld": {
         "id": 130640,
         "character": "Gwen Stacy (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/fItdOWdrHNRGGRRD9NFQWtO5L1t.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
       },
       "Oscar Isaac": {
         "id": 25072,
@@ -31669,7 +31669,7 @@
     "meta_score": "83/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Nick Park", "Merlin Crossingham"],
+    "director": ["Merlin Crossingham", "Nick Park"],
     "cast": {
       "Ben Whitehead": {
         "id": 127155,
@@ -31998,7 +31998,7 @@
       "Rachel Zegler": {
         "id": 2217977,
         "character": "María",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/a1RxUQd3HExVgt8laH4VaUytdz.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hoOOjXpdpSuhlsPW0ZcRNXHB2BI.jpg"
       },
       "Ariana DeBose": {
         "id": 1437491,
