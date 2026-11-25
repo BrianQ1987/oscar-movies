@@ -3977,7 +3977,7 @@
       "Emily Marsh": {
         "id": 1384009,
         "character": "Woman #1",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/6ePDl5HuhLlq9I1OEvSJNbex5V4.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/dpsDXs35MBA7uqZUDdmmpWNtmhC.jpg"
       },
       "Cece Camps": {
         "id": 3358815,
@@ -7053,7 +7053,7 @@
       "Jennifer Lawrence": {
         "id": 72129,
         "character": "Kate Dibiasky",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/mDKMsjOMytyBiy7MHNZTa7gp7wj.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
       },
       "Meryl Streep": {
         "id": 5064,
@@ -8199,7 +8199,7 @@
       "Léa Seydoux": {
         "id": 121529,
         "character": "Lady Margot Fenring",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/7JAUieStGsHZAy6ed2WuFy4CJjm.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/4q6xqqWLLleQrFjeqeYYV8B0fwE.jpg"
       },
       "Stellan Skarsgård": {
         "id": 1640,
@@ -15474,7 +15474,7 @@
     "meta_score": "77/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Chris Appelhans", "Maggie Kang"],
+    "director": ["Maggie Kang", "Chris Appelhans"],
     "cast": {
       "Arden Cho": {
         "id": 144279,
@@ -15489,7 +15489,7 @@
       "Ji-young Yoo": {
         "id": 2983147,
         "character": "Zoey (voice)",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/4jgtqpNWhMx8XOKQ9qQJvDdzbxG.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/hXBs0hDCHYYsYnW97FHtMRS7UEV.jpg"
       },
       "Ahn Hyo-seop": {
         "id": 1571598,
@@ -19707,7 +19707,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -20678,7 +20678,7 @@
       "Robert Downey Jr.": {
         "id": 3223,
         "character": "Lewis Strauss",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/f9toX5MahujsDZTJoKIa5kzdhAE.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
       },
       "Florence Pugh": {
         "id": 1373737,
@@ -24250,7 +24250,7 @@
     "imdb_id": "tt28082769",
     "vote_average": "7",
     "overview": "During the 1972 Munich Olympics, a hostage crisis pushes legendary TV executive Roone Arledge to thrust an untested sports producer, Geoff Mason, into the spotlight of breaking news coverage.",
-    "genres": ["Thriller", "History", "Drama"],
+    "genres": ["Thriller", "Drama", "History"],
     "imdb_score": "7.1/10",
     "meta_score": "76/100",
     "platforms": "Netflix",
@@ -26060,7 +26060,7 @@
     "genres": ["Animation", "Action", "Adventure", "Science Fiction"],
     "imdb_score": "8.5/10",
     "meta_score": "86/100",
-    "director": ["Kemp Powers", "Justin K. Thompson", "Joaquim Dos Santos"],
+    "director": ["Justin K. Thompson", "Kemp Powers", "Joaquim Dos Santos"],
     "cast": {
       "Shameik Moore": {
         "id": 587506,
