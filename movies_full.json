@@ -1018,12 +1018,12 @@
       "Mark Eydelshteyn": {
         "id": 3051936,
         "character": "Ivan",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/1M4zBlIRCdsQtJfi9Yn6uStGtsK.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/6vOhsOT1bbH8oZNVo26TPSTUAyC.jpg"
       },
       "Yura Borisov": {
         "id": 1266686,
         "character": "Igor",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/zLcD2UmXJG6m3qOQhNZs13SQRIp.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/glnTf0SIvVPnpy9COP0AZexX9UN.jpg"
       },
       "Karren Karagulian": {
         "id": 966306,
@@ -7533,7 +7533,7 @@
       "Anania": {
         "id": 3342804,
         "character": "Short Guy Friend",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/tZ3IkNjNmRtbidP0OIidfd0DDGd.jpg"
       },
       "Nate Richman": {
         "id": 1754480,
@@ -10878,7 +10878,7 @@
       "George Russell": {
         "id": 2515822,
         "character": "George Russell",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/p70BI5oQiVNTYjIuG39q7ucjTvH.jpg"
+        "profile_path": "https://image.tmdb.org/t/p/w1280/eq8WGQ9YnAHgbJHzHEhJydgzO1.jpg"
       },
       "Carlos Sainz Jr.": {
         "id": 2309871,
@@ -19707,7 +19707,7 @@
     "meta_score": "75/100",
     "platforms": "Netflix",
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
-    "director": ["Troy Quane", "Nick Bruno"],
+    "director": ["Nick Bruno", "Troy Quane"],
     "cast": {
       "Chloë Grace Moretz": {
         "id": 56734,
@@ -24257,15 +24257,15 @@
     "logo_paths": "/rK1KljqmbvO9HQa1PBFLILWah72.png",
     "director": "Tim Fehlbaum",
     "cast": {
-      "Peter Sarsgaard": {
-        "id": 133,
-        "character": "Roone Arledge",
-        "profile_path": "https://image.tmdb.org/t/p/w1280/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
-      },
       "John Magaro": {
         "id": 37154,
         "character": "Geoffrey Mason",
         "profile_path": "https://image.tmdb.org/t/p/w1280/ah4Jm4Lmrgab9xdHwRId80S4REd.jpg"
+      },
+      "Peter Sarsgaard": {
+        "id": 133,
+        "character": "Roone Arledge",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
       },
       "Ben Chaplin": {
         "id": 21343,
@@ -24324,7 +24324,7 @@
       },
       "Daniel Betts": {
         "id": 107733,
-        "character": "Director Swim Race",
+        "character": "Swim Race Director",
         "profile_path": "https://image.tmdb.org/t/p/w1280/wKtPsR1At1EmJeYenSjRm4BeIiQ.jpg"
       },
       "Leif Eduard Eisenberg": {
@@ -24470,6 +24470,16 @@
       "Rafael Peña": {
         "id": 5148739,
         "character": "Translator Double",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+      },
+      "Jordan Prince": {
+        "id": 6698169,
+        "character": "On Set Off Speaker",
+        "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
+      },
+      "John Figueroa": {
+        "id": 6698170,
+        "character": "On Set Off Speaker",
         "profile_path": "https://image.tmdb.org/t/p/w1280/3kcQOLwYKGPwyjiynFsvP8vHvRn.jpg"
       }
     }
